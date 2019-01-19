@@ -9,13 +9,15 @@ mkdir temp\QuestMsg
 mkdir temp\ShoutMsg
 mkdir temp\StaticMsg
 mkdir temp\Tips
+mkdir temp\EventFlowMsg
 copy ActorType temp\ActorType
 copy DemoMsg temp\DemoMsg
-copy Layout temp\LayoutMsg
+copy LayoutMsg temp\LayoutMsg
 copy QuestMsg temp\QuestMsg
 copy ShoutMsg temp\ShoutMsg
 copy StaticMsg temp\StaticMsg
 copy Tips temp\Tips
+copy EventFlowMsg temp\EventFlowMsg
 
 sarctool create temp Msg_USen.product.ssarc
 
@@ -31,8 +33,3 @@ rmdir Bootup_EUen\ /S /Q
 explorer ..\!output
 
 exit
-pause
-cls
-color 0a
-echo Packing complete!
-pause

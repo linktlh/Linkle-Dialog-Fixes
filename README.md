@@ -6,7 +6,7 @@ This is simply here to track and fix issues with the dialog.<br>
 
 WiiU: https://gamebanana.com/guis/34282<br>
 Switch: https://gamebanana.com/guis/34268<br>
-(This branch is based on the WiiU edition, although I'm not aware of what the differences between Switch and WiiU are.)<br>
+(This branch is based on the WiiU edition)<br>
 
 # I noticed an error in the dialog!
 Please take a screenshot and then go to issues, and submit an issue using the format included.<br>

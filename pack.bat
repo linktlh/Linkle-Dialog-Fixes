@@ -31,5 +31,3 @@ rmdir ..\temp\ /S /Q
 rmdir Bootup_USen\ /S /Q
 rmdir Bootup_EUen\ /S /Q
 explorer ..\!output
-
-exit

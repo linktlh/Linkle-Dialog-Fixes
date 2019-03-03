@@ -10,14 +10,14 @@ mkdir temp\ShoutMsg
 mkdir temp\StaticMsg
 mkdir temp\Tips
 mkdir temp\EventFlowMsg
-copy ActorType temp\ActorType
-copy DemoMsg temp\DemoMsg
-copy LayoutMsg temp\LayoutMsg
-copy QuestMsg temp\QuestMsg
-copy ShoutMsg temp\ShoutMsg
-copy StaticMsg temp\StaticMsg
-copy Tips temp\Tips
-copy EventFlowMsg temp\EventFlowMsg
+copy ActorType\*.msbt temp\ActorType
+copy DemoMsg\*.msbt temp\DemoMsg
+copy LayoutMsg\*.msbt temp\LayoutMsg
+copy QuestMsg\*.msbt temp\QuestMsg
+copy ShoutMsg\*.msbt temp\ShoutMsg
+copy StaticMsg\*.msbt temp\StaticMsg
+copy Tips\*.msbt temp\Tips
+copy EventFlowMsg\*.msbt temp\EventFlowMsg
 
 sarctool create temp Msg_USen.product.ssarc
 

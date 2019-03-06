@@ -19,14 +19,14 @@ copy StaticMsg\*.msbt temp\StaticMsg
 copy Tips\*.msbt temp\Tips
 copy EventFlowMsg\*.msbt temp\EventFlowMsg
 
-sarctool create temp Msg_USen.product.ssarc
+sarc create temp Msg_USen.product.ssarc
 
 copy Msg_USen.product.ssarc !output\Bootup_EUen\Message\Msg_EUen.product.ssarc
 move Msg_USen.product.ssarc !output\Bootup_USen\Message\
 
 cd !output\
-sarctool create Bootup_USen Bootup_USen.pack
-sarctool create Bootup_EUen Bootup_EUen.pack
+sarc create Bootup_USen Bootup_USen.pack
+sarc create Bootup_EUen Bootup_EUen.pack
 rmdir ..\temp\ /S /Q
 rmdir Bootup_USen\ /S /Q
 rmdir Bootup_EUen\ /S /Q

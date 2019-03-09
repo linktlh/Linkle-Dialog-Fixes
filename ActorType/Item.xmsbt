@@ -426,7 +426,7 @@ as an ingredient for elixirs.</text>
 		<text>A blusterous power born from the spirit of the
 Champion Revali. Creates an upward draft
 that carries you into the sky.
-Activate by charging jump with &#xE;&#x1;&#x7;&#x2;್.</text>
+Activate by charging jump with &#xE;&#x1;&#x7;&#x2;촌.</text>
 	</entry>
 	<entry label="Item_Enemy_00_Desc">
 		<text>The severed horn of a Bokoblin, a creature
@@ -798,7 +798,7 @@ properties.</text>
 		<text>A destructive power born from the unbridled
 anger of the Champion Urbosa. Summons
 powerful lightning to the surrounding area.
-Trigger with a charge attack by holding &#xE;&#x1;&#x7;&#x2;෍.</text>
+Trigger with a charge attack by holding &#xE;&#x1;&#x7;&#x2;촍.</text>
 	</entry>
 	<entry label="Item_ChilledFish_02_Desc">
 		<text>This salmon doesn't taste quite as fishy
@@ -1497,6 +1497,12 @@ but prefers ceilings and sheer cliffs. Cook it
 before eating to temporarily increase your
 movement speed.</text>
 	</entry>
+	<entry label="Obj_WarpDLC_Desc">
+		<text>This mysterious tool was made using
+forgotten ancient technology. Place it
+by opening your pouch and registering
+your current location as a travel gate.</text>
+	</entry>
 	<entry label="Item_Mushroom_N_00_Name">
 		<text>Big Hearty Truffle x&#xE;&#x2;&#xE; &#x1C;GiveItemNumber</text>
 	</entry>
@@ -1535,12 +1541,6 @@ like a waste.</text>
 such as omelets and crepes. You can snag
 them from birds' nests if you're sneaky.
 Nutritious and delicious, perfect for cooking.</text>
-	</entry>
-	<entry label="Obj_WarpDLC_Desc">
-		<text>This mysterious tool was made using
-forgotten ancient technology. Place it
-by opening your pouch and registering
-your current location as a travel gate.</text>
 	</entry>
 	<entry label="Item_Mushroom_A_Name">
 		<text>Stamella Shroom</text>
@@ -1626,7 +1626,7 @@ restore hearts.</text>
 	<entry label="Obj_DLC_HeroSoul_Rito_Desc">
 		<text>Champion Revali's divine gift. Creates an
 upward draft that carries you into the sky.
-Activate by charging your jump with &#xE;&#x1;&#x7;&#x2;್.
+Activate by charging your jump with &#xE;&#x1;&#x7;&#x2;촌.
 It now requires less time to recharge.</text>
 	</entry>
 	<entry label="Obj_FireArrow_A_03_Desc">
@@ -1666,7 +1666,7 @@ power when cooked into a dish.</text>
 	</entry>
 	<entry label="Obj_DLC_HeroSoul_Goron_Desc">
 		<text>Champion Daruk's divine gift. So long as
-you're holding &#xE;&#x1;&#x7;&#x2;ໍ, it will automatically
+you're holding &#xE;&#x1;&#x7;&#x2;촎, it will automatically
 protect you from all manner of attacks.
 It now requires less time to recharge.</text>
 	</entry>
@@ -1769,7 +1769,7 @@ commonly found in ingredients stores.</text>
 		<text>A protective power containing the perfect
 defense of the Champion Daruk. It will
 automatically protect you from all manner of
-attacks as long as you're holding &#xE;&#x1;&#x7;&#x2;ໍ.</text>
+attacks as long as you're holding &#xE;&#x1;&#x7;&#x2;촎.</text>
 	</entry>
 	<entry label="Item_Fruit_J_PictureBook">
 		<text>An extremely tough pumpkin raised in village
@@ -1853,7 +1853,7 @@ stamina limit.</text>
 	<entry label="Obj_DLC_HeroSoul_Gerudo_Desc">
 		<text>Champion Urbosa's divine gift. Summons
 powerful lightning to the surrounding area.
-Trigger with a charge attack by holding &#xE;&#x1;&#x7;&#x2;෍.
+Trigger with a charge attack by holding &#xE;&#x1;&#x7;&#x2;촍.
 It now requires less time to recharge.</text>
 	</entry>
 	<entry label="Obj_Photo_BossEnemy_Desc">
@@ -2018,6 +2018,9 @@ Ice arrows break apart on impact,
 freezing objects in the immediate area.
 Incredibly effective against hot things.</text>
 	</entry>
+	<entry label="Obj_WarpDLC_Name">
+		<text>Travel Medallion</text>
+	</entry>
 	<entry label="Item_PlantGet_B_Desc">
 		<text>A rare radish that grows best in sunny plains.
 Cook it before eating to temporarily increase
@@ -2040,9 +2043,6 @@ probably know how to use this.</text>
 	</entry>
 	<entry label="Item_Enemy_53_Name">
 		<text>Farosh's Scale</text>
-	</entry>
-	<entry label="Obj_WarpDLC_Name">
-		<text>Travel Medallion</text>
 	</entry>
 	<entry label="dyecolor_02_Desc">
 		<text></text>

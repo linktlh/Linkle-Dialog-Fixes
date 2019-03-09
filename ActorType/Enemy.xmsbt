@@ -1,72 +1,18 @@
 <?xml version="1.0" encoding="utf-16"?>
 <xmsbt>
-	<entry label="Enemy_Bokoblin_Senior_Name">
-		<text>Black Bokoblin</text>
+	<entry label="Enemy_Keese_PictureBook">
+		<text>The unpredictable flight pattern of this
+nocturnal bat-like species can make fighting
+them a nuisance, but they're weak enough
+to fell with a single strike. Sometimes they'll
+attack in packs, but even then, a pack can
+be sent packing with a single attack.</text>
 	</entry>
-	<entry label="Enemy_Bokoblin_Dark_PictureBook">
-		<text>You would be foolish to call these Silver
-Bokoblins a mere nuisance. They have
-been influenced by Ganon's fiendish
-magic, so they are stronger than even the
-Black Bokoblins. They're called "silver"
-not only because of their coloring but
-also to denote their rarity. The purple
-markings help them stand out even more.</text>
-	</entry>
-	<entry label="Enemy_Golem_Little_Name">
-		<text>Stone Pebblit</text>
-	</entry>
-	<entry label="Enemy_Assassin_Senior_PictureBook">
-		<text>The leader of the Yiga Clan, a group formed
-with just a single objective: eliminate Link. He
-sends his minions all over Hyrule in search of
-you but tends to spend most of his own time
-napping and generally loafing about. Despite
-this, his mastery of the esoteric arts has
-earned him a deep respect. Even if he
-were to die, his followers would never
-give up their one and only task.</text>
-	</entry>
-	<entry label="Enemy_Wizzrobe_Electric_Name">
-		<text>Electric Wizzrobe</text>
-	</entry>
-	<entry label="Enemy_Bokoblin_Middle_Name">
-		<text>Blue Bokoblin</text>
-	</entry>
-	<entry label="Enemy_Octarock_Name">
-		<text>Water Octorok</text>
-	</entry>
-	<entry label="Enemy_Wizzrobe_Ice_PictureBook">
-		<text>These spell-casting monsters can be found
-all over Hyrule. They use their ice rods to
-create freezing blasts of air or to summon
-frozen monsters and have been known to
-cause blizzards to severely decrease the
-temperature around them. The weather will
-normalize once the Wizzrobe is defeated.</text>
-	</entry>
-	<entry label="Enemy_Wizzrobe_Fire_Senior_PictureBook">
-		<text>These spell-casting monsters can be found
-all over Hyrule. They use their meteor rods
-to hurl fireballs or to summon flaming monsters
-and have been known to severely raise the
-temperature around them. The weather will
-normalize once the Wizzrobe is defeated.</text>
+	<entry label="Enemy_Octarock_Snow_Name">
+		<text>Snow Octorok</text>
 	</entry>
 	<entry label="Enemy_Moriblin_Junior_Name">
 		<text>Moblin</text>
-	</entry>
-	<entry label="Enemy_Lizalfos_Bone_Junior_Name">
-		<text>Stalizalfos</text>
-	</entry>
-	<entry label="Enemy_Guardian_Mini_Junior_Name">
-		<text>Guardian Scout II</text>
-	</entry>
-	<entry label="Enemy_Keese_Electric_PictureBook">
-		<text>The electricity that engulfs the bodies of these
-bat-like Keese makes them more dangerous
-than the standard type. They're capable of
-shocking anything they touch.</text>
 	</entry>
 	<entry label="Enemy_Lizalfos_Bone_Junior_PictureBook">
 		<text>The remains of Lizalfos appear in the dark of
@@ -79,19 +25,335 @@ will pull themselves back up and continue to
 fight. They've been known to grab the wrong
 skull at times, but they never seem to mind...</text>
 	</entry>
-	<entry label="Enemy_Lizalfos_Fire_Name">
-		<text>Fire-Breath Lizalfos</text>
+	<entry label="Enemy_GanonGrudge_PictureBook">
+		<text>The Malice has given these Bokoblin skulls
+a sort of life. Devoid of any intelligence the
+Bokoblin it once belonged to may have had,
+these pitiful things now exist only to attack
+anything that gets too close.</text>
 	</entry>
-	<entry label="Enemy_Golem_Little_PictureBook">
-		<text>A very young Stone Talus. Their bodies
-toughen as they mature, becoming as
-tough as boulders by adulthood. As a
-child, however, their bodies are light
-enough to be lifted and fragile enough
-to break when thrown.</text>
+	<entry label="Enemy_Bokoblin_Junior_Name">
+		<text>Bokoblin</text>
 	</entry>
-	<entry label="Enemy_GanonGrudge_02_Name">
-		<text>Cursed Lizalfos</text>
+	<entry label="Enemy_Lizalfos_Senior_PictureBook">
+		<text>These quick-witted, lizard-like monsters can
+be found all over Hyrule. This particular type
+tends to carry some pretty strong weapons,
+so they are among the most dangerous
+Lizalfos.</text>
+	</entry>
+	<entry label="Enemy_GanonGrudge_Name">
+		<text>Cursed Bokoblin</text>
+	</entry>
+	<entry label="Enemy_Wizzrobe_Ice_Name">
+		<text>Ice Wizzrobe</text>
+	</entry>
+	<entry label="Enemy_Lynel_Senior_Name">
+		<text>White-Maned Lynel</text>
+	</entry>
+	<entry label="Enemy_Lynel_Senior_PictureBook">
+		<text>These fearsome monsters have lived in Hyrule
+since ancient times. Their ability to breathe
+fire makes White-Maned Lynels among the
+toughest of the species; each one of their
+attacks is an invitation to the grave. There
+are so few eyewitness accounts of this breed
+because a White-Maned Lynel is not one to
+let even simple passersby escape with
+their lives.</text>
+	</entry>
+	<entry label="Enemy_Lizalfos_Junior_Name">
+		<text>Lizalfos</text>
+	</entry>
+	<entry label="Enemy_Assassin_Junior_Name">
+		<text>Yiga Footsoldier</text>
+	</entry>
+	<entry label="Enemy_Lizalfos_Gold_Name">
+		<text>Golden Lizalfos</text>
+	</entry>
+	<entry label="Enemy_GanonBeast_Name">
+		<text>Dark Beast Ganon</text>
+	</entry>
+	<entry label="RemainsFire_Drone_A_01_PictureBook">
+		<text>These sentries dispatched from Divine Beast
+Vah Rudania are equipped with searchlights
+that can spot intruders.</text>
+	</entry>
+	<entry label="Enemy_Lizalfos_Middle_PictureBook">
+		<text>These quick-witted, lizard-like monsters
+can be found all over Hyrule. Compared
+to the green Lizalfos, many of these carry
+much stronger weapons and are generally
+much tougher.</text>
+	</entry>
+	<entry label="Enemy_GanonBeast_PictureBook">
+		<text>After Ganon was defeated by Link, the
+remaining Malice pulled itself together to
+form this bestial creature. Its appearance
+and fiendish magic earned it the name of
+Dark Beast. This form is considered to be
+Ganon's original, although in this state, his
+awareness has been consumed entirely
+by Malice, and all he knows is a desire to
+rampage and destroy.</text>
+	</entry>
+	<entry label="Enemy_Keese_Name">
+		<text>Keese</text>
+	</entry>
+	<entry label="Enemy_Octarock_Stone_PictureBook">
+		<text>This octopus-like species of monster lives in
+volcanic regions. When they inhale, they're
+preparing to spit out flaming rocks but have
+been known to suck up weapons or bombs
+in the same breath.</text>
+	</entry>
+	<entry label="Enemy_Octarock_Snow_PictureBook">
+		<text>These octopus-like monsters live in snowy
+fields and disguise themselves as grass.
+When someone wanders by, they spring
+into action and attack by spitting snowballs.</text>
+	</entry>
+	<entry label="Enemy_Bokoblin_Junior_PictureBook">
+		<text>This common species is a nuisance all
+over Hyrule. Some have unified in the time
+following the Great Calamity and have formed
+factions of bandits. While not very clever,
+they are at least intelligent enough to hunt
+beasts and grill the meat for food. Though
+they're typically ferocious carnivores, they
+actually enjoy fruit as well.</text>
+	</entry>
+	<entry label="Enemy_Guardian_Mini_Middle_Name">
+		<text>Guardian Scout III</text>
+	</entry>
+	<entry label="Enemy_Assassin_Junior_PictureBook">
+		<text>The lowest-ranked members of the Yiga Clan.
+They've been dispatched all across Hyrule
+with a single task: seek out Link and end
+his life. They're a crafty bunch, sometimes
+disguising themselves as simple travelers
+or villagers to get the jump on you. Be
+wary of suspicious people you encounter.
+They're very agile and carry a bow and a
+one-handed sword.</text>
+	</entry>
+	<entry label="Enemy_Lizalfos_Dark_Name">
+		<text>Silver Lizalfos</text>
+	</entry>
+	<entry label="Enemy_Keese_Ice_PictureBook">
+		<text>The intense frost that engulfs the bodies of
+these bat-like Keese makes them more
+dangerous than the standard type. They're
+capable of freezing anything they touch.</text>
+	</entry>
+	<entry label="Enemy_Lynel_Middle_PictureBook">
+		<text>These fearsome monsters have lived in
+Hyrule since ancient times. Compared to the
+standard Lynel, those with blue manes are
+much tougher and are equipped with much
+stronger weapons. Facing off against a Lynel
+is ill-advised, but if you must, be sure you're
+well prepared.</text>
+	</entry>
+	<entry label="Enemy_Guardian_Mini_Middle_PictureBook">
+		<text>Although originally designed by an ancient
+civilization to combat Ganon, these scaled-
+down Guardians were placed inside shrines
+as part of the trials. This model is equipped
+with twin-blade functionality to further test the
+combat prowess of one undertaking the trials.
+It takes a nimble fighter to overcome this one.</text>
+	</entry>
+	<entry label="Enemy_Wizzrobe_Electric_PictureBook">
+		<text>These spell-casting monsters can be found
+all over Hyrule. They use their lightning rods
+to hurl balls of electricity or to summon
+monsters surging with electricity and have
+been known to cause thunderstorms in the
+area. The weather will normalize once the
+Wizzrobe is defeated.</text>
+	</entry>
+	<entry label="Enemy_Bokoblin_Bone_Junior_Name">
+		<text>Stalkoblin</text>
+	</entry>
+	<entry label="Enemy_Bokoblin_Dark_Name">
+		<text>Silver Bokoblin</text>
+	</entry>
+	<entry label="Enemy_Wizzrobe_Electric_Name">
+		<text>Electric Wizzrobe</text>
+	</entry>
+	<entry label="Enemy_Wizzrobe_Fire_Senior_Name">
+		<text>Meteo Wizzrobe</text>
+	</entry>
+	<entry label="Enemy_Octarock_Name">
+		<text>Water Octorok</text>
+	</entry>
+	<entry label="Enemy_Bokoblin_Dark_PictureBook">
+		<text>You would be foolish to call these Silver
+Bokoblins a mere nuisance. They have
+been influenced by Ganon's fiendish
+magic, so they are stronger than even the
+Black Bokoblins. They're called "silver"
+not only because of their coloring but
+also to denote their rarity. The purple
+markings help them stand out even more.</text>
+	</entry>
+	<entry label="Enemy_Lizalfos_Ice_Name">
+		<text>Ice-Breath Lizalfos</text>
+	</entry>
+	<entry label="Enemy_GanonGrudge_02_PictureBook">
+		<text>The Malice has given these Lizalfos skulls a
+sorry form of life after death. Only the slyness
+of their former selves remains, making them
+faster than Bokoblin skulls. They thoughtlessly
+attack anyone who approaches.</text>
+	</entry>
+	<entry label="Enemy_Golem_Little_Ice_Name">
+		<text>Frost Pebblit</text>
+	</entry>
+	<entry label="Enemy_Moriblin_Gold_Name">
+		<text>Golden Moblin</text>
+	</entry>
+	<entry label="Enemy_Octarock_Stone_Name">
+		<text>Rock Octorok</text>
+	</entry>
+	<entry label="Enemy_Guardian_Mini_Baby_Name">
+		<text>Guardian Scout I</text>
+	</entry>
+	<entry label="Enemy_Assassin_Middle_Name">
+		<text>Yiga Blademaster</text>
+	</entry>
+	<entry label="Enemy_Golem_Little_Name">
+		<text>Stone Pebblit</text>
+	</entry>
+	<entry label="Enemy_Lizalfos_Junior_PictureBook">
+		<text>These quick-witted, lizard-like monsters can
+be found all over Hyrule. They're a sly species
+that lurks underwater or uses camouflage
+to blend in with the environment to launch
+ambushes. Moreover, they never sleep.
+They're meat eaters by nature but will
+enjoy the occasional insect or two.</text>
+	</entry>
+	<entry label="Enemy_Lizalfos_Ice_PictureBook">
+		<text>These quick-witted, lizard-like monsters can
+be found all over Hyrule. The balls of ice they
+spit make them particularly troublesome, but
+exposure to fire will kill them instantly. Their
+homes are mainly on snowy mountains.</text>
+	</entry>
+	<entry label="Enemy_GanonGrudge_01_PictureBook">
+		<text>The Malice has given these Moblin skulls a
+pitiful life after death. The only fragment of
+their former selves they've held on to is the
+ferocity innate to all Moblins, so they will
+attack anyone that approaches. They're
+tougher than Bokoblin skulls.</text>
+	</entry>
+	<entry label="Enemy_Moriblin_Gold_PictureBook">
+		<text>With brutal strength and extreme resilience,
+this type of Moblin somehow surpasses
+Silver Moblins in sheer power. It is said they
+are actually Silver Moblins who mysteriously
+transformed after being struck by lightning.
+Perhaps that is why they have such a high
+tolerance for electric attacks.</text>
+	</entry>
+	<entry label="Enemy_Wizzrobe_Electric_Senior_Name">
+		<text>Thunder Wizzrobe</text>
+	</entry>
+	<entry label="Enemy_Lynel_Junior_PictureBook">
+		<text>These fearsome monsters have lived in Hyrule
+since ancient times. They possess intense
+intelligence, resilience, and strength, making
+them among the most dangerous monsters in
+all the land. This is compounded by the fact
+that they have a natural resistance to all
+elements. You would be wise to challenge
+a Lynel only if you're very well prepared.</text>
+	</entry>
+	<entry label="Enemy_Guardian_Mini_Junior_PictureBook">
+		<text>Although originally designed by an ancient
+civilization to combat Ganon, these scaled-
+down Guardians were placed inside shrines
+as part of the trials. In addition to the beam
+functionality, this particular model was
+designed to handle weaponry as a means
+of further testing the combat prowess of one
+undertaking the trials. It takes some serious
+skill to go toe-to-toe with one of these.</text>
+	</entry>
+	<entry label="Enemy_Moriblin_Bone_Junior_Name">
+		<text>Stalmoblin</text>
+	</entry>
+	<entry label="Enemy_Lizalfos_Dark_PictureBook">
+		<text>These Lizalfos have been influenced by
+Ganon's fiendish magic to become the
+strongest Lizalfos of all. They're called
+"silver" for their unique coloring and
+also to denote their rarity. Their purple
+pattern makes them even more distinct.</text>
+	</entry>
+	<entry label="Enemy_Lynel_Dark_Name">
+		<text>Silver Lynel</text>
+	</entry>
+	<entry label="Enemy_Golem_Little_Fire_PictureBook">
+		<text>A very young Igneo Talus. Their bodies
+toughen as they mature and convert
+fully into lava by adulthood. As a child,
+however, while still covered in fire, their
+bodies are fragile and light enough to
+be blown away by a bomb's blast.</text>
+	</entry>
+	<entry label="Enemy_Moriblin_Senior_PictureBook">
+		<text>These heavyweight monsters can be found
+all over Hyrule and are among the most
+dangerous types of Moblin. They're extremely
+resilient and are often armed with some of
+the strongest weapons Moblins can carry.</text>
+	</entry>
+	<entry label="Enemy_Lynel_Junior_Name">
+		<text>Lynel</text>
+	</entry>
+	<entry label="Enemy_Guardian_Mini_Senior_Name">
+		<text>Guardian Scout IV</text>
+	</entry>
+	<entry label="Enemy_AirOctarock_Name">
+		<text>Sky Octorok</text>
+	</entry>
+	<entry label="Enemy_Wizzrobe_Fire_PictureBook">
+		<text>These spell-casting monsters can be found
+all over Hyrule. They use their fire rods to
+hurl fireballs or to summon flaming monsters
+and have been known to severely raise the
+temperature around them. The weather will
+normalize once the Wizzrobe is defeated.</text>
+	</entry>
+	<entry label="Enemy_Golem_Little_Ice_PictureBook">
+		<text>A very young Frost Talus. Their bodies
+toughen and frost over as they mature,
+becoming entirely made of ice by
+adulthood. As a child, however, their
+bodies are awfully fragile and are
+light enough to be blown away by
+a bomb's blast.</text>
+	</entry>
+	<entry label="Enemy_Keese_Electric_PictureBook">
+		<text>The electricity that engulfs the bodies of these
+bat-like Keese makes them more dangerous
+than the standard type. They're capable of
+shocking anything they touch.</text>
+	</entry>
+	<entry label="Enemy_Guardian_Mini_Senior_PictureBook">
+		<text>An ancient civilization originally designed
+Guardians to combat Ganon but then scaled
+them down to place in shrines as part of the
+trials. This model is very resilient and has been
+outfitted with triple-blade functionality, allowing
+it to wield three weapons. This will put any
+would-be hero to the test for sure. A great
+deal of strength and confidence alike are
+required to contend with one of these.</text>
 	</entry>
 	<entry label="Enemy_Wizzrobe_Ice_Senior_PictureBook">
 		<text>These spell-casting monsters can be found
@@ -105,219 +367,13 @@ normalize once the Blizzrobe is defeated.</text>
 	<entry label="Enemy_Moriblin_Senior_Name">
 		<text>Black Moblin</text>
 	</entry>
-	<entry label="Enemy_Lynel_Junior_PictureBook">
-		<text>These fearsome monsters have lived in Hyrule
-since ancient times. They possess intense
-intelligence, resilience, and strength, making
-them among the most dangerous monsters in
-all the land. This is compounded by the fact
-that they have a natural resistance to all
-elements. You would be wise to challenge
-a Lynel only if you're very well prepared.</text>
-	</entry>
-	<entry label="Enemy_Guardian_Mini_Senior_Name">
-		<text>Guardian Scout IV</text>
-	</entry>
-	<entry label="Enemy_Bokoblin_Junior_PictureBook">
-		<text>This common species is a nuisance all
-over Hyrule. Some have unified in the time
-following the Great Calamity and have formed
-factions of bandits. While not very clever,
-they are at least intelligent enough to hunt
-beasts and grill the meat for food. Though
-they're typically ferocious carnivores, they
-actually enjoy fruit as well.</text>
-	</entry>
-	<entry label="Enemy_Moriblin_Middle_Name">
-		<text>Blue Moblin</text>
-	</entry>
-	<entry label="Enemy_Moriblin_Dark_PictureBook">
-		<text>The strongest of all Moblins, Ganon's fiendish
-magic has allowed them to surpass even
-the Black Moblins in strength and resilience.
-They're called "silver" for both their body
-color as well as their rarity. The purple
-patterns on their bodies also help them
-to stand out.</text>
-	</entry>
-	<entry label="Enemy_Wizzrobe_Fire_Senior_Name">
-		<text>Meteo Wizzrobe</text>
-	</entry>
-	<entry label="Enemy_Bokoblin_Bone_Junior_Name">
-		<text>Stalkoblin</text>
-	</entry>
-	<entry label="Enemy_Lynel_Senior_PictureBook">
-		<text>These fearsome monsters have lived in Hyrule
-since ancient times. Their ability to breathe
-fire makes White-Maned Lynels among the
-toughest of the species; each one of their
-attacks is an invitation to the grave. There
-are so few eyewitness accounts of this breed
-because a White-Maned Lynel is not one to
-let even simple passersby escape with
-their lives.</text>
-	</entry>
-	<entry label="Enemy_Bokoblin_Senior_PictureBook">
-		<text>Although Bokoblins are generally a nuisance,
-the Black Bokoblins are among the most
-dangerous type. They're extremely resilient,
-and many are armed with advanced weapons.</text>
-	</entry>
-	<entry label="Enemy_Lizalfos_Electric_Name">
-		<text>Electric Lizalfos</text>
-	</entry>
-	<entry label="Enemy_GanonGrudge_02_PictureBook">
-		<text>The Malice has given these Lizalfos skulls a
-sorry form of life after death. Only the slyness
-of their former selves remains, making them
-faster than Bokoblin skulls. They thoughtlessly
-attack anyone who approaches.</text>
-	</entry>
-	<entry label="Enemy_Octarock_Forest_Name">
-		<text>Forest Octorok</text>
-	</entry>
-	<entry label="Enemy_Golem_Little_Ice_Name">
-		<text>Frost Pebblit</text>
-	</entry>
-	<entry label="Enemy_Moriblin_Bone_Junior_Name">
-		<text>Stalmoblin</text>
-	</entry>
-	<entry label="Enemy_Octarock_Stone_Name">
-		<text>Rock Octorok</text>
-	</entry>
-	<entry label="Enemy_Guardian_Mini_Middle_PictureBook">
-		<text>Although originally designed by an ancient
-civilization to combat Ganon, these scaled-
-down Guardians were placed inside shrines
-as part of the trials. This model is equipped
-with twin-blade functionality to further test the
-combat prowess of one undertaking the trials.
-It takes a nimble fighter to overcome this one.</text>
-	</entry>
-	<entry label="Enemy_Lynel_Dark_PictureBook">
-		<text>Silver Lynels are not to be trifled with. They
-have been influenced by Ganon's fiendish
-magic, so they are the strongest among the
-Lynel species, surpassing even the strength
-of those with white manes. The term "silver"
-denotes not only their color but also their
-rarity. The purple stripes help them to stand
-out even more.</text>
-	</entry>
-	<entry label="Enemy_Guardian_Mini_Middle_Name">
-		<text>Guardian Scout III</text>
-	</entry>
-	<entry label="Enemy_Golem_Little_Fire_PictureBook">
-		<text>A very young Igneo Talus. Their bodies
-toughen as they mature and convert
-fully into lava by adulthood. As a child,
-however, while still covered in fire, their
-bodies are fragile and light enough to
-be blown away by a bomb's blast.</text>
-	</entry>
-	<entry label="Enemy_Keese_PictureBook">
-		<text>The unpredictable flight pattern of this
-nocturnal bat-like species can make fighting
-them a nuisance, but they're weak enough
-to fell with a single strike. Sometimes they'll
-attack in packs, but even then, a pack can
-be sent packing with a single attack.</text>
-	</entry>
-	<entry label="Enemy_Octarock_Desert_Name">
-		<text>Treasure Octorok</text>
-	</entry>
-	<entry label="Enemy_Lizalfos_Dark_Name">
-		<text>Silver Lizalfos</text>
-	</entry>
-	<entry label="Enemy_Assassin_Junior_Name">
-		<text>Yiga Footsoldier</text>
-	</entry>
-	<entry label="Enemy_Lizalfos_Middle_PictureBook">
-		<text>These quick-witted, lizard-like monsters
-can be found all over Hyrule. Compared
-to the green Lizalfos, many of these carry
-much stronger weapons and are generally
-much tougher.</text>
-	</entry>
-	<entry label="Enemy_Keese_Fire_Name">
-		<text>Fire Keese</text>
-	</entry>
-	<entry label="Enemy_Wizzrobe_Ice_Name">
-		<text>Ice Wizzrobe</text>
-	</entry>
-	<entry label="Enemy_Lizalfos_Ice_Name">
-		<text>Ice-Breath Lizalfos</text>
-	</entry>
-	<entry label="Enemy_Golem_Little_Fire_Name">
-		<text>Igneo Pebblit</text>
-	</entry>
-	<entry label="Enemy_GanonGrudge_PictureBook">
-		<text>The Malice has given these Bokoblin skulls
-a sort of life. Devoid of any intelligence the
-Bokoblin it once belonged to may have had,
-these pitiful things now exist only to attack
-anything that gets too close.</text>
-	</entry>
-	<entry label="Enemy_Bokoblin_Dark_Name">
-		<text>Silver Bokoblin</text>
-	</entry>
-	<entry label="Enemy_Assassin_Senior_Name">
-		<text>Master Kohga</text>
-	</entry>
-	<entry label="Enemy_Moriblin_Dark_Name">
-		<text>Silver Moblin</text>
-	</entry>
-	<entry label="Enemy_Octarock_Stone_PictureBook">
-		<text>This octopus-like species of monster lives in
-volcanic regions. When they inhale, they're
-preparing to spit out flaming rocks but have
-been known to suck up weapons or bombs
-in the same breath.</text>
-	</entry>
-	<entry label="Enemy_Wizzrobe_Electric_PictureBook">
-		<text>These spell-casting monsters can be found
-all over Hyrule. They use their lightning rods
-to hurl balls of electricity or to summon
-monsters surging with electricity and have
-been known to cause thunderstorms in the
-area. The weather will normalize once the
-Wizzrobe is defeated.</text>
-	</entry>
-	<entry label="Enemy_Wizzrobe_Ice_Senior_Name">
-		<text>Blizzrobe</text>
-	</entry>
-	<entry label="RemainsFire_Drone_A_01_Name">
-		<text>Sentry</text>
-	</entry>
-	<entry label="Enemy_Octarock_Snow_PictureBook">
-		<text>These octopus-like monsters live in snowy
-fields and disguise themselves as grass.
-When someone wanders by, they spring
-into action and attack by spitting snowballs.</text>
-	</entry>
-	<entry label="Enemy_Keese_Ice_PictureBook">
-		<text>The intense frost that engulfs the bodies of
-these bat-like Keese makes them more
-dangerous than the standard type. They're
-capable of freezing anything they touch.</text>
-	</entry>
-	<entry label="Enemy_Octarock_Forest_PictureBook">
-		<text>Although originally an aquatic species, this
-type has adapted to life in the forest. They
-hide among the trees, disguising themselves
-as grass or unassuming shrubbery, and then
-attack when someone wanders by.</text>
-	</entry>
-	<entry label="Enemy_Guardian_Mini_Junior_PictureBook">
-		<text>Although originally designed by an ancient
-civilization to combat Ganon, these scaled-
-down Guardians were placed inside shrines
-as part of the trials. In addition to the beam
-functionality, this particular model was
-designed to handle weaponry as a means
-of further testing the combat prowess of one
-undertaking the trials. It takes some serious
-skill to go toe-to-toe with one of these.</text>
+	<entry label="Priest_Boss_Normal_PictureBook">
+		<text>The arbiter of worthiness for the hero who
+wishes to control a Divine Beast, following
+a revelation from the Goddess Hylia.
+
+As the last part of the final trial, the monk
+offers a challenge of ancient techniques.</text>
 	</entry>
 	<entry label="Enemy_Keese_Fire_PictureBook">
 		<text>The fire that engulfs the bodies of these bat-
@@ -333,44 +389,79 @@ within these octopus-like monsters to inflate
 and lift them into the air. The rocks they spit
 out can be bounced back with a shield.</text>
 	</entry>
-	<entry label="Enemy_Lynel_Junior_Name">
-		<text>Lynel</text>
-	</entry>
-	<entry label="Enemy_Guardian_Mini_Baby_Name">
-		<text>Guardian Scout I</text>
-	</entry>
-	<entry label="Enemy_Keese_Ice_Name">
-		<text>Ice Keese</text>
-	</entry>
-	<entry label="Enemy_Lizalfos_Junior_PictureBook">
-		<text>These quick-witted, lizard-like monsters can
-be found all over Hyrule. They're a sly species
-that lurks underwater or uses camouflage
-to blend in with the environment to launch
-ambushes. Moreover, they never sleep.
-They're meat eaters by nature but will
-enjoy the occasional insect or two.</text>
-	</entry>
-	<entry label="Enemy_Lizalfos_Electric_PictureBook">
-		<text>These quick-witted, lizard-like monsters can
-be found all over Hyrule. They can emit strong
-electrical currents from their bodies, so don't
-get too close. Their horns are brimming with
-electricity, which will discharge and arc to
-nearby areas if struck by an arrow. They
-tend to live in desert climates.</text>
-	</entry>
-	<entry label="Enemy_Assassin_Middle_Name">
-		<text>Yiga Blademaster</text>
-	</entry>
-	<entry label="Enemy_GanonBeast_Name">
-		<text>Dark Beast Ganon</text>
+	<entry label="Enemy_Bokoblin_Senior_Name">
+		<text>Black Bokoblin</text>
 	</entry>
 	<entry label="Enemy_Moriblin_Middle_PictureBook">
 		<text>These heavyweight monsters can be found all
 over Hyrule. They're much tougher than their
 standard counterparts and often have much
 stronger weapons equipped.</text>
+	</entry>
+	<entry label="Enemy_Wizzrobe_Fire_Senior_PictureBook">
+		<text>These spell-casting monsters can be found
+all over Hyrule. They use their meteor rods
+to hurl fireballs or to summon flaming monsters
+and have been known to severely raise the
+temperature around them. The weather will
+normalize once the Wizzrobe is defeated.</text>
+	</entry>
+	<entry label="Enemy_Bokoblin_Gold_Name">
+		<text>Golden Bokoblin</text>
+	</entry>
+	<entry label="Enemy_Wizzrobe_Ice_Senior_Name">
+		<text>Blizzrobe</text>
+	</entry>
+	<entry label="Enemy_Lizalfos_Senior_Name">
+		<text>Black Lizalfos</text>
+	</entry>
+	<entry label="Enemy_Assassin_Senior_Name">
+		<text>Master Kohga</text>
+	</entry>
+	<entry label="Enemy_GanonGrudge_02_Name">
+		<text>Cursed Lizalfos</text>
+	</entry>
+	<entry label="Enemy_Bokoblin_Gold_PictureBook">
+		<text>With brutal strength and extreme resilience,
+this type of Bokoblin somehow surpasses
+Silver Bokoblins in sheer power. It is said they
+are actually Silver Bokoblins who mysteriously
+transformed after being struck by lightning.
+Perhaps that is why they have such a high
+tolerance for electric attacks.</text>
+	</entry>
+	<entry label="Enemy_Wizzrobe_Electric_Senior_PictureBook">
+		<text>These spell-casting monsters can be found
+all over Hyrule. They use their
+thunderstorm rods to hurl balls of electricity
+or to summon monsters surging with electricity
+and have been known to cause thunderstorms
+in the area. The weather will normalize once
+the Wizzrobe is defeated.</text>
+	</entry>
+	<entry label="Enemy_Lizalfos_Electric_Name">
+		<text>Electric Lizalfos</text>
+	</entry>
+	<entry label="Enemy_Octarock_Desert_PictureBook">
+		<text>These particularly clever monsters bury
+themselves in deep sand or snow and
+disguise themselves as treasure chests.
+Anyone who approaches the chests is
+attacked. The treasure chests are not
+magnetic, which proves that they are
+actually a part of these monsters' bodies.</text>
+	</entry>
+	<entry label="Enemy_Wizzrobe_Fire_Name">
+		<text>Fire Wizzrobe</text>
+	</entry>
+	<entry label="Enemy_Lynel_Middle_Name">
+		<text>Blue-Maned Lynel</text>
+	</entry>
+	<entry label="Priest_Boss_Normal_Name">
+		<text>Monk Maz Koshia</text>
+	</entry>
+	<entry label="Enemy_Moriblin_Middle_Name">
+		<text>Blue Moblin</text>
 	</entry>
 	<entry label="Enemy_Lizalfos_Fire_PictureBook">
 		<text>These quick-witted, lizard-like monsters can
@@ -380,24 +471,46 @@ to cold will kill them instantly. They mainly
 make their homes in volcanic areas but have
 also been sighted in the Akkala region.</text>
 	</entry>
-	<entry label="Enemy_Octarock_Snow_Name">
-		<text>Snow Octorok</text>
+	<entry label="Enemy_AirOctarock_PictureBook">
+		<text>These low-level, octopus-like monsters used
+to be aquatic, but their inflatable air sacs
+evolved so that they are able to float around
+in the air. Other monsters are known to take
+advantage of this ability, using them to make
+floating fortresses. They are trained to ascend
+when they hear a whistle, but they will
+not attack.</text>
 	</entry>
-	<entry label="Enemy_Lizalfos_Senior_PictureBook">
-		<text>These quick-witted, lizard-like monsters can
-be found all over Hyrule. This particular type
-tends to carry some pretty strong weapons,
-so they are among the most dangerous
-Lizalfos.</text>
+	<entry label="Enemy_Bokoblin_Middle_Name">
+		<text>Blue Bokoblin</text>
 	</entry>
-	<entry label="Enemy_Assassin_Middle_PictureBook">
-		<text>These are the elite soldiers of the Yiga Clan.
-They favor the windcleaver blade and are
-extremely agile despite their bulky build.
-At this Yiga Clan rank, they have mastered a
-technique that allows them to manipulate the
-very earth. By striking the ground, they can
-create stone pillars and blasts of air.</text>
+	<entry label="Enemy_Lynel_Gold_PictureBook">
+		<text>With brutal strength and extreme resilience,
+this type of Lynel somehow surpasses
+Silver Lynels in sheer power. It is said they
+are actually Silver Lynels who mysteriously
+transformed after being struck by lightning.
+If you see one, get away as fast as you can.</text>
+	</entry>
+	<entry label="Enemy_Keese_Fire_Name">
+		<text>Fire Keese</text>
+	</entry>
+	<entry label="Enemy_Golem_Little_PictureBook">
+		<text>A very young Stone Talus. Their bodies
+toughen as they mature, becoming as
+tough as boulders by adulthood. As a
+child, however, their bodies are light
+enough to be lifted and fragile enough
+to break when thrown.</text>
+	</entry>
+	<entry label="Enemy_Keese_Electric_Name">
+		<text>Electric Keese</text>
+	</entry>
+	<entry label="Enemy_Bokoblin_Senior_PictureBook">
+		<text>Although Bokoblins are generally a nuisance,
+the Black Bokoblins are among the most
+dangerous type. They're extremely resilient,
+and many are armed with advanced weapons.</text>
 	</entry>
 	<entry label="Enemy_Bokoblin_Bone_Junior_PictureBook">
 		<text>The remains of Bokoblins appear in the dark
@@ -419,31 +532,6 @@ long as a skull remains intact, they'll
 continue to pull themselves back
 together and go on fighting.</text>
 	</entry>
-	<entry label="Enemy_Lizalfos_Junior_Name">
-		<text>Lizalfos</text>
-	</entry>
-	<entry label="Enemy_Lynel_Senior_Name">
-		<text>White-Maned Lynel</text>
-	</entry>
-	<entry label="Enemy_Wizzrobe_Fire_PictureBook">
-		<text>These spell-casting monsters can be found
-all over Hyrule. They use their fire rods to
-hurl fireballs or to summon flaming monsters
-and have been known to severely raise the
-temperature around them. The weather will
-normalize once the Wizzrobe is defeated.</text>
-	</entry>
-	<entry label="Enemy_Guardian_Mini_Senior_PictureBook">
-		<text>An ancient civilization originally designed
-Guardians to combat Ganon but then scaled
-them down to place in shrines as part of the
-trials. This model is very resilient and has been
-outfitted with triple-blade functionality, allowing
-it to wield three weapons. This will put any
-would-be hero to the test for sure. A great
-deal of strength and confidence alike are
-required to contend with one of these.</text>
-	</entry>
 	<entry label="Enemy_Guardian_Mini_Baby_PictureBook">
 		<text>Guardians were originally designed by an
 ancient civilization to combat Ganon, but
@@ -452,92 +540,16 @@ shrines as part of the trials found within.
 The multiple legs and beam functionality
 were scaled down but kept mostly intact.</text>
 	</entry>
-	<entry label="Enemy_Keese_Name">
-		<text>Keese</text>
-	</entry>
-	<entry label="Enemy_Golem_Little_Ice_PictureBook">
-		<text>A very young Frost Talus. Their bodies
-toughen and frost over as they mature,
-becoming entirely made of ice by
-adulthood. As a child, however, their
-bodies are awfully fragile and are
-light enough to be blown away by
-a bomb's blast.</text>
-	</entry>
-	<entry label="Enemy_Lizalfos_Senior_Name">
-		<text>Black Lizalfos</text>
-	</entry>
-	<entry label="Enemy_Wizzrobe_Electric_Senior_Name">
-		<text>Thunder Wizzrobe</text>
-	</entry>
-	<entry label="Enemy_Lizalfos_Middle_Name">
-		<text>Blue Lizalfos</text>
-	</entry>
-	<entry label="Enemy_Lynel_Dark_Name">
-		<text>Silver Lynel</text>
-	</entry>
-	<entry label="Enemy_GanonBeast_PictureBook">
-		<text>After Ganon was defeated by Link, the
-remaining Malice pulled itself together to
-form this bestial creature. Its appearance
-and fiendish magic earned it the name of
-Dark Beast. This form is considered to be
-Ganon's original, although in this state, his
-awareness has been consumed entirely
-by Malice, and all he knows is a desire to
-rampage and destroy.</text>
-	</entry>
-	<entry label="Enemy_Wizzrobe_Electric_Senior_PictureBook">
-		<text>These spell-casting monsters can be found
-all over Hyrule. They use their
-thunderstorm rods to hurl balls of electricity
-or to summon monsters surging with electricity
-and have been known to cause thunderstorms
-in the area. The weather will normalize once
-the Wizzrobe is defeated.</text>
-	</entry>
-	<entry label="Enemy_GanonGrudge_Name">
-		<text>Cursed Bokoblin</text>
-	</entry>
-	<entry label="Enemy_Bokoblin_Junior_Name">
-		<text>Bokoblin</text>
-	</entry>
-	<entry label="Enemy_Lizalfos_Ice_PictureBook">
-		<text>These quick-witted, lizard-like monsters can
-be found all over Hyrule. The balls of ice they
-spit make them particularly troublesome, but
-exposure to fire will kill them instantly. Their
-homes are mainly on snowy mountains.</text>
-	</entry>
-	<entry label="Enemy_Lynel_Middle_Name">
-		<text>Blue-Maned Lynel</text>
-	</entry>
-	<entry label="Enemy_Keese_Electric_Name">
-		<text>Electric Keese</text>
-	</entry>
-	<entry label="Enemy_Lynel_Middle_PictureBook">
-		<text>These fearsome monsters have lived in
-Hyrule since ancient times. Compared to the
-standard Lynel, those with blue manes are
-much tougher and are equipped with much
-stronger weapons. Facing off against a Lynel
-is ill-advised, but if you must, be sure you're
-well prepared.</text>
-	</entry>
-	<entry label="Enemy_GanonGrudge_01_Name">
-		<text>Cursed Moblin</text>
-	</entry>
-	<entry label="Enemy_Wizzrobe_Fire_Name">
-		<text>Fire Wizzrobe</text>
-	</entry>
-	<entry label="Enemy_Bokoblin_Middle_PictureBook">
-		<text>This common species is a nuisance all
-over Hyrule. They're tougher and have
-stronger weapons than the red Bokoblins—
-and are a little more clever, as well. At the
-very least, they figured out that they can
-simply kick a Remote Bomb out of the way
-to avoid its blast.</text>
+	<entry label="Enemy_Assassin_Senior_PictureBook">
+		<text>The leader of the Yiga Clan, a group formed
+with just a single objective: eliminate Link. He
+sends his minions all over Hyrule in search of
+you but tends to spend most of his own time
+napping and generally loafing about. Despite
+this, his mastery of the esoteric arts has
+earned him a deep respect. Even if he
+were to die, his followers would never
+give up their one and only task.</text>
 	</entry>
 	<entry label="Enemy_Moriblin_Junior_PictureBook">
 		<text>This heavyweight species of monster can be
@@ -549,52 +561,111 @@ fact, Moblins have been known to pick up
 Bokoblins and throw them as makeshift
 projectile weapons.</text>
 	</entry>
-	<entry label="RemainsFire_Drone_A_01_PictureBook">
-		<text>These sentries dispatched from Divine Beast
-Vah Rudania are equipped with searchlights
-that can spot intruders.</text>
+	<entry label="Enemy_Lizalfos_Middle_Name">
+		<text>Blue Lizalfos</text>
 	</entry>
-	<entry label="Enemy_Assassin_Junior_PictureBook">
-		<text>The lowest-ranked members of the Yiga Clan.
-They've been dispatched all across Hyrule
-with a single task: seek out Linkle and end
-his life. They're a crafty bunch, sometimes
-disguising themselves as simple travelers
-or villagers to get the jump on you. Be
-wary of suspicious people you encounter.
-They're very agile and carry a bow and a
-one-handed sword.</text>
+	<entry label="Enemy_Golem_Little_Fire_Name">
+		<text>Igneo Pebblit</text>
 	</entry>
-	<entry label="Enemy_GanonGrudge_01_PictureBook">
-		<text>The Malice has given these Moblin skulls a
-pitiful life after death. The only fragment of
-their former selves they've held on to is the
-ferocity innate to all Moblins, so they will
-attack anyone that approaches. They're
-tougher than Bokoblin skulls.</text>
+	<entry label="Enemy_Octarock_Desert_Name">
+		<text>Treasure Octorok</text>
 	</entry>
-	<entry label="Enemy_Octarock_Desert_PictureBook">
-		<text>These particularly clever monsters bury
-themselves in deep sand or snow and
-disguise themselves as treasure chests.
-Anyone who approaches the chests is
-attacked. The treasure chests are not
-magnetic, which proves that they are
-actually a part of these monsters' bodies.</text>
+	<entry label="Enemy_Lynel_Dark_PictureBook">
+		<text>Silver Lynels are not to be trifled with. They
+have been influenced by Ganon's fiendish
+magic, so they are the strongest among the
+Lynel species, surpassing even the strength
+of those with white manes. The term "silver"
+denotes not only their color but also their
+rarity. The purple stripes help them to stand
+out even more.</text>
 	</entry>
-	<entry label="Enemy_Moriblin_Senior_PictureBook">
-		<text>These heavyweight monsters can be found
-all over Hyrule and are among the most
-dangerous types of Moblin. They're extremely
-resilient and are often armed with some of
-the strongest weapons Moblins can carry.</text>
+	<entry label="Enemy_Lizalfos_Gold_PictureBook">
+		<text>With brutal strength and extreme resilience,
+this type of Lizalfos somehow surpasses
+Silver Lizalfos in sheer power. It is said they
+are actually Silver Lizalfos who mysteriously
+transformed after being struck by lightning.
+Perhaps that is why they have such a high
+tolerance for electric attacks.</text>
 	</entry>
-	<entry label="Enemy_Lizalfos_Dark_PictureBook">
-		<text>These Lizalfos have been influenced by
-Ganon's fiendish magic to become the
-strongest Lizalfos of all. They're called
-"silver" for their unique coloring and
-also to denote their rarity. Their purple
-pattern makes them even more distinct.</text>
+	<entry label="Enemy_Lynel_Gold_Name">
+		<text>Golden Lynel</text>
+	</entry>
+	<entry label="Enemy_Lizalfos_Electric_PictureBook">
+		<text>These quick-witted, lizard-like monsters can
+be found all over Hyrule. They can emit strong
+electrical currents from their bodies, so don't
+get too close. Their horns are brimming with
+electricity, which will discharge and arc to
+nearby areas if struck by an arrow. They
+tend to live in desert climates.</text>
+	</entry>
+	<entry label="Enemy_Guardian_Mini_Junior_Name">
+		<text>Guardian Scout II</text>
+	</entry>
+	<entry label="Enemy_Moriblin_Dark_Name">
+		<text>Silver Moblin</text>
+	</entry>
+	<entry label="Enemy_Lizalfos_Bone_Junior_Name">
+		<text>Stalizalfos</text>
+	</entry>
+	<entry label="Enemy_Keese_Ice_Name">
+		<text>Ice Keese</text>
+	</entry>
+	<entry label="Enemy_Octarock_Forest_PictureBook">
+		<text>Although originally an aquatic species, this
+type has adapted to life in the forest. They
+hide among the trees, disguising themselves
+as grass or unassuming shrubbery, and then
+attack when someone wanders by.</text>
+	</entry>
+	<entry label="Enemy_Bokoblin_Middle_PictureBook">
+		<text>This common species is a nuisance all
+over Hyrule. They're tougher and have
+stronger weapons than the red Bokoblins—
+and are a little more clever, as well. At the
+very least, they figured out that they can
+simply kick a Remote Bomb out of the way
+to avoid its blast.</text>
+	</entry>
+	<entry label="Enemy_Lizalfos_Fire_Name">
+		<text>Fire-Breath Lizalfos</text>
+	</entry>
+	<entry label="Enemy_Assassin_Middle_PictureBook">
+		<text>These are the elite soldiers of the Yiga Clan.
+They favor the windcleaver blade and are
+extremely agile despite their bulky build.
+At this Yiga Clan rank, they have mastered a
+technique that allows them to manipulate the
+very earth. By striking the ground, they can
+create stone pillars and blasts of air.</text>
+	</entry>
+	<entry label="Enemy_GanonGrudge_01_Name">
+		<text>Cursed Moblin</text>
+	</entry>
+	<entry label="RemainsFire_Drone_A_01_Name">
+		<text>Sentry</text>
+	</entry>
+	<entry label="Enemy_Wizzrobe_Ice_PictureBook">
+		<text>These spell-casting monsters can be found
+all over Hyrule. They use their ice rods to
+create freezing blasts of air or to summon
+frozen monsters and have been known to
+cause blizzards to severely decrease the
+temperature around them. The weather will
+normalize once the Wizzrobe is defeated.</text>
+	</entry>
+	<entry label="Enemy_Octarock_Forest_Name">
+		<text>Forest Octorok</text>
+	</entry>
+	<entry label="Enemy_Moriblin_Dark_PictureBook">
+		<text>The strongest of all Moblins, Ganon's fiendish
+magic has allowed them to surpass even
+the Black Moblins in strength and resilience.
+They're called "silver" for both their body
+color as well as their rarity. The purple
+patterns on their bodies also help them
+to stand out.</text>
 	</entry>
 </xmsbt>

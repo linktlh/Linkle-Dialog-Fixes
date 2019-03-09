@@ -1,42 +1,36 @@
 <?xml version="1.0" encoding="utf-16"?>
 <xmsbt>
-	<entry label="GameRomHorseSaddle_05_Name">
-		<text>Extravagant Saddle</text>
-	</entry>
-	<entry label="GameRomHorseSaddle_05_Desc">
-		<text>This ornamental saddle is used in festivals.
-The delicate embroidery and arrangement
-of gems leaves a lasting impression. It's
-perfect for those who want to stand out.</text>
+	<entry label="GameRomHorseSaddle_10_Name">
+		<text>Ancient Saddle</text>
 	</entry>
 	<entry label="GameRomHorseSaddle_00_Name">
 		<text>Stable Saddle</text>
+	</entry>
+	<entry label="GameRomHorseSaddle_01_Name">
+		<text>Traveler's Saddle</text>
+	</entry>
+	<entry label="GameRomHorseSaddle_03_Name">
+		<text>Knight's Saddle</text>
+	</entry>
+	<entry label="GameRomHorseSaddle_02_Name">
+		<text>Royal Saddle</text>
+	</entry>
+	<entry label="GameRomHorseSaddle_05_Name">
+		<text>Extravagant Saddle</text>
+	</entry>
+	<entry label="GameRomHorseSaddle_04_Name">
+		<text>Monster Saddle</text>
+	</entry>
+	<entry label="GameRomHorseSaddle_10_Desc">
+		<text>A mysterious saddle made with forgotten
+ancient technology. Equip a horse with this
+and use &#xE;&#x1;&#x7;&#x2;촇 to call them even when they
+are far away.</text>
 	</entry>
 	<entry label="GameRomHorseSaddle_00_Desc">
 		<text>An exceptionally average saddle. Given
 to anyone who registers a wild horse
 at a stable.</text>
-	</entry>
-	<entry label="GameRomHorseSaddle_02_Name">
-		<text>Royal Saddle</text>
-	</entry>
-	<entry label="GameRomHorseSaddle_02_Desc">
-		<text>The shimmering emblem design of this saddle
-signifies its origins with the Hyrulean royal
-family. They say Princess Zelda herself once
-used this saddle for her own beloved horse.</text>
-	</entry>
-	<entry label="GameRomHorseSaddle_04_Name">
-		<text>Monster Saddle</text>
-	</entry>
-	<entry label="GameRomHorseSaddle_04_Desc">
-		<text>Kilton hand made this saddle. Apparently
-he had some sort of monstrous horse in
-mind as he worked on it. It looks strange
-but is certainly usable.</text>
-	</entry>
-	<entry label="GameRomHorseSaddle_01_Name">
-		<text>Traveler's Saddle</text>
 	</entry>
 	<entry label="GameRomHorseSaddle_01_Desc">
 		<text>A standard saddle designed for comfort
@@ -44,12 +38,27 @@ during long journeys. Its durable material
 holds strong in all sorts of weather, which
 has made it a favorite among travelers.</text>
 	</entry>
-	<entry label="GameRomHorseSaddle_03_Name">
-		<text>Knight's Saddle</text>
-	</entry>
 	<entry label="GameRomHorseSaddle_03_Desc">
 		<text>Hyrulean knights favored this saddle.
 Only the most elite among them were
 allowed to outfit their mounts with it.</text>
+	</entry>
+	<entry label="GameRomHorseSaddle_02_Desc">
+		<text>The shimmering emblem design of this saddle
+signifies its origins with the Hyrulean royal
+family. They say Princess Zelda herself once
+used this saddle for her own beloved horse.</text>
+	</entry>
+	<entry label="GameRomHorseSaddle_05_Desc">
+		<text>This ornamental saddle is used in festivals.
+The delicate embroidery and arrangement
+of gems leaves a lasting impression. It's
+perfect for those who want to stand out.</text>
+	</entry>
+	<entry label="GameRomHorseSaddle_04_Desc">
+		<text>Kilton hand made this saddle. Apparently
+he had some sort of monstrous horse in
+mind as he worked on it. It looks strange
+but is certainly usable.</text>
 	</entry>
 </xmsbt>

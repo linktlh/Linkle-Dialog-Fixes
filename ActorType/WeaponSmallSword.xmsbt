@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="utf-16"?>
 <xmsbt>
-	<entry label="Weapon_Sword_003_PictureBook">
-		<text>Knights of Hyrule once carried this sword.
-These days it's the weapon of choice for
-seasoned adventurers thanks to its ease
-of use and high attack power.</text>
+	<entry label="Weapon_Sword_002_PictureBook">
+		<text>A sword brandished by the soldiers who
+once protected Hyrule Castle. Its durable
+blade is well tuned for slaying monsters.</text>
 	</entry>
-	<entry label="Weapon_Sword_031_PictureBook">
-		<text>Rito craftsmen forged this lightweight,
-double-edged sword so Rito warriors
-could soar into battle unhindered by
-its weight.</text>
+	<entry label="Weapon_Sword_019_PictureBook">
+		<text>A skeletal arm that keeps moving even after
+it’s severed from its body. It's kind of gross to
+strap it to your back, but it'll do in a pinch.
+It's old and fragile, so it's quick to break.</text>
 	</entry>
-	<entry label="Weapon_Sword_029_PictureBook">
-		<text>This common sword is often carried by
-Gerudo women for self-defense. Its short,
-curved blade is easily recognized.</text>
+	<entry label="Weapon_Sword_027_PictureBook">
+		<text>The ornamentation that adorns this blade is
+a traditional Zora design. It's forged from a
+very durable and rust-proof metal.</text>
+	</entry>
+	<entry label="Weapon_Sword_029_Name">
+		<text>Gerudo Scimitar</text>
+	</entry>
+	<entry label="Weapon_Sword_009_PictureBook">
+		<text>More blades means more attack power!
+It can be used as a boomerang, but all those
+blades makes that a bit more dangerous.
+Carried by Black Lizalfos seasoned in battle.</text>
 	</entry>
 	<entry label="Weapon_Sword_018_PictureBook">
 		<text>A brutal sword carried by white-haired
@@ -23,8 +31,61 @@ Lynels. The savage blades are strong
 enough to cut down any foe, no matter how
 strong.</text>
 	</entry>
-	<entry label="Weapon_Sword_031_Name">
-		<text>Feathered Edge</text>
+	<entry label="Weapon_Sword_052_Desc">
+		<text>A famous sword once beloved by the Gerudo
+Champion Urbosa. It is said that when
+Urbosa swung this sword in battle, her
+movements resembled a beautiful dance.</text>
+	</entry>
+	<entry label="Weapon_Sword_502_PictureBook">
+		<text>A weapon that defeats foes with one hit and
+causes the user to die from one hit. It loses
+its sheen and power after two consecutive
+uses, but will eventually regain both.</text>
+	</entry>
+	<entry label="Weapon_Sword_001_Name">
+		<text>Traveler's Sword</text>
+	</entry>
+	<entry label="Weapon_Sword_053_Desc">
+		<text>A grim weapon favored by the Yiga. The half-
+moon shape of the blade allows for the rapid
+delivery of fatal wounds and serves as a
+symbol of their terror. Its durability is low.</text>
+	</entry>
+	<entry label="Weapon_Sword_002_Name">
+		<text>Soldier's Broadsword</text>
+	</entry>
+	<entry label="Weapon_Sword_003_Name">
+		<text>Knight's Broadsword</text>
+	</entry>
+	<entry label="Weapon_Sword_057_Desc">
+		<text>A sword said to have once belonged to a
+hero from the sky. Its blade houses the fire
+of the Goddess. When wielded, a strange
+yet heavenly breeze kicks up around you.</text>
+	</entry>
+	<entry label="Weapon_Sword_058_Desc">
+		<text>A sword once wielded by a hero in an
+ancient age. When grasped, a strange sense
+of nostalgia washes over you. Take it when
+going alone would otherwise be dangerous.</text>
+	</entry>
+	<entry label="Weapon_Sword_057_Name">
+		<text>Goddess Sword</text>
+	</entry>
+	<entry label="Weapon_Sword_059_Desc">
+		<text>A boomerang said to have been used by a
+hero who traveled the Great Sea. It smells
+faintly of salt water.</text>
+	</entry>
+	<entry label="Weapon_Sword_030_Desc">
+		<text>Delicate Gerudo carvings decorate this
+curved sword. The engraved blade is
+extremely sharp. Apparently it once
+served ceremonial purposes in festivals.</text>
+	</entry>
+	<entry label="Weapon_Sword_058_Name">
+		<text>Sword</text>
 	</entry>
 	<entry label="Weapon_Sword_031_Desc">
 		<text>Rito craftsmen forged this lightweight,
@@ -32,8 +93,317 @@ double-edged sword so Rito warriors
 could soar into battle unhindered by
 its weight.</text>
 	</entry>
-	<entry label="Weapon_Sword_013_Name">
-		<text>Guardian Sword</text>
+	<entry label="Weapon_Sword_059_Name">
+		<text>Sea-Breeze Boomerang</text>
+	</entry>
+	<entry label="Weapon_Sword_030_Name">
+		<text>Moonlight Scimitar</text>
+	</entry>
+	<entry label="Weapon_Sword_070_Name">
+		<text>Master Sword</text>
+	</entry>
+	<entry label="Weapon_Sword_031_Name">
+		<text>Feathered Edge</text>
+	</entry>
+	<entry label="Weapon_Sword_033_Desc">
+		<text>This magical sword was forged in the lava
+of Death Mountain. It leaves white-hot flames
+in its wake when the blade glows red.</text>
+	</entry>
+	<entry label="Weapon_Sword_034_Desc">
+		<text>A magical sword forged in the frigid
+mountains of the Hebra region. When
+the blade glows blue, enemies struck
+by it will become frozen.</text>
+	</entry>
+	<entry label="Weapon_Sword_033_Name">
+		<text>Flameblade</text>
+	</entry>
+	<entry label="Weapon_Sword_035_Desc">
+		<text>A magical sword forged and refined by
+lightning from the Hyrule Hills. When the
+blade shines with a golden light, it will
+electrocute enemies struck by it.</text>
+	</entry>
+	<entry label="Weapon_Sword_034_Name">
+		<text>Frostblade</text>
+	</entry>
+	<entry label="Weapon_Sword_035_Name">
+		<text>Thunderblade</text>
+	</entry>
+	<entry label="Weapon_Sword_060_Desc">
+		<text>A magical rod that can cast fireballs, crafted
+by an ancient magician. The rod will break if
+it strikes something directly, so use it wisely.</text>
+	</entry>
+	<entry label="Weapon_Sword_061_Desc">
+		<text>A magical rod crafted from refined ice found
+in the Hebra Mountains. This rod can cast
+waves of freezing air. Great for magic—not so
+great for melee.</text>
+	</entry>
+	<entry label="Weapon_Sword_062_Desc">
+		<text>A magical rod that can shoot balls of
+electricity. Its gem contains lightning from
+the Hyrule Hills. It's not recommended to
+use as a melee weapon.</text>
+	</entry>
+	<entry label="Weapon_Sword_062_PictureBook">
+		<text>A magical rod that can shoot balls of
+electricity. Its gem contains lightning from
+the Hyrule Hills. It's not recommended to
+use as a melee weapon.</text>
+	</entry>
+	<entry label="Weapon_Sword_053_PictureBook">
+		<text>A grim weapon favored by the Yiga. The half-
+moon shape of the blade allows for the rapid
+delivery of fatal wounds and serves as a
+symbol of their terror. Its durability is low.</text>
+	</entry>
+	<entry label="Weapon_Sword_070_PictureBook">
+		<text>The legendary sword that seals the
+darkness. Its blade gleams with a sacred
+luster that can oppose the Calamity. Only a
+hero chosen by the sword itself may wield it.</text>
+	</entry>
+	<entry label="Weapon_Sword_043_PictureBook">
+		<text>This torch will stay lit once ignited, but if you
+put it away, the flame will be extinguished
+until you light it again.</text>
+	</entry>
+	<entry label="Weapon_Sword_052_PictureBook">
+		<text>A famous sword once beloved by the Gerudo
+Champion Urbosa. It is said that when
+Urbosa swung this sword in battle, her
+movements resembled a beautiful dance.</text>
+	</entry>
+	<entry label="Weapon_Sword_034_PictureBook">
+		<text>A magical sword forged in the frigid
+mountains of the Hebra region. When
+the blade glows blue, enemies struck
+by it will become frozen.</text>
+	</entry>
+	<entry label="Weapon_Sword_061_PictureBook">
+		<text>A magical rod crafted from refined ice found
+in the Hebra Mountains. This rod can cast
+waves of freezing air. Great for magic—not so
+great for melee.</text>
+	</entry>
+	<entry label="Weapon_Sword_024_PictureBook">
+		<text>The Hyrulean royal family would award this
+sword to knights who achieved remarkable
+feats. A sword that balances strength and
+beauty as elegantly as this one is a rare find.</text>
+	</entry>
+	<entry label="Weapon_Sword_033_PictureBook">
+		<text>This magical sword was forged in the lava
+of Death Mountain. It leaves white-hot flames
+in its wake when the blade glows red.</text>
+	</entry>
+	<entry label="Weapon_Sword_015_PictureBook">
+		<text>The abilities of this Guardian sword have
+been boosted to the maximum, as evidenced
+by its increase in size. It slices through
+armor like a hot knife through butter!</text>
+	</entry>
+	<entry label="Weapon_Sword_023_PictureBook">
+		<text>The blade of this sword was made using an
+ancient power lost to this modern age. Its
+blade appears only when drawn, and its
+cutting power surpasses metal swords.</text>
+	</entry>
+	<entry label="Weapon_Sword_005_PictureBook">
+		<text>A reinforced Bokoblin club made to maximize
+damage. The sharpened bones jabbed into it
+make it a brutal weapon.</text>
+	</entry>
+	<entry label="Weapon_Sword_014_PictureBook">
+		<text>This Guardian sword has enhanced power
+over the standard model. Its cutting
+capabilities are improved, and its durability
+has seen a slight uptick.</text>
+	</entry>
+	<entry label="Weapon_Sword_049_PictureBook">
+		<text>A magical rod that can cast extreme cold in
+a wide range. These are crafted from refined
+ice found at the summit of Hebra Peak.
+It will break when depleted.</text>
+	</entry>
+	<entry label="Weapon_Sword_004_PictureBook">
+		<text>A crude Bokoblin club made to clobber small
+prey. It's essentially a stick, so its durability
+is low.</text>
+	</entry>
+	<entry label="Weapon_Sword_048_PictureBook">
+		<text>A magical rod that can cast three fireballs
+at once, crafted by an ancient magician.
+It will break upon running out of magical
+energy, so make it last!</text>
+	</entry>
+	<entry label="Weapon_Sword_029_Desc">
+		<text>This common sword is often carried by
+Gerudo women for self-defense. Its short,
+curved blade is easily recognized.</text>
+	</entry>
+	<entry label="Weapon_Sword_040_Desc">
+		<text>This strange hammer is one of Kilton's
+specialties. Being struck by it doesn't hurt
+much, but the fourth swing in a string of
+attacks will send the victim flying.</text>
+	</entry>
+	<entry label="Weapon_Sword_001_Desc">
+		<text>A very common sword often kept by travelers
+to fend off small beasts. It's fairly durable
+but a bit unreliable against monsters.</text>
+	</entry>
+	<entry label="Weapon_Sword_002_Desc">
+		<text>A sword brandished by the soldiers who
+once protected Hyrule Castle. Its durable
+blade is well tuned for slaying monsters.</text>
+	</entry>
+	<entry label="Weapon_Sword_041_Desc">
+		<text>A single-edged sword traditional to the
+Sheikah tribe. Forged using ancient
+technology, it just may be among the
+sharpest conventional weapons ever made.</text>
+	</entry>
+	<entry label="Weapon_Sword_040_Name">
+		<text>Spring-Loaded Hammer</text>
+	</entry>
+	<entry label="Weapon_Sword_003_Desc">
+		<text>Knights of Hyrule once carried this sword.
+These days it's the weapon of choice for
+seasoned adventurers thanks to its ease
+of use and high attack power.</text>
+	</entry>
+	<entry label="Weapon_Sword_043_Desc">
+		<text>This torch will stay lit once ignited, but if you
+put it away, the flame will be extinguished
+until you light it again.</text>
+	</entry>
+	<entry label="Weapon_Sword_041_Name">
+		<text>Eightfold Blade</text>
+	</entry>
+	<entry label="Weapon_Sword_004_Desc">
+		<text>A crude Bokoblin club made to clobber small
+prey. It's essentially a stick, so its durability
+is low.</text>
+	</entry>
+	<entry label="Weapon_Sword_005_Desc">
+		<text>A reinforced Bokoblin club made to maximize
+damage. The sharpened bones jabbed into it
+make it a brutal weapon.</text>
+	</entry>
+	<entry label="Weapon_Sword_502_Name">
+		<text>One-Hit Obliterator</text>
+	</entry>
+	<entry label="Weapon_Sword_043_Name">
+		<text>Torch</text>
+	</entry>
+	<entry label="Weapon_Sword_004_Name">
+		<text>Boko Club</text>
+	</entry>
+	<entry label="Weapon_Sword_006_Desc">
+		<text>This Bokoblin club has been reinforced with
+fossilized bones to maximize clobbering
+potential. Only the brawniest of Bokoblins
+can manage its immense weight.</text>
+	</entry>
+	<entry label="Weapon_Sword_044_Name">
+		<text>Tree Branch</text>
+	</entry>
+	<entry label="Weapon_Sword_005_Name">
+		<text>Spiked Boko Club</text>
+	</entry>
+	<entry label="Weapon_Sword_007_Desc">
+		<text>A curved sword favored by the Lizalfos.
+It can be used to attack directly or can
+be thrown like a boomerang.</text>
+	</entry>
+	<entry label="Weapon_Sword_006_Name">
+		<text>Dragonbone Boko Club</text>
+	</entry>
+	<entry label="Weapon_Sword_008_Desc">
+		<text>Blue Lizalfos in particular like this weapon.
+It has one more blade than the
+Lizal boomerang to give it additional cutting
+power, and it still returns when thrown.</text>
+	</entry>
+	<entry label="Weapon_Sword_007_Name">
+		<text>Lizal Boomerang</text>
+	</entry>
+	<entry label="Weapon_Sword_009_Desc">
+		<text>More blades means more attack power!
+It can be used as a boomerang, but all those
+blades makes that a bit more dangerous.
+Carried by Black Lizalfos seasoned in battle.</text>
+	</entry>
+	<entry label="Weapon_Sword_008_Name">
+		<text>Lizal Forked Boomerang</text>
+	</entry>
+	<entry label="Weapon_Sword_070_Desc">
+		<text>The legendary sword that seals the
+darkness. Its blade gleams with a sacred
+luster that can oppose the Calamity. Only a
+hero chosen by the sword itself may wield it.</text>
+	</entry>
+	<entry label="Weapon_Sword_009_Name">
+		<text>Lizal Tri-Boomerang</text>
+	</entry>
+	<entry label="Weapon_Sword_073_Desc">
+		<text>This lethal weapon is forged by the Yiga.
+Its unique shape facilitates the sound
+dispatching of any target and strikes
+fear into the hearts of all who see it.</text>
+	</entry>
+	<entry label="Weapon_Sword_073_Name">
+		<text>Demon Carver</text>
+	</entry>
+	<entry label="Weapon_Sword_030_PictureBook">
+		<text>Delicate Gerudo carvings decorate this
+curved sword. The engraved blade is
+extremely sharp. Apparently it once
+served ceremonial purposes in festivals.</text>
+	</entry>
+	<entry label="Weapon_Sword_050_Desc">
+		<text>A magical rod that can hurl three balls of
+electricity at once. Its gem contains
+electricity from the Hyrule Hills, and the rod
+will break when that electricity runs out.</text>
+	</entry>
+	<entry label="Weapon_Sword_073_PictureBook">
+		<text>This lethal weapon is forged by the Yiga.
+Its unique shape facilitates the sound
+dispatching of any target and strikes
+fear into the hearts of all who see it.</text>
+	</entry>
+	<entry label="Weapon_Sword_020_PictureBook">
+		<text>The arm of a Stalizalfos that continues to
+struggle even in death. It can be used as a
+weapon, but it's very brittle. You can feel it
+wiggling when you strap it to your back...</text>
+	</entry>
+	<entry label="Weapon_Sword_051_Desc">
+		<text>This throwing weapon was originally used by
+the forest-dwelling Koroks. Its unique shape
+allows it to return after being thrown.</text>
+	</entry>
+	<entry label="Weapon_Sword_001_PictureBook">
+		<text>A very common sword often kept by travelers
+to fend off small beasts. It's fairly durable,
+but a bit unreliable against monsters.</text>
+	</entry>
+	<entry label="Weapon_Sword_044_PictureBook">
+		<text>Wooden branches such as this are pretty
+common, but it's surprisingly well-balanced.
+It doesn't do much damage but can serve
+as a weapon in a pinch.</text>
+	</entry>
+	<entry label="Weapon_Sword_035_PictureBook">
+		<text>A magical sword forged and refined by
+lightning from the Hyrule Hills. When the
+blade shines with a golden light, it will
+electrocute enemies struck by it.</text>
 	</entry>
 	<entry label="Weapon_Sword_008_PictureBook">
 		<text>Blue Lizalfos in particular like this weapon.
@@ -46,8 +416,17 @@ power, and it still returns when thrown.</text>
 Its blue energy blade is a product of ancient
 technology. It's not very durable.</text>
 	</entry>
-	<entry label="Weapon_Sword_018_Name">
-		<text>Savage Lynel Sword</text>
+	<entry label="Weapon_Sword_017_PictureBook">
+		<text>This Lynel-made sword boasts more blades
+and more attack power. A skilled Lynel can
+draw this sword simply in passing and still
+cut a foe in two.</text>
+	</entry>
+	<entry label="Weapon_Sword_050_Name">
+		<text>Thunderstorm Rod</text>
+	</entry>
+	<entry label="Weapon_Sword_051_Name">
+		<text>Boomerang</text>
 	</entry>
 	<entry label="Weapon_Sword_025_PictureBook">
 		<text>Koroks made this sword for Hylians. It's
@@ -55,134 +434,10 @@ made of wood, so it isn't the best choice for
 head-on attacks. Its original intent was likely
 clearing vines to forge paths through forests.</text>
 	</entry>
-	<entry label="Weapon_Sword_018_Desc">
-		<text>A brutal sword carried by white-haired
-Lynels. The savage blades are strong
-enough to cut down any foe, no matter how
-strong.</text>
-	</entry>
-	<entry label="Weapon_Sword_081_Name">
-		<text>Master Sword</text>
-	</entry>
-	<entry label="Weapon_Sword_081_Desc">
-		<text>The legendary sword that seals the
-darkness, a blade that can combat the
-Calamity. Link's triumph over the Trial of
-the Sword has awakened its true splendor.</text>
-	</entry>
-	<entry label="Weapon_Sword_015_PictureBook">
-		<text>The abilities of this Guardian sword have
-been boosted to the maximum, as evidenced
-by its increase in size. It slices through
-armor like a hot knife through butter!</text>
-	</entry>
-	<entry label="Weapon_Sword_061_Name">
-		<text>Ice Rod</text>
-	</entry>
-	<entry label="Weapon_Sword_020_Name">
-		<text>Lizalfos Arm</text>
-	</entry>
-	<entry label="Weapon_Sword_043_Name">
-		<text>Torch</text>
-	</entry>
-	<entry label="Weapon_Sword_043_PictureBook">
-		<text>This torch will stay lit once ignited, but if you
-put it away, the flame will be extinguished
-until you light it again.</text>
-	</entry>
-	<entry label="Weapon_Sword_004_PictureBook">
-		<text>A crude Bokoblin club made to clobber small
-prey. It's essentially a stick, so its durability
-is low.</text>
-	</entry>
-	<entry label="Weapon_Sword_020_Desc">
-		<text>The arm of a Stalizalfos that continues to
-struggle even in death. It can be used as a
-weapon, but it's very brittle. You can feel it
-wiggling when you strap it to your back...</text>
-	</entry>
-	<entry label="Weapon_Sword_043_Desc">
-		<text>This torch will stay lit once ignited, but if you
-put it away, the flame will be extinguished
-until you light it again.</text>
-	</entry>
-	<entry label="Weapon_Sword_002_Desc">
-		<text>A sword brandished by the soldiers who
-once protected Hyrule Castle. Its durable
-blade is well tuned for slaying monsters.</text>
-	</entry>
-	<entry label="Weapon_Sword_025_Name">
-		<text>Forest Dweller's Sword</text>
-	</entry>
-	<entry label="Weapon_Sword_025_Desc">
-		<text>Koroks made this sword for Hylians. It's
-made of wood, so it isn't the best choice for
-head-on attacks. Its original intent was likely
-clearing vines to forge paths through forests.</text>
-	</entry>
-	<entry label="Weapon_Sword_007_Name">
-		<text>Lizal Boomerang</text>
-	</entry>
-	<entry label="Weapon_Sword_007_Desc">
+	<entry label="Weapon_Sword_007_PictureBook">
 		<text>A curved sword favored by the Lizalfos.
 It can be used to attack directly or can
 be thrown like a boomerang.</text>
-	</entry>
-	<entry label="Weapon_Sword_070_Desc">
-		<text>The legendary sword that seals the
-darkness. Its blade gleams with a sacred
-luster that can oppose the Calamity. Only a
-hero chosen by the sword itself may wield it.</text>
-	</entry>
-	<entry label="Weapon_Sword_022_PictureBook">
-		<text>A kitchen implement often used for serving
-delicious soups. It was carved from the wood
-of a sturdy tree, so it actually packs quite
-the wallop.</text>
-	</entry>
-	<entry label="Weapon_Sword_052_Desc">
-		<text>A famous sword once beloved by the Gerudo
-Champion Urbosa. It is said that when
-Urbosa swung this sword in battle, her
-movements resembled a beautiful dance.</text>
-	</entry>
-	<entry label="Weapon_Sword_009_PictureBook">
-		<text>More blades means more attack power!
-It can be used as a boomerang, but all those
-blades makes that a bit more dangerous.
-Carried by Black Lizalfos seasoned in battle.</text>
-	</entry>
-	<entry label="Weapon_Sword_050_PictureBook">
-		<text>A magical rod that can hurl three balls of
-electricity at once. Its gem contains
-electricity from the Hyrule Hills, and the rod
-will break when that electricity runs out.</text>
-	</entry>
-	<entry label="Weapon_Sword_057_Name">
-		<text>Goddess Sword</text>
-	</entry>
-	<entry label="Weapon_Sword_050_Name">
-		<text>Thunderstorm Rod</text>
-	</entry>
-	<entry label="Weapon_Sword_057_Desc">
-		<text>A sword said to have once belonged to a
-hero from the sky. Its blade houses the fire
-of the Goddess. When wielded, a strange
-yet heavenly breeze kicks up around you.</text>
-	</entry>
-	<entry label="Weapon_Sword_050_Desc">
-		<text>A magical rod that can hurl three balls of
-electricity at once. Its gem contains
-electricity from the Hyrule Hills, and the rod
-will break when that electricity runs out.</text>
-	</entry>
-	<entry label="Weapon_Sword_001_PictureBook">
-		<text>A very common sword often kept by travelers
-to fend off small beasts. It's fairly durable,
-but a bit unreliable against monsters.</text>
-	</entry>
-	<entry label="Weapon_Sword_014_Name">
-		<text>Guardian Sword+</text>
 	</entry>
 	<entry label="Weapon_Sword_014_Desc">
 		<text>This Guardian sword has enhanced power
@@ -196,426 +451,8 @@ smashing in mind rather than slicing. It's
 on the heavy side compared to what Hylians
 are used to, but it's very strong.</text>
 	</entry>
-	<entry label="Weapon_Sword_019_Name">
-		<text>Bokoblin Arm</text>
-	</entry>
-	<entry label="Weapon_Sword_044_PictureBook">
-		<text>Wooden branches such as this are pretty
-common, but it's surprisingly well-balanced.
-It doesn't do much damage but can serve
-as a weapon in a pinch.</text>
-	</entry>
-	<entry label="Weapon_Sword_019_Desc">
-		<text>A skeletal arm that keeps moving even after
-it’s severed from its body. It's kind of gross to
-strap it to your back, but it'll do in a pinch.
-It's old and fragile, so it's quick to break.</text>
-	</entry>
-	<entry label="Weapon_Sword_021_Name">
-		<text>Rusty Broadsword</text>
-	</entry>
-	<entry label="Weapon_Sword_034_PictureBook">
-		<text>A magical sword forged in the frigid
-mountains of the Hebra region. When
-the blade glows blue, enemies struck
-by it will become frozen.</text>
-	</entry>
-	<entry label="Weapon_Sword_062_Name">
-		<text>Lightning Rod</text>
-	</entry>
-	<entry label="Weapon_Sword_044_Name">
-		<text>Tree Branch</text>
-	</entry>
-	<entry label="Weapon_Sword_023_PictureBook">
-		<text>The blade of this sword was made using an
-ancient power lost to this modern age. Its
-blade appears only when drawn, and its
-cutting power surpasses metal swords.</text>
-	</entry>
-	<entry label="Weapon_Sword_021_Desc">
-		<text>This once-fearsome sword has seen better
-days. It can do some damage in the right
-hands but also breaks quickly.</text>
-	</entry>
-	<entry label="Weapon_Sword_062_PictureBook">
-		<text>A magical rod that can shoot balls of
-electricity. Its gem contains lightning from
-the Hyrule Hills. It's not recommended to
-use as a melee weapon.</text>
-	</entry>
-	<entry label="Weapon_Sword_003_Desc">
-		<text>Knights of Hyrule once carried this sword.
-These days it's the weapon of choice for
-seasoned adventurers thanks to its ease
-of use and high attack power.</text>
-	</entry>
-	<entry label="Weapon_Sword_049_PictureBook">
-		<text>A magical rod that can cast extreme cold in
-a wide range. These are crafted from refined
-ice found at the summit of Hebra Peak.
-It will break when depleted.</text>
-	</entry>
-	<entry label="Weapon_Sword_001_Name">
-		<text>Traveler's Sword</text>
-	</entry>
-	<entry label="Weapon_Sword_008_Name">
-		<text>Lizal Forked Boomerang</text>
-	</entry>
-	<entry label="Weapon_Sword_008_Desc">
-		<text>Blue Lizalfos in particular like this weapon.
-It has one more blade than the
-Lizal boomerang to give it additional cutting
-power, and it still returns when thrown.</text>
-	</entry>
-	<entry label="Weapon_Sword_013_PictureBook">
-		<text>A sword often wielded by Guardian Scouts.
-Its blue energy blade is a product of ancient
-technology. It's not very durable.</text>
-	</entry>
-	<entry label="Weapon_Sword_002_PictureBook">
-		<text>A sword brandished by the soldiers who
-once protected Hyrule Castle. Its durable
-blade is well tuned for slaying monsters.</text>
-	</entry>
-	<entry label="Weapon_Sword_041_PictureBook">
-		<text>A single-edged sword traditional to the
-Sheikah tribe. Forged using ancient
-technology, it's said to be among the
-sharpest conventional weapons ever made.</text>
-	</entry>
-	<entry label="Weapon_Sword_053_Desc">
-		<text>A grim weapon favored by the Yiga. The half-
-moon shape of the blade allows for the rapid
-delivery of fatal wounds and serves as a
-symbol of their terror. Its durability is low.</text>
-	</entry>
-	<entry label="Weapon_Sword_051_Name">
-		<text>Boomerang</text>
-	</entry>
-	<entry label="Weapon_Sword_058_Name">
-		<text>Sword</text>
-	</entry>
-	<entry label="Weapon_Sword_051_Desc">
-		<text>This throwing weapon was originally used by
-the forest-dwelling Koroks. Its unique shape
-allows it to return after being thrown.</text>
-	</entry>
-	<entry label="Weapon_Sword_033_Name">
-		<text>Flameblade</text>
-	</entry>
-	<entry label="Weapon_Sword_058_Desc">
-		<text>A sword once wielded by a hero in an
-ancient age. When grasped, a strange sense
-of nostalgia washes over you. Take it when
-going alone would otherwise be dangerous.</text>
-	</entry>
-	<entry label="Weapon_Sword_033_Desc">
-		<text>This magical sword was forged in the lava
-of Death Mountain. It leaves white-hot flames
-in its wake when the blade glows red.</text>
-	</entry>
-	<entry label="Weapon_Sword_015_Name">
-		<text>Guardian Sword++</text>
-	</entry>
-	<entry label="Weapon_Sword_020_PictureBook">
-		<text>The arm of a Stalizalfos that continues to
-struggle even in death. It can be used as a
-weapon, but it's very brittle. You can feel it
-wiggling when you strap it to your back...</text>
-	</entry>
-	<entry label="Weapon_Sword_007_PictureBook">
-		<text>A curved sword favored by the Lizalfos.
-It can be used to attack directly or can
-be thrown like a boomerang.</text>
-	</entry>
-	<entry label="Weapon_Sword_015_Desc">
-		<text>The abilities of this Guardian sword have
-been boosted to the maximum, as evidenced
-by its increase in size. It slices through
-armor like a hot knife through butter!</text>
-	</entry>
-	<entry label="Weapon_Sword_035_PictureBook">
-		<text>A magical sword forged and refined by
-lightning from the Hyrule Hills. When the
-blade shines with a golden light, it will
-electrocute enemies struck by it.</text>
-	</entry>
-	<entry label="Weapon_Sword_060_Desc">
-		<text>A magical rod that can cast fireballs, crafted
-by an ancient magician. The rod will break if
-it strikes something directly, so use it wisely.</text>
-	</entry>
-	<entry label="Weapon_Sword_502_Desc">
-		<text>A weapon that defeats foes with one hit and
-causes the user to die from one hit. It loses
-its sheen and power after two consecutive
-uses, but will eventually regain both.</text>
-	</entry>
-	<entry label="Weapon_Sword_040_Name">
-		<text>Spring-Loaded Hammer</text>
-	</entry>
-	<entry label="Weapon_Sword_047_Name">
-		<text>Royal Guard's Sword</text>
-	</entry>
-	<entry label="Weapon_Sword_022_Name">
-		<text>Soup Ladle</text>
-	</entry>
-	<entry label="Weapon_Sword_040_Desc">
-		<text>This strange hammer is one of Kilton's
-specialties. Being struck by it doesn't hurt
-much, but the fourth swing in a string of
-attacks will send the victim flying.</text>
-	</entry>
-	<entry label="Weapon_Sword_047_Desc">
-		<text>A Sheikah-made replica of the sword that
-seals the darkness. It was made with ancient
-technology to oppose the Great Calamity,
-but its low durability made it inefficient.</text>
-	</entry>
-	<entry label="Weapon_Sword_014_PictureBook">
-		<text>This Guardian sword has enhanced power
-over the standard model. Its cutting
-capabilities are improved, and its durability
-has seen a slight uptick.</text>
-	</entry>
-	<entry label="Weapon_Sword_053_PictureBook">
-		<text>A grim weapon favored by the Yiga. The half-
-moon shape of the blade allows for the rapid
-delivery of fatal wounds and serves as a
-symbol of their terror. Its durability is low.</text>
-	</entry>
-	<entry label="Weapon_Sword_022_Desc">
-		<text>A kitchen implement often used for serving
-delicious soups. It was carved from the wood
-of a sturdy tree, so it actually packs quite
-the wallop.</text>
-	</entry>
-	<entry label="Weapon_Sword_029_Desc">
-		<text>This common sword is often carried by
-Gerudo women for self-defense. Its short,
-curved blade is easily recognized.</text>
-	</entry>
-	<entry label="Weapon_Sword_004_Name">
-		<text>Boko Club</text>
-	</entry>
-	<entry label="Weapon_Sword_070_PictureBook">
-		<text>The legendary sword that seals the
-darkness. Its blade gleams with a sacred
-luster that can oppose the Calamity. Only a
-hero chosen by the sword itself may wield it.</text>
-	</entry>
-	<entry label="Weapon_Sword_027_Name">
-		<text>Zora Sword</text>
-	</entry>
-	<entry label="Weapon_Sword_004_Desc">
-		<text>A crude Bokoblin club made to clobber small
-prey. It's essentially a stick, so its durability
-is low.</text>
-	</entry>
-	<entry label="Weapon_Sword_002_Name">
-		<text>Soldier's Broadsword</text>
-	</entry>
-	<entry label="Weapon_Sword_027_Desc">
-		<text>The ornamentation that adorns this blade is
-a traditional Zora design. It's forged from a
-very durable and rust-proof metal.</text>
-	</entry>
-	<entry label="Weapon_Sword_009_Name">
-		<text>Lizal Tri-Boomerang</text>
-	</entry>
-	<entry label="Weapon_Sword_009_Desc">
-		<text>More blades means more attack power!
-It can be used as a boomerang, but all those
-blades makes that a bit more dangerous.
-Carried by Black Lizalfos seasoned in battle.</text>
-	</entry>
-	<entry label="Weapon_Sword_021_PictureBook">
-		<text>This once-fearsome sword has seen better
-days. It can do some damage in the right
-hands but also breaks quickly.</text>
-	</entry>
-	<entry label="Weapon_Sword_060_PictureBook">
-		<text>A magical rod that can cast fireballs, said to
-have been crafted by an ancient magician.
-The rod will break if it strikes something
-directly, so use it wisely.</text>
-	</entry>
-	<entry label="Weapon_Sword_019_PictureBook">
-		<text>A skeletal arm that keeps moving even after
-it’s severed from its body. It's kind of gross to
-strap it to your back, but it'll do in a pinch.
-It's old and fragile, so it's quick to break.</text>
-	</entry>
-	<entry label="Weapon_Sword_070_Name">
-		<text>Master Sword</text>
-	</entry>
-	<entry label="Weapon_Sword_047_PictureBook">
-		<text>A Sheikah-made replica of the sword that
-seals the darkness. It was made with ancient
-technology to oppose the Great Calamity,
-but its low durability made it inefficient.</text>
-	</entry>
 	<entry label="Weapon_Sword_052_Name">
 		<text>Scimitar of the Seven</text>
-	</entry>
-	<entry label="Weapon_Sword_059_Name">
-		<text>Sea-Breeze Boomerang</text>
-	</entry>
-	<entry label="Weapon_Sword_034_Name">
-		<text>Frostblade</text>
-	</entry>
-	<entry label="Weapon_Sword_059_Desc">
-		<text>A boomerang said to have been used by a
-hero who traveled the Great Sea. It smells
-faintly of salt water.</text>
-	</entry>
-	<entry label="Weapon_Sword_034_Desc">
-		<text>A magical sword forged in the frigid
-mountains of the Hebra region. When
-the blade glows blue, enemies struck
-by it will become frozen.</text>
-	</entry>
-	<entry label="Weapon_Sword_016_Name">
-		<text>Lynel Sword</text>
-	</entry>
-	<entry label="Weapon_Sword_016_Desc">
-		<text>This Lynel-made sword was designed with
-smashing in mind rather than slicing. It's
-on the heavy side compared to what Hylians
-are used to, but it's very strong.</text>
-	</entry>
-	<entry label="Weapon_Sword_061_Desc">
-		<text>A magical rod crafted from refined ice found
-in the Hebra Mountains. This rod can cast
-waves of freezing air. Great for magic—not so
-great for melee.</text>
-	</entry>
-	<entry label="Weapon_Sword_041_Name">
-		<text>Eightfold Blade</text>
-	</entry>
-	<entry label="Weapon_Sword_005_PictureBook">
-		<text>A reinforced Bokoblin club made to maximize
-damage. The sharpened bones jabbed into it
-make it a brutal weapon.</text>
-	</entry>
-	<entry label="Weapon_Sword_048_Name">
-		<text>Meteor Rod</text>
-	</entry>
-	<entry label="Weapon_Sword_041_Desc">
-		<text>A single-edged sword traditional to the
-Sheikah tribe. Forged using ancient
-technology, it just may be among the
-sharpest conventional weapons ever made.</text>
-	</entry>
-	<entry label="Weapon_Sword_023_Name">
-		<text>Ancient Short Sword</text>
-	</entry>
-	<entry label="Weapon_Sword_033_PictureBook">
-		<text>This magical sword was forged in the lava
-of Death Mountain. It leaves white-hot flames
-in its wake when the blade glows red.</text>
-	</entry>
-	<entry label="Weapon_Sword_048_Desc">
-		<text>A magical rod that can cast three fireballs
-at once, crafted by an ancient magician.
-It will break upon running out of magical
-energy, so make it last!</text>
-	</entry>
-	<entry label="Weapon_Sword_023_Desc">
-		<text>The blade of this sword was made using an
-ancient power lost to this modern age. Its
-blade appears only when drawn, and its
-cutting power surpasses metal swords.</text>
-	</entry>
-	<entry label="Weapon_Sword_005_Name">
-		<text>Spiked Boko Club</text>
-	</entry>
-	<entry label="Weapon_Sword_061_PictureBook">
-		<text>A magical rod crafted from refined ice found
-in the Hebra Mountains. This rod can cast
-waves of freezing air. Great for magic—not so
-great for melee.</text>
-	</entry>
-	<entry label="Weapon_Sword_502_PictureBook">
-		<text>A weapon that defeats foes with one hit and
-causes the user to die from one hit. It loses
-its sheen and power after two consecutive
-uses, but will eventually regain both.</text>
-	</entry>
-	<entry label="Weapon_Sword_005_Desc">
-		<text>A reinforced Bokoblin club made to maximize
-damage. The sharpened bones jabbed into it
-make it a brutal weapon.</text>
-	</entry>
-	<entry label="Weapon_Sword_048_PictureBook">
-		<text>A magical rod that can cast three fireballs
-at once, crafted by an ancient magician.
-It will break upon running out of magical
-energy, so make it last!</text>
-	</entry>
-	<entry label="Weapon_Sword_003_Name">
-		<text>Knight's Broadsword</text>
-	</entry>
-	<entry label="Weapon_Sword_051_PictureBook">
-		<text>This throwing weapon was originally used by
-the forest-dwelling Koroks. Its unique shape
-allows it to return after being thrown.</text>
-	</entry>
-	<entry label="Weapon_Sword_073_Name">
-		<text>Demon Carver</text>
-	</entry>
-	<entry label="Weapon_Sword_040_PictureBook">
-		<text>This strange hammer is one of Kilton's
-specialties. Being struck by it doesn't hurt
-much, but the fourth swing in a string of
-attacks will send the victim flying.</text>
-	</entry>
-	<entry label="Weapon_Sword_073_Desc">
-		<text>This lethal weapon is forged by the Yiga.
-Its unique shape facilitates the sound
-dispatching of any target and strikes
-fear into the hearts of all who see it.</text>
-	</entry>
-	<entry label="Weapon_Sword_027_PictureBook">
-		<text>The ornamentation that adorns this blade is
-a traditional Zora design. It's forged from a
-very durable and rust-proof metal.</text>
-	</entry>
-	<entry label="Weapon_Sword_030_Name">
-		<text>Moonlight Scimitar</text>
-	</entry>
-	<entry label="Weapon_Sword_030_Desc">
-		<text>Delicate Gerudo carvings decorate this
-curved sword. The engraved blade is
-extremely sharp. Apparently it once
-served ceremonial purposes in festivals.</text>
-	</entry>
-	<entry label="Weapon_Sword_053_Name">
-		<text>Vicious Sickle</text>
-	</entry>
-	<entry label="Weapon_Sword_030_PictureBook">
-		<text>Delicate Gerudo carvings decorate this
-curved sword. The engraved blade is
-extremely sharp. Apparently it once
-served ceremonial purposes in festivals.</text>
-	</entry>
-	<entry label="Weapon_Sword_035_Name">
-		<text>Thunderblade</text>
-	</entry>
-	<entry label="Weapon_Sword_035_Desc">
-		<text>A magical sword forged and refined by
-lightning from the Hyrule Hills. When the
-blade shines with a golden light, it will
-electrocute enemies struck by it.</text>
-	</entry>
-	<entry label="Weapon_Sword_017_Name">
-		<text>Mighty Lynel Sword</text>
-	</entry>
-	<entry label="Weapon_Sword_017_PictureBook">
-		<text>This Lynel-made sword boasts more blades
-and more attack power. A skilled Lynel can
-draw this sword simply in passing and still
-cut a foe in two.</text>
 	</entry>
 	<entry label="Weapon_Sword_006_PictureBook">
 		<text>This Bokoblin club has been reinforced with
@@ -623,20 +460,56 @@ fossilized bones to maximize clobbering
 potential. Only the brawniest of Bokoblins
 can manage its immense weight.</text>
 	</entry>
+	<entry label="Weapon_Sword_013_Name">
+		<text>Guardian Sword</text>
+	</entry>
+	<entry label="Weapon_Sword_015_Desc">
+		<text>The abilities of this Guardian sword have
+been boosted to the maximum, as evidenced
+by its increase in size. It slices through
+armor like a hot knife through butter!</text>
+	</entry>
+	<entry label="Weapon_Sword_014_Name">
+		<text>Guardian Sword+</text>
+	</entry>
+	<entry label="Weapon_Sword_016_Desc">
+		<text>This Lynel-made sword was designed with
+smashing in mind rather than slicing. It's
+on the heavy side compared to what Hylians
+are used to, but it's very strong.</text>
+	</entry>
+	<entry label="Weapon_Sword_053_Name">
+		<text>Vicious Sickle</text>
+	</entry>
+	<entry label="Weapon_Sword_015_Name">
+		<text>Guardian Sword++</text>
+	</entry>
 	<entry label="Weapon_Sword_017_Desc">
 		<text>This Lynel-made sword boasts more blades
 and more attack power. A skilled Lynel can
 draw this sword simply in passing and still
 cut a foe in two.</text>
 	</entry>
-	<entry label="Weapon_Sword_080_Name">
-		<text>Master Sword</text>
+	<entry label="Weapon_Sword_016_Name">
+		<text>Lynel Sword</text>
 	</entry>
-	<entry label="Weapon_Sword_073_PictureBook">
-		<text>This lethal weapon is forged by the Yiga.
-Its unique shape facilitates the sound
-dispatching of any target and strikes
-fear into the hearts of all who see it.</text>
+	<entry label="Weapon_Sword_018_Desc">
+		<text>A brutal sword carried by white-haired
+Lynels. The savage blades are strong
+enough to cut down any foe, no matter how
+strong.</text>
+	</entry>
+	<entry label="Weapon_Sword_017_Name">
+		<text>Mighty Lynel Sword</text>
+	</entry>
+	<entry label="Weapon_Sword_019_Desc">
+		<text>A skeletal arm that keeps moving even after
+it’s severed from its body. It's kind of gross to
+strap it to your back, but it'll do in a pinch.
+It's old and fragile, so it's quick to break.</text>
+	</entry>
+	<entry label="Weapon_Sword_018_Name">
+		<text>Savage Lynel Sword</text>
 	</entry>
 	<entry label="Weapon_Sword_080_Desc">
 		<text>The legendary sword that seals the
@@ -644,11 +517,26 @@ darkness, a blade whose sacred glow can
 combat the Calamity. Link's conquests in the
 Trial of the Sword have amplified its splendor.</text>
 	</entry>
-	<entry label="Weapon_Sword_062_Desc">
-		<text>A magical rod that can shoot balls of
-electricity. Its gem contains lightning from
-the Hyrule Hills. It's not recommended to
-use as a melee weapon.</text>
+	<entry label="Weapon_Sword_019_Name">
+		<text>Bokoblin Arm</text>
+	</entry>
+	<entry label="Weapon_Sword_081_Desc">
+		<text>The legendary sword that seals the
+darkness, a blade that can combat the
+Calamity. Link's triumph over the Trial of
+the Sword has awakened its true splendor.</text>
+	</entry>
+	<entry label="Weapon_Sword_502_Desc">
+		<text>A weapon that defeats foes with one hit and
+causes the user to die from one hit. It loses
+its sheen and power after two consecutive
+uses, but will eventually regain both.</text>
+	</entry>
+	<entry label="Weapon_Sword_080_Name">
+		<text>Master Sword</text>
+	</entry>
+	<entry label="Weapon_Sword_081_Name">
+		<text>Master Sword</text>
 	</entry>
 	<entry label="Weapon_Sword_044_Desc">
 		<text>Wooden branches such as this are pretty
@@ -656,34 +544,20 @@ common, but it's surprisingly well-balanced.
 It doesn't do much damage but can serve
 as a weapon in a pinch.</text>
 	</entry>
-	<entry label="Weapon_Sword_060_Name">
-		<text>Fire Rod</text>
+	<entry label="Weapon_Sword_047_Desc">
+		<text>A Sheikah-made replica of the sword that
+seals the darkness. It was made with ancient
+technology to oppose the Great Calamity,
+but its low durability made it inefficient.</text>
 	</entry>
-	<entry label="Weapon_Sword_024_PictureBook">
-		<text>The Hyrulean royal family would award this
-sword to knights who achieved remarkable
-feats. A sword that balances strength and
-beauty as elegantly as this one is a rare find.</text>
+	<entry label="Weapon_Sword_048_Desc">
+		<text>A magical rod that can cast three fireballs
+at once, crafted by an ancient magician.
+It will break upon running out of magical
+energy, so make it last!</text>
 	</entry>
-	<entry label="Weapon_Sword_049_Name">
-		<text>Blizzard Rod</text>
-	</entry>
-	<entry label="Weapon_Sword_502_Name">
-		<text>One-Hit Obliterator</text>
-	</entry>
-	<entry label="Weapon_Sword_001_Desc">
-		<text>A very common sword often kept by travelers
-to fend off small beasts. It's fairly durable
-but a bit unreliable against monsters.</text>
-	</entry>
-	<entry label="Weapon_Sword_024_Name">
-		<text>Royal Broadsword</text>
-	</entry>
-	<entry label="Weapon_Sword_052_PictureBook">
-		<text>A famous sword once beloved by the Gerudo
-Champion Urbosa. It is said that when
-Urbosa swung this sword in battle, her
-movements resembled a beautiful dance.</text>
+	<entry label="Weapon_Sword_047_Name">
+		<text>Royal Guard's Sword</text>
 	</entry>
 	<entry label="Weapon_Sword_049_Desc">
 		<text>A magical rod that can cast extreme cold in
@@ -691,22 +565,148 @@ a wide range. These are crafted from refined
 ice found at the summit of Hebra Peak.
 It will break when depleted.</text>
 	</entry>
+	<entry label="Weapon_Sword_048_Name">
+		<text>Meteor Rod</text>
+	</entry>
+	<entry label="Weapon_Sword_020_Desc">
+		<text>The arm of a Stalizalfos that continues to
+struggle even in death. It can be used as a
+weapon, but it's very brittle. You can feel it
+wiggling when you strap it to your back...</text>
+	</entry>
+	<entry label="Weapon_Sword_021_Desc">
+		<text>This once-fearsome sword has seen better
+days. It can do some damage in the right
+hands but also breaks quickly.</text>
+	</entry>
+	<entry label="Weapon_Sword_049_Name">
+		<text>Blizzard Rod</text>
+	</entry>
+	<entry label="Weapon_Sword_022_Desc">
+		<text>A kitchen implement often used for serving
+delicious soups. It was carved from the wood
+of a sturdy tree, so it actually packs quite
+the wallop.</text>
+	</entry>
+	<entry label="Weapon_Sword_020_Name">
+		<text>Lizalfos Arm</text>
+	</entry>
+	<entry label="Weapon_Sword_023_Desc">
+		<text>The blade of this sword was made using an
+ancient power lost to this modern age. Its
+blade appears only when drawn, and its
+cutting power surpasses metal swords.</text>
+	</entry>
+	<entry label="Weapon_Sword_021_Name">
+		<text>Rusty Broadsword</text>
+	</entry>
+	<entry label="Weapon_Sword_060_Name">
+		<text>Fire Rod</text>
+	</entry>
+	<entry label="Weapon_Sword_022_Name">
+		<text>Soup Ladle</text>
+	</entry>
 	<entry label="Weapon_Sword_024_Desc">
 		<text>The Hyrulean royal family would award this
 sword to knights who achieved remarkable
 feats. A sword that balances strength and
 beauty as elegantly as this one is a rare find.</text>
 	</entry>
-	<entry label="Weapon_Sword_006_Name">
-		<text>Dragonbone Boko Club</text>
+	<entry label="Weapon_Sword_061_Name">
+		<text>Ice Rod</text>
 	</entry>
-	<entry label="Weapon_Sword_029_Name">
-		<text>Gerudo Scimitar</text>
+	<entry label="Weapon_Sword_025_Desc">
+		<text>Koroks made this sword for Hylians. It's
+made of wood, so it isn't the best choice for
+head-on attacks. Its original intent was likely
+clearing vines to forge paths through forests.</text>
 	</entry>
-	<entry label="Weapon_Sword_006_Desc">
-		<text>This Bokoblin club has been reinforced with
-fossilized bones to maximize clobbering
-potential. Only the brawniest of Bokoblins
-can manage its immense weight.</text>
+	<entry label="Weapon_Sword_023_Name">
+		<text>Ancient Short Sword</text>
+	</entry>
+	<entry label="Weapon_Sword_062_Name">
+		<text>Lightning Rod</text>
+	</entry>
+	<entry label="Weapon_Sword_051_PictureBook">
+		<text>This throwing weapon was originally used by
+the forest-dwelling Koroks. Its unique shape
+allows it to return after being thrown.</text>
+	</entry>
+	<entry label="Weapon_Sword_024_Name">
+		<text>Royal Broadsword</text>
+	</entry>
+	<entry label="Weapon_Sword_060_PictureBook">
+		<text>A magical rod that can cast fireballs, said to
+have been crafted by an ancient magician.
+The rod will break if it strikes something
+directly, so use it wisely.</text>
+	</entry>
+	<entry label="Weapon_Sword_025_Name">
+		<text>Forest Dweller's Sword</text>
+	</entry>
+	<entry label="Weapon_Sword_027_Desc">
+		<text>The ornamentation that adorns this blade is
+a traditional Zora design. It's forged from a
+very durable and rust-proof metal.</text>
+	</entry>
+	<entry label="Weapon_Sword_041_PictureBook">
+		<text>A single-edged sword traditional to the
+Sheikah tribe. Forged using ancient
+technology, it's said to be among the
+sharpest conventional weapons ever made.</text>
+	</entry>
+	<entry label="Weapon_Sword_050_PictureBook">
+		<text>A magical rod that can hurl three balls of
+electricity at once. Its gem contains
+electricity from the Hyrule Hills, and the rod
+will break when that electricity runs out.</text>
+	</entry>
+	<entry label="Weapon_Sword_022_PictureBook">
+		<text>A kitchen implement often used for serving
+delicious soups. It was carved from the wood
+of a sturdy tree, so it actually packs quite
+the wallop.</text>
+	</entry>
+	<entry label="Weapon_Sword_040_PictureBook">
+		<text>This strange hammer is one of Kilton's
+specialties. Being struck by it doesn't hurt
+much, but the fourth swing in a string of
+attacks will send the victim flying.</text>
+	</entry>
+	<entry label="Weapon_Sword_031_PictureBook">
+		<text>Rito craftsmen forged this lightweight,
+double-edged sword so Rito warriors
+could soar into battle unhindered by
+its weight.</text>
+	</entry>
+	<entry label="Weapon_Sword_013_PictureBook">
+		<text>A sword often wielded by Guardian Scouts.
+Its blue energy blade is a product of ancient
+technology. It's not very durable.</text>
+	</entry>
+	<entry label="Weapon_Sword_003_PictureBook">
+		<text>Knights of Hyrule once carried this sword.
+These days it's the weapon of choice for
+seasoned adventurers thanks to its ease
+of use and high attack power.</text>
+	</entry>
+	<entry label="Weapon_Sword_027_Name">
+		<text>Zora Sword</text>
+	</entry>
+	<entry label="Weapon_Sword_029_PictureBook">
+		<text>This common sword is often carried by
+Gerudo women for self-defense. Its short,
+curved blade is easily recognized.</text>
+	</entry>
+	<entry label="Weapon_Sword_021_PictureBook">
+		<text>This once-fearsome sword has seen better
+days. It can do some damage in the right
+hands but also breaks quickly.</text>
+	</entry>
+	<entry label="Weapon_Sword_047_PictureBook">
+		<text>A Sheikah-made replica of the sword that
+seals the darkness. It was made with ancient
+technology to oppose the Great Calamity,
+but its low durability made it inefficient.</text>
 	</entry>
 </xmsbt>

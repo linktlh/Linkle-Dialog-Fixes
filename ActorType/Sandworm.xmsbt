@@ -3,6 +3,14 @@
 	<entry label="Enemy_Sandworm_Name">
 		<text>Molduga</text>
 	</entry>
+	<entry label="Enemy_SandwormR_PictureBook">
+		<text>This massive monster swims beneath the
+desert's sand. It is a subspecies of Molduga
+that stored up a great deal of energy by
+sleeping underground for hundreds of years.
+Its power is superior to Molduga, as its skin is
+rich with iron and acts as a protective shield.</text>
+	</entry>
 	<entry label="Enemy_Sandworm_PictureBook">
 		<text>This massive monster swims beneath the
 desert's sand. It spends most of its time
@@ -11,5 +19,8 @@ breach the surface to feast on whatever
 it can grab. Running around carelessly
 can be dangerous if you suspect there
 may be one in the area.</text>
+	</entry>
+	<entry label="Enemy_SandwormR_Name">
+		<text>Molduking</text>
 	</entry>
 </xmsbt>

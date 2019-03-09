@@ -1,0 +1,60 @@
+---
+entries:
+  QL_RitoMini_IceGolem_Desc:
+    - text: "Gesane, a Rito Village guardsman, said he \nsaw a frost Talus over at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Coldsnap Hollow
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\nIf you encounter a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Frost Talus
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " in your\ntravels there, be sure to destroy it."
+    - utf16_bytes:
+        - 0
+  QL_RitoMini_IceGolem_Finish:
+    - text: "You told the guardsman Gesane at Rito Village\nthat you destroyed the Frost Talus in\nColdsnap Hollow.\n\nGesane offered you rupees as thanks,\nwhich you gracefully accepted."
+    - utf16_bytes:
+        - 0
+  QL_RitoMini_IceGolem_Name:
+    - text: "Face the Frost Talus "
+    - utf16_bytes:
+        - 0
+  QL_RitoMini_IceGolem_Beated:
+    - text: "You defeated the Frost Talus at\nColdsnap Hollow! "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Gesane
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " at Rito Village\nwill surely be pleased once you report\nback to him."
+    - utf16_bytes:
+        - 0

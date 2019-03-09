@@ -1,0 +1,618 @@
+---
+entries:
+  Com_Talk_13:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: Well? How many?
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+    - text: ᕼᖄᕿȀ
+    - utf16_bytes:
+        - 0
+  Com_Talk_14:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Right, "
+    - utf16_bytes:
+        - 14
+        - 2
+        - 15
+    - text: "&\"Shop_TradeItemNum"
+    - utf16_bytes:
+        - 0
+    - text: ", huh...\nThat means it'll be "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - text: " "
+    - utf16_bytes:
+        - 28
+    - text: ShopTradePrice
+    - utf16_bytes:
+        - 0
+    - text: " rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ᕼᕽĀ
+    - utf16_bytes:
+        - 0
+  Com_Talk_60:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "That'll be "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 16
+    - text: ",(Shop_SelectItemPrice"
+    - utf16_bytes:
+        - 0
+    - text: " rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ᕼᕽĀ
+    - utf16_bytes:
+        - 0
+  Com_Talk_15:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ЀSorry...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I can't buy that from you."
+    - utf16_bytes:
+        - 0
+  Com_Talk_61:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ȁ...Right.
+    - utf16_bytes:
+        - 0
+  Com_Talk_16:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2304
+    - text: "You realize you're still wearing that,\nright? Credit for being creative, but\nyou'll have to take that off yourself."
+    - utf16_bytes:
+        - 0
+  Talk_11:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀThis is the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gerudo Secret Club
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ",\nor "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: GSC
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " for short.\n\nThis is the only shop in Gerudo Town\nwhere someone could buy clothes meant\nfor a voe to wear.\nDespite it being illegal to sell voe\nclothing in this town, there is a high\ndemand for such things.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "I've never seen a voe disguise\nhimself as a vai like you have,\nthough..."
+    - utf16_bytes:
+        - 0
+  Talk_12:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "Haha, don't worry..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Your secret is safe\nwith me."
+    - utf16_bytes:
+        - 0
+  Talk_13:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀOh ho. That's a special one,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " made using \n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: luminous stone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\nIf you're interested, you'll need "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "to trade\nme the materials"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Oh, and there's a\nhandling fee, too."
+    - utf16_bytes:
+        - 0
+  Talk_14:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: "Sarqso. It's a precious item, so be sure\nto take good care of it."
+    - utf16_bytes:
+        - 0
+  Talk_15:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: "Sarqso. I recommend pairing it with\nother clothing items from this series."
+    - utf16_bytes:
+        - 0
+  Com_Talk_33:
+    - text: "Just one, huh?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nIn that case, it'll be "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - text: " "
+    - utf16_bytes:
+        - 28
+    - text: ShopTradePrice
+    - utf16_bytes:
+        - 0
+    - text: " rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ᕼᕽĀ
+    - utf16_bytes:
+        - 0
+  Com_Talk_05b:
+    - text: Are you finished already?
+    - utf16_bytes:
+        - 0
+  Com_Talk_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Though I'd love to pick up something\nrare, if you've got anything like that..."
+    - utf16_bytes:
+        - 0
+  Com_Talk_35:
+    - text: "Every single one? Well then, that'll\nbe..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - text: " "
+    - utf16_bytes:
+        - 28
+    - text: ShopTradePrice
+    - utf16_bytes:
+        - 0
+    - text: " rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ᕼᕽĀ
+    - utf16_bytes:
+        - 0
+  Com_Talk_05c:
+    - text: "Heehee, if it's OK with you, I'd gladly\ntake something off your hands."
+    - utf16_bytes:
+        - 0
+  "0006":
+    - text: What is this place?
+    - utf16_bytes:
+        - 0
+  Com_Talk_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: For that...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "how about "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - text: " "
+    - utf16_bytes:
+        - 28
+    - text: ShopTradePrice
+    - utf16_bytes:
+        - 0
+    - text: " rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ᕼᕽĀ
+    - utf16_bytes:
+        - 0
+  Com_Talk_05d:
+    - text: "I haven't traveled very much, so you'd\nreally help me out by selling me a lot\nof stuff."
+    - utf16_bytes:
+        - 0
+  "0007":
+    - text: Buy from me!
+    - utf16_bytes:
+        - 0
+  Com_Talk_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: Sarqso.
+    - utf16_bytes:
+        - 0
+  "0008":
+    - text: I should be going.
+    - utf16_bytes:
+        - 0
+  Com_Talk_04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ȀOh.
+    - utf16_bytes:
+        - 0
+  Com_Talk_02b:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "Heehee, first-class deal. Sarqso."
+    - utf16_bytes:
+        - 0
+  Com_Talk_05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "I'd be happier if it were something\nmore uncommon..."
+    - utf16_bytes:
+        - 0
+  Com_Talk_02c:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ᤁPretty good deal, heehee. Sarqso."
+    - utf16_bytes:
+        - 0
+  Com_Talk_02d:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ᤁI was just thinking about how I wanted\none of these. Sarqso."
+    - utf16_bytes:
+        - 0
+  "5500":
+    - text: Sure!
+    - utf16_bytes:
+        - 0
+  "5501":
+    - text: Never mind.
+    - utf16_bytes:
+        - 0
+  Talk_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ā
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "촛Sav'saaba.\n\n\nElsewhere it might be sav'otta or\nsav'aaq, but here it's always sav'saaba."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 6
+        - 7
+        - 8
+    - text: Ȁ
+    - utf16_bytes:
+        - 0
+  Talk_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "We each have something to hide, I\nsuppose. Let's ignore that and move on\nto business."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 6
+        - 7
+        - 8
+    - text: Ȁ
+    - utf16_bytes:
+        - 0
+  "5503":
+    - text: Never mind.
+    - utf16_bytes:
+        - 0
+  Talk_03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀHave you ever noticed how the darker it\nis, the more beautiful the light becomes?\nIsn't it great, young voe? Er, young vai?"
+    - utf16_bytes:
+        - 0
+  Talk_04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀTime to go, is it?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " I'm not surprised."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nYou've bought everything I have."
+    - utf16_bytes:
+        - 0
+  Talk_05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀI suppose I could. But I won't be paying\nmore than any other trader would."
+    - utf16_bytes:
+        - 0
+  Talk_06:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: Sarqso.
+    - utf16_bytes:
+        - 0
+  Talk_07:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "Hahaha...sarqso.\nI'll make sure to restock for you."
+    - utf16_bytes:
+        - 0
+  "5508":
+    - text: All of them.
+    - utf16_bytes:
+        - 0
+  Talk_09:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀThe bright light of the sun doesn't agree\nwith me. I haven't paid my respects to\nit for many years..."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 6
+        - 7
+        - 8
+    - text: Ȁ
+    - utf16_bytes:
+        - 0

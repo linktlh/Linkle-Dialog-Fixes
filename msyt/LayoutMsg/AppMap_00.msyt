@@ -1,0 +1,254 @@
+---
+entries:
+  Pa_SensorIcon_00-T_Off_00:
+    - text: "Off"
+    - utf16_bytes:
+        - 0
+  Pa_SensorIcon_00-T_Ancient_00:
+    - text: SheikahSensor
+    - utf16_bytes:
+        - 0
+  Pa_StampBox_00-T_StampBoxTitle_00:
+    - text: Stamp Box
+    - utf16_bytes:
+        - 0
+  Pa_Cursor_00-T_StampPin_00:
+    - text: Stamp/Map pin
+    - utf16_bytes:
+        - 0
+  "0030":
+    - text: "OFF"
+    - utf16_bytes:
+        - 0
+  "0031":
+    - text: Change Target
+    - utf16_bytes:
+        - 0
+  "0032":
+    - text: Korok
+    - utf16_bytes:
+        - 0
+  "0010":
+    - text: Wolf Link
+    - utf16_bytes:
+        - 0
+  "0033":
+    - text: Travel Medallion
+    - utf16_bytes:
+        - 0
+  "0011":
+    - text: R.I.P.
+    - utf16_bytes:
+        - 0
+  "0034":
+    - text: Pause
+    - utf16_bytes:
+        - 0
+  "0012":
+    - text: Current Location
+    - utf16_bytes:
+        - 0
+  "0035":
+    - text: Manual Replay x
+    - utf16_bytes:
+        - 0
+  "0013":
+    - text: Guardian
+    - utf16_bytes:
+        - 0
+  "0036":
+    - text: Master Cycle Zero
+    - utf16_bytes:
+        - 0
+  "0014":
+    - text: Inn
+    - utf16_bytes:
+        - 0
+  "0015":
+    - text: Jewelry Shop
+    - utf16_bytes:
+        - 0
+  Pa_StampBox_00-T_DecoD_00:
+    - text: SHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESH
+    - utf16_bytes:
+        - 0
+  "0016":
+    - text: Armor Shop
+    - utf16_bytes:
+        - 0
+  "0017":
+    - text: General Store
+    - utf16_bytes:
+        - 0
+  "0018":
+    - text: Objective
+    - utf16_bytes:
+        - 0
+  Pa_StampBox_00-T_DecoU_00:
+    - text: TESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATE
+    - utf16_bytes:
+        - 0
+  Pa_Time_01-T_Ancient_00:
+    - text: clock
+    - utf16_bytes:
+        - 0
+  Pa_SensorIcon_00-T_SensorOn_00:
+    - text: Shrine
+    - utf16_bytes:
+        - 0
+  Pa_SensorBox_00-T_SensorTitle_00:
+    - text: Select search target.
+    - utf16_bytes:
+        - 0
+  Pa_Temp_01-T_Ancient_00:
+    - text: thermometer
+    - utf16_bytes:
+        - 0
+  "0021":
+    - text: Dye Shop
+    - utf16_bytes:
+        - 0
+  "0022":
+    - text: Stamp
+    - utf16_bytes:
+        - 0
+  "0000":
+    - text: Travel
+    - utf16_bytes:
+        - 0
+  "0023":
+    - text: Searching for Shrines
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: Whistle
+    - utf16_bytes:
+        - 0
+  "0024":
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 4
+    - text: The sensor reacts when you are close to shrines that you
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 5
+    - text: have not yet visited
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+        - 14
+        - 0
+        - 3
+        - 2
+        - 4
+    - text: ". If you head in "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 5
+    - text: "the direction where the\nreaction is strongest"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 4
+    - text: ", you should be able to find the shrine."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+        - 0
+  "0002":
+    - text: Pin
+    - utf16_bytes:
+        - 0
+  "0025":
+    - text: SheikahSensor
+    - utf16_bytes:
+        - 0
+  "0003":
+    - text: Stamp
+    - utf16_bytes:
+        - 0
+  "0026":
+    - text: Searching for Compendium Items
+    - utf16_bytes:
+        - 0
+  "0004":
+    - text: Select
+    - utf16_bytes:
+        - 0
+  "0027":
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 4
+    - text: "If your sensor has been augmented to search for things other than\nshrines, it will react when you are close to the thing you have set\nit to look for. Head in "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 5
+    - text: the direction where the reaction is strongest
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 4
+    - text: ",\nand you should be able to find the thing you are looking for."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+        - 0
+  "0005":
+    - text: Stamp
+    - utf16_bytes:
+        - 0
+  "0028":
+    - text: Shrine
+    - utf16_bytes:
+        - 0
+  "0029":
+    - text: Pick from Compendium
+    - utf16_bytes:
+        - 0
+  "0009":
+    - text: Yunobo
+    - utf16_bytes:
+        - 0
+  Pa_Temp_01-T_Error_00:
+    - text: Error
+    - utf16_bytes:
+        - 0
+  Pa_Comp_00-T_Ancient_00:
+    - text: Achievement
+    - utf16_bytes:
+        - 0

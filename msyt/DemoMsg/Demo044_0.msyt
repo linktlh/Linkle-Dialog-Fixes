@@ -1,0 +1,753 @@
+---
+entries:
+  Demo044_0_Text022:
+    - text: "There are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: two terminals
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " remaining!\nStay focused!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: i
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text023:
+    - text: "There are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: three terminals
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " remaining!\nHang in there!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "["
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text011:
+    - text: "Just "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "one terminal "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "remaining!\nJust "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "one "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: more!
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: n
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text024:
+    - text: "There are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: four terminals
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " remaining!\nI'm counting on you!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: e
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text037:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 18
+        - 16
+    - text: "ActivateMain control unit abnormality detected.\nUnable to authenticate Sheikah Slate."
+    - utf16_bytes:
+        - 0
+  Demo044_0_Text012:
+    - text: "There are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: two terminals
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " remaining!\nJust a little more!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: z
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text038:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 18
+        - 16
+    - text: "ActivateSheikah Slate authenticated.\n\n\n"
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 18
+        - 16
+    - text: "ActivateUnable to activate main control unit.\nUnactivated terminals remain."
+    - utf16_bytes:
+        - 0
+  Demo044_0_Text013:
+    - text: "There are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: three terminals
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " remaining!\nAll right, let's get movin'!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+        - 148
+        - 0
+        - 0
+  Demo044_0_Text039:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 18
+        - 16
+    - text: ActivateSheikah Slate authenticated.
+    - utf16_bytes:
+        - 0
+  Demo044_0_Text001:
+    - text: "Just "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: one
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "terminal "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "remaining!\nWhat do you know?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+        - 139
+        - 0
+        - 0
+  Demo044_0_Text014:
+    - text: "There are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "four terminals "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "remaining!\nThat's the way!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: e
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text027:
+    - text: "Well done! That was the last of the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: terminals
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". Now...you'll need to\nstart up the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: main control unit
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: Ç
+    - utf16_bytes:
+        - 0
+    - text: "\nTake a good look at your map. Head for\nthe glowing mark you see there.\nYou're doing well..."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: â
+    - utf16_bytes:
+        - 0
+    - text: "\nbut overconfidence can be a\ndeadly foe."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: L
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text002:
+    - text: "There are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: two
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "terminals "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "remaining.\nYou're almost there."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: p
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text003:
+    - text: "There are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: three terminals
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " remaining!\nKeep going."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "`"
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text004:
+    - text: "There are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: four
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "terminals "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "remaining!\nStill a ways to go."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: q
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text017:
+    - text: "Nice! That was the last "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: terminal
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\nNow go ahead and start up the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: main control unit
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: Å
+    - utf16_bytes:
+        - 0
+    - text: "\nThere should be a new glowing mark on\nyour map. You're gonna need to make\nyour way over to that."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: ®
+    - utf16_bytes:
+        - 0
+    - text: "\nStay focused, little guy!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "="
+    - utf16_bytes:
+        - 0
+        - 0
+  "0000":
+    - text: Yes.
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: No.
+    - utf16_bytes:
+        - 0
+  Demo044_0_Text007:
+    - text: "That was the last "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: terminal
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\nNow you just need to start the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: main control unit
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: ·
+    - utf16_bytes:
+        - 0
+    - text: "\nI want you to take a good look at your\nmap. There should be a new glowing\npoint on there. Well?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: é
+    - utf16_bytes:
+        - 0
+    - text: "\nFlap to it!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "\""
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text040:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 18
+        - 16
+    - text: "ActivateOnce you activate the main control unit,\nyou will not be able to reenter the\ninterior of this Divine Beast.\n"
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 18
+        - 16
+    - text: ActivateDo you still wish to activate it?
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 0
+        - 1
+    - text: ā
+    - utf16_bytes:
+        - 0
+  Demo044_0_Text043:
+    - text: "You activated all the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: terminals
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\nNow you can start the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: main control unit
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+        - 149
+        - 0
+    - text: "\nThere should be a new glowing mark on\nyour map. Head there!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: u
+    - utf16_bytes:
+        - 0
+    - text: "\n\nBe careful not to let your guard down."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "9"
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text031:
+    - text: "Just "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "one terminal "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "remaining!\nI have faith in you!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: u
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text032:
+    - text: "There are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: two terminals
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " remaining.\nYou're nearly there..."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: m
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text033:
+    - text: "There are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: three terminals
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " remaining.\nYou can do it!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: _
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text021:
+    - text: "Just "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "one terminal "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "remaining!\nYou're almost there!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: m
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo044_0_Text034:
+    - text: "There are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: four terminals
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " remaining.\nDon't give up!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "`"
+    - utf16_bytes:
+        - 0
+        - 0

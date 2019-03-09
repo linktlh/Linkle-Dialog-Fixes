@@ -1,0 +1,104 @@
+---
+entries:
+  QL_TreasureHunt04_Desc:
+    - text: "Rumor has it a Royal Guard uniform can still be\nfound at Hyrule Castle.\n\nApparently "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Riverside Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " has a copy of\nSuper Rumor Mill EX, which details some\nrumors about this rare outfit."
+    - utf16_bytes:
+        - 0
+  QL_TreasureHunt04_Finish:
+    - text: "You found the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: royal guard uniform
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " from treasure\nchests in the hidden room near the dining hall,\nthe storage space in the guards' chamber,\nand on the second floor of the castle.\n\nBelieving those rumors really paid off!"
+    - utf16_bytes:
+        - 0
+  QL_TreasureHunt04_Step01:
+    - text: "You read Super Rumor Mill EX: Volume 4!\nAccording to this special issue, Hyrule Castle\nstill houses a uniform once belonging to the\nroyal guards who protected the royal family.\nIt can supposedly be found in treasure chests\nhidden near the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: dining hall
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", in the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "guards'\nchamber"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", and on the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: second floor
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\nIf you believe the rumors, try to find the\nhidden treasure!\nTreasure chests remaining: "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 2
+    - text: ":6TreasureHunt04_RemainingBox"
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+        - 0
+  QL_TreasureHunt04_Name:
+    - text: EX Royal Guard Rumors
+    - utf16_bytes:
+        - 0

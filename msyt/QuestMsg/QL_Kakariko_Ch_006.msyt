@@ -1,0 +1,46 @@
+---
+entries:
+  QL_Kakariko_Ch_006_Name:
+    - text: Arrows of Burning Heat
+    - utf16_bytes:
+        - 0
+  QL_Kakariko_Ch_006_Desc:
+    - text: "When Rola, owner of the general store, judged\nyou as a capable archer, she wasted no time\nrecruiting you for a seemingly simple job.\n\nAll she asked was that you \""
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "light the torches\nby the Goddess Statue"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\" in the village, but her\nsuspiciously sweet smile made it clear that\nthis task would require unconventional methods."
+    - utf16_bytes:
+        - 0
+  QL_Kakariko_Ch_006_Light:
+    - text: "\""
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Light the torches by the Goddess Statue
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\"\n\nYou did as Rola asked and lit the torches.\nGo to her general store and tell her that\nwhat she requested is done."
+    - utf16_bytes:
+        - 0
+  QL_Kakariko_Ch_006_Finish:
+    - text: "In lighting the torches, you seem to have also\nignited Rola's passion. The day that she\ncan reunite with her husband may not be so\nfar off."
+    - utf16_bytes:
+        - 0

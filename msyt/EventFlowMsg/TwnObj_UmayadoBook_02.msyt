@@ -1,0 +1,48 @@
+---
+entries:
+  "0000":
+    - text: Read.
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: "Don't read."
+    - utf16_bytes:
+        - 0
+  Book00:
+    - utf16_bytes:
+        - 14
+        - 1
+        - 2
+        - 0
+    - text: "Time for gossip and news about the past\nand the future! Today's topic is...\n\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "}The Weird and Wonderful\nSpirit Koroks!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "d\n\nAt the moment the night is at its\ndarkest, when even the trees have\ndrifted into slumber...\nActually, the time of day doesn't matter\nat all... Anyway...\n\nAll throughout the world, you may spot\nthese odd little spirit critters as you\nwander the land.\nThey could be under a rock, or way out\nin the wilds, or even just in a suspicious\nnook that seems slightly not right...\nReal eerie, huh?\n\n\nTraysi's Recommendation: ★★★☆☆"
+    - utf16_bytes:
+        - 0
+  BookFirst:
+    - utf16_bytes:
+        - 14
+        - 1
+        - 2
+        - 0
+    - text: "Rumor Mill: Volume 3"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 0
+        - 1
+    - text: Ā
+    - utf16_bytes:
+        - 0

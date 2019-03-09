@@ -1,0 +1,118 @@
+---
+entries:
+  QL_TreasureHunt_touzoku03_Name:
+    - text: "EX Treasure: Fairy Clothes"
+    - utf16_bytes:
+        - 0
+  QL_TreasureHunt_touzoku03_Finish:
+    - text: "\"The green garments of the man who wished to\nbe a fairy are hidden in the ruins of Hyrule Field.\nFind these pieces at the ruins where trade\nflourished...at the ruins where sinners were\nimprisoned...and at the village ruins next to\nfarmland where many people once gathered.\"\n\nYou found the treasure that was hidden\nat Exchange Ruins, Castle Town Prison,\nand Mabe Village Ruins. You obtained\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Tingle's Outfit"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 0
+  QL_TreasureHunt_touzoku03_Step01:
+    - text: "\"The green garments of the man who wished to\nbe a fairy are hidden "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: in the ruins of Hyrule Field
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nFind these pieces "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "at the ruins where trade\nflourished"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "at the ruins where sinners were\nimprisoned"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "...and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "at the village ruins next to\nfarmland where many people once gathered"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\"\n\nMisko's EX Journal gives the location\nof the fairy's green garments.\nGarments still hidden: "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 2
+    - text: JFTreasureHunt_touzoku03_RemainingBox
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+        - 0
+  QL_TreasureHunt_touzoku03_Desc:
+    - text: "The royal family of Hyrule collected historically\nsignificant outfits, but they were stolen by a\nbandit named Misko. Among the items stolen\nwere a fairy's green garments.\n\nThere's a journal that places the locations of\nthe treasure somewhere in the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Outpost Ruins
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 0

@@ -1,0 +1,362 @@
+---
+entries:
+  Guide_Surfing_Msg:
+    - text: Hop on your shield and slide down hills.
+    - utf16_bytes:
+        - 0
+  Guide_Shield_Msg:
+    - text: Block when using a one-handed weapon.
+    - utf16_bytes:
+        - 0
+  Guide_SpinAtack_Msg:
+    - text: Prepare and unleash a powerful attack.
+    - utf16_bytes:
+        - 0
+  Guide_Attention_Sub00:
+    - text: Press and hold
+    - utf16_bytes:
+        - 0
+  Guide_GurdJust_Sub00:
+    - text: Ready shield
+    - utf16_bytes:
+        - 0
+  Guide_SideStep_Sub00:
+    - text: Target enemy
+    - utf16_bytes:
+        - 0
+  Guide_PadMenu:
+    - text: Check Sheikah Slate
+    - utf16_bytes:
+        - 0
+  Guide_Bow_Sub00:
+    - text: Draw bow
+    - utf16_bytes:
+        - 0
+  Guide_Quest:
+    - text: Open Adventure Log
+    - utf16_bytes:
+        - 0
+  Guide_GurdJust_Sub01:
+    - text: Parry
+    - utf16_bytes:
+        - 0
+  Guide_SideStep_Sub01:
+    - text: Strafe
+    - utf16_bytes:
+        - 0
+  Guide_Bow_Sub01:
+    - text: Release to fire
+    - utf16_bytes:
+        - 0
+  Guide_SideStep_Sub02:
+    - text: Jump
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutItem:
+    - text: Change Runes
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutShield_Msg:
+    - text: You can switch shields quickly.
+    - utf16_bytes:
+        - 0
+  Guide_GurdJust_Msg:
+    - text: Parry at the right time to knock an enemy back.
+    - utf16_bytes:
+        - 0
+  Guide_SystemMenu_Msg:
+    - text: "Check controls, save, or adjust game options."
+    - utf16_bytes:
+        - 0
+  Guide_amiibo_Msg:
+    - text: Touch an amiibo to the NFC touchpoint.
+    - utf16_bytes:
+        - 0
+  Guide_Throw_Msg:
+    - text: You can throw the weapon in your hand.
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutShield:
+    - text: Change Shield
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutArrow_Sub00:
+    - text: Draw bow
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutArrow_Sub01:
+    - text: Press and hold
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutItem_Sub00:
+    - text: Press and hold
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutArrow_Sub02:
+    - text: Switch
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutItem_Sub01:
+    - text: Switch
+    - utf16_bytes:
+        - 0
+  Guide_SpinAtack_Sub00:
+    - text: Build power
+    - utf16_bytes:
+        - 0
+  Guide_SpinAtack_Sub01:
+    - text: Release
+    - utf16_bytes:
+        - 0
+  Guide_SpinAtack:
+    - text: Charged Attacks
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutShield_Sub00:
+    - text: Press and hold
+    - utf16_bytes:
+        - 0
+  Guide_Attention_Msg:
+    - text: Effective for targeting.
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutShield_Sub01:
+    - text: Switch
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutSword:
+    - text: Change Weapon
+    - utf16_bytes:
+        - 0
+  Guide_Attack_Msg:
+    - text: Attack with your equipped weapon.
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutBow_Msg:
+    - text: You can switch bows quickly.
+    - utf16_bytes:
+        - 0
+  Guide_ItemUse_Msg:
+    - text: Use selected rune from your Sheikah Slate.
+    - utf16_bytes:
+        - 0
+  Guide_Throw_Sub00:
+    - text: Aim (Hold)
+    - utf16_bytes:
+        - 0
+  Guide_Throw_Sub01:
+    - text: Throw (Release)
+    - utf16_bytes:
+        - 0
+  Guide_Shield:
+    - text: Raise Your Shield
+    - utf16_bytes:
+        - 0
+  Guide_Surfing:
+    - text: Shield Surf
+    - utf16_bytes:
+        - 0
+  Guide_GurdJust:
+    - text: Perfect Guard
+    - utf16_bytes:
+        - 0
+  Guide_SideStep_Msg:
+    - text: Dodge enemy attacks by hopping sideways.
+    - utf16_bytes:
+        - 0
+  Guide_Pause_Msg:
+    - text: "Equip weapons, armor, and other gear here."
+    - utf16_bytes:
+        - 0
+  Guide_BackStep_Msg:
+    - text: Dodge enemy attacks by flipping backward.
+    - utf16_bytes:
+        - 0
+  Guide_Squat:
+    - text: Crouch
+    - utf16_bytes:
+        - 0
+  Guide_Whistle:
+    - text: Whistle
+    - utf16_bytes:
+        - 0
+  Guide_Bow:
+    - text: Attack with Bow
+    - utf16_bytes:
+        - 0
+  Guide_PadMenu_Msg:
+    - text: Access your Sheikah Slate.
+    - utf16_bytes:
+        - 0
+  Guide_Squat_Msg:
+    - text: Allows you to move quietly.
+    - utf16_bytes:
+        - 0
+  Guide_Quest_Msg:
+    - text: Your adventures will be detailed here.
+    - utf16_bytes:
+        - 0
+  Guide_Attention:
+    - text: Lock on
+    - utf16_bytes:
+        - 0
+  Guide_Bow_Msg:
+    - text: Equip a bow to attack enemies from afar.
+    - utf16_bytes:
+        - 0
+  Guide_SandSeal:
+    - text: Sand-Seal Surfing
+    - utf16_bytes:
+        - 0
+  Guide_Scope:
+    - text: The Scope and Pins
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutSword_Sub00:
+    - text: Press and hold
+    - utf16_bytes:
+        - 0
+  Guide_Shield_Sub00:
+    - text: Press and hold
+    - utf16_bytes:
+        - 0
+  Guide_SandSeal_Sub00:
+    - text: Steer
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutSword_Sub01:
+    - text: Switch
+    - utf16_bytes:
+        - 0
+  Guide_SandSeal_Sub01:
+    - text: Let go
+    - utf16_bytes:
+        - 0
+  Guide_SandSeal_Sub02:
+    - text: Dash
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutBow_Sub00:
+    - text: Draw bow
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutBow_Sub01:
+    - text: Press and hold
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutArrow_Msg:
+    - text: You can switch arrows quickly.
+    - utf16_bytes:
+        - 0
+  Guide_Attack:
+    - text: Use Weapon
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutBow_Sub02:
+    - text: Switch
+    - utf16_bytes:
+        - 0
+  Guide_SandSeal_Msg:
+    - text: You will need to equip a shield before riding.
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutBow:
+    - text: Change Bow
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutArrow:
+    - text: Change Arrows
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutSword_Msg:
+    - text: You can switch weapons quickly.
+    - utf16_bytes:
+        - 0
+  Guide_BackStep_Sub00:
+    - text: Target enemy
+    - utf16_bytes:
+        - 0
+  Guide_JumpAtack:
+    - text: Jump Slash
+    - utf16_bytes:
+        - 0
+  Guide_ItemUse:
+    - text: Use Rune
+    - utf16_bytes:
+        - 0
+  Guide_Pause:
+    - text: Open Inventory
+    - utf16_bytes:
+        - 0
+  Guide_BackStep_Sub01:
+    - text: Backpedal
+    - utf16_bytes:
+        - 0
+  Guide_amiibo:
+    - text: Use amiibo
+    - utf16_bytes:
+        - 0
+  Guide_Throw:
+    - text: Throw Weapon
+    - utf16_bytes:
+        - 0
+  Guide_Scope_Msg:
+    - text: View distant things and mark them with pins.
+    - utf16_bytes:
+        - 0
+  Guide_BackStep_Sub02:
+    - text: Jump
+    - utf16_bytes:
+        - 0
+  Guide_Surfing_Sub00:
+    - text: Guard
+    - utf16_bytes:
+        - 0
+  Guide_Surfing_Sub01:
+    - text: Jump
+    - utf16_bytes:
+        - 0
+  Guide_Surfing_Sub02:
+    - text: Ride
+    - utf16_bytes:
+        - 0
+  Guide_JumpAtack_Msg:
+    - text: Attack from above and do splash damage.
+    - utf16_bytes:
+        - 0
+  Guide_Whistle_Msg:
+    - text: Call your horse or other companion to you.
+    - utf16_bytes:
+        - 0
+  Guide_SystemMenu:
+    - text: Open System Menu
+    - utf16_bytes:
+        - 0
+  Guide_JumpAtack_Sub00:
+    - text: In midair
+    - utf16_bytes:
+        - 0
+  Guide_ShortCutItem_Msg:
+    - text: You can switch runes quickly.
+    - utf16_bytes:
+        - 0
+  Guide_SideStep:
+    - text: Side Hop
+    - utf16_bytes:
+        - 0
+  Guide_Scope_Sub00:
+    - text: Press
+    - utf16_bytes:
+        - 0
+  Guide_BackStep:
+    - text: Backflip
+    - utf16_bytes:
+        - 0
+  Guide_Scope_Sub01:
+    - text: Place a pin
+    - utf16_bytes:
+        - 0
+  Guide_Squat_Sub00:
+    - text: Press
+    - utf16_bytes:
+        - 0

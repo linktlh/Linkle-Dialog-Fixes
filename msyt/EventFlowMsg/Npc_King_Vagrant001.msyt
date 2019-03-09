@@ -1,0 +1,671 @@
+---
+entries:
+  GoodBye02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2
+    - text: Hmph!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " To an old man, a sound sleep is\nmore valuable than gold. Please do not\ndisturb me unless you have need of me."
+    - utf16_bytes:
+        - 0
+  GoodBye03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ć
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "초Ah, invigorating!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I encourage you to\njoin me by this warm fire."
+    - utf16_bytes:
+        - 0
+  GoodBye04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ĀI shall be here for some time.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nPlease let me know if I may\nbe of service."
+    - utf16_bytes:
+        - 0
+  Talk00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀHm? What's this?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ϪϫĀ
+    - utf16_bytes:
+        - 0
+  "1001":
+    - text: What is this place?
+    - utf16_bytes:
+        - 0
+  Takibi00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ĀOh... I was just feeling a chill.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " A warm\nfire can do wonders for a weary soul."
+    - utf16_bytes:
+        - 0
+  GoodBye05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀDo you not have somewhere else to be,\nyoung one?"
+    - utf16_bytes:
+        - 0
+  Talk01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ć
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 24
+        - 22
+    - text: "CustomLaughWell, hello."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " So we meet again..."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ϪϫĀ
+    - utf16_bytes:
+        - 0
+  "1002":
+    - text: What are you doing?
+    - utf16_bytes:
+        - 0
+  Takibi01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀA campfire is a wonderful place to\npass the time."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Staring into these flames, it's easy to\nlose track of the hours...\n\n"
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 촂Bah! Please ignore my ramblings.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nFeel free to relax here for as long\nas you'd like."
+    - utf16_bytes:
+        - 0
+  Talk02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "You'll catch a chill out there in the wild."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nCome warm your bones by the fire."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ϪϫĀ
+    - utf16_bytes:
+        - 0
+  "1003":
+    - text: Bye.
+    - utf16_bytes:
+        - 0
+  Takibi02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀA roaring fire makes it easy to pass\nthe time."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Feel free to relax here for\nas long as you'd like."
+    - utf16_bytes:
+        - 0
+  TerrorBomb:
+    - text: What is it?!
+    - utf16_bytes:
+        - 0
+  Talk03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀVicious beasts answer the night's call in\ngreater numbers."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Feel free to pass the\ntime here with me until the light of morn."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ϪϫĀ
+    - utf16_bytes:
+        - 0
+  Takibi03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀI'm relaxing by the fireside, of course."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nAlthough I'll need to cook myself another\nbaked apple at some point...\nSimple foods such as apples are fine to\neat raw, but roasting them on a fire\nmakes them tastier and more nutritious."
+    - utf16_bytes:
+        - 0
+  Talk04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3072
+    - text: "Hrm?! What's that?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " It seems there is\nno rest for the old and weary."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ϪϫĀ
+    - utf16_bytes:
+        - 0
+  TerrorEnemy:
+    - text: Whoa!
+    - utf16_bytes:
+        - 0
+  Near00_First:
+    - text: "..."
+    - utf16_bytes:
+        - 0
+  Talk06:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ć
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 24
+        - 22
+    - text: "CustomLaughOho ho, what are you waiting for?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nCome and sit by the fire."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ϪϫĀ
+    - utf16_bytes:
+        - 0
+  Talk07:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "I take it you are still searching for\nsome of the treasure hidden here\non the plateau, correct?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ϪϫĀ
+    - utf16_bytes:
+        - 0
+  TerrorArrow:
+    - text: What is this?!
+    - utf16_bytes:
+        - 0
+  Talk08:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "So then... How goes your endeavor to\nexplore the shrines?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ϪϫĀ
+    - utf16_bytes:
+        - 0
+  Talk09:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ć
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 24
+        - 22
+    - text: CustomLaughYes?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " How might I be of service to you?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ϪϫĀ
+    - utf16_bytes:
+        - 0
+  Apple00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3584
+    - text: "I BEG YOUR PARDON! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "I do believe that\nis my baked apple! You can't just go\nabout taking whatever you please!"
+    - utf16_bytes:
+        - 0
+  Apple01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ć
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 초Oho ho!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Forgive me—I could not resist\npulling your leg.\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀPlease help yourself. An apple and an\nopen flame make for a succulent treat."
+    - utf16_bytes:
+        - 0
+  Torch00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "᐀Well then, just help yourself to that\ntorch there. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "And how, may I ask,\nare you planning to use it?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+    - text: ߐߑߒȀ
+    - utf16_bytes:
+        - 0
+  Torch01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ԀInnovative...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " However, that is probably\nbest used to light fires. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "If you need a\nweapon, you can find something better."
+    - utf16_bytes:
+        - 0
+  Torch02:
+    - text: "Many beasts roam the land past this\npoint. You can take my axe with you,\nif you please. Assuming you can find it."
+    - utf16_bytes:
+        - 0
+  Torch03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ԀThat is rather
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "...unnerving."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Please be\ncautious with that around any dry\ngrass that might catch fire.\nYou know, there are plenty of monsters\nin this area. That torch would make\na good weapon, if need be."
+    - utf16_bytes:
+        - 0
+  TerrorImpulse:
+    - text: Whoa!
+    - utf16_bytes:
+        - 0
+  TerrorInsect:
+    - text: Whoa!
+    - utf16_bytes:
+        - 0
+  Torch04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3584
+    - text: "I see. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Well then, do as you please.\n\n\nThere are plenty of monsters ahead of\nhere, though. Remember that you can\nuse that as a weapon, if need be."
+    - utf16_bytes:
+        - 0
+  Torch05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2304
+    - text: "However, do not just swing it around\nwithout purpose. You must face your\nopponents and lock your sights on them!"
+    - utf16_bytes:
+        - 0
+  Torch02_2:
+    - text: "Ah, I see you found my axe. I do believe\nit will be of more use to you than it is\nto me."
+    - utf16_bytes:
+        - 0
+  ClearTerrorEnemy:
+    - text: Hmm...
+    - utf16_bytes:
+        - 0
+  Near00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 24
+        - 22
+    - text: CustomLaughOho ho!
+    - utf16_bytes:
+        - 0
+  TerrorExplosion:
+    - text: Huh?!
+    - utf16_bytes:
+        - 0
+  Talk10:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ć
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "초Oho ho! So you fancy yourself the\nstrong silent type, eh?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 8
+        - 128
+        - 65535
+        - 0
+    - text: "ϩ,Npc_King_Common_KokohaϪBNpc_King_Vagrant001_ChoiceExcludeϫ"
+    - utf16_bytes:
+        - 0
+        - 768
+        - 0
+  Near02:
+    - text: Zzz...
+    - utf16_bytes:
+        - 0
+  NakedPlayer:
+    - text: "Aren't you...a bit chilly?"
+    - utf16_bytes:
+        - 0
+  TerrorSword:
+    - text: Easy there!
+    - utf16_bytes:
+        - 0
+  TerrorFire:
+    - text: Toasty...
+    - utf16_bytes:
+        - 0
+  Talk11:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ȀYes?
+    - utf16_bytes:
+        - 14
+        - 1
+        - 8
+        - 128
+        - 65535
+        - 0
+    - text: "ϩ,Npc_King_Common_KokohaϪBNpc_King_Vagrant001_ChoiceExcludeϫ"
+    - utf16_bytes:
+        - 0
+        - 768
+        - 0
+  TalkHub1_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ć
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 24
+        - 22
+    - text: CustomLaughOho ho!
+    - utf16_bytes:
+        - 14
+        - 1
+        - 8
+        - 128
+        - 65535
+        - 0
+    - text: "ϩ,Npc_King_Common_KokohaϪBNpc_King_Vagrant001_ChoiceExcludeϫ"
+    - utf16_bytes:
+        - 0
+        - 768
+        - 0
+  Near03:
+    - text: "..."
+    - utf16_bytes:
+        - 0
+  "2000":
+    - text: As a weapon!
+    - utf16_bytes:
+        - 0
+  "2001":
+    - text: To set things on fire!
+    - utf16_bytes:
+        - 0
+  GoodBye00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀI look forward to seeing what type of\ntreasure you secure out there."
+    - utf16_bytes:
+        - 0
+  "2002":
+    - text: "It's a secret..."
+    - utf16_bytes:
+        - 0
+  GoodBye01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ć
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 초Oho ho!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " If you still wish to acquire the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: paraglider
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", you must put in the effort.\nI will not simply give it away, you see."
+    - utf16_bytes:
+        - 0

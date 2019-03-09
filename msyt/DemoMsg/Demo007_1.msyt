@@ -1,0 +1,36 @@
+---
+entries:
+  "0000":
+    - text: Morning.
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: Noon.
+    - utf16_bytes:
+        - 0
+  Demo007_1_Text000:
+    - text: You can pass time by the fire.
+    - utf16_bytes:
+        - 0
+  "0002":
+    - text: Night.
+    - utf16_bytes:
+        - 0
+  Demo007_1_Text001:
+    - text: Sit by the fire until...
+    - utf16_bytes:
+        - 14
+        - 1
+        - 6
+    - text: "\n"
+    - utf16_bytes:
+        - 0
+        - 1
+        - 2
+        - 3
+        - 768
+        - 0
+  "0003":
+    - text: Never mind.
+    - utf16_bytes:
+        - 0

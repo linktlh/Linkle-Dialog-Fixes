@@ -1,0 +1,56 @@
+---
+entries:
+  QL_Gerudo_tsukamidake_Finish:
+    - text: "You traded 55 rushrooms to Pirou at the\nGerudo Canyon Stable for a diamond.\n\nBut it seems he could still use more.\n\nIf you bring them, he'll pay "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: twice
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " the market\nvalue for another "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "55"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " rushrooms."
+    - utf16_bytes:
+        - 0
+  QL_Gerudo_tsukamidake_Name:
+    - text: Rushroom Rush!
+    - utf16_bytes:
+        - 0
+  QL_Gerudo_tsukamidake_Desc:
+    - text: "Pirou at the Gerudo Canyon Stable claims that\nhe can't live without rushrooms, but because\nthey grow on cliffs, he's unable to pick them\nhimself. He's offered to trade a diamond for\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 55 rushrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0

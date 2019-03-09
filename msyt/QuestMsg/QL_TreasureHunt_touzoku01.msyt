@@ -1,0 +1,74 @@
+---
+entries:
+  QL_TreasureHunt_touzoku01_Name:
+    - text: "EX Treasure: Ancient Mask"
+    - utf16_bytes:
+        - 0
+  QL_TreasureHunt_touzoku01_Finish:
+    - text: "\"The ancient mask lies at the ruins where\nsoldiers gathered. From there, the waters\nof Lake Kolomo are visible.\"\n\nYou found the treasure that was hidden\nat Kolomo Garrison Ruins and obtained\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Majora's Mask"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 0
+  QL_TreasureHunt_touzoku01_Desc:
+    - text: "The royal family of Hyrule collected historically\nsignificant outfits, but they were stolen by a\nbandit named Misko. One of the items stolen\nwas an ancient mask.\n\nThere's a journal that places the location of this\ntreasure somewhere in the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Outpost Ruins
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 0
+  QL_TreasureHunt_touzoku01_Step01:
+    - text: "\"The ancient mask lies "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "at the ruins where\nsoldiers gathered"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". From there, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "the waters\nof Lake Kolomo are visible"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\"\n\nMisko's EX Journal gives the location of\nthe ancient mask...but where could it be\ntalking about?"
+    - utf16_bytes:
+        - 0

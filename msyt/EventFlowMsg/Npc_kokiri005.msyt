@@ -1,0 +1,558 @@
+---
+entries:
+  "0001":
+    - text: About the sword...
+    - utf16_bytes:
+        - 0
+  "0002":
+    - text: How do I leave?
+    - utf16_bytes:
+        - 0
+  "0003":
+    - text: Bye.
+    - utf16_bytes:
+        - 0
+  Npc_kokiri005_Talk000:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "\nWhoa, he's finally here!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nI..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "I've been waiting so long!"
+    - utf16_bytes:
+        - 0
+  Npc_kokiri005_Talk010:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 7
+    - text: "Go on then. Go to the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: sword
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 0
+  Npc_kokiri005_After_Demo_Talk000:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: "Welcome, Mr. Hero! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nWe're so excited you're here!\n\nIf you need to know anything about\nthese woods, just ask Maca!\n\nOr you can climb up here if you want to\nspeak to the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Great Deku Tree
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 6
+    - text: "\n"
+    - utf16_bytes:
+        - 0
+        - 1
+        - 2
+        - 3
+        - 768
+        - 0
+  Npc_kokiri005_After_Demo_Talk010:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 7
+    - text: "The highlights here in "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Korok Forest
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nare the Great Deku Tree and the\nsword pedestal, of course! \n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ĉ
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 3
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "PAlthough the Great Deku Tree probably isn't very\nhappy about becoming a tourist trap."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĆWe've really decked out the inside of \n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: the Great Deku Tree
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " in anticipation of\nyour arrival.\nYou'll find a place to rest and a bunch of\nother useful things in there!\n\nAnd then there's the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sword pedestal
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "! The\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: sword that seals the darkness
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", which\nneeds no introduction, rests there.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ላThe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sword pedestal
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is the center of the\nforest..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀIf you stand on the pedestal and look\naround, you'll be able to understand\nmost of the paths in the forest!\nThe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: bean lamps
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " act as landmarks. You'll\nwant to familiarize yourself with them to\nmake it easier to find your way around.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 7
+    - text: "And if you get turned around, you can\nalways head on back to the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "sword\npedestal"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 0
+  Npc_kokiri005_After_Demo_Talk020:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ؇
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: The sword that seals the darkness
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nTo be wielded by you and you alone..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nYou've finally found it!\nWe worked really hard to make sure no\none else stumbled upon it.\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 11
+    - text: How did you like the Lost Woods?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nDid you get..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: lost?
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "\nWell, you obviously made it through,\nbecause you're here!"
+    - utf16_bytes:
+        - 0
+  Npc_kokiri005_After_Demo_Talk030:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ЋYou want to leave the forest?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nBut why?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " It's perfect here!\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ćJust kidding! I know you have to leave\nsometime. You've got to save Hyrule!\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĆIf you head east from the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "sword\npedestal"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", there will be a sign on your\nright.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĆClimb up the hill on the right side of the\nsign, and you'll see an "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: ogre tree
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\nIf you walk into that tree's mouth,\nyou'll *whoosh* be taken to the entrance\nof the woods.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "इWe set it up this way because even us\nKoroks don't like to walk through the\nLost Woods if we can avoid it."
+    - utf16_bytes:
+        - 0
+  Npc_kokiri005_After_Demo_Talk040:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "If you have trouble with anything in\nthese woods, just ask Maca!"
+    - utf16_bytes:
+        - 0
+  Npc_kokiri005_After_Demo_Talk001:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: Did you need something else?
+    - utf16_bytes:
+        - 14
+        - 1
+        - 6
+    - text: "\n"
+    - utf16_bytes:
+        - 0
+        - 1
+        - 2
+        - 3
+        - 768
+        - 0
+  Near01:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 촁Leave it to Maca!
+    - utf16_bytes:
+        - 0
+  Npc_kokiri005_GotMSword_Talk000:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 7
+    - text: "Ah! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Mr. Hero! I was watching you pull out\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: sword
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: "If you want to know more about the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: sword
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", leave it to Maca!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 6
+    - text: "\n"
+    - utf16_bytes:
+        - 0
+        - 1
+        - 2
+        - 3
+        - 768
+        - 0
+  Npc_kokiri005_GotMSword_Talk010:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "؆The sword that seals the darkness...\nYou want to know more about the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Master Sword
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?\nWell, the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Master Sword
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is a very special\nweapon, but it can lose its power if you\noveruse it.\nWhen that happens, "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "don't panic. All you\nhave to do is wait for its power to\nregenerate.\nI probably wouldn't use it for trivial\nthings like opening bottles or cans.\nJust for smiting evil and stuff.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: इThe Great Deku Tree can tell you more.
+    - utf16_bytes:
+        - 0
+  "0000":
+    - text: About the forest...
+    - utf16_bytes:
+        - 0

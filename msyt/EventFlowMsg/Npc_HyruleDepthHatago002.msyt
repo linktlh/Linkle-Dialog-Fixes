@@ -1,0 +1,165 @@
+---
+entries:
+  Talk03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3
+    - text: "You'll get wet standing around outside."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nPlease, use the stable for shelter."
+    - utf16_bytes:
+        - 0
+  Near01:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 촁Dinnertime!
+    - utf16_bytes:
+        - 0
+  Talk04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ሃCan't use the cooking pot in this rain..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nWhy not stay the night?"
+    - utf16_bytes:
+        - 0
+  Near02:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 촇Eat up now.
+    - utf16_bytes:
+        - 0
+  Near_Sleep00:
+    - text: Zzz... Zzz...
+    - utf16_bytes:
+        - 0
+  Talk05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ሃHuh?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " It's late. We can talk later."
+    - utf16_bytes:
+        - 0
+  Near_Sleep01:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 촠I overslept...
+    - utf16_bytes:
+        - 0
+  Talk06:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Veggies are good for you, and they're\nvery yummy."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Mmm..."
+    - utf16_bytes:
+        - 0
+  Near_RunRain00:
+    - text: "Don't want to..."
+    - utf16_bytes:
+        - 0
+  Near_RunRain01:
+    - text: "Rain, hm..."
+    - utf16_bytes:
+        - 0
+  Talk00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: Would you like to use the cooking pot?
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 0
+        - 1
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  "0000":
+    - text: Cooking pot?
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: "I'll pass."
+    - utf16_bytes:
+        - 0
+  Talk01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "We don't serve food at the stable."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nPlease, use this cooking pot."
+    - utf16_bytes:
+        - 0
+  Talk02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Talk to our master Embry if you have\nneeds, "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "and ask the apprentice Trott if\nyou need directions."
+    - utf16_bytes:
+        - 0
+  Near00:
+    - text: All right now...
+    - utf16_bytes:
+        - 0

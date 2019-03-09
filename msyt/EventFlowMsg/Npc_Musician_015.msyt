@@ -1,0 +1,42 @@
+---
+entries:
+  TerrorHorse:
+    - text: Watch it!
+    - utf16_bytes:
+        - 0
+  TerrorArrow:
+    - text: Stop it!
+    - utf16_bytes:
+        - 0
+  Challenge000:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ଇOh ho! It's you!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Although I guess\nI shouldn't be surprised to see you here."
+    - utf16_bytes:
+        - 0
+  TerrorFire:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 촔Ack!
+    - utf16_bytes:
+        - 0
+  TerrorSword:
+    - text: Knock it off!
+    - utf16_bytes:
+        - 0
+  TerrorExplosion:
+    - text: WAAAAAA!
+    - utf16_bytes:
+        - 0

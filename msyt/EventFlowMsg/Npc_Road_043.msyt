@@ -1,0 +1,906 @@
+---
+entries:
+  Failed01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text:  Owww...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " A Gerudo ought to have known\nbetter than that. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "But I've never been\nmy best around monsters."
+    - utf16_bytes:
+        - 0
+  MSG_Akka_04_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀStand and fight? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Cut and run? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "It all\ndepends on what condition your\nweapons are in, really.\nIf your quiver runs dry and all your\nweapons break in the middle of a fight..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nWell, I hope you have a backup plan."
+    - utf16_bytes:
+        - 0
+  MSG_Akka_01_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀI've traveled from the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gerudo Desert
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " in \nthe southwest all the way here to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Akkala
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\non my journey to find a partner.\nThe best parts of it have been getting to\nmeet all the peoples of the world and\nhearing their thoughts and perspectives."
+    - utf16_bytes:
+        - 0
+  RetMSG_Akka_03_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ህLife has a funny way of throwing you\nfor a loop, and it's not always as nice\nas bumping into a cutie out of nowhere.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀMake sure you stock up on arrows before\nsomething bumps into you. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: Get me?
+    - utf16_bytes:
+        - 0
+  Thanks00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: "I owe you big-time, and I always repay\nmy debts!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Akka_00_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀCheck your map for a pond in the north\nthat looks like a skull. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "If it's not on there\nyet, you'll know it when you see it.\nThat pond at night is where you'll run\ninto "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Fang and Bone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", if you've got the\nstomach for it."
+    - utf16_bytes:
+        - 0
+  Atacked00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "⨃OK, that was enough mortal peril for\none day."
+    - utf16_bytes:
+        - 0
+  Atacked01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "⨃Close calls like this get my stomach all\ntied up in knots."
+    - utf16_bytes:
+        - 0
+  SavedLv1_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: "Thanks for stepping in, kid."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I owe you!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Akka_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀHey, kid! Ever hear of a thing called\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Fang and Bone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Check your map for a pond in the north\nthat looks like a skull. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "If it's not on there\nyet, you'll know it when you see it.\nThat pond at night is where you'll run\ninto "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Fang and Bone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", if you've got the\nstomach for it."
+    - utf16_bytes:
+        - 0
+  SavedLv1_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: "I didn't think you had it in you, kid,\nbut you surprised me. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: Thanks!
+    - utf16_bytes:
+        - 0
+  RetMSG_Akka_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀYou there! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Hylian kid! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "It's nice to meet\nyou. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Out here in Akkala, we have all\nsorts: Zora, Goron, Rito, you name it.\nTime was, we didn't mix much, but\nthings change. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "And I'm glad they have!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Some people travel the world for glory,\nfor money, for thrills... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "But me, I do it\nfor love."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "Easy there, though, kid."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " You're way too\nyoung for me."
+    - utf16_bytes:
+        - 0
+  RetMSG_Akka_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀHey, kid! I'm sure you know by now that\nyour quiver runs dry quick, but do you\nremember to keep an eye on your bow?\nIt's best to keep a sturdy backup or two,\njust in case the one you're using snaps\nat the worst possible moment.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "I keep my most important weapon well-\noiled and tightly strung. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Otherwise, how\nwill I ever pierce anyone's heart?"
+    - utf16_bytes:
+        - 0
+  MSG_Akka_02_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀRemember to look for a rare set\nof arrows if you ever find yourself\nexploring the castle."
+    - utf16_bytes:
+        - 0
+  RetMSG_Akka_03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Hey, kid! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Even the best bow is useless\nif your quiver runs dry, right? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "I mean,\nwhat else are you going to do with it?\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ህLife has a funny way of throwing you\nfor a loop, and it's not always as nice\nas bumping into a cutie out of nowhere.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀMake sure you stock up on arrows before\nsomething bumps into you. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: Get me?
+    - utf16_bytes:
+        - 0
+  Talk04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ā
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "촙Sav'otta!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Akka_04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀHey, kid. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "PYeah, I know you're a voe, but you're\nstill a kid to me."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "I size up every voe coming and going\ndown the road for eligibility."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀThey're different ages, sizes, sometimes\neven races, so it's hard to make a call."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nI probably look like a creep to them..."
+    - utf16_bytes:
+        - 0
+  Rest_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀI came all the way out from the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gerudo Desert
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", far to the southwest,\non my voe hunt.\nI figured the other vai will tire out and\nstick close to home. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Out here in Akkala,\nthe field should be wide open."
+    - utf16_bytes:
+        - 0
+  Talk05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ā
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "촚Sav'aaq!"
+    - utf16_bytes:
+        - 0
+  Rest_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀEverything is so different in the outside\nworld. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "I hear your folk complain about\nthe rain often, but I never get tired of it."
+    - utf16_bytes:
+        - 0
+  Talk06:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ā
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "촛Sav'saaba!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Akka_04_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "I size up every voe coming and going\ndown the road for eligibility."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀThey're different ages, sizes, sometimes\neven races, so it's hard to make a call."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nI probably look like a creep to them..."
+    - utf16_bytes:
+        - 0
+  Rest_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀThe rain helps cool me off when I get\ntoo flushed from staring at voe."
+    - utf16_bytes:
+        - 0
+  MSG_Akka_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀHey, kid! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Are you trying to get\nsomeplace? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: Do you have a map?
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If you do, then it's good to set a goal to\nreach and then check your map every\nso often to get your bearings.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "Take me, for instance—"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "my goal is to find\na fine, strapping voe! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Best of luck with\nwhatever your goal is, kid!"
+    - utf16_bytes:
+        - 0
+  Near00:
+    - text: Hylians are good folk...
+    - utf16_bytes:
+        - 0
+  MSG_Akka_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀI've traveled from the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Gerudo Desert
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " in \nthe southwest all the way here to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Akkala
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\non my journey to find a partner.\nThe best parts of it have been getting to\nmeet all the peoples of the world and\nhearing their thoughts and perspectives.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "That's my advice to you:"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " don't be shy\nwith the people you meet, no matter\nwhat they look like!"
+    - utf16_bytes:
+        - 0
+  SavedLv2_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: "Good going, kid! I mean that!"
+    - utf16_bytes:
+        - 0
+  Near01:
+    - text: Gorons are hardy folk...
+    - utf16_bytes:
+        - 0
+  MSG_Akka_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ကSomeone I met a while ago told me\nabout a rare set of arrows deep inside\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hyrule Castle
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nIt might be something to remember\nif you ever find yourself exploring\nthe place."
+    - utf16_bytes:
+        - 0
+  RetMSG_Akka_01_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀOut here in Akkala, we have all sorts:\nZora, Goron, Rito, you name it.\n\nSome people travel the world for glory,\nfor money, for thrills... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "But me, I do it\nfor love."
+    - utf16_bytes:
+        - 0
+  SavedLv2_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: "Hey, kid! I "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: like your style!
+    - utf16_bytes:
+        - 0
+  Near02:
+    - text: Travelers are so curious.
+    - utf16_bytes:
+        - 0
+  MSG_Akka_03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀYou any good with a bow, kid?"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If you can hit a mark, then try aiming for\nheads with monsters and eyes with\nGuardians.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "Keep practicing your aim, and someday\nyou might even pierce the heart of—"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Āmonsters. I obviously meant monsters.
+    - utf16_bytes:
+        - 0
+  Near03:
+    - text: Cooks are the best folk.
+    - utf16_bytes:
+        - 0
+  MSG_Akka_04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀHey, kid! I'm sure you've fought your\nshare of the riffraff, but have you ever\nrun up against the really big ones?\nStand and fight? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Cut and run? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "It all\ndepends on what condition your\nweapons are in, really.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "စIf your quiver runs dry and all your\nweapons break in the middle of a fight..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nWell, I hope you have a backup plan."
+    - utf16_bytes:
+        - 0
+  Near04:
+    - text: "I'll never get used to rain."
+    - utf16_bytes:
+        - 0
+  Guardian00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ᘄDon't think—just run! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "There's a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Guardian
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\non its way!"
+    - utf16_bytes:
+        - 0
+  MSG_Akka_03_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀWhen using a bow, you want to aim for\nthe head with monsters and the eyes\nwith Guardians."
+    - utf16_bytes:
+        - 0
+  SavedLv3_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: "Whew. Kid, if I ever make it back to\nGerudo Town, the first glass of\nNoble Pursuit is on me."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+        - 0
+  SavedLv3_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: "Next to you, kid, I might as well be a\nsand-seal pup!"
+    - utf16_bytes:
+        - 0
+  MSG_Akka_00_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀIt's good to set a goal to reach and then\ncheck your map every so often to get\nyour bearings."
+    - utf16_bytes:
+        - 0
+  RetMSG_Akka_02_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀIt's best to keep a sturdy backup bow or\ntwo, just in case the one you're using\nsnaps at the worst possible moment."
+    - utf16_bytes:
+        - 0
+  Failed00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: "Those monsters were out for blood, and\nif not for you, it would have been mine."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nThanks for the rescue!"
+    - utf16_bytes:
+        - 0

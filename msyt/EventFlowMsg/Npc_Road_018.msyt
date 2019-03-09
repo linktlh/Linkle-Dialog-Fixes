@@ -1,0 +1,898 @@
+---
+entries:
+  Failed01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3075
+    - text: "Ow! Owowowow... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "What a terrible thing\nto have happen to me..."
+    - utf16_bytes:
+        - 0
+  MSG_Futa_04_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀPhysically owning something as\nbeautiful as a gem is important, but..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nmoney is nice, too."
+    - utf16_bytes:
+        - 0
+  MSG_Futa_01_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀYou can dig up a bunch of ore on \nDueling Peaks!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Now that I think about it,\nI should use a hammer to mine that ore!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Futa_03_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀThere's a lot of high-quality ore around\nhere..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " How about using a bomb to make\nan exciting "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: explosion
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
+    - utf16_bytes:
+        - 0
+  Thanks00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: This is to show my thanks!
+    - utf16_bytes:
+        - 0
+  RetMSG_Futa_00_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀI love the way a gem sparkles in the right\nlight, but the profits selling a gem can\nbring also sparkle something wonderful.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "I guess I just really love things\nthat sparkle."
+    - utf16_bytes:
+        - 0
+  Atacked00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text:  *pant
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " pant* "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nFrankly, I thought I was done for..."
+    - utf16_bytes:
+        - 0
+  Atacked01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "⨃Shh! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Looks like there are still some\nmonsters about..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+        - 0
+  SavedLv1_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ሀThe monsters are gone, right? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: Right?
+    - utf16_bytes:
+        - 0
+  SavedLv1_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ሀPhew... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "I managed to get away\nsomehow..."
+    - utf16_bytes:
+        - 0
+  MSG_Futa_02_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀTo get to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Kakariko Village
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", follow the\nroads north."
+    - utf16_bytes:
+        - 0
+  Rest_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀYou've got a nice pouch for carrying\nthings,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " but are you carrying a lot of ore?\n\nIf you're just carrying it around,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " you're\nmissing out on a chance to make a\nkilling!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Ore is valuable!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Futa_04_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ЀMy stomach is rumbling...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nMaybe I'll put a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "bird egg "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "into a \nhot spring to make a hard-boiled egg..."
+    - utf16_bytes:
+        - 0
+  Rest_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "When it's pouring rain, the fuses on\nbomb arrows will go out, so they\nwon't explode.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "What's with that look?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Am I not allowed\nto talk about something besides ore?"
+    - utf16_bytes:
+        - 0
+  Rest_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: စ...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\n\n\nHonestly, I don't feel much like talking\nwhen it's all rainy out..."
+    - utf16_bytes:
+        - 0
+  Near00:
+    - text: "♪Morn'n diamonds.♪"
+    - utf16_bytes:
+        - 0
+  RetMSG_Futa_01_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ЀSome people use bombs...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " \nBut hammers are the best for mining."
+    - utf16_bytes:
+        - 0
+  SavedLv2_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: "I thought for sure I was done for, but I\nsomehow managed to narrowly\nescape death!"
+    - utf16_bytes:
+        - 0
+  Near01:
+    - text: ♪Sun rays of topaz.♪
+    - utf16_bytes:
+        - 0
+  SavedLv2_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: "Wow, you're really powerful!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " I'll never\nforget that I owe you my life!"
+    - utf16_bytes:
+        - 0
+  Near02:
+    - text: ♪Rupees over rubies.♪
+    - utf16_bytes:
+        - 0
+  Near03:
+    - text: ♪Stars are sapphires.♪
+    - utf16_bytes:
+        - 0
+  MSG_Futa_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "စHmm... I don't know how interested\nyou'd be to hear about this, really...\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀOh, what the heck!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I wanted to talk about\ngems!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Still interested? Maybe not, but...\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "What would you say if I told you that you\ncan sell gems at ridiculously high prices!\nInterested now?"
+    - utf16_bytes:
+        - 0
+  Near04:
+    - text: "♪It's raining opals.♪"
+    - utf16_bytes:
+        - 0
+  MSG_Futa_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "Ȁ...Have you ever been to the\nDueling Peaks?\n\nThose mountains are really rich in ore!\nI want to get out there with a trusty\nhammer and really mine up a fortune!\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: I can see it now...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Big piles of gems\nstacked neatly as far as the eye can see.\nA buyer giving me tons of rupees...\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ąOh! Sorry...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " When I think about gems,\nI just get so excited..."
+    - utf16_bytes:
+        - 0
+  MSG_Futa_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀYou wouldn't happen to be heading to\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Kakariko Village
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", would you?\n\nIf you are, just follow the roads north.\n\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "That village is one of the places I\nsell ore at, so I know the way\nreally well!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Futa_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀI love pretty much everything that\nsparkles..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Stars in the night sky... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "The\nshimmer off a lake..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Gems...\nOh, gems, I'd pick you over everything\nelse!\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "...Because I can sell you at a high price\nand be rolling in money!\n\n*sigh* I love things that sparkle so much."
+    - utf16_bytes:
+        - 0
+  Guardian00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ἄWe've got to run!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " There's a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Guardian
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\ncoming this way!"
+    - utf16_bytes:
+        - 0
+  MSG_Futa_03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: စ...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\n\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀOh, yikes! I'm sorry!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I was having such a\nbeautiful daydream, I was completely\nzoned out...\nThinking about"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: rubies
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sapphires
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "...\n\n\nThose two gems can be sold at really\nhigh prices!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " They're some of the best\ngems to sell for serious money!!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጀ...Sorry.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I just get so carried away when\nit comes to gems..."
+    - utf16_bytes:
+        - 0
+  RetMSG_Futa_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀI know this may seem a little random, but\nhave you got a hammer?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " It'll be helpful\nto have one if you're gonna collect ore.\nSome people use explosives instead,\nthough..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " It's really dangerous, but they\nstill do it.\nJust... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Please don't use explosives near\nme, OK?"
+    - utf16_bytes:
+        - 0
+  MSG_Futa_04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀA gem's value lies in its beauty... I was\njust thinking about all the wonderful\ngems I've seen!\nAnd I was thinking about the glee I've\nfelt when I consider all the money one\ncan sell a beautiful gem for!\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "Not to brag, but I just made a few sales\nand am feeling full of glee at\nthe moment..."
+    - utf16_bytes:
+        - 0
+  RetMSG_Futa_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀYou're lost, aren't you?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Oh, no, it's OK!\nEveryone gets lost from time to time.\n\nThe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Dueling Peaks Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is to the south,\nand "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hateno Village
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is to the east."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " If you\nhave a map, look at it as you travel.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ህIt's too bad there isn't a map to life,\nyou know?"
+    - utf16_bytes:
+        - 0
+  MSG_Futa_03_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀThe best way to realize a gem's true\nvalue is by selling it!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Rubies
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " and\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: sapphires
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " sell for a high price!\nBetter to sell than to hold on to them\nuntil you're old and gray!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Futa_03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀHave you got some experience handling\ndangerous items?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Like...bombs?\n\nThere's a ton of high-quality ore around\nhere, and bombs can be used to mine it\nquickly. Plus, there'll be a cool explosion!\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1541
+    - text: "Just... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Don't set the bombs off near\nme, OK?"
+    - utf16_bytes:
+        - 0
+  RetMSG_Futa_04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀI can't think about anything else... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nIt's just ore and gems and making money\nall the time...\nMaybe I should try thinking about things\nthat can help others and not just my\nwallet...\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "စFor example... Did you know you can put\na "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: bird egg
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " into a hot spring and you'll\nmake a hard-boiled egg? That's helpful!"
+    - utf16_bytes:
+        - 0
+  SavedLv3_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: I owe you my life!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+        - 0
+  SavedLv3_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ሀIf you hadn't shown up when you did,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nright now I'd probably be... Well..."
+    - utf16_bytes:
+        - 0
+  MSG_Futa_00_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀEven if the sight of gems doesn't spur\nyou to action, I'm sure the sight of what\nthey sell for will!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Futa_02_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀThe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Dueling Peaks Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is to the south,\nand "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hateno Village
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " is to the east."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Make\nuse of your map while you're traveling."
+    - utf16_bytes:
+        - 0
+  Failed00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3075
+    - text: "Ouch, this scratch..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I hope it'll heal..."
+    - utf16_bytes:
+        - 0

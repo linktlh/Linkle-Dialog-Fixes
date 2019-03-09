@@ -1,0 +1,118 @@
+---
+entries:
+  QL_TreasureHunt_touzoku04_Desc:
+    - text: "The royal family of Hyrule collected historically\nsignificant outfits, but they were stolen by a\nbandit named Misko. Among the items stolen\nwas some phantasmal armor.\n\nThere's a journal that places the locations of\nthe treasure somewhere in the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Outpost Ruins
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 0
+  QL_TreasureHunt_touzoku04_Finish:
+    - text: "\"Armor worn by fierce phantoms, feared even by\nheroes, is hidden in the ruins of Hyrule Field.\nFind these pieces at a battleground where brave\nsouls tested their skill...at ceremonial grounds\nwhere royal guards are honored...and at the\nruins where the soldiers of Hyrule gathered.\"\n\nYou found the treasure that was hidden at\nColiseum Ruins, Sacred Ground Ruins,\nand Hyrule Garrison Ruins. You obtained\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Phantom Equipment
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 0
+  QL_TreasureHunt_touzoku04_Name:
+    - text: "EX Treasure: Phantasma"
+    - utf16_bytes:
+        - 0
+  QL_TreasureHunt_touzoku04_Step01:
+    - text: "\"Armor worn by fierce phantoms, feared even by\nheroes, is hidden "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: in the ruins of Hyrule Field
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nFind these pieces "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "at a battleground where brave\nsouls tested their skill"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "at ceremonial grounds\nwhere royal guards are honored"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "...and "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "at the\nruins where the soldiers of Hyrule gathers"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\"\n\nMisko's EX Journal gives the location\nof the phantasmal armor.\nEquipment still hidden: "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 2
+    - text: JFTreasureHunt_touzoku04_RemainingBox
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+        - 0

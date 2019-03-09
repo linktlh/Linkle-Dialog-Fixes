@@ -1,0 +1,529 @@
+---
+entries:
+  "0001":
+    - text: I need to prepare.
+    - utf16_bytes:
+        - 0
+  talk06:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "We can move whenever you're ready!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 0
+        - 1
+        - 2
+        - 769
+        - 0
+  "0002":
+    - text: Back to Flight Range.
+    - utf16_bytes:
+        - 0
+  talk07:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "You ready? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "Let's go."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 0
+        - 1
+        - 2
+        - 769
+        - 0
+  "0003":
+    - text: "Let's go back."
+    - utf16_bytes:
+        - 0
+  talk08:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: You...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: still good to go?
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 0
+        - 1
+        - 2
+        - 769
+        - 0
+  "0004":
+    - text: "Let's keep going."
+    - utf16_bytes:
+        - 0
+  talk09:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Last time could have gone better, but\nwe've got it this time."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " Are you all good\non "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: bomb arrows
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
+    - utf16_bytes:
+        - 0
+  talk00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: "All right. It's showtime.\n\n\nMan, even I feel like I'm going to freeze\nup here!"
+    - utf16_bytes:
+        - 0
+  talk10:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "But, man, it's cold."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " Make sure you eat\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "something that will warm you up "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "before\nyou go!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 0
+        - 1
+        - 2
+        - 769
+        - 0
+  talk01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "There's "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast Vah Medoh
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ă
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 30
+    - text: "CustomLaughNoseIt has its "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: barrier
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " up again."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nWhat a pain...\n\nWhat's wrong, Link?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nToo scared to talk?\n\nLet's go over the plan."
+    - utf16_bytes:
+        - 0
+  talk12:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: "You see those "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: cannons
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " I'll draw their\nfire."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\n\nWhile I'm doing that, use your\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "bomb arrows "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: destroy the cannons
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 5
+        - 2
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nGot it so far?\nIf you need to withdraw for a bit, just\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: spread your cloth
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " and float "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: straight up
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nin the updraft for a while.\nI'll take that as a sign that we need to\nregroup.\n\nDon't bother aiming for anything covered\nby "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Medoh's barrier"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". It's impenetrable."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\n\nAnd whatever you do, don't get close\nenough to touch it.\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: And finally—
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "I know I've said this a few\ntimes already,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " but don't forget your "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "cold\nprotection"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  talk02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "All right. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "Now go blow up those "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: cannons
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 0
+  talk03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: Hnnn. Keep it together.
+    - utf16_bytes:
+        - 0
+  talk13:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: "I'll draw the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "cannon "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: fire.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " Meanwhile, you\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: destroy the cannons
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " with your\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: bomb arrows
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". And be quick about it."
+    - utf16_bytes:
+        - 0
+  talk04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 9
+    - text: Are you sure?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " You really want to go\nback?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 3
+        - 4
+    - text: ȁ
+    - utf16_bytes:
+        - 0
+  "0000":
+    - text: "Let's go."
+    - utf16_bytes:
+        - 0
+  talk05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: Understood.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Let's head back to the \nground for a bit."
+    - utf16_bytes:
+        - 0

@@ -1,0 +1,63 @@
+---
+entries:
+  Talk01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 11
+    - text: Hmm...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " The volcano has a completely\ndifferent face when viewed from\nthis stable..."
+    - utf16_bytes:
+        - 0
+  Talk03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ЋHmm...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " That's "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Lake Kolomo
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", isn't it?\nIt's an oddly shaped lake west of here.\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀThere's a forest on the west side of it.\nYes, I can see some trees here as well.\nIt must be over there."
+    - utf16_bytes:
+        - 0
+  Talk05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "I've been there before. It's a rather\nbeautiful spot."
+    - utf16_bytes:
+        - 0

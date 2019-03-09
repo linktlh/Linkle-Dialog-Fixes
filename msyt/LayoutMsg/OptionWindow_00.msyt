@@ -1,0 +1,210 @@
+---
+entries:
+  "0027":
+    - text: HUD mode
+    - utf16_bytes:
+        - 0
+  "0010":
+    - text: Very slow
+    - utf16_bytes:
+        - 0
+  "0028":
+    - text: Message-window transparency
+    - utf16_bytes:
+        - 0
+  "0011":
+    - text: Slow
+    - utf16_bytes:
+        - 0
+  "0029":
+    - text: Normal
+    - utf16_bytes:
+        - 0
+  "0012":
+    - text: Normal
+    - utf16_bytes:
+        - 0
+  "0013":
+    - text: Fast
+    - utf16_bytes:
+        - 0
+  "0014":
+    - text: Very fast
+    - utf16_bytes:
+        - 0
+  "0015":
+    - text: "Don't use amiibo"
+    - utf16_bytes:
+        - 0
+  "0016":
+    - text: Use amiibo
+    - utf16_bytes:
+        - 0
+  "0017":
+    - text: Change message-window transparency.
+    - utf16_bytes:
+        - 0
+  "0040":
+    - text: French (Canada)
+    - utf16_bytes:
+        - 0
+  "0041":
+    - text: German
+    - utf16_bytes:
+        - 0
+  "0019":
+    - text: Invert vertical camera
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: Invert vertical camera controls.
+    - utf16_bytes:
+        - 0
+  "0042":
+    - text: Spanish (Spain)
+    - utf16_bytes:
+        - 0
+  "0002":
+    - text: Invert horizontal camera controls.
+    - utf16_bytes:
+        - 0
+  T_OptionTitle_00:
+    - text: Options
+    - utf16_bytes:
+        - 0
+  "0043":
+    - text: Spanish (Latin America)
+    - utf16_bytes:
+        - 0
+  "0003":
+    - text: "Swap jump button "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촌 with cancel button "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: 촑.
+    - utf16_bytes:
+        - 0
+  Pa_SlideBtn_00-Pa_Btn_00-T_BtnON_00:
+    - text: "ON"
+    - utf16_bytes:
+        - 0
+  "0044":
+    - text: Italian
+    - utf16_bytes:
+        - 0
+  "0004":
+    - text: Toggle use of motion sensor for aiming on or off.
+    - utf16_bytes:
+        - 0
+  "0045":
+    - text: Russian
+    - utf16_bytes:
+        - 0
+  "0005":
+    - text: ルビを表示します
+    - utf16_bytes:
+        - 0
+  "0046":
+    - text: Change voice language
+    - utf16_bytes:
+        - 0
+  "0006":
+    - text: Fix the minimap to north regardless of which direction Link is facing.
+    - utf16_bytes:
+        - 0
+  "0007":
+    - text: Change how much information appears in the head-up display.
+    - utf16_bytes:
+        - 0
+  "0030":
+    - text: Pro
+    - utf16_bytes:
+        - 0
+  "0008":
+    - text: Change the speed at which the camera turns.
+    - utf16_bytes:
+        - 0
+  "0009":
+    - text: Change amiibo settings.
+    - utf16_bytes:
+        - 0
+  "0032":
+    - text: Regular
+    - utf16_bytes:
+        - 0
+  "0033":
+    - text: Opaque
+    - utf16_bytes:
+        - 0
+  "0034":
+    - text: "Voice Language "
+    - utf16_bytes:
+        - 0
+  "0035":
+    - text: Change
+    - utf16_bytes:
+        - 0
+  "0036":
+    - text: Match System Settings
+    - utf16_bytes:
+        - 0
+  "0037":
+    - text: Japanese
+    - utf16_bytes:
+        - 0
+  "0020":
+    - text: Invert horizontal camera
+    - utf16_bytes:
+        - 0
+  "0038":
+    - text: English
+    - utf16_bytes:
+        - 0
+  "0021":
+    - text: Change jump button
+    - utf16_bytes:
+        - 0
+  Pa_SlideBtn_00-Pa_Btn_00-T_BtnOFF_00:
+    - text: "OFF"
+    - utf16_bytes:
+        - 0
+  "0039":
+    - text: French (France)
+    - utf16_bytes:
+        - 0
+  "0022":
+    - text: Aim with motion controls
+    - utf16_bytes:
+        - 0
+  "0023":
+    - text: ルビ表示
+    - utf16_bytes:
+        - 0
+  "0024":
+    - text: Fix minimap to north
+    - utf16_bytes:
+        - 0
+  Pa_GuideY_00-T_Guide_00:
+    - text: Restore default settings
+    - utf16_bytes:
+        - 0
+  "0025":
+    - text: Camera sensitivity
+    - utf16_bytes:
+        - 0
+  Pa_GuideB_00-T_Guide_00:
+    - text: Back
+    - utf16_bytes:
+        - 0
+  "0026":
+    - text: amiibo
+    - utf16_bytes:
+        - 0

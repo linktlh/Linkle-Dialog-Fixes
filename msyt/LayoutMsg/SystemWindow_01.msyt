@@ -1,0 +1,74 @@
+---
+entries:
+  "0008":
+    - text: Save progress?
+    - utf16_bytes:
+        - 0
+  "0009":
+    - text: Save
+    - utf16_bytes:
+        - 0
+  T_AutoSave_00:
+    - text: Autosave
+    - utf16_bytes:
+        - 0
+  Pa_BtnL_01-T_Btn_00:
+    - text: Cancel
+    - utf16_bytes:
+        - 0
+  T_DummyText_00:
+    - text: Master Mode
+    - utf16_bytes:
+        - 0
+  T_SaveFinish_00:
+    - text: Progress saved.
+    - utf16_bytes:
+        - 0
+  "0000":
+    - text: Select save file.
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: Create new save data?
+    - utf16_bytes:
+        - 0
+  Pa_File_00-T_AutoSave_00:
+    - text: Autosave
+    - utf16_bytes:
+        - 0
+  "0002":
+    - text: Overwrite this save data?
+    - utf16_bytes:
+        - 0
+  "0003":
+    - text: Load
+    - utf16_bytes:
+        - 0
+  "0004":
+    - text: Select save data to load.
+    - utf16_bytes:
+        - 0
+  Pa_GuideB_00-T_Guide_00:
+    - text: Cancel
+    - utf16_bytes:
+        - 0
+  "0005":
+    - text: "Load save data?\nUnsaved progress will be lost."
+    - utf16_bytes:
+        - 0
+  T_Text_02:
+    - text: "In Master Mode, you have two files of save data,\nincluding one autosave."
+    - utf16_bytes:
+        - 0
+  "0006":
+    - text: Load save data?
+    - utf16_bytes:
+        - 0
+  TextBox_01:
+    - text: Saving
+    - utf16_bytes:
+        - 0
+  "0007":
+    - text: Start
+    - utf16_bytes:
+        - 0

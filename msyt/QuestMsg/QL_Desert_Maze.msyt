@@ -1,0 +1,28 @@
+---
+entries:
+  QL_Desert_Maze_Finish:
+    - text: "A labyrinth built at the foot of Daval Peak...\n\nThere was a shrine waiting for you\nat the end of the labyrinth."
+    - utf16_bytes:
+        - 0
+  QL_Desert_Maze_Name:
+    - text: The Desert Labyrinth
+    - utf16_bytes:
+        - 0
+  QL_Desert_Maze_Desc:
+    - text: "As you advanced through the Gerudo Desert\nand arrived in front of the suspicious ruins\nresting at the foot of Daval Peak, you heard\na voice.\n\nIt seems that, if you're able to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "make it through\nthis labyrinth"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", you will receive a blessing."
+    - utf16_bytes:
+        - 0

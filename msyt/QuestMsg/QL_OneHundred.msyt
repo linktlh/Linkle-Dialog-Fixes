@@ -1,0 +1,32 @@
+---
+entries:
+  QL_OneHundred_Desc:
+    - text: "Sesami and his friends ran afoul of monsters\nnear the roads at Koukot Plateau. Sesami ran\nfor his life, but his friends vanished into thin air.\n\nSesami was traveling with "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: four
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " friends. Find them\nquickly and put him at ease."
+    - utf16_bytes:
+        - 0
+  QL_OneHundred_Step1:
+    - text: "You rescued Sesami's friends, who were\nsurrounded by monsters and unable to move.\n\nHurry back to the Gerudo Canyon Stable and\ntell Sesami."
+    - utf16_bytes:
+        - 0
+  QL_OneHundred_Finish:
+    - text: "You saved all four of Sesami's friends, who had\nbeen pinned down by monsters and unable \nto move. And so, the curtain closes on the\ncase of the Gerudo Canyon disappearances."
+    - utf16_bytes:
+        - 0
+  QL_OneHundred_Name:
+    - text: Missing in Action
+    - utf16_bytes:
+        - 0

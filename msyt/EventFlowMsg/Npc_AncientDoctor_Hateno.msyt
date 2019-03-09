@@ -1,0 +1,347 @@
+---
+entries:
+  talk02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: Good morning.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nThis morning really is quite good..."
+    - utf16_bytes:
+        - 0
+  talk03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: Good day.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nAnd a good day it is."
+    - utf16_bytes:
+        - 0
+  talk04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: Good evening.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nYes, yes, I would describe this evening\nas good."
+    - utf16_bytes:
+        - 0
+  talk06:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "But I think it's unwise"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " to try and make\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Guardians "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "our allies now... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nJust...too difficult...\nI think I'll offer you ancient equipment"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nin exchange for "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Guardian "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "parts, instead."
+    - utf16_bytes:
+        - 0
+  talk07:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "What's up? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: How are you doing?
+    - utf16_bytes:
+        - 0
+  TerrorArrow:
+    - text: What?!
+    - utf16_bytes:
+        - 0
+  talk08:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: By the way...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nDid you need something from me?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 6
+    - text: "\n"
+    - utf16_bytes:
+        - 0
+        - 1
+        - 2
+        - 3
+        - 768
+        - 0
+  talk09:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: Good afternoon.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nOr is it good morning?"
+    - utf16_bytes:
+        - 0
+  "0000":
+    - text: Who are you?
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: "What's a Guardian?"
+    - utf16_bytes:
+        - 0
+  "0002":
+    - text: Cherry?
+    - utf16_bytes:
+        - 0
+  "0003":
+    - text: Good-bye.
+    - utf16_bytes:
+        - 0
+  TerrorBomb:
+    - text: Remote Bombs...
+    - utf16_bytes:
+        - 0
+  TerrorExplosion:
+    - text: Goodness gracious!
+    - utf16_bytes:
+        - 0
+  talk10:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "The "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Guardians
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " are self-guided weapons\nbuilt to fight Calamity Ganon and\ndeveloped by our Sheikah ancestors.\nFor many years, the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Guardians
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " were kept\nbelow "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Hyrule Castle
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". "
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 9
+    - text: "However, when the\nCalamity struck, they were stolen away.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĆI've been researching ways to take\nthem back..."
+    - utf16_bytes:
+        - 0
+  talk11:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: Have you got any other questions?
+    - utf16_bytes:
+        - 14
+        - 1
+        - 6
+    - text: "\n"
+    - utf16_bytes:
+        - 0
+        - 1
+        - 2
+        - 3
+        - 768
+        - 0
+  talk12:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "When one receives such scars on\ntheir body..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Well, they can leave\nlasting memories in their mind as well."
+    - utf16_bytes:
+        - 0
+  NakedPlayer:
+    - text: Hm?
+    - utf16_bytes:
+        - 0
+  TerrorSword:
+    - text: What?!
+    - utf16_bytes:
+        - 0
+  talk00:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2304
+    - text: "Cherry "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "is safely back to work. All that's\nleft is for you to destroy the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Calamity
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  talk01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: Bye-bye.
+    - utf16_bytes:
+        - 0

@@ -1,0 +1,32 @@
+---
+entries:
+  QL_Kakariko_Cha_003_Desc:
+    - text: "Cado's beloved Cuccos made it over the fence\nand escaped.\n\nBefore the breakout, Cado had "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 10 Cuccos
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nin total. Find all of them, and return them to\ntheir enclosure."
+    - utf16_bytes:
+        - 0
+  QL_Kakariko_Cha_003_10kokko:
+    - text: "Cado's beloved Cuccos made it over the fence\nand escaped. It took a thorough search of the\nvillage, but you found them all.\n\nHurry and let Cado know so he can breathe\neasier."
+    - utf16_bytes:
+        - 0
+  QL_Kakariko_Cha_003_Name:
+    - text: Flown the Coop
+    - utf16_bytes:
+        - 0
+  QL_Kakariko_Cha_003_Finish:
+    - text: "Cado's beloved Cuccos made it over the fence\nand escaped. It took a thorough search of the\nvillage, but you found them all.\n\nCado now has a better understanding of how\nmuch his Cuccos mean to him...as well as\nhis love for his wife."
+    - utf16_bytes:
+        - 0

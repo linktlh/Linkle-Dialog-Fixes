@@ -1,0 +1,43 @@
+---
+entries:
+  TerrorHorse:
+    - text: Whoa there!
+    - utf16_bytes:
+        - 0
+  TerrorArrow:
+    - text: "Please don't do that!"
+    - utf16_bytes:
+        - 0
+  Challenge000:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 7
+    - text: "Ah, we meet again!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nI trust you're doing well?"
+    - utf16_bytes:
+        - 0
+  TerrorFire:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 촔Yikes!
+    - utf16_bytes:
+        - 0
+  TerrorSword:
+    - text: Stop this madness!
+    - utf16_bytes:
+        - 0
+  TerrorExplosion:
+    - text: WAAAH!
+    - utf16_bytes:
+        - 0

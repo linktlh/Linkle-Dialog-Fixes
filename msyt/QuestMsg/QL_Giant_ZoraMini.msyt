@@ -1,0 +1,60 @@
+---
+entries:
+  QL_Giant_ZoraMini_Step1:
+    - text: "You successfully defeated the Hinox at \nRalis Pond.\n\nGo report back to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Torfeau
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " in Zora's Domain."
+    - utf16_bytes:
+        - 0
+  QL_Giant_ZoraMini_Name:
+    - text: The Giant of Ralis Pond
+    - utf16_bytes:
+        - 0
+  QL_Giant_ZoraMini_Finish:
+    - text: "You defeated the Hinox at Ralis Pond and\nreported it to Torfeau, who praised you."
+    - utf16_bytes:
+        - 0
+  QL_Giant_ZoraMini_Desc:
+    - text: "Torfeau of Zora's Domain tasked you with\nhunting a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Hinox
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\nThe giant in question is said to be at \n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Ralis Pond
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0

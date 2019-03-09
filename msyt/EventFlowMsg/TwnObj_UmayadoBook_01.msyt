@@ -1,0 +1,48 @@
+---
+entries:
+  "0000":
+    - text: Read.
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: "Don't read."
+    - utf16_bytes:
+        - 0
+  Book00:
+    - utf16_bytes:
+        - 14
+        - 1
+        - 2
+        - 0
+    - text: "Greetings from Traysi—your source for\nthe best gossip and news!\n\nHave you been hearing any good stories\non your travels? I've got a great one for\nyou today!\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "}The Sword that Seals the\nDarkness"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "d\n\nThe only one who can wield this sword\ncarries the blood of the hero in their\nveins.\nThat's what they say about this special\nblade! Rumor has it the blade has been\nhidden away in a forest somewhere...\nI have to admit that this rumor really has\nme interested, but sometimes you have\nto face reality.\nMy reality is... There isn't any hero in my\nbloodline, so this sword would just be a\nbig paperweight to me...\nTraysi's Recommendation: ★☆☆☆☆"
+    - utf16_bytes:
+        - 0
+  BookFirst:
+    - utf16_bytes:
+        - 14
+        - 1
+        - 2
+        - 0
+    - text: "Rumor Mill: Volume 2"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 0
+        - 1
+    - text: Ā
+    - utf16_bytes:
+        - 0

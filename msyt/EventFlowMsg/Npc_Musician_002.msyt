@@ -1,0 +1,57 @@
+---
+entries:
+  TerrorHorse:
+    - text: Gah!
+    - utf16_bytes:
+        - 0
+  TerrorArrow:
+    - text: Stop it!
+    - utf16_bytes:
+        - 0
+  Challenge000:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 7
+    - text: "Ah, we meet again!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nI trust you're keeping well?"
+    - utf16_bytes:
+        - 0
+  TerrorFire:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 촔Ack!
+    - utf16_bytes:
+        - 0
+  TerrorSword:
+    - text: Knock it off!
+    - utf16_bytes:
+        - 0
+  TerrorExplosion:
+    - text: WAAAAAA!
+    - utf16_bytes:
+        - 0
+  Talk00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 11
+    - text: "It's almost as if you possess the \nability to see into the future..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+        - 0

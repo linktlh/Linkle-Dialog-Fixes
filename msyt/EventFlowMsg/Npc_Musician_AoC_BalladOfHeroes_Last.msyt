@@ -1,0 +1,57 @@
+---
+entries:
+  TerrorHorse:
+    - text: Whoa there!
+    - utf16_bytes:
+        - 0
+  TerrorArrow:
+    - text: "Please don't do that!"
+    - utf16_bytes:
+        - 0
+  TerrorFire:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 촔Yikes!
+    - utf16_bytes:
+        - 0
+  TerrorSword:
+    - text: Stop this madness!
+    - utf16_bytes:
+        - 0
+  TerrorExplosion:
+    - text: WAAAH!
+    - utf16_bytes:
+        - 0
+  Talk00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 11
+    - text: I dearly hope we meet again someday.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "As for the souls of the Champions\nwatching over Hyrule..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "may they\nfinally rest in peace."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+        - 0

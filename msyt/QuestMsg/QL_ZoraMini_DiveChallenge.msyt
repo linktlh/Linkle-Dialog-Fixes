@@ -1,0 +1,64 @@
+---
+entries:
+  QL_ZoraMini_DiveChallenge_Desc:
+    - text: "Gruve wants to see a beautiful dive and asked\nyou to perform one.\n\nEveryone knows a feetfirst dive isn't all that\nbeautiful, so "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: dive in headfirst
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  QL_ZoraMini_DiveChallenge_Step1:
+    - text: "You performed a beautiful dive, and Gruve was\nmost pleased, but now he wants to see you\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: climb the waterfall
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  QL_ZoraMini_DiveChallenge_Finish:
+    - text: "Your diving and waterfall climbing was so\nbeautiful you made Gruve's very soul flutter\nwith a mighty vigor."
+    - utf16_bytes:
+        - 0
+  QL_ZoraMini_DiveChallenge_Name:
+    - text: Diving is Beauty!
+    - utf16_bytes:
+        - 0
+  QL_ZoraMini_DiveChallenge_Step2:
+    - text: "You climbed the waterfall as requested, and\nGruve was simply blown away.\n\nPay "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Gruve
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " a visit to hear his final assessment."
+    - utf16_bytes:
+        - 0

@@ -1,0 +1,28 @@
+---
+entries:
+  QL_Gerudo_Ch_Helmet_Finish:
+    - text: "You solved the problems of everyone in town!\n\nRiju gave you the Gerudo's symbol of\nfriendship, and you got the Thunder Helm!"
+    - utf16_bytes:
+        - 0
+  QL_Gerudo_Ch_Helmet_Name:
+    - text: The Thunder Helm
+    - utf16_bytes:
+        - 0
+  QL_Gerudo_Ch_Helmet_Desc:
+    - text: "The Thunder Helm has been passed down as\na prized treasure of the Gerudo since Urbosa's\ntime. It doesn't seem like they'll just give it to\nyou, but if you're able to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "solve all "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "the town's\nproblems, they'll at least lend it to you."
+    - utf16_bytes:
+        - 0

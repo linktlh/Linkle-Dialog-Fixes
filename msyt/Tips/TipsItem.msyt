@@ -1,0 +1,290 @@
+---
+entries:
+  Material_00:
+    - text: Collecting Ingredients
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "There are many more ingredients than those used for cooking food.\nCollect and experiment with different ingredients to make all sorts\nof things!"
+    - utf16_bytes:
+        - 0
+  Material_13:
+    - text: Luring Fish
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Tossing ingredients that serve as bait near fish in the water will\nattract them. Different bait works on different kinds of fish."
+    - utf16_bytes:
+        - 0
+  Material_01:
+    - text: Cooking Secrets
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Using more of an effect-imparting ingredient when cooking will\nincrease that effect in the resulting dish."
+    - utf16_bytes:
+        - 0
+  Material_14:
+    - text: "What's That, Pooch?"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If you befriend a dog, it may lead you to something interesting."
+    - utf16_bytes:
+        - 0
+  Material_02:
+    - text: Monster Ingredients
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If you combine monster parts dropped by fallen foes in a cooking pot\nwith things like lizards and butterflies, you can create elixirs with\nspecial effects."
+    - utf16_bytes:
+        - 0
+  Material_15:
+    - text: Ingredient Effects
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Certain ingredients give elixirs or dishes special properties.\nBut don't get greedy: ingredients with different effects will\ncancel each other out."
+    - utf16_bytes:
+        - 0
+  Material_03:
+    - text: Roasting Ingredients
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Throw ingredients like mushrooms or fish directly into a fire to roast \nthem and up their health benefits. Keep in mind that roasting an\ningredient won't activate its potential special effect."
+    - utf16_bytes:
+        - 0
+  Material_16:
+    - text: Ingredient Effects
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "You can only enjoy one effect from a dish or elixir at any given time.\nIf you're relying on an active effect, be careful not to cancel it\nby eating something with a new effect."
+    - utf16_bytes:
+        - 0
+  Material_04:
+    - text: Fairy Effects
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If you keep a fairy in your pouch, it will automatically restore some\nhearts when you fall in battle."
+    - utf16_bytes:
+        - 0
+  Material_05:
+    - text: Gems
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "The gems that sometimes drop when you break ore deposits fetch\na high price when sold."
+    - utf16_bytes:
+        - 0
+  Weapon_00:
+    - text: "Where's the Fire?"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "When a wooden weapon or shield catches fire, you can extinguish\nit by unequipping the burning item."
+    - utf16_bytes:
+        - 0
+  Material_06:
+    - text: Cooking Pots
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Cook up some wild cuisine by throwing together some ingredients\nand seeing what happens. You can't cook with an unlit pot."
+    - utf16_bytes:
+        - 0
+  Weapon_01:
+    - text: Weapon Durability
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Durability varies with every weapon. Always be aware of the condition\nof your equipment. A weapon breaking at the wrong time is never\na good thing."
+    - utf16_bytes:
+        - 0
+  Material_07:
+    - text: Cutting Grass
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Wildlife taking shelter in the grass will sometimes jump out when you\ncut down their hiding place."
+    - utf16_bytes:
+        - 0
+  Weapon_02:
+    - text: Throwing Weapons
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If your weapon is close to breaking, try throwing it at an enemy\nusing "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: 촕. It will double your damage if it hits!
+    - utf16_bytes:
+        - 0
+  Material_08:
+    - text: No Stone Unturned
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Wildlife taking shelter under a rock will sometimes jump out when you\nlift up their hiding place."
+    - utf16_bytes:
+        - 0
+  Weapon_03:
+    - text: Special Bows
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "A few bows fire multiple arrows at once. They offer several times\nthe power of normal bows, while strangely only consuming one\narrow at a time."
+    - utf16_bytes:
+        - 0
+  Material_09:
+    - text: Octo Balloon
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "When inflated, this sac obtained from defeating Octoroks is\nextremely buoyant. Place one near something you want to lift\nto make it float into the air."
+    - utf16_bytes:
+        - 0
+  Weapon_04:
+    - text: More Than a Weapon
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Metal weapons create sparks that can be used to light a fire.\nFurthermore, if you set a wooden weapon on fire, it can be\nused as a torch."
+    - utf16_bytes:
+        - 0
+  Weapon_06:
+    - text: Boomerangs
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Throw a boomerang with "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촕, and it will fly in a large arc before\nreturning to you. What goes around comes around!"
+    - utf16_bytes:
+        - 0
+  Armor_00:
+    - text: Armor Sets
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Wearing the top, bottom, and headwear from the same set can earn\nyou some bonus effects."
+    - utf16_bytes:
+        - 0
+  Weapon_07:
+    - text: Weapon Bonuses
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Some weapons you'll come across have special properties that set\nthem apart from others of their class, such as superior durability or\nabove-average attack power."
+    - utf16_bytes:
+        - 0
+  Weapon_08:
+    - text: Critical Hit
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "When using a weapon with this bonus, the last hit in a series of\nattacks will deal double the damage."
+    - utf16_bytes:
+        - 0
+  Material_10:
+    - text: Fairy Effects
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If you have a fairy help you cook, the tonic you produce together\nrestores a great deal of hearts."
+    - utf16_bytes:
+        - 0
+  Weapon_09:
+    - text: Master Sword
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "When your hearts are full, you can fire a beam from the sword\nwith "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촕. The more Heart Containers you have, the further the\nbeam's range."
+    - utf16_bytes:
+        - 0
+  Material_11:
+    - text: Scorching Climates
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "In the extreme heat of volcanic regions, ingredients will cook simply\nby placing them on the ground. Use this to your advantage to\nprepare meals on the go."
+    - utf16_bytes:
+        - 0
+  Material_12:
+    - text: Freezing Climates
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Some ingredients will freeze if submerged in ice-cold water or when\nleft out in frigid regions. There are a few ingredients that taste\neven better frozen."
+    - utf16_bytes:
+        - 0

@@ -1,0 +1,64 @@
+---
+entries:
+  QL_isso_treasure_mini_Step1:
+    - text: "You pulled the sunken treasure chest from the\nbed of Hylia River.\n\nOpen the chest so you can tell "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Izra "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "what you\nfound inside."
+    - utf16_bytes:
+        - 0
+  QL_isso_treasure_mini_Step2:
+    - text: "You pulled the sunken treasure chest from the\nbed of Hylia River.\n\nTell "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Izra "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: what you found inside.
+    - utf16_bytes:
+        - 0
+  QL_isso_treasure_mini_Name:
+    - text: Riverbed Reward
+    - utf16_bytes:
+        - 0
+  QL_isso_treasure_mini_Desc:
+    - text: "You noticed Izra at the Wetland Stable staring\nkeenly into Hylia River.\n\nHis attention was fixed on a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: treasure chest
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " on\nthe bed of Hylia River, but he is at a loss as\nto how to bring it to the surface."
+    - utf16_bytes:
+        - 0
+  QL_isso_treasure_mini_Finish:
+    - text: "You pulled the sunken treasure chest from the\nbed of Hylia River and reported its contents\nto Izra.\n\nIzra went home satisfied to the Wetland Stable."
+    - utf16_bytes:
+        - 0

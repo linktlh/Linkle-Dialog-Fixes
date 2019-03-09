@@ -1,0 +1,172 @@
+---
+entries:
+  QL_Fire_Relic_Battle:
+    - text: "Sentries now patrol Death Mountain to\neliminate intruders.\n\nAvoid their notice as you lead Yunobo to the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: cannons
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " to drive Divine Beast Vah Rudania\ninto the crater."
+    - utf16_bytes:
+        - 0
+  QL_Fire_Relic_Storage:
+    - text: "You met Yunobo in the Abandoned North Mine.\n\nYunobo hurried back to Goron City to deliver\nthe painkillers Bludo needs for his backache.\n\nYou should go speak to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Bludo
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " to collect\nyour reward."
+    - utf16_bytes:
+        - 0
+  QL_Fire_Relic_GoDeathMt:
+    - text: "You helped Yunobo fend off monsters at the\nBridge of Eldin before telling him that Bludo's\nplan had been called off.\n\nYou still need to get inside the Divine Beast\nsomehow, though... The best way forward may\nbe to lower the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Bridge of Eldin
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  QL_Fire_Relic_Desc:
+    - text: "Bludo, Boss of Goron City, wants to challenge\nthe marauding Divine Beast Vah Rudania,\nbut his backache is too severe.\n\nWhat's worse, Yunobo has yet to return from\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Abandoned North Mine "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "with the painkillers\nhe was sent to fetch."
+    - utf16_bytes:
+        - 0
+  QL_Fire_Relic_NorthMine:
+    - text: "You met Drak in the Abandoned North Mine,\nwho told you that Yunobo left for the vault\ndeep in its reaches. That's the last anyone\nhas seen of Yunobo...\n\nMount a search operation for Yunobo, who was\nheaded for the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: vault
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  QL_Fire_Relic_BattlePlaying:
+    - text: "Thanks to Yunobo using Daruk's Protection\nto act as your cannonball, you drove\nDivine Beast Vah Rudania into the crater!\n\nIt is time to enter "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Divine Beast Vah Rudania
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nand bring it to a halt."
+    - utf16_bytes:
+        - 0
+  QL_Fire_Relic_Name:
+    - text: Divine Beast Vah Rudania
+    - utf16_bytes:
+        - 0
+  QL_Fire_Relic_GoGoronCity:
+    - text: "Bludo thanked you for helping Yunobo.\nAfter taking the painkillers, Bludo was about\nto go challenge Divine Beast Vah Rudania,\nbut then his back started hurting again.\nNo one will be challenging the Divine Beast\ntoday, it seems.\n\nYunobo has already gone ahead to the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Bridge of Eldin
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", so you must meet him there\nto let him know about this change of plans."
+    - utf16_bytes:
+        - 0
+  QL_Fire_Relic_Dungeon:
+    - text: "Defeating Fireblight Ganon freed the spirit of\nDaruk, Champion of the Goron race. He has\npiloted the Divine Beast to the summit of\nDeath Mountain in preparation for the assault\non Ganon.\n\nSeeing this, a relieved Yunobo returned to his\nhome in Goron City. You should go there and\ntell "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Bludo "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: all that has happened.
+    - utf16_bytes:
+        - 0
+  QL_Fire_Relic_Finished:
+    - text: "You reported your success in restoring the\nDivine Beast Vah Rudania to its true self.\nPeace has finally returned to Goron City.\n\nIn addition, you received the Champion Daruk's\nmight and can now use Daruk's Protection."
+    - utf16_bytes:
+        - 0
+  QL_Fire_Relic_Bridge:
+    - text: "Yunobo used Daruk's Protection to\nact as a cannonball. The Bridge of Eldin\nhas been lowered! \n\nAll you need to do now is to cross\nthe "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Bridge of Eldin
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " and drive\nDivine Beast Vah Rudania into\nthe crater."
+    - utf16_bytes:
+        - 0

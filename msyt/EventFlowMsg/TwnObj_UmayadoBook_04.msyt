@@ -1,0 +1,48 @@
+---
+entries:
+  "0000":
+    - text: Read.
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: "Don't read."
+    - utf16_bytes:
+        - 0
+  Book00:
+    - utf16_bytes:
+        - 14
+        - 1
+        - 2
+        - 0
+    - text: "This is Traysi! I have a taste for\nthe rumors of worlds long gone and\nworlds yet to come!\nEveryone gossiping in the present\nworld? Here's my favorite bit of the\nlatest news...\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "}Treasures of the Falling Star!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "d\n\n\nThe stars spread out in the sky like a\ntapestry, and across that expanse, you\nsee one streak of light—a shooting star!\nAnd I've heard that there is treasure\nwaiting where these stars have landed.\n\nThe next time you see one, why not track\nit down to see where it lands?\n\nTraysi's Recommendation: ★★★★☆"
+    - utf16_bytes:
+        - 0
+  BookFirst:
+    - utf16_bytes:
+        - 14
+        - 1
+        - 2
+        - 0
+    - text: "Rumor Mill: Volume 4"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 0
+        - 1
+    - text: Ā
+    - utf16_bytes:
+        - 0

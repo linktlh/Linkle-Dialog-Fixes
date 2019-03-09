@@ -1,0 +1,74 @@
+---
+entries:
+  QL_HatenoMini_CameraBoy_Name:
+    - text: Sunshroom Sensing
+    - utf16_bytes:
+        - 0
+  QL_HatenoMini_CameraBoy_Desc:
+    - text: "The Sheikah Sensor + can detect anything\nalready registered in the Hyrule Compendium.\nTo demonstrate the possibilities, Symin gave\nyou some fieldwork.\n\nUse the Camera to register a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: sunshroom
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nbehind the Hateno Ancient Tech Lab, and then\nreport back to Symin."
+    - utf16_bytes:
+        - 0
+  QL_HatenoMini_CameraBoy_Shot:
+    - text: "Now that you've registered a sunshroom in the\nHyrule Compendium, the Sheikah Sensor + can\ndetect sunshrooms wherever you are.\n\nGo north of Hateno Village to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Retsam Forest
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ",\nand find "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: three
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " wild "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: sunshrooms
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " there.\nWhen you have all three, turn them over\nto Symin."
+    - utf16_bytes:
+        - 0
+  QL_HatenoMini_CameraBoy_Finish:
+    - text: "You gave Symin the three sunshrooms he\nrequested.\n\nSymin helped you see how valuable registering\nthings to your Hyrule Compendium can be.\nIf you have an item registered in your\ncompendium, it's easy to find with the\nSheikah Sensor +."
+    - utf16_bytes:
+        - 0

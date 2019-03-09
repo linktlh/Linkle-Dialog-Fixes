@@ -1,0 +1,1765 @@
+---
+entries:
+  Obj_SheikPadLv2_MenuDesc:
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombCube2_Desc:
+    - utf16_bytes:
+        - 0
+  Obj_RemainInsideMap_Name:
+    - text: Relic Map
+    - utf16_bytes:
+        - 0
+  Obj_Porch_Shield_MenuDesc:
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombBall_Name:
+    - text: Remote Bomb
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombCube_Desc:
+    - utf16_bytes:
+        - 0
+  Obj_Porch_Bow_Desc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ゆみ弓をコンパクトに
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 14
+        - 4
+    - text: "\nしゅうのう収納できるInventory\nたくさんあればそれだけ"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: おお多くの
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: "ゆみ弓を\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 6
+        - 2
+        - 2
+    - text: も持ち
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: はこ運べる
+    - utf16_bytes:
+        - 0
+  Obj_PictureBook_Name:
+    - text: Hyrule Compendium
+    - utf16_bytes:
+        - 0
+  Obj_IceMaker_Name:
+    - text: Cryonis
+    - utf16_bytes:
+        - 0
+  Obj_StopTimerLv2_Name:
+    - text: Stasis +
+    - utf16_bytes:
+        - 0
+  Obj_Magnetglove_MenuDesc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 16
+        - 6
+        - 12
+    - text: きんぞくせい金属製の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: もの物に
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 14
+        - 4
+    - text: "\nしょうしゃ照射することで\nその"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ぶったい物体を
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 18
+        - 8
+        - 14
+    - text: "えんかくそうさ遠隔操作できるようになる\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ぎじゅつ技術
+    - utf16_bytes:
+        - 0
+  Obj_StopTimerLv2_Desc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 14
+        - 4
+    - text: "\nしょうしゃ照射することで "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 6
+        - 8
+    - text: "むきぶつ無機物と "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: じゃあく邪悪なる
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: もの者の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: "うご動きを\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 20
+    - text: "\n"
+    - utf16_bytes:
+        - 16
+    - text: "いっていじかんと一定時間止められる "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "ぎじゅつ技術\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 6
+        - 2
+        - 2
+    - text: と止めた
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: もの物には
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: こうげき攻撃などで
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 14
+        - 4
+    - text: "\nしょうげき衝撃を"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 6
+        - 2
+        - 2
+    - text: た貯められる
+    - utf16_bytes:
+        - 0
+  Obj_Camera_Name:
+    - text: Camera
+    - utf16_bytes:
+        - 0
+  Obj_Album_Desc:
+    - utf16_bytes:
+        - 0
+  Obj_SheikSensorLv2_Name:
+    - text: Sheikah Sensor +
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombBall_MenuDesc:
+    - text: "Ancient Sheikah explosive technology.\nCan be detonated remotely to destroy\nobjects and damage enemies."
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombBall2_Name:
+    - text: Remote Bomb +
+    - utf16_bytes:
+        - 0
+  Obj_RemainInsideMap_Desc:
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombBall_Desc:
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombCube_MenuDesc:
+    - text: "Ancient Sheikah explosive technology.\nCan be detonated remotely to destroy\nobjects and damage enemies."
+    - utf16_bytes:
+        - 0
+  Obj_AmiiboItem_MenuDesc:
+    - text: "A mysterious rune that can summon various\nthings when an amiibo is tapped."
+    - utf16_bytes:
+        - 0
+  Obj_StopTimer_Name:
+    - text: Stasis
+    - utf16_bytes:
+        - 0
+  Obj_PictureBook_Desc:
+    - utf16_bytes:
+        - 0
+  Obj_IceMaker_Desc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: みず水のある
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: ばしょ場所に
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 14
+        - 4
+    - text: "\nしょうしゃ照射すると\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 2
+        - 6
+    - text: こおり氷の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 2
+        - 6
+    - text: はしら柱を
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: つく作る
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: こと事が
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 4
+        - 4
+    - text: "でき出来る\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ぎじゅつ技術
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombBall2_MenuDesc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ばくはつ爆発による
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: はかい破壊を
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "もくてき目的とした\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "ぎじゅつ技術\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ばくはつ爆発の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: いりょく威力と
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 18
+        - 8
+        - 14
+    - text: そうてんそくど装填速度が
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 16
+        - 4
+        - 12
+    - text: じょうしょう上昇した
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBomb_Name:
+    - text: Remote Bomb
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombLv2_Name:
+    - text: Remote Bomb +
+    - utf16_bytes:
+        - 0
+  Obj_Camera_Desc:
+    - utf16_bytes:
+        - 0
+  Obj_RemainInsideMap_MenuDesc:
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBomb_Desc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ばくはつ爆発による
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: はかい破壊を
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "もくてき目的とした\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "ぎじゅつ技術\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 6
+        - 8
+    - text: "せっちご設置後 "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 6
+        - 2
+        - 2
+    - text: す好きなタイミングで
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ばくはつ爆発させられる
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBomb_MenuDesc:
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombLv2_Desc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ばくはつ爆発による
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: はかい破壊を
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "もくてき目的とした\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "ぎじゅつ技術\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ばくはつ爆発の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: いりょく威力と
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 18
+        - 8
+        - 14
+    - text: そうてんそくど装填速度が
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 16
+        - 4
+        - 12
+    - text: じょうしょう上昇した
+    - utf16_bytes:
+        - 0
+  Obj_SheikSensorLv2_Desc:
+    - text: Albumに
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: おさ収められた
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "ぶったい物体を\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: "たんち探知できる "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "ぎじゅつ技術\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: おと音と
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: きょり距離で
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 18
+        - 6
+        - 14
+    - text: たいしょうぶつ対象物まで
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 2
+        - 6
+    - text: みちび導いてくれる
+    - utf16_bytes:
+        - 0
+  Obj_Porch_Shield_Name:
+    - text: Shield Stash
+    - utf16_bytes:
+        - 0
+  PlayerStole2_MenuDesc:
+    - text: "A glider given to you by King Rhoam. \nIt allows you to safely glide down from high\nplaces while enjoying the scenery of Hyrule."
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombBall2_Desc:
+    - utf16_bytes:
+        - 0
+  Obj_Camera_MenuDesc:
+    - text: "見ている風景や人物を画像として\nシーカーストーンに残す事ができる\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ぎじゅつ技術
+    - utf16_bytes:
+        - 0
+  PlayerStole2_Name:
+    - text: Paraglider
+    - utf16_bytes:
+        - 0
+  Obj_Motorcycle_MenuDesc:
+    - utf16_bytes:
+        - 0
+  Obj_StopTimer_Desc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ねら狙って
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 14
+        - 4
+    - text: "\nしょうしゃ照射することで "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 6
+        - 8
+    - text: むきぶつ無機物の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: "うご動きを\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 20
+    - text: "\n"
+    - utf16_bytes:
+        - 16
+    - text: いっていじかんと一定時間止められる
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "ぎじゅつ技術\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 6
+        - 2
+        - 2
+    - text: と止めた
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: もの物には
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: こうげき攻撃などで
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 14
+        - 4
+    - text: "\nしょうげき衝撃を"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 6
+        - 2
+        - 2
+    - text: た貯められる
+    - utf16_bytes:
+        - 0
+  Obj_DRStone_Get_Name:
+    - text: Sheikah Slate
+    - utf16_bytes:
+        - 0
+  Obj_Motorcycle_Name:
+    - text: Master Cycle Zero
+    - utf16_bytes:
+        - 0
+  Obj_Magnetglove_Name:
+    - text: Magnesis
+    - utf16_bytes:
+        - 0
+  Obj_DRStone_Get_MenuDesc:
+    - text: "A mysterious rectangular tablet that glows in the\ncenter. You've never seen this device before,\nbut somehow it conjures nostalgic feelings."
+    - utf16_bytes:
+        - 0
+  Obj_SheikPadLv2_Name:
+    - text: Sheikah Slate
+    - utf16_bytes:
+        - 0
+  Obj_Porch_Bow_MenuDesc:
+    - utf16_bytes:
+        - 0
+  Obj_IceMaker_MenuDesc:
+    - text: "Activate this ancient Sheikah technology\nwhile aiming at a body of water\nto create an ice pillar."
+    - utf16_bytes:
+        - 0
+  Obj_Magnetglove_Desc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 16
+        - 6
+        - 12
+    - text: きんぞくせい金属製の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: もの物に
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 14
+        - 4
+    - text: "\nしょうしゃ照射することで\nその"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ぶったい物体を
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 18
+        - 8
+        - 14
+    - text: "えんかくそうさ遠隔操作できるようになる\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ぎじゅつ技術
+    - utf16_bytes:
+        - 0
+  Obj_SheikSensor_MenuDesc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: いせき遺跡を
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: たんち探知するために
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "かいはつ開発された\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "ぎじゅつ技術\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: おと音と
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: きょり距離で
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: いせき遺跡まで
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 2
+        - 6
+    - text: みちび導いてくれる
+    - utf16_bytes:
+        - 0
+  Obj_AmiiboItem_Name:
+    - text: amiibo
+    - utf16_bytes:
+        - 0
+  Obj_Porch_Weapon_Name:
+    - text: Weapon Stash
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombLv2_MenuDesc:
+    - utf16_bytes:
+        - 0
+  Obj_Porch_Shield_Desc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: たて盾をコンパクトに
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 14
+        - 4
+    - text: "\nしゅうのう収納できるInventory\nたくさんあればそれだけ"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: おお多くの
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: "たて盾を\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 6
+        - 2
+        - 2
+    - text: も持ち
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: はこ運べる
+    - utf16_bytes:
+        - 0
+  Obj_AmiiboItem_Desc:
+    - text: amiiboをかざす
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: こと事で
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: いろいろ色々な
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: "もの物を\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 6
+        - 2
+        - 2
+    - text: よ呼び
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 6
+        - 2
+        - 2
+    - text: だ出す
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: "こと事のできる\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 18
+    - text: "\n"
+    - utf16_bytes:
+        - 14
+    - text: ぎじゅつふしぎ技術不思議なRune
+    - utf16_bytes:
+        - 0
+  PlayerStole2_Desc:
+    - text: "An item that you received from the king on\nthe Great Plateau. It allows you to sail\nthrough the sky. Press "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촌 while you're in\nthe air to use it."
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombCube2_Name:
+    - text: Remote Bomb +
+    - utf16_bytes:
+        - 0
+  Obj_Porch_Weapon_MenuDesc:
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombCube_Name:
+    - text: Remote Bomb
+    - utf16_bytes:
+        - 0
+  Obj_Porch_Bow_Name:
+    - text: Bow Stash
+    - utf16_bytes:
+        - 0
+  Obj_Album_MenuDesc:
+    - utf16_bytes:
+        - 0
+  Obj_SheikSensor_Name:
+    - text: Sheikah Sensor
+    - utf16_bytes:
+        - 0
+  Obj_DRStone_Get_Desc:
+    - text: "A mysterious tablet with a glowing center.\nYou've never seen this device before, and\nyet...there's something familiar about it."
+    - utf16_bytes:
+        - 0
+  Obj_Motorcycle_Desc:
+    - utf16_bytes:
+        - 0
+  Obj_PictureBook_MenuDesc:
+    - utf16_bytes:
+        - 0
+  Obj_SheikPadLv2_Desc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: しゅうり修理してもらう
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: "こと事で\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ほんらい本来の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: きのう機能が
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ふっかつ復活したSheikah Slate
+    - utf16_bytes:
+        - 0
+  Obj_RemoteBombCube2_MenuDesc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ばくはつ爆発による
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: はかい破壊を
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "もくてき目的とした\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "ぎじゅつ技術\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: ばくはつ爆発の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: いりょく威力と
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 18
+        - 8
+        - 14
+    - text: そうてんそくど装填速度が
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 16
+        - 4
+        - 12
+    - text: じょうしょう上昇した
+    - utf16_bytes:
+        - 0
+  Obj_SheikSensor_Desc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: いせき遺跡を
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: たんち探知するために
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "かいはつ開発された\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "ぎじゅつ技術\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: おと音と
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: きょり距離で
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: いせき遺跡まで
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 2
+        - 6
+    - text: みちび導いてくれる
+    - utf16_bytes:
+        - 0
+  Obj_StopTimer_MenuDesc:
+    - text: "Ancient Sheikah technology that can stop\nan object's motion for a short time. Locked\nobjects can be attacked to build force that\nwill be released when the object is freed."
+    - utf16_bytes:
+        - 0
+  Obj_SheikSensorLv2_MenuDesc:
+    - text: Albumに
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: おさ収められた
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "ぶったい物体を\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: "たんち探知できる "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "ぎじゅつ技術\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: おと音と
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: きょり距離で
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 18
+        - 6
+        - 14
+    - text: たいしょうぶつ対象物まで
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 2
+        - 6
+    - text: みちび導いてくれる
+    - utf16_bytes:
+        - 0
+  Obj_Album_Name:
+    - text: Album
+    - utf16_bytes:
+        - 0
+  Obj_Porch_Weapon_Desc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 4
+        - 4
+    - text: ぶき武器をコンパクトに
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 14
+        - 4
+    - text: "\nしゅうのう収納できるInventory\nたくさんあればそれだけ"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: おお多くの
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 4
+        - 4
+    - text: "ぶき武器を\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 6
+        - 2
+        - 2
+    - text: も持ち
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: はこ運べる
+    - utf16_bytes:
+        - 0
+  Obj_StopTimerLv2_MenuDesc:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ねら狙って
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 14
+        - 4
+    - text: "\nしょうしゃ照射することで "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 6
+        - 8
+    - text: むきぶつ無機物に
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: "くわ加え "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: じゃあく邪悪なる
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: "もの者の\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: うご動きも
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 20
+    - text: "\n"
+    - utf16_bytes:
+        - 16
+    - text: "いっていじかんと一定時間止められる "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+    - text: "\n"
+    - utf16_bytes:
+        - 4
+        - 6
+    - text: こだい古代シーカー
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: ぞく族の
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: "ぎじゅつ技術\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 6
+        - 2
+        - 2
+    - text: と止めた
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 8
+        - 2
+        - 4
+    - text: もの物には
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 12
+        - 4
+        - 8
+    - text: こうげき攻撃などで
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 14
+        - 4
+    - text: "\nしょうげき衝撃を"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 0
+        - 6
+        - 2
+        - 2
+    - text: た貯められる
+    - utf16_bytes:
+        - 0

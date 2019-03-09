@@ -1,0 +1,44 @@
+---
+entries:
+  QL_bf2_collabo_Finish:
+    - text: "[Collaboration with Xenoblade Chronicles 2]\n\nYou found all three red shooting stars that\nlanded in various parts of Hyrule!\n\nIn Xenoblade Chronicles 2, the people who\ncollect sunken treasure in the Cloud Sea are\ncalled Salvagers. Use the three gears you've\ncollected like a true Salvager!"
+    - utf16_bytes:
+        - 0
+  QL_bf2_collabo_Name:
+    - text: "[Xenoblade Chronicles 2]"
+    - utf16_bytes:
+        - 0
+  QL_bf2_collabo_Desc:
+    - text: "[Collaboration with Xenoblade Chronicles 2]\n\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "The southern sky from the middle of the largest\nbridge. The eastern sky from the skull's left eye.\nThe southeastern sky from the peak of the tall,\npierced snowy mountain."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\n\nLook to the night sky at these locations and\nfind the red shooting stars!\n\nStars left: "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 2
+    - text: ".*bf2_collabo_remaining"
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+        - 0

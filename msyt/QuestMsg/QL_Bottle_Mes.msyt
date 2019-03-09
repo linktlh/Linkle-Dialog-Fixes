@@ -1,0 +1,67 @@
+---
+entries:
+  QL_Bottle_Mes_Name:
+    - text: Special Delivery
+    - utf16_bytes:
+        - 0
+  QL_Bottle_Mes_Desc:
+    - text: "Follow the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "letter "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "down the river without losing\nsight of it, and find out who receives it. The\nletter's casing is fragile, so take care when\npursuing it downstream.\n\nIf you lose sight of the letter, return to Finley\nto try again."
+    - utf16_bytes:
+        - 0
+  QL_Bottle_Mes_Step10:
+    - text: "The "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: letter
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "'s casing is fragile, so keep a close\neye on it.\n\nIf you lose sight of the letter, return to Finley\nto try again."
+    - utf16_bytes:
+        - 0
+  QL_Bottle_Mes_Step20:
+    - utf16_bytes:
+        - 0
+  QL_Bottle_Mes_Step30:
+    - text: "It turns out that Sasan picked up the message.\nHe's heading to Zora's Domain to meet\nFinley now.\n\nIf you want to see what happens, you should\nget to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Zora's Domain"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " too..."
+    - utf16_bytes:
+        - 0
+  QL_Bottle_Mes_Finish:
+    - text: "Sasan arrived safely at Zora's Domain and met\nwith Finley. Your part in the matter is concluded,\nthough it remains to be seen whether Sasan\ncan put on the muscle Finley hopes for."
+    - utf16_bytes:
+        - 0

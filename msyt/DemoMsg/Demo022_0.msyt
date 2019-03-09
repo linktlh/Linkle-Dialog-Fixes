@@ -1,0 +1,294 @@
+---
+entries:
+  "0003":
+    - text: "Let's go back."
+    - utf16_bytes:
+        - 0
+  talk04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: Are you OK to keep going?
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 0
+        - 1
+        - 2
+        - 769
+        - 0
+  talk10:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ć
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "You're all out of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: bows
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nLet's head back for now."
+    - utf16_bytes:
+        - 0
+  "0004":
+    - text: "Let's keep going."
+    - utf16_bytes:
+        - 0
+  talk05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3072
+    - text: "Hey, what's the deal? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nYou really want to go back?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 3
+        - 4
+    - text: ȁ
+    - utf16_bytes:
+        - 0
+  talk11:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ć
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "You're out of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: bomb arrows
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nLet's head back for now."
+    - utf16_bytes:
+        - 0
+  talk06:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: So...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "you're OK to keep going?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 0
+        - 1
+        - 2
+        - 769
+        - 0
+  talk08:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: "Looks like the weather is not on our\nside..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " You all set for "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: cold protection
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 0
+        - 1
+        - 2
+        - 769
+        - 0
+  talk00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: What is it?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Are you OK to keep going?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 0
+        - 1
+        - 2
+        - 769
+        - 0
+  "0000":
+    - text: "Let's go."
+    - utf16_bytes:
+        - 0
+  talk01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "All right. Let's keep going!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Take out\nthose "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: cannons
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: I need to prepare.
+    - utf16_bytes:
+        - 0
+  talk02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: "Roger! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: Watch yourself.
+    - utf16_bytes:
+        - 0
+  "0002":
+    - text: Back to Flight Range.
+    - utf16_bytes:
+        - 0
+  talk03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "...Understood."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Let's head back to the\nground for a bit."
+    - utf16_bytes:
+        - 0

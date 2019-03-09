@@ -1,0 +1,958 @@
+---
+entries:
+  talk10:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 7
+    - text: "Thanks, brother! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: Hope it serves you well!
+    - utf16_bytes:
+        - 0
+  talk11:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "इThanks for your purchase, brother!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nI'll be sure to stock up!"
+    - utf16_bytes:
+        - 0
+  Com_Talk_11:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ଇThanks, brother!"
+    - utf16_bytes:
+        - 0
+  talk13:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: Lemme know if ya need anything!
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 1
+        - 2
+        - 3
+    - text: Ȁ
+    - utf16_bytes:
+        - 0
+  Com_Talk_13:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ā
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: So you wanna sell that?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nHow many are ya lookin' to sell?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+    - text: ᕼᖄᕿȀ
+    - utf16_bytes:
+        - 0
+  near00:
+    - text: We have it all here!
+    - utf16_bytes:
+        - 0
+  Com_Talk_14:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ā
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "I'll pay "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - text: " "
+    - utf16_bytes:
+        - 28
+    - text: ShopTradePrice
+    - utf16_bytes:
+        - 0
+    - text: " rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nDo we have a deal?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ᕼᕽĀ
+    - utf16_bytes:
+        - 0
+  Com_Talk_15:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ကOh... Sorry, we don't buy those here."
+    - utf16_bytes:
+        - 0
+  Com_Talk_11b:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "इThank you, brother!"
+    - utf16_bytes:
+        - 0
+  Com_Talk_16:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ကYa know, it'd help a lot if you weren't\nwearin' the clothes you wanna sell..."
+    - utf16_bytes:
+        - 0
+  Com_Talk_11c:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ଇThanks for your patronage, brother!"
+    - utf16_bytes:
+        - 0
+  Com_Talk_11d:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "इThanks, little man!"
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: "I'm here to sell."
+    - utf16_bytes:
+        - 0
+  "0002":
+    - text: What is this place?
+    - utf16_bytes:
+        - 0
+  "0003":
+    - text: Good-bye.
+    - utf16_bytes:
+        - 0
+  Com_Talk_33:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ć
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: Just one?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " That'll net ya "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - text: " "
+    - utf16_bytes:
+        - 28
+    - text: ShopTradePrice
+    - utf16_bytes:
+        - 0
+    - text: " rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\nDeal?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ᕼᕽĀ
+    - utf16_bytes:
+        - 0
+  "0004":
+    - text: I want to buy.
+    - utf16_bytes:
+        - 0
+  talk00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȁMornin'!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " The "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Goron Gusto Shop "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "always\nopens early."
+    - utf16_bytes:
+        - 0
+  Com_Talk_05b:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀGo ahead and show me what\nyou're offerin'."
+    - utf16_bytes:
+        - 0
+  Com_Talk_34:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ć
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "All of 'em?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " That'll be "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - text: " "
+    - utf16_bytes:
+        - 28
+    - text: ShopTradePrice
+    - utf16_bytes:
+        - 0
+    - text: " rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nDeal?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ᕼᕽĀ
+    - utf16_bytes:
+        - 0
+  talk01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȁHow's it goin'?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " This is the general\nstore. Everyone here calls it the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Goron Gusto Shop
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  Com_Talk_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ĀLemme take a gander here...
+    - utf16_bytes:
+        - 0
+  Com_Talk_05c:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀAll right, go ahead and pick somethin'!"
+    - utf16_bytes:
+        - 0
+  Com_Talk_35:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ā
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "All of 'em?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " I can offer ya "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - text: " "
+    - utf16_bytes:
+        - 28
+    - text: ShopTradePrice
+    - utf16_bytes:
+        - 0
+    - text: " rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!\nDeal?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ᕼᕽĀ
+    - utf16_bytes:
+        - 0
+  talk02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȁGeez, you're up late, aren't ya?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nWelcome to the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Goron Gusto Shop
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  Com_Talk_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀAh, so you want to sell that?\nThat'll net ya..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - text: " "
+    - utf16_bytes:
+        - 28
+    - text: ShopTradePrice
+    - utf16_bytes:
+        - 0
+    - text: " rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ᕼᕽĀ
+    - utf16_bytes:
+        - 0
+  Com_Talk_05d:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀAll right! I'm ready to buy, buy, buy!"
+    - utf16_bytes:
+        - 0
+  Com_Talk_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "इThanks, brother!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Is there anything else\nyou wanna sell?"
+    - utf16_bytes:
+        - 0
+  talk04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ЀSure thing!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " What do ya wanna sell?"
+    - utf16_bytes:
+        - 0
+  talk05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀOur motto is, \"From the kitchen to the\nbattlefield, we've got the right tool for\nyou to wield!\""
+    - utf16_bytes:
+        - 0
+  Com_Talk_02b:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ଇThat wraps up our little transaction!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nAnything else you wanna sell?"
+    - utf16_bytes:
+        - 0
+  Com_Talk_04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 9
+    - text: "Ah, I see. That's too bad."
+    - utf16_bytes:
+        - 0
+  Com_Talk_50:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ā
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "For that, how about "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - text: " "
+    - utf16_bytes:
+        - 28
+    - text: ShopTradePrice
+    - utf16_bytes:
+        - 0
+    - text: " rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?\nGood deal, yeah?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ᕼᕽĀ
+    - utf16_bytes:
+        - 0
+  Com_Talk_02c:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "इThanks, brother! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "Did ya wanna sell\nanything else?"
+    - utf16_bytes:
+        - 0
+  Com_Talk_05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀWe'll take just about anything\noff your hands."
+    - utf16_bytes:
+        - 0
+  Com_Talk_51:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ѐ
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: How many?
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+    - text: ᕼᖃᕿȀ
+    - utf16_bytes:
+        - 0
+  talk07:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ЀTake care!
+    - utf16_bytes:
+        - 0
+  Com_Talk_02d:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ଇOK, OK!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Anything else?"
+    - utf16_bytes:
+        - 0
+  Com_Talk_52:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "If ya want "
+    - utf16_bytes:
+        - 14
+        - 2
+        - 15
+    - text: "&\"Shop_TradeItemNum"
+    - utf16_bytes:
+        - 0
+    - text: " of 'em, that'll cost ya\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - text: " "
+    - utf16_bytes:
+        - 28
+    - text: ShopTradePrice
+    - utf16_bytes:
+        - 0
+    - text: " rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". Sound good?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ᕼᕽĀ
+    - utf16_bytes:
+        - 0
+  "5500":
+    - text: OK.
+    - utf16_bytes:
+        - 0
+  talk08:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 7
+    - text: "Hm? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "We're all out?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nWell, I'll be sure to stock up!"
+    - utf16_bytes:
+        - 0
+  Com_Talk_53:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 9
+    - text: "Oh. Well, that's too bad."
+    - utf16_bytes:
+        - 0
+  "5501":
+    - text: Never mind.
+    - utf16_bytes:
+        - 0
+  talk09:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "इThanks, brother!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " Looks like you bought\nour last one!"
+    - utf16_bytes:
+        - 0
+  Com_Talk_54:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 11
+    - text: "You don't have enough rupees!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nGo earn some and come back!"
+    - utf16_bytes:
+        - 0
+  "5502":
+    - text: "I'll buy."
+    - utf16_bytes:
+        - 0
+  Com_Talk_09:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ဃYour pouch is full!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " Come back after\nyou've freed up some space."
+    - utf16_bytes:
+        - 0
+  Com_Talk_55:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 9
+    - text: Your pouch is full!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " You should make\nsome room and come back."
+    - utf16_bytes:
+        - 0
+  "5503":
+    - text: Never mind.
+    - utf16_bytes:
+        - 0
+  Com_Talk_56:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ā
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "Just one, eh?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " How about "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 18
+    - text: " "
+    - utf16_bytes:
+        - 28
+    - text: ShopTradePrice
+    - utf16_bytes:
+        - 0
+    - text: " rupees"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ᕾᕿĀ
+    - utf16_bytes:
+        - 0
+  "5507":
+    - text: "I'll take 'em all!"
+    - utf16_bytes:
+        - 0
+  "5508":
+    - text: All of them.
+    - utf16_bytes:
+        - 0

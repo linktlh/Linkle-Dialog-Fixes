@@ -1,0 +1,66 @@
+---
+entries:
+  Demo708_0_Text000:
+    - text: "You're here."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+        - 30
+        - 0
+    - text: " \n\n\nI must say...that I am so happy to see\nthat this day has finally arrived."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: Ý
+    - utf16_bytes:
+        - 0
+    - text: "\n\nNow Ruta can be freed\nof Ganon's control."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: y
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo708_0_Text001:
+    - text: "The "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Guidance Stone "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "there contains the\ninformation that you will need."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: s
+    - utf16_bytes:
+        - 0
+        - 0
+  Demo708_0_Text002:
+    - text: "You'll need a map to prevent you from\ngetting lost."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "`"
+    - utf16_bytes:
+        - 0
+        - 0

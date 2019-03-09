@@ -1,0 +1,60 @@
+---
+entries:
+  QL_HatenoMini_GoatThief_Desc:
+    - text: "A shepherd in Hateno Village named Koyin is\nworried that monsters will make off with her\nflock of sheep.\n\nAccording to her, the monsters in question\ncongregate at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Hateno Beach
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". She won't\nbreathe easy until "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: every last
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " monster there\nis defeated."
+    - utf16_bytes:
+        - 0
+  QL_HatenoMini_GoatThief_Finished:
+    - text: "You told Koyin that you cleared out the\nmonsters living on Hateno Beach. In return,\nshe gave you a handsome reward.\n\nYou feel like you're getting along quite well\nwith Koyin now! Maybe?"
+    - utf16_bytes:
+        - 0
+  QL_HatenoMini_GoatThief_Name:
+    - text: The Sheep Rustlers
+    - utf16_bytes:
+        - 0
+  QL_HatenoMini_GoatThief_Extermination:
+    - text: "You defeated every last monster lurking\non Hateno Beach! The village is safe for\nsheep at last.\n\nGo tell "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Koyin
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " in Hateno Village that the\nmonsters will trouble her flock no more."
+    - utf16_bytes:
+        - 0

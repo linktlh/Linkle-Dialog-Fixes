@@ -1,0 +1,28 @@
+---
+entries:
+  QL_SandStorm_Finish:
+    - text: "The treasure sleeping in the sandstorm visible\nfrom the Kara Kara Bazaar turned out to be an\nancient shrine.\n\nAll that is left now is to overcome the\nhero's trial within."
+    - utf16_bytes:
+        - 0
+  QL_SandStorm_Name:
+    - text: The Eye of the Sandstorm
+    - utf16_bytes:
+        - 0
+  QL_SandStorm_Desc:
+    - text: "At the Kara Kara Bazaar, they say that the\nsandstorm visible from camp hides a\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: treasure left by the ancients
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\n\nKeep close watch for when the sandstorm\ndisappears, and then quickly hunt for the\ntreasure."
+    - utf16_bytes:
+        - 0

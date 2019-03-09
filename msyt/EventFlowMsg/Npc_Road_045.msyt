@@ -1,0 +1,915 @@
+---
+entries:
+  Failed01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3075
+    - text: "These monsters would attack a lady\nbefore she's wed?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " How so very..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nmonstrous!"
+    - utf16_bytes:
+        - 0
+  MSG_Ichika_03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "Oh, you mistook me for a Gerudo? No\nworries, for some reason it happens all\nthe time."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " No idea why!\nMaybe because I'm traveling in search of\ntrue love. I'm single, ready to mingle, but\nmy love of monsters scares people away.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀI heard there's a really big monster\nsomewhere in this region."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nLike..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "REALLY big.\nSadly, that's all the info I've got on it.\nIt's not enough to track it down, but I\nwould love to see such a big monster."
+    - utf16_bytes:
+        - 0
+  MSG_Ichika_04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "Oh, were you hoping to buy something\nfrom me? Normally people mistake me for\na Gerudo, but never for a merchant!\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "I hear there's a wedding in "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Tarrey Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nWeddings are great for meeting people,\nso I'm hoping to meet someone myself."
+    - utf16_bytes:
+        - 0
+  RetMSG_Ichika_00_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀDid you know Octoroks can drown even\nthough they're octopi?\nOnly Water Octoroks survive the plunge!"
+    - utf16_bytes:
+        - 0
+  MSG_Ichika_00_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ᤀI heard there's a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Great Fairy "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "in this\nregion."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " They say if you find her, you'll be\nblessed with happiness."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I hope it's true!"
+    - utf16_bytes:
+        - 0
+  Thanks00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2817
+    - text: "Please, take this.\nAs a thank-you!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Ichika_04_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "Speaking of, do you know when the\nwedding at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Tarrey Town "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: starts?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I can't\nbe late to meeting my perfect someone!"
+    - utf16_bytes:
+        - 0
+  MSG_Ichika_04_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "I hear there's a wedding in "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Tarrey Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nWeddings are great for meeting people,\nso I'm hoping to meet someone myself."
+    - utf16_bytes:
+        - 0
+  Atacked00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ⨃*pant...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: pant*
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nJust..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: let me catch my breath...
+    - utf16_bytes:
+        - 0
+  Atacked01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "⨃I may love monsters, but this is a bit\nmuch even for me."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Maybe I'll get lucky\nand lightning will strike them."
+    - utf16_bytes:
+        - 0
+  RetMSG_Ichika_01_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀI hear there's a lot of treasure left in the\ncastle, but I get more excited thinking of\nall the monsters that must be in there!"
+    - utf16_bytes:
+        - 0
+  SavedLv1_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ଇOh, I'm saved!"
+    - utf16_bytes:
+        - 0
+  MSG_Ichika_01_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀStalnoxes are pretty big and creepy, but\nthe way they throw their own bones at\nyou..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "is just so cool!\nMaybe I'll find someone who likes\nmonsters as much as I do."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Then we can\nstay up all night talking about Stalnoxes!"
+    - utf16_bytes:
+        - 0
+  SavedLv1_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ህI don't even want to think about what\nwould've happened if you hadn't come\nalong to help."
+    - utf16_bytes:
+        - 0
+  RetMSG_Ichika_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ᔄOh! You startled me.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Were you hoping to\nbuy something from me?"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "Ā Sorry, but I'm\nnot a merchant.\nI'm out here traveling in search of true\nlove. I'm single and ready to mingle, but\nmy love of monsters scares people away.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀSpeaking of... Did you know Octoroks\ncan drown even though they're octopi?\nOnly Water Octoroks survive the plunge!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Ichika_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "You're talking to me?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I'm just a plain ol'\nHylian traveler is all, nothing quite as\ninteresting as a Gerudo or a monster.\nI'm out here traveling in search of true\nlove. I'm single and ready to mingle, but\nmy love of monsters scares people away.\nSeeing Hyrule Castle can make for a\nnice view if you can get it, but all the\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "Ѐmonsters around make it even nicer.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "I hear there's a lot of treasure left in the\ncastle, but I get more excited thinking of\nall the monsters that must be in there!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Ichika_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀOh, hello!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I'm a bit surprised you decided\nto talk to me. My love of monsters often\nscares people away."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " No idea why!\nI heard there's a great big monster along\nthe way to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: East Akkala Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", and I've\nbeen shaking ever since.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "Shaking with excitement, that is!"
+    - utf16_bytes:
+        - 0
+  Rest_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ЀWhat do I do for fun?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " The normal things."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nI list my favorite things about monsters...\nI imagine where the monsters live..."
+    - utf16_bytes:
+        - 0
+  RetMSG_Ichika_03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "You're talking to me?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I'm just a plain ol'\nHylian traveler is all, nothing quite as\ninteresting as a Gerudo or a monster.\nI'm out here traveling in search of true\nlove. I'm single and ready to mingle, but\nmy love of monsters scares people away.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀRight now, I'm interested in rumors\nabout the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Great Fairy
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " They say just a\nsingle glance will bring you happiness...\nAnd that she can make your clothes\nmore luxurious!"
+    - utf16_bytes:
+        - 0
+  Rest_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "I don't hate the rain."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " People tend to\ngather indoors when it's pouring out,\nso you never know who you'll meet."
+    - utf16_bytes:
+        - 0
+  RetMSG_Ichika_04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "You're talking to me?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I'm just a plain ol'\nHylian traveler is all, nothing quite as\ninteresting as a Gerudo or a monster.\nI'm out here traveling in search of true\nlove. I'm single and ready to mingle, but\nmy love of monsters scares people away.\nWhat do I do for fun?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " The normal things."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nI list my favorite things about monsters...\nI imagine where the monsters live...\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "I'm looking forward to the wedding at\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Tarrey Town
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". I'm bound to meet someone\nwho likes monsters as much as me there!"
+    - utf16_bytes:
+        - 0
+  Rest_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "I don't mind taking shelter from the rain."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nIt raises my chances of meeting my\nspecial someone in a romantic setting!"
+    - utf16_bytes:
+        - 0
+  Near00:
+    - text: I just love the morning.
+    - utf16_bytes:
+        - 0
+  SavedLv2_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ଇYou saved my life!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I'm glad we were able\nto meet like this.\n"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: Is this our destined encounter?
+    - utf16_bytes:
+        - 0
+  Near01:
+    - text: I need to find a date.
+    - utf16_bytes:
+        - 0
+  SavedLv2_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ଇOh, thank you!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I'm lucky you were here\nto save me."
+    - utf16_bytes:
+        - 0
+  Near02:
+    - text: Where to meet someone...
+    - utf16_bytes:
+        - 0
+  Near03:
+    - text: Monsters prowl in the dark.
+    - utf16_bytes:
+        - 0
+  Near04:
+    - text: What lousy weather!
+    - utf16_bytes:
+        - 0
+  RetMSG_Ichika_02_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀEven just hearing about a giant monster\nalong the way to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: East Akkala Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: " It\ngot me so excited—I'm still shaking!"
+    - utf16_bytes:
+        - 0
+  Guardian00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ἄSweet Bokoblin!
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "It's a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Guardian
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nI'm out of here!"
+    - utf16_bytes:
+        - 0
+  MSG_Ichika_02_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀIf you go north from here, you'll find the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: East Akkala Stables
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". I heard there are\nsome strong monsters along the way.\nJust thinking about such strong monsters\ngives me goosebumps!"
+    - utf16_bytes:
+        - 0
+  SavedLv3_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ህAnd to think, I was just one day from\nthis journey being over."
+    - utf16_bytes:
+        - 0
+  SavedLv3_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ህTraveling would be so much easier if it\nweren't for all these monsters."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " But at\nleast you were here to help."
+    - utf16_bytes:
+        - 0
+  RetMSG_Ichika_03_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀRight now, I'm interested in rumors\nabout the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Great Fairy
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " They say just a\nsingle glance will bring you happiness...\nAnd that she can make your clothes\nmore luxurious!"
+    - utf16_bytes:
+        - 0
+  MSG_Ichika_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "Oh, you mistook me for a Gerudo? No\nworries, for some reason it happens all\nthe time."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " No idea why!\nMaybe because I'm traveling in search of\ntrue love. I'm single and ready to mingle,\nbut my love of monsters scares people...\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ᤀBut I heard there's a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Great Fairy "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "in this\nregion."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " They say if you find her, you'll be\nblessed with happiness."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I hope it's true!"
+    - utf16_bytes:
+        - 0
+  MSG_Ichika_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "Oh, you mistook me for a Gerudo? No\nworries, for some reason it happens all\nthe time."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " No idea why!\nMaybe because I'm traveling in search of\ntrue love. I'm single and ready to mingle,\nbut my love of monsters scares people...\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀStalnoxes are pretty big and creepy, but\nthe way they throw their own bones at\nyou..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "is just so cool!\nMaybe I'll find someone who likes\nmonsters as much as I do."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Then we can\nstay up all night talking about Stalnoxes!"
+    - utf16_bytes:
+        - 0
+  MSG_Ichika_03_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀI heard there's a really big monster\nsomewhere in this region."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nLike..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "REALLY big.\nSadly, that's all the info I've got on it.\nIt's not enough to track it down, but I\nwould love to see such a big monster."
+    - utf16_bytes:
+        - 0
+  Failed00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3075
+    - text: "To think, I nearly died before getting\nmarried."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " That's not a proper order of\noperations!"
+    - utf16_bytes:
+        - 0
+  MSG_Ichika_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "Oh, you mistook me for a Gerudo? No\nworries, for some reason it happens all\nthe time."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " No idea why!\nMaybe because I'm traveling in search of\ntrue love. I'm single and ready to mingle,\nbut my love of monsters scares people...\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀIf you go north from here, you'll find the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: East Akkala Stables
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I heard there are\nsome strong monsters along the way.\nJust thinking about such strong monsters\ngives me goosebumps!"
+    - utf16_bytes:
+        - 0

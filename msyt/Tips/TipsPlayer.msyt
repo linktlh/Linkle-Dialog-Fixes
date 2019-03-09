@@ -1,0 +1,852 @@
+---
+entries:
+  Player_01:
+    - text: Climbing Tip
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If you're in a hurry to climb somewhere, you can scale a wall quicker\nby using "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촌. Doing so uses up a lot of stamina, so make sure you\nhave enough to make it to the top!"
+    - utf16_bytes:
+        - 0
+  Horse_02:
+    - text: Calling Your Horse
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Horses you have registered are displayed on the map. If one of\nthem is nearby, call it with "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: 촇 and it will come running.
+    - utf16_bytes:
+        - 0
+  Player_02:
+    - text: Climbing Tip
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "The stamina required for climbing increases with the steepness of\nthe cliff. To climb higher while using less stamina, it's important\nto find walls that have a gentler slope."
+    - utf16_bytes:
+        - 0
+  Horse_03:
+    - text: Training Your Horse
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Horses that you have just caught won't listen to much of what you tell\nthem to do. The more time you spend adventuring with your steed,\nthe better behaved it will become."
+    - utf16_bytes:
+        - 0
+  StopTimer_00:
+    - text: Stasis
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "This power allows you to halt time for certain objects, completely\nstopping them in place."
+    - utf16_bytes:
+        - 0
+  Player_03:
+    - text: Sprinting
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Move around while holding "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촑 to sprint. This is useful for evading\nmonster attacks or whenever you're in a hurry."
+    - utf16_bytes:
+        - 0
+  Horse_04:
+    - text: Calming Your Horse
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "When a wild horse that you're riding starts to act out or ignore you,\ntry soothing it with "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촔. If you keep this up, it will become more\nobedient over time."
+    - utf16_bytes:
+        - 0
+  StopTimer_01:
+    - text: Stasis
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Attacking objects stopped by Stasis will make them build up energy.\nThis energy will then be released once the time-halting effect ends."
+    - utf16_bytes:
+        - 0
+  Player_04:
+    - text: Paraglider
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "With the paraglider, you can glide down from high places with ease.\nUse "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: 촢 to scope out a safe spot to land.
+    - utf16_bytes:
+        - 0
+  Horse_05:
+    - text: Horse Temperaments
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Just as some horses have a naturally wild temperament, some horses\nare inherently shy. If you try to approach monsters atop a shy steed,\nit will become frightened and try to turn away."
+    - utf16_bytes:
+        - 0
+  StopTimer_02:
+    - text: Stasis
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Freezing a Bomb Barrel using Stasis and then attacking it\nwill cause it to fly off and explode at its point of impact."
+    - utf16_bytes:
+        - 0
+  Player_05:
+    - text: Fishing Tip
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If you use "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촥 to dash while swimming, you can get up close to a\nschool of fish before they swim away."
+    - utf16_bytes:
+        - 0
+  Horse_06:
+    - text: The Steed Takes the Lead
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Obedient horses will follow pathways without being told to.\nLeave the running up to your loyal steed every once in a while\nso you can enjoy the scenery!"
+    - utf16_bytes:
+        - 0
+  Player_06:
+    - text: Climbing Tip
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "In rainy weather, cliffs become slippery and may not be possible\nto scale. Wait for clear weather before attempting to climb a steep\ncliff whenever possible."
+    - utf16_bytes:
+        - 0
+  Horse_07:
+    - text: Galloping
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Running your horse at max speed is called galloping. Press "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촋 to\nincrease your horse's speed until it reaches a full gallop."
+    - utf16_bytes:
+        - 0
+  Player_07:
+    - text: Shield Surfing
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If you jump while your shield is out, you can climb aboard it\nusing "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촊. This will knock some durability off of the shield, but it's\nan effective way to travel downhill quickly!"
+    - utf16_bytes:
+        - 0
+  Horse_08:
+    - text: Galloping
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "The number of times you can increase your speed depends on\neach horse. If you find a horse with a high number of spurs,\nconsider keeping it as your companion."
+    - utf16_bytes:
+        - 0
+  Player_08:
+    - text: Basic Controls
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Take a peek at your controls at any time by opening the "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촗 menu\nand checking under System."
+    - utf16_bytes:
+        - 0
+  Horse_09:
+    - text: Horse Temperaments
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Trying to force a rowdy and untamed horse to speed up will likely\nresult in you being tossed to the ground."
+    - utf16_bytes:
+        - 0
+  Player_09:
+    - text: Restoring Hearts
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "You can replenish your health by consuming fruits and veggies\nyou've collected, as well as meat you've acquired through hunting.\nEat ingredients raw, or cook them to increase their healing properties."
+    - utf16_bytes:
+        - 0
+  Player_20:
+    - text: Resting at an Inn
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Sleeping overnight in a bed can do more than just fully replenish your\nhearts. If you spend more for a comfier bed, you can temporarily\nincrease your hearts!"
+    - utf16_bytes:
+        - 0
+  Player_21:
+    - text: Dodging Attacks
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "While targeting an enemy, execute a backflip by holding "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촁 and\npressing "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: 촌. This move is useful for dodging enemy attacks.
+    - utf16_bytes:
+        - 0
+  Player_22:
+    - text: Climbing Tip
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Use "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촁 and "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촌 to kick off from the surface you're currently\nclimbing."
+    - utf16_bytes:
+        - 0
+  Magnetglove_00:
+    - text: Magnesis
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "When you find a metallic object, you can use this power to lift it up\nand move it around freely, regardless of how heavy it is."
+    - utf16_bytes:
+        - 0
+  Player_23:
+    - text: Climbing Tip
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Use "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촁 and "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촌 to kick off from the surface you're currently\nclimbing. If you use the paraglider right afterward to glide, you can\nreach many new places."
+    - utf16_bytes:
+        - 0
+  Magnetglove_01:
+    - text: Magnesis
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: Use this power to lift up metallic objects hidden in water.
+    - utf16_bytes:
+        - 0
+  RemotoBomb_02:
+    - text: Remote Bombs
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "These bombs are useful not only for dealing damage to monsters.\nThey can also be used to break rocks and weak walls."
+    - utf16_bytes:
+        - 0
+  IceMaker_00:
+    - text: Cryonis
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Use this power to create a pillar of ice on the water's surface.\nSuch pillars can be used for lifting objects or climbing."
+    - utf16_bytes:
+        - 0
+  Player_24:
+    - text: Paraglider
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Soaring with the paraglider depletes your Stamina Wheel.\nBe careful to monitor your stamina so you don't run out midflight."
+    - utf16_bytes:
+        - 0
+  Magnetglove_02:
+    - text: Magnesis
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "To save wear and tear on your weapons, try swinging heavy metallic\nobjects around or dropping them on foes' heads."
+    - utf16_bytes:
+        - 0
+  RemotoBomb_03:
+    - text: Remote Bombs and Wind
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Remote Bombs are lighter than they appear. Use the wind to your\nadvantage to roll them in a certain direction or to blow them farther\nthan you could throw them on your own."
+    - utf16_bytes:
+        - 0
+  IceMaker_01:
+    - text: Cryonis
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "An ice pillar can be broken by lining your reticle up with it\nand pressing "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: 촊.
+    - utf16_bytes:
+        - 0
+  Player_25:
+    - text: Changing Focus
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "When there are multiple things to lock on to, press "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촏 again to\nswitch your focus."
+    - utf16_bytes:
+        - 0
+  IceMaker_02:
+    - text: Cryonis
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Aim at your feet with "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촇 to create an ice pillar directly beneath you.\nPress "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: 촇 again to return to the reticle.
+    - utf16_bytes:
+        - 0
+  Player_26:
+    - text: Climbing Tip
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Overhangs that curve outward and the underside of ceilings are too\ndifficult to hang on to. If you try to climb these surfaces anyway,\nyou will fall."
+    - utf16_bytes:
+        - 0
+  SheikSensor_00:
+    - text: Sheikah Sensor
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Use this power to detect the location of shrines. Simply head in the\ndirection where the reading is strongest."
+    - utf16_bytes:
+        - 0
+  SheikSensor_01:
+    - text: Sheikah Sensor +
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "The Sheikah Sensor + can detect objects that are logged\nin your Hyrule Compendium."
+    - utf16_bytes:
+        - 0
+  Horse_10:
+    - text: Galloping
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "You can run down smaller monsters atop your galloping steed,\nbut don't forget that you cannot make quick turns when traveling\nthis way."
+    - utf16_bytes:
+        - 0
+  Player_10:
+    - text: Resetting the Camera
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Press "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촏 to quickly shift the camera behind Link. If there's an object\nnearby that you can focus on, the camera will target it."
+    - utf16_bytes:
+        - 0
+  Horse_11:
+    - text: Horse Gaits
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "As your horse's speed increases—between walk, trot, canter,\nand gallop—their gait changes as well. Use "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촋 to increase\nyour speed, and use "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: 촁 to decrease it.
+    - utf16_bytes:
+        - 0
+  Player_11:
+    - text: Targeting
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Press "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촏 while near a monster or a person to target it.\nWhen locked on to something, you can freely circle around it."
+    - utf16_bytes:
+        - 0
+  Horse_12:
+    - text: Horse Steps
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "While totally motionless, if you press and hold "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촏, your horse \nwill take careful steps in any direction with "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촀. Do this if your\nhorse balks or when you find yourself stuck somewhere."
+    - utf16_bytes:
+        - 0
+  Player_12:
+    - text: Strafing
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If you want to move side to side without changing the direction\nyou're facing, try moving sideways while pressing "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: 촏.
+    - utf16_bytes:
+        - 0
+  Player_13:
+    - text: Stamina Wheel
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If your stamina runs out while climbing, you will lose your\ngrip and fall."
+    - utf16_bytes:
+        - 0
+  Map_00:
+    - text: Scope Tip
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "When you find an object or place of interest while looking through\nyour scope, press "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촊 to place a pin on your map in that location\nso you won't forget about it."
+    - utf16_bytes:
+        - 0
+  Wolf_01:
+    - text: Wolf Link
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If your Sheikah Sensor picks up a signal, Wolf Link will lead you\nto its source."
+    - utf16_bytes:
+        - 0
+  Player_14:
+    - text: Stamina Wheel
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Swimming depletes your stamina. If this runs out while you're\nswimming, you will sink below the water and, unless you've run out\nof hearts, be returned to dry land."
+    - utf16_bytes:
+        - 0
+  Map_01:
+    - text: Map Pins
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Not only can you drop pins while looking through the scope, but\nyou can also add or delete pins from the map on your Sheikah Slate."
+    - utf16_bytes:
+        - 0
+  Wolf_02:
+    - text: Wolf Link
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Wolf Link will remain still if you select Stay while locked on to him.\nSelect Come while he's waiting to make him follow you again."
+    - utf16_bytes:
+        - 0
+  Player_15:
+    - text: Ladders
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Climbing ladders will not deplete your stamina. However,\nusing "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: 촌 to jump up a ladder will.
+    - utf16_bytes:
+        - 0
+  Map_02:
+    - text: Map Stamps
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "You can stamp the map on your Sheikah Slate with reminders\nof important discoveries, like the location of a cooking pot or\nsomething unusual you want to investigate later."
+    - utf16_bytes:
+        - 0
+  Wolf_03:
+    - text: Wolf Link
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Whistle to call Wolf Link to your location. If you tap the amiibo a\nsecond time, you can recall him close to you."
+    - utf16_bytes:
+        - 0
+  Player_16:
+    - text: Pushing Objects
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Barrels and boxes can be pushed around. Use this to\nyour advantage!"
+    - utf16_bytes:
+        - 0
+  Wolf_04:
+    - text: Wolf Link
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Wolf Link is summoned from another plane of existence\nand can't be seen by other people in this world."
+    - utf16_bytes:
+        - 0
+  Player_17:
+    - text: Bedtime
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Sleeping in a bed allows you to sleep until morning, noon, or night.\nIt also replenishes your hearts."
+    - utf16_bytes:
+        - 0
+  RemoteBomb_00:
+    - text: Remote Bombs
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "The spherical bombs will roll downhill, whereas the cube-shaped\nbombs will not. Make sure to use the right bomb for the landscape!"
+    - utf16_bytes:
+        - 0
+  Wolf_05:
+    - text: Wolf Link
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Wolf Link will eat whatever food is in front of him to regain his\nhearts. If you don't want him to eat rare ingredients, use the Stay\ncommand to have him stay in place while you collect them."
+    - utf16_bytes:
+        - 0
+  Player_18:
+    - text: Archery Tip
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Draw your bowstring while jumping from a high place to briefly\nslow down time so that you can aim with greater accuracy."
+    - utf16_bytes:
+        - 0
+  Wolf_06:
+    - text: Wolf Link
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "As long as Wolf Link doesn't run out of hearts, you can summon him \nas many times as you want in a single day."
+    - utf16_bytes:
+        - 0
+  Player_19:
+    - text: Treetops
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "The things you can do atop small trees are limited, but they have\ntheir uses. Use them to scout an area with your scope. It's a\nhandy way to decide your next destination!"
+    - utf16_bytes:
+        - 0
+  Album_00:
+    - text: Hyrule Compendium
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Images captured with your Camera are logged in your\nHyrule Compendium. Things that can be logged include wildlife,\nmonsters, ingredients, and weapons."
+    - utf16_bytes:
+        - 0
+  amiibo_01:
+    - text: amiibo Rune
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: Some amiibo may only be used once per day.
+    - utf16_bytes:
+        - 0
+  Horse_00:
+    - text: Registering Horses
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Once you've tamed a wild horse, you can register it by taking it\nto a stable. Do this, and you'll be able to call your beloved steed\nto your side whenever you please."
+    - utf16_bytes:
+        - 0
+  amiibo_02:
+    - text: amiibo Rune
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Use an amiibo to summon forth an item that may be useful\nto you on your adventure!"
+    - utf16_bytes:
+        - 0
+  Player_00:
+    - text: Swimming Tip
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "When in the water, you can swim faster using "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촥. Be careful not to\noveruse this, lest your stamina run low and you drown."
+    - utf16_bytes:
+        - 0
+  Horse_01:
+    - text: Wild Horses
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If you see a wild horse you'd like to ride, crouch down so you can\napproach it quietly from behind. Take heed, though—if the horse\nnotices you while you're directly behind it, it will kick you!"
+    - utf16_bytes:
+        - 0
+  Warp_00:
+    - text: Travel Gates
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "You can travel instantly to shrines and towers using the map on\nthe Sheikah Slate ("
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촘). If there's somewhere you need to be,\ntravel to a shrine or tower near your destination to get there faster."
+    - utf16_bytes:
+        - 0

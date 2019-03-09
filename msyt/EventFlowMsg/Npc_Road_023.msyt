@@ -1,0 +1,711 @@
+---
+entries:
+  Failed01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ⰃOh, my aching bones..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I feel like\nI've been trampled."
+    - utf16_bytes:
+        - 0
+  MSG_Rane_00_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "There's a region to the northeast of here\ncalled Akkala."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " If you have a map, look for\na lake shaped like a skull. It's distinctive."
+    - utf16_bytes:
+        - 0
+  RetMSG_Rane_02_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "I've heard tell of a secret cave"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " on the\nwest side of Hyrule Castle!\n\nThere are many who've tried to get in\nthrough the cave to hunt for treasure,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nbut there are none who have returned!"
+    - utf16_bytes:
+        - 0
+  Thanks00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1
+    - text: "Thank you, O brave adventurer!"
+    - utf16_bytes:
+        - 0
+  MSG_Rane_04_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "You can probably get a pretty good price\nfor any ore you sell.\n\nIf you've got some spare lying around,\nit's probably worth your while to sell\nit off"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " and pocket the rupees!"
+    - utf16_bytes:
+        - 0
+  Atacked00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ሀPhew...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I don't need another close call\nlike THAT in my life."
+    - utf16_bytes:
+        - 0
+  Atacked01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text:  Shhh...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I don't think we're out of\nthe woods yet, and I don't want any\nmonsters hearing us..."
+    - utf16_bytes:
+        - 0
+  SavedLv1_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ଇAn adventurer!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " And you've saved me!\nHow very appropriate!"
+    - utf16_bytes:
+        - 0
+  MSG_Rane_01_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Were you considering a trip out to\nSkull Lake?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\n\nIf you go, promise me you'll check out\nFang and Bone. As shops go, it's\ndefinitely...interesting."
+    - utf16_bytes:
+        - 0
+  SavedLv1_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ଇThank you!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " It's so nice to see an\nadventurer on an actual adventure!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Rane_03_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "I've heard of a secret way into Hyrule\nCastle."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " You can find your way in through\nthe inlet behind the castle town.\nIt's just a rumor, mind you."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " For all I\nknow, it's a story spread to catch out\nthieves trying to break in."
+    - utf16_bytes:
+        - 0
+  Rest_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ጀPeople are trying to rest here, but I've\ngot stuff to share,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " so I'd better do it\nnice and quiet. You ready, adventurer?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nIf you find a shop called Fang and Bone,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nkeep an eye out for the special wares\nyou can buy only at night..."
+    - utf16_bytes:
+        - 0
+  Rest_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "စI got nothing to say, adventurer."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nSometimes, you just don't feel like\ntalking. Sometimes, you feel like a nap."
+    - utf16_bytes:
+        - 0
+  Rest_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Seeing as how you're an adventurer and\nall,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I bet you're already familiar with the\nfact that cliffs are slippery in the rain."
+    - utf16_bytes:
+        - 0
+  RetMSG_Rane_00_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "If you're headed to Akkala,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " you're gonna\nneed some basic equipment!\n\nDeath Mountain is just to the north of\nhere."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I'd recommend you head for its\nbase first and see about stocking up."
+    - utf16_bytes:
+        - 0
+  Near00:
+    - text: Lovely day!
+    - utf16_bytes:
+        - 0
+  SavedLv2_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 7
+    - text: That was a narrow escape!
+    - utf16_bytes:
+        - 0
+  Near01:
+    - text: Whoa there...
+    - utf16_bytes:
+        - 0
+  SavedLv2_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ሁThey say a little bit of danger's all part of\nthe travel experience,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " but that was really\nscary just now!"
+    - utf16_bytes:
+        - 0
+  Near02:
+    - text: "Now, now..."
+    - utf16_bytes:
+        - 0
+  Near03:
+    - text: Shush...
+    - utf16_bytes:
+        - 0
+  Near04:
+    - text: "Hush now. It's all right."
+    - utf16_bytes:
+        - 0
+  MSG_Rane_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1
+    - text: "Hey there, adventurer!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " You look like you\ncould use an adventure! If you head\nnortheast from here, you'll find Akkala.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Do you have Akkala on your map? Look\nfor a lake in the shape of a skull."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " If it's\nadventure you're after, look no further."
+    - utf16_bytes:
+        - 0
+  MSG_Rane_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1
+    - text: "Hey there, adventurer!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Were you\nconsidering a trip to Skull Lake?\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "If you go, promise me you'll check out\nFang and Bone."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " As shops go, it's\ndefinitely...interesting."
+    - utf16_bytes:
+        - 0
+  Guardian00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: " Careful now—there are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Guardians "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "on\nthe prowl!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " We'll be in serious trouble\nif we don't get moving!"
+    - utf16_bytes:
+        - 0
+  MSG_Rane_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1
+    - text: "Hey there, adventurer!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I'm on my way\nto Riverside Stable, a bit southwest\nfrom here.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Southeast about the same distance from\nhere is Kakariko Village!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Check your map\nand you should find it easy enough."
+    - utf16_bytes:
+        - 0
+  MSG_Rane_02_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "I'm on my way to Riverside Stable, a bit\nsouthwest from here."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\n\nSoutheast about the same distance from\nhere is Kakariko Village! Check your map\nand you should find it easy enough."
+    - utf16_bytes:
+        - 0
+  RetMSG_Rane_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1
+    - text: "Hey there, adventurer! A little word of\nadvice for you...\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "If you're headed to Akkala,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " you're gonna\nneed some basic equipment!\n\nDeath Mountain is just to the north of\nhere."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I'd recommend you head for its\nbase first and see about stocking up."
+    - utf16_bytes:
+        - 0
+  MSG_Rane_03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1
+    - text: "Hey there, adventurer! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "It's quite a\njourney to the Riverside Stable from\nhere.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "You could walk there if you HAD to, but"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nif you want to be prepared, bring a\ndetailed map and a horse, at least."
+    - utf16_bytes:
+        - 0
+  RetMSG_Rane_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1
+    - text: "Hey there, adventurer! A word of\nwarning for you...\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 5
+    - text: "You might get it into your head to go\ncheck out Hyrule Castle,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " but I've never\nencountered a more dangerous place...\nIf you head there hoping to find treasure,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nbe careful that you don't lose your life!"
+    - utf16_bytes:
+        - 0
+  MSG_Rane_04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Hey there, adventurer! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "You can probably\nget a pretty good price for any ore you\nsell.\nIf you've got some spare lying around,\nit's probably worth your while to sell\nit off"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " and pocket the rupees!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Rane_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1
+    - text: "Hey there, adventurer! A little treasure\ntip for you...\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "I've heard tell of a secret cave"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " on the\nwest side of Hyrule Castle!\n\nThere are many who've tried to get in\nthrough the cave to hunt for treasure,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nbut there are none who have returned!"
+    - utf16_bytes:
+        - 0
+  RetMSG_Rane_03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1
+    - text: "Hey there, adventurer! I've got a little\ninformation to share with you.\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "I've heard of a secret way into Hyrule\nCastle."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " You can find your way in through\nthe inlet behind the castle town.\nIt's just a rumor, mind you."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " For all I\nknow, it's a story spread to catch out\nthieves trying to break in."
+    - utf16_bytes:
+        - 0
+  RetMSG_Rane_04_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "On your travels, you may stumble across\nvarious kinds of ore. I recommend you\ncollect it!\nOre will fetch a good price if you sell it,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nwhich makes it a nice way to afford some\nof the pricier gear you'll find."
+    - utf16_bytes:
+        - 0
+  RetMSG_Rane_04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Listen up, adventurer!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " On your travels,\nyou may stumble across various kinds\nof ore. I recommend you collect it!\nOre will fetch a good price if you sell it,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nwhich makes it a nice way to afford some\nof the pricier gear you'll find."
+    - utf16_bytes:
+        - 0
+  SavedLv3_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ሁMy legs froze with fear when I saw\nthe danger I was in!"
+    - utf16_bytes:
+        - 0
+  SavedLv3_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: " Now that things are a little bit safer\naround here, I should get on my way."
+    - utf16_bytes:
+        - 0
+  RetMSG_Rane_01_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "စYou might get it into your head to go\ncheck out Hyrule Castle,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " but I've never\nencountered a more dangerous place...\nIf you head there hoping to find treasure,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nbe careful that you don't lose your life!"
+    - utf16_bytes:
+        - 0
+  MSG_Rane_03_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "It's quite a journey to the\nRiverside Stable from here...\n\nYou could walk there if you HAD to, but"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nif you want to be prepared, bring a\ndetailed map and a horse, at least."
+    - utf16_bytes:
+        - 0
+  Failed00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ⰃUrgh...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I'm not cut out for battle..."
+    - utf16_bytes:
+        - 0

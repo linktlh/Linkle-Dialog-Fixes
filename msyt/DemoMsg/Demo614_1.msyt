@@ -1,0 +1,48 @@
+---
+entries:
+  "0000":
+    - text: Enter.
+    - utf16_bytes:
+        - 0
+  Npc_DungeonPriest_talk000:
+    - text: "To the one who approaches this\nDivine Beast... In the name of the\nGoddess Hylia, I offer this trial."
+    - utf16_bytes:
+        - 0
+  Npc_DungeonPriest_talk100:
+    - text: "In exchange for Medoh's Emblems...\nyou will be granted the chance to\ntread through the realm of memories."
+    - utf16_bytes:
+        - 0
+  Npc_DungeonPriest_talk200:
+    - text: "Courageous hero... Dare you confront a\nrealm of illusion and memory... Dare you\nenter the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Divine Beast Vah Medoh
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 0
+        - 1
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: Quit.
+    - utf16_bytes:
+        - 0
+  Npc_DungeonPriest_talk101:
+    - text: "Those who lack determination will find\nthis trial unforgiving.\n\nDo not take this place lightly, nor dismiss\nit as merely a world within your mind.\nThe truth is much deeper than you know."
+    - utf16_bytes:
+        - 0

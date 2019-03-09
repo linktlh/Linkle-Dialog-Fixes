@@ -1,0 +1,107 @@
+---
+entries:
+  Talk01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ćAs you can see, things are goin' great!\n\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "And it's not just the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: secret of the hero
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ",\nbut also the secret musings of the hero,\nand the secret moments of the hero too!\n"
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "촇If it can be dug up, I'll dig it up!\nJust watch!"
+    - utf16_bytes:
+        - 0
+  Talk02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "What's up? You want me to dig up\nyour secrets too?\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 9
+    - text: "Impossible! Delicate things like that are\nbound to get broken!"
+    - utf16_bytes:
+        - 0
+  Talk03:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "촟I sure am tired from all this diggin'..."
+    - utf16_bytes:
+        - 0
+  Near00:
+    - text: Hrnggggghhh...
+    - utf16_bytes:
+        - 0
+  Talk04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "It's not just the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: secret of the hero
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " either,\nbut also the secret musings of the hero,\nand the secret moments of the hero too!\n"
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "촇If it can be dug up, I'll dig it up!\nJust watch!"
+    - utf16_bytes:
+        - 0
+  Talk00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "촘Dig, dig, dig! All's I wanna do is dig!\nYou hear dat, world? I won't stop 'til\nI find more! Make me filthy rich!"
+    - utf16_bytes:
+        - 0

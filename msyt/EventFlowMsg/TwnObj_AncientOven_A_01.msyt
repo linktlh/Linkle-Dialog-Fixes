@@ -1,0 +1,218 @@
+---
+entries:
+  talk06:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3584
+    - text: "Insufficient materials available\nfor exchange."
+    - utf16_bytes:
+        - 0
+  "0002":
+    - text: Make exchange.
+    - utf16_bytes:
+        - 0
+  talk07:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3584
+    - text: "Insufficient rupees available\nfor exchange."
+    - utf16_bytes:
+        - 0
+  "0003":
+    - text: Change exchange.
+    - utf16_bytes:
+        - 0
+  talk08:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3584
+    - text: No room in inventory.
+    - utf16_bytes:
+        - 0
+  talk09:
+    - text: OK.
+    - utf16_bytes:
+        - 0
+  talk00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ȀHello, *zzzt*, "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: FamiliarNameMissing!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nWelcome!"
+    - utf16_bytes:
+        - 0
+  talk10:
+    - text: "Hey hey, *beep*,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " FamiliarNameMissing!"
+    - utf16_bytes:
+        - 0
+  near00:
+    - text: "*zzzzzzrt*"
+    - utf16_bytes:
+        - 0
+  talk01:
+    - text: Insert materials and rupees.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nReceive ancient equipment in exchange."
+    - utf16_bytes:
+        - 0
+  near01:
+    - text: Materials required.
+    - utf16_bytes:
+        - 0
+  talk02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2816
+    - text: Thanks for your time.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Come\nagain, *bwop*,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: " FamiliarNameMissing!"
+    - utf16_bytes:
+        - 0
+  near02:
+    - text: Systems green.
+    - utf16_bytes:
+        - 0
+  talk03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ဆExchange for "
+    - utf16_bytes:
+        - 14
+        - 2
+        - 11
+    - text: "*&Shop_SelectItemName"
+    - utf16_bytes:
+        - 0
+    - text: "?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 2
+        - 3
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  near03:
+    - text: Optimal conditions.
+    - utf16_bytes:
+        - 0
+  talk04:
+    - text: "Exchanging... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: P*beeeeeep beep*
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
+    - utf16_bytes:
+        - 14
+        - 5
+        - 2
+        - 0
+    - text: "\nExchanging... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: P*beeeeeep beep*
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
+    - utf16_bytes:
+        - 0
+  talk05:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "}"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2816
+    - text: Results available.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\n*bweep* "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
+    - utf16_bytes:
+        - 0

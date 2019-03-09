@@ -1,0 +1,60 @@
+---
+entries:
+  QL_TreasureHunt01_Desc:
+    - text: "Rumor has it there's an item called the\nKorok Mask that has the power to alert its\nwearer when a Korok is hiding nearby.\n\nApparently the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Woodland Stable
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " has a copy of\nSuper Rumor Mill EX, which details some rumors\nabout this rare mask."
+    - utf16_bytes:
+        - 0
+  QL_TreasureHunt01_Step01:
+    - text: "You read Super Rumor Mill EX: Volume 1!\nAccording to this special issue, there are\nrumors of an item called the Korok Mask\nthat has been inhabited by a friendly spirit.\n\nThe treasure chest containing the Korok Mask\nis hidden "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "in the hollow of a terrifying tree in a\nforest that causes those who enter to lose their\nway"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". Find that forest and locate the treasure\nchest! It also seems there's a convenient way\nto search for it..."
+    - utf16_bytes:
+        - 0
+  QL_TreasureHunt01_Name:
+    - text: EX Strange Mask Rumors
+    - utf16_bytes:
+        - 0
+  QL_TreasureHunt01_Finish:
+    - text: "You found the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Korok Mask
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " in the spooky tree's\nhollow within the Lost Woods!\n\nThe Korok Mask will inform you when a Korok\nis hiding nearby."
+    - utf16_bytes:
+        - 0

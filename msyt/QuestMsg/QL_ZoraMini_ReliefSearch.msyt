@@ -1,0 +1,60 @@
+---
+entries:
+  QL_ZoraMini_ReliefSearch_Desc:
+    - text: "After hearing Jiahto's request, you agreed to\nsearch for the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: stone monuments
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " in the area\nsurrounding Zora's Domain.\n\nNot counting the monument in Zora's Domain,\nthere are "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 10 to find
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " in total."
+    - utf16_bytes:
+        - 0
+  QL_ZoraMini_ReliefSearch_Name:
+    - text: Zora Stone Monuments
+    - utf16_bytes:
+        - 0
+  QL_ZoraMini_ReliefSearch_SearchRelief:
+    - text: "You searched the area surrounding Zora's\nDomain high and low and found all ten\nstone monuments.\n\nReport your findings to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Jiahto
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  QL_ZoraMini_ReliefSearch_Finish:
+    - text: "You found all ten stone monuments and\nreported back to Jiahto.\n\nJiahto will benefit greatly from this."
+    - utf16_bytes:
+        - 0

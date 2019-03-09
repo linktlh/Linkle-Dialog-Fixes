@@ -1,0 +1,58 @@
+---
+entries:
+  "0020":
+    - text: Delete pin
+    - utf16_bytes:
+        - 0
+  "0021":
+    - text: Leave This Area
+    - utf16_bytes:
+        - 0
+  "0022":
+    - text: "You can't leave right now."
+    - utf16_bytes:
+        - 0
+  "0023":
+    - text: Open Adventure Log
+    - utf16_bytes:
+        - 0
+  "0000":
+    - text: Cannot delete data.
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: Delete
+    - utf16_bytes:
+        - 0
+  "0002":
+    - text: Cancel
+    - utf16_bytes:
+        - 0
+  "0015":
+    - text: Travel
+    - utf16_bytes:
+        - 0
+  "0003":
+    - text: No Target
+    - utf16_bytes:
+        - 0
+  "0016":
+    - text: "You can't travel from here."
+    - utf16_bytes:
+        - 0
+  "0004":
+    - text: Target with Sensor
+    - utf16_bytes:
+        - 0
+  "0017":
+    - text: Edit stamp
+    - utf16_bytes:
+        - 0
+  "0018":
+    - text: Delete stamp
+    - utf16_bytes:
+        - 0
+  "0019":
+    - text: Change to stamp
+    - utf16_bytes:
+        - 0

@@ -1,0 +1,692 @@
+---
+entries:
+  Warning03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĊYou won't change the world by jumping\ncarelessly to your doom, don't ya know!\n\nThat would only do one thing..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nAnd that's...\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 8
+    - text: "Drive me batty!\n\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀSeriously! Think of the shock I'd suffer,\nseeing something like that!"
+    - utf16_bytes:
+        - 0
+  RunRain00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3584
+    - text: "Not now. Talk to me where it's dry!"
+    - utf16_bytes:
+        - 0
+  Warning04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: "Now calm down and climb off that rail.\n"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "And don't climb down THAT way.\nClimb down THIS way!"
+    - utf16_bytes:
+        - 0
+  Warning05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 6
+    - text: "You're fine. Just don't be so careless."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nThere are too many enjoyable things in\nthe world to gamble with your life!"
+    - utf16_bytes:
+        - 0
+  TalkLoop00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ЀAsk me whatever you want!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I'm happy to\nchat with you awhile."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 0
+        - 1
+        - 2
+    - text: Ȁ
+    - utf16_bytes:
+        - 0
+  GoodBye00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ĀSee ya.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Let's wish each other good luck,\neh? We'll need it!"
+    - utf16_bytes:
+        - 0
+  GoodBye01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ĀWhy not kill some time here?
+    - utf16_bytes:
+        - 0
+  Wander00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: Hello?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Are you looking for someone to\nchat with too?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 0
+        - 1
+        - 2
+    - text: Ȁ
+    - utf16_bytes:
+        - 0
+  Wander01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Just patrolling. This bridge is an\nimportant route.\n\nI keep really busy making sure monsters\ndon't nest here by chasing them off the\nbridge and stuff."
+    - utf16_bytes:
+        - 0
+  Hyrule00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "\nHyrule Castle?!\n\n\nI don't know how many lives you've got,\nbut in a place with that many Guardians,\nI guarantee you it's not enough!"
+    - utf16_bytes:
+        - 0
+  Talk01_1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "؆We're doomed! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "I mean, don't panic!\nSorry, who are you? Have we met?\n\nWell, doesn't matter who you are, really."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nI was getting tired of talking to myself,\nso you've come at a good time.\nBy the by, those strange things that\npopped out of the ground..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nDid you see them?"
+    - utf16_bytes:
+        - 0
+  WanderRain00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ȀSo... Think the rain will let up soon?
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 1
+        - 2
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  Wander02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ċWhere do you want to go?
+    - utf16_bytes:
+        - 14
+        - 1
+        - 6
+    - text: "\n"
+    - utf16_bytes:
+        - 3
+        - 4
+        - 5
+        - 2
+        - 768
+        - 0
+  Hyrule01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: See that? You can see it in the distance.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nHonestly, I think you're better off just\nlooking at it from here."
+    - utf16_bytes:
+        - 0
+  Talk01_2:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀI'm not talking about mushrooms here!\nI'm talking about those towers!\n\nThey seem to have popped up all over\nthe place!"
+    - utf16_bytes:
+        - 0
+  Talk01_3:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀAnd that's not the only strange thing\nthat's happened."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Those long-deserted\nshrines suddenly started glowing!\n"
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "촊You know what this means, don't you?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nThe end is here!"
+    - utf16_bytes:
+        - 0
+  "1000":
+    - text: What thing?
+    - utf16_bytes:
+        - 0
+  "1001":
+    - text: "Yeah, good idea."
+    - utf16_bytes:
+        - 0
+  "0000":
+    - text: What are you doing?
+    - utf16_bytes:
+        - 0
+  Talk00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3075
+    - text: "I may be somewhat used to seeing bad\nomens by now, but that..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Well, let's just\nsay it's badder than most."
+    - utf16_bytes:
+        - 0
+  "1002":
+    - text: Good-bye.
+    - utf16_bytes:
+        - 0
+  Action5_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ሀAhhh... I'm exhausted."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 1
+        - 2
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: I need directions.
+    - utf16_bytes:
+        - 0
+  Colony00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "The Great Plateau? \n\n\nWhy would you possibly need to go to an\nabandoned place like that?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " How would\nyou even begin to scale that cliff?"
+    - utf16_bytes:
+        - 0
+  "1003":
+    - text: This one here?
+    - utf16_bytes:
+        - 0
+  Action5_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: Hello?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Are you taking a break?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 1
+        - 2
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  "0002":
+    - text: Good-bye.
+    - utf16_bytes:
+        - 0
+  Colony01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Well, in any case, it's over there."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nThere are quite a few monsters about,\nthough. So be careful."
+    - utf16_bytes:
+        - 0
+  WarningClear00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ሉMan! Don't ever do something like that\nagain, got it? You almost gave me a\nheart attack. Seriously!"
+    - utf16_bytes:
+        - 0
+  Talk02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "With all this craziness happening,\nI've been keeping an eye on\nthat thing.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀJust to see if it suddenly starts moving,\nya know?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+    - text: ϨϩϪȀ
+    - utf16_bytes:
+        - 0
+  "0003":
+    - text: Kakariko Village.
+    - utf16_bytes:
+        - 0
+  WarningClear01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ሉPhew! You had me worried there. \nDon't mess with people like that."
+    - utf16_bytes:
+        - 0
+  Talk03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ᐄI'm talking about that "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: Guardian
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ",\nof course!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Haven't you heard the\nold stories about Hyrule?"
+    - utf16_bytes:
+        - 0
+  "0004":
+    - text: Hyrule Castle.
+    - utf16_bytes:
+        - 0
+  WarningClear02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "I'll stay here and chat with you for a bit,\nif you'd like."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 0
+        - 1
+        - 2
+    - text: Ȁ
+    - utf16_bytes:
+        - 0
+  Talk04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀYeah, that "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 2
+    - text: "Guardian "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "is worth watching.\nIt's just like the ones from those\nold stories."
+    - utf16_bytes:
+        - 0
+  "0005":
+    - text: Great Plateau.
+    - utf16_bytes:
+        - 0
+  Talk05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: See that thing over there?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " The one\nshaped like an overturned urn?\nTHAT is what I'm talking about."
+    - utf16_bytes:
+        - 0
+  Talk06:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 11
+    - text: "Did you know some of them can move?\nOne of them once chased me down and\ntried to kill me!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: ϫϪĀ
+    - utf16_bytes:
+        - 0
+  Kakariko00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀAh, I see. Kakariko Village is that way."
+    - utf16_bytes:
+        - 0
+  Talk07:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ċNo, it was a different one.\n\n\nThat one was closer to the castle but\nbefore the forest...\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "When they spot you, they shoot blue\nbeams of light at you!\n\nMan, I was so sure that was the end\nfor me. I was prepared for the worst.\n\nBut I somehow managed to escape into\nthe nearby woods.\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "؋You think it was my lightning-fast\nreflexes that saved me?\n\nHa, I wish. Truth is, I just got lucky.\n\n\nAnyway, I hear Guardians like that still\nwander around Hyrule Castle."
+    - utf16_bytes:
+        - 0
+  Kakariko01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "On the other side of the Dueling Peaks,\nthere's a stable. Stop there and ask\nsomeone for further directions."
+    - utf16_bytes:
+        - 0
+  Talk08:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 9
+    - text: "*siiigh* Just when I find someone to\ntalk to... I wonder what I did to make\nhim hate me..."
+    - utf16_bytes:
+        - 0
+  Talk09:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ĀBe careful.
+    - utf16_bytes:
+        - 0
+  Near00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 촊The end is here...
+    - utf16_bytes:
+        - 0
+  Warning00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "}Hey! Don't be rash!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: d
+    - utf16_bytes:
+        - 0
+  Near01:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 촘♪Hm hm hmmmm...♪
+    - utf16_bytes:
+        - 0
+  Warning01:
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "}"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "dWait a minute! Please, think about what\nyou're doing!"
+    - utf16_bytes:
+        - 0
+  Warning02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĊI'm young, but you're even younger.\n\n\nI'm trying my best out here, but I get the\nfeeling you're going to end up trying\neven harder in this world.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀThat's the feeling I get when I look at\nyour face..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " But maybe I'm nuts."
+    - utf16_bytes:
+        - 0

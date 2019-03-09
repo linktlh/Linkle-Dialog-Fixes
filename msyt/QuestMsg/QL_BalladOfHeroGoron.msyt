@@ -1,0 +1,226 @@
+---
+entries:
+  QL_BalladOfHeroGoron_Seek3rdDungeon:
+    - text: "You completed the three trials inscribed on the\nstone monument in the Eldin region.\n\nAfter you collected three of Rudania's Emblems,\nthe monk told you to head to the Divine Beast.\nWhat awaits you there?\n\nGo to the Divine Beast Vah Rudania\nto find out."
+    - utf16_bytes:
+        - 0
+  QL_BalladOfHeroGoron_Name:
+    - text: "EX Champion Daruk's Song"
+    - utf16_bytes:
+        - 0
+  QL_BalladOfHeroGoron_Desc:
+    - text: "The scattered One-Hit Obliterator led you to a\nlocation where a stone monument with a map of\ntrials appeared. Kass's song seems related...\n\nOne, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: stop a titan of molten stone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nTwo, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: follow rings of light alone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nThree, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "survive lava's fiery fate"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nChampion, trials await!\n\nYou still have "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: three
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " trials to complete."
+    - utf16_bytes:
+        - 0
+  QL_BalladOfHeroGoron_Seek2ndDungeon:
+    - text: "The scattered One-Hit Obliterator led you to a\nlocation where a stone monument with a map of\ntrials appeared. Kass's song seems related...\n\nOne, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: stop a titan of molten stone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nTwo, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: follow rings of light alone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nThree, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "survive lava's fiery fate"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nChampion, trials await!\n\nYou still have "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: one
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " trial to complete."
+    - utf16_bytes:
+        - 0
+  QL_BalladOfHeroGoron_ToRemains:
+    - text: "When you reached Divine Beast Vah Rudania,\nyou heard the monk's voice again, and a new\ntrial began!\n\nA phantasm of Fireblight Ganon, born from\nyour own memories and fears, appeared to\nchallenge your resolve.\n\nComplete the trial using "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: only the tools provided
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 0
+  QL_BalladOfHeroGoron_Seek1stDungeon:
+    - text: "The scattered One-Hit Obliterator led you to a\nlocation where a stone monument with a map of\ntrials appeared. Kass's song seems related...\n\nOne, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: stop a titan of molten stone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nTwo, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: follow rings of light alone
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nThree, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "survive lava's fiery fate"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nChampion, trials await!\n\nYou still have "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: two
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " trials to complete."
+    - utf16_bytes:
+        - 0
+  QL_BalladOfHeroGoron_Finish:
+    - text: "You defeated the phantasm of Fireblight\nGanon, which was born from your own\nmemories and fears.\n\nKass's composition, entitled "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Champion Daruk's\nSong"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", was so true and moving that it allowed\nyou to visualize a memory from 100 years ago.\n\nBy conquering the trial, your sacred power has\nincreased and Daruk's Protection has become\nmore efficient than ever."
+    - utf16_bytes:
+        - 0

@@ -1,0 +1,298 @@
+---
+entries:
+  "0008":
+    - text: "Any attack that causes your\nweapon to break becomes a\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Critical Hit
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", dealing 2x damage."
+    - utf16_bytes:
+        - 0
+  "0009":
+    - text: "Throw a weapon at an enemy to\nperform a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Critical Hit
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", dealing\ntwice the weapon damage."
+    - utf16_bytes:
+        - 0
+  "0020":
+    - text: "The air has become very "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: cold
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nYou'll take damage even with\nyour current food and clothes."
+    - utf16_bytes:
+        - 0
+  "0021":
+    - text: "The air has become very "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: hot
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nYou'll take damage even with\nyour current food and clothes."
+    - utf16_bytes:
+        - 0
+  "0022":
+    - text: "The air itself burns. Your current\nclothes and food won't protect\nyou from taking damage."
+    - utf16_bytes:
+        - 0
+  "0010":
+    - text: "The very air around you is\nburning. You'll take damage\nif you stay here any longer."
+    - utf16_bytes:
+        - 0
+  "0023":
+    - text: "You can manipulate certain\naspects of the Divine Beast\nfrom the "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Map Screen
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  "0024":
+    - text: "Master Cycle Zero's "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: fuel
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " can\nbe refilled by placing materials\nin its fuel tank."
+    - utf16_bytes:
+        - 0
+  "0000":
+    - text: "Press "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촊 to deflect an attack\nwith your shield right before it\nlands for a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Perfect Guard
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  "0013":
+    - text: "Vertical surfaces become slick\nwith water when it rains, making\nclimbing more difficult."
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: "Jump out of the way of an\nattack at the last moment to\nexecute a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Perfect Dodge
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  "0014":
+    - text: "Wooden weapons or\nshields will catch fire if\nequipped in this area."
+    - utf16_bytes:
+        - 0
+  "0002":
+    - text: "To shield surf, jump ("
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: "촌) while\nholding a shield, and then\npress "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 7
+        - 2
+    - text: 촊 while in the air.
+    - utf16_bytes:
+        - 0
+  "0015":
+    - text: "Crouching increases your\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: stealth
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", making it easier to\nsneak up on foes and animals."
+    - utf16_bytes:
+        - 0
+  "0003":
+    - text: "Hit an enemy's head with an\narrow to perform a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 1
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Critical Hit
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 1
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nthat deals 2x damage."
+    - utf16_bytes:
+        - 0
+  "0016":
+    - text: "You can't sand-seal surf\nwithout a shield."
+    - utf16_bytes:
+        - 0
+  "0004":
+    - text: "If your Stamina Wheel runs out,\nyou'll be too tired to do certain\nactions until it fills up again."
+    - utf16_bytes:
+        - 0
+  "0017":
+    - text: "Wolf Link will guide you\nto locations that trigger\nyour Sheikah Sensor."
+    - utf16_bytes:
+        - 0
+  "0005":
+    - text: "The temperature is getting\ndangerously low. Find warmth\nsoon or you'll take damage."
+    - utf16_bytes:
+        - 0
+  "0018":
+    - text: "Check a meal's ingredients by\nselecting it from your inventory\nand then selecting "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: Recipe
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  TextBox_00:
+    - utf16_bytes:
+        - 57419
+        - 0
+  "0006":
+    - text: "The temperature is getting\nvery high. Find a way to cool\ndown or you'll take damage."
+    - utf16_bytes:
+        - 0
+  "0019":
+    - text: "Electrical attacks can shock\nyou, causing you to drop the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "weapon "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "you're holding."
+    - utf16_bytes:
+        - 0
+  T_Guide_00:
+    - text: Controls Overview
+    - utf16_bytes:
+        - 0
+  "0007":
+    - text: "Sneak up on an enemy and\nunleash a melee attack to do\nsome major damage."
+    - utf16_bytes:
+        - 0

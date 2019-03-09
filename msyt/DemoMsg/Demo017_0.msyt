@@ -1,0 +1,103 @@
+---
+entries:
+  Talk01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Oh, and my friends are hiding in lots of\ndifferent places too! Don't be shy about\npoking your nose into suspicious places!"
+    - utf16_bytes:
+        - 0
+  CompTalk02:
+    - text: You found all the hidden Koroks!
+    - utf16_bytes:
+        - 0
+  Talk02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ċ
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: "&$HiddenKorok_AppearYahaha! You found me!"
+    - utf16_bytes:
+        - 0
+  Talk03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 7
+    - text: Buh-bye!
+    - utf16_bytes:
+        - 0
+  Talk00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ċ
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: "&$HiddenKorok_AppearYa-ha-ha! You found me!\n\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 11
+    - text: Huh?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " You're not Hestu!\n\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: But you can...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: see me?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nI didn't know your kind could see the\nchildren of the forest!\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 7
+    - text: "Well,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " if you run into Hestu, please\nreturn this to him."
+    - utf16_bytes:
+        - 0
+  CompTalk01:
+    - text: "You've found all of the hidden Koroks!\nYou should tell Hestu the good news!"
+    - utf16_bytes:
+        - 0

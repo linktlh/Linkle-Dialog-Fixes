@@ -1,0 +1,3228 @@
+---
+entries:
+  Initial_SunShield1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጄ*sigh...*
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Hey... "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "2"
+    - utf16_bytes:
+        - 0
+    - text: "What's that on\nyour back?!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: A Daybreaker!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Am I dreaming?!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nI've wanted that shield so bad that I've\nseen it in my dreams..."
+    - utf16_bytes:
+        - 0
+  EntranceTalk_Beginner_Default:
+    - text: Hey...wait a second...
+    - utf16_bytes:
+        - 0
+  Initial_SunShield:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጄ*sigh...*
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Hey... "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "2"
+    - utf16_bytes:
+        - 0
+    - text: "What's that on\nyour back?!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: A Daybreaker!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Am I dreaming?!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nI've wanted that shield so bad that I've\nseen it in my dreams..."
+    - utf16_bytes:
+        - 0
+  EntranceTalk_Beginner:
+    - text: "Huh... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Welcome to the middle of\nnowhere."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Population: us."
+    - utf16_bytes:
+        - 0
+  Goal_BadTime_Expert_rupi_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጀWhoops!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " This is the same shield I gave\nyou last time, huh?"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Uh...how about some rupees as a\nconsolation prize?"
+    - utf16_bytes:
+        - 0
+  Goal_BadTime_Expert_rupi_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ᔊWow—
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Are you for\nreal?! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀYou're better than I ever was..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nYou could be a pro if you wanted!"
+    - utf16_bytes:
+        - 0
+  Initial_MoonlightShield:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጄ*sigh...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "* Hey... "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "2"
+    - utf16_bytes:
+        - 0
+    - text: "What's that on\nyour back?!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "That's a radiant shield! You wouldn't\nbelieve how rare those things are!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " You\npractically never see them anymore..."
+    - utf16_bytes:
+        - 0
+  AskAboutShieldSurfing_Beginner:
+    - text: "Hmmm. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Let's put the test aside for now\nand just ask you straight out..."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+        - 14
+        - 1
+        - 1
+        - 4
+        - 0
+    - text: "㼀What does "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "}shield surfing "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 2
+        - 2
+    - text: "dreally mean\nto you?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 12
+        - 13
+    - text: Ȁ
+    - utf16_bytes:
+        - 0
+  Goal_BadTime_Expert_rupi_03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "You clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nThat's on par with my best time!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "You should be proud. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "The only other\nones on that level are Rito, and they\ntend to cheat by flying."
+    - utf16_bytes:
+        - 0
+  AboutGame_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ጀWow, you seem serious about this."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nNot very surfer-like, but OK."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I'll boil\nit down for you.\nShield surfing is all about how fast you\ncan make it to the bottom of the hill."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Quick check—you do know how to surf,\nright?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Just hold out your shield, and\nthen hop onto it in mid-jump.\nFor this course, I don't care if you stay\non your shield or not. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "You can go so fast\nthat you start to fly for all I care."
+    - utf16_bytes:
+        - 0
+  EntranceTalk_Expert_SP:
+    - text: "You're practically a pro yourself these\ndays. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "You won't forget who taught you\neverything you know, right?"
+    - utf16_bytes:
+        - 0
+  IfSelectExpertCourse_Expert:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀSure. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Let's see just how far your practice\nhas gotten you."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Once you clear the advanced course,\nyou can earn special shields for beating\ncertain times. How's that for incentive?"
+    - utf16_bytes:
+        - 0
+  Goal_BadTime_Expert_rupi_04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "You clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nDecent enough."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " You might be playing it\ntoo safe, though.\nYou want to really build up speed before\nyou hit the turns."
+    - utf16_bytes:
+        - 0
+  TalkForPay_Beginner:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ᤁSmart choice.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I always say, if you're not\nwilling to put your money where your\nmouth is, how serious are you really?"
+    - utf16_bytes:
+        - 0
+  Goal_BadTime_Expert_rupi_05:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ကYou clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nLet's face it. You need to get serious."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Remember, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "your shield doesn't take\ndamage"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " on snow or sand, so surf those\ndunes all you want for practice."
+    - utf16_bytes:
+        - 0
+  ChangeBeginnerToExpert_Expert:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ᤀNow let's see you hang on the advanced\nslope."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " It's longer than the beginner\ncourse, but stick with it!\nThe upside for the advanced course?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nFinish it, and I'll give you a nice shield."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nHow nice all depends on your time!"
+    - utf16_bytes:
+        - 0
+  EntranceExplain_Beginner:
+    - text: "What I suggest is starting simple with\na basic course,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " so we can take a look at\nyour downhill fundamentals."
+    - utf16_bytes:
+        - 0
+  TellRupee_Beginner:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "Such enthusiasm! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "I haven't seen anyone\nwith passion like that since...well, me!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀBut I'm not just any surfer-come-lately.\nI was the BEST. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "And that means my\nadvice isn't free."
+    - utf16_bytes:
+        - 0
+  ChangeExpertToBeginner_Expert:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ᤀFine with me. Let's see how you handle\nthe beginner course."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I'm very curious to\nsee if you can improve your old time."
+    - utf16_bytes:
+        - 0
+  Failed_02:
+    - text: You seem off your game today...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Well,\neveryone needs a break sometimes."
+    - utf16_bytes:
+        - 0
+  Failed_00_00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "촊I've seen slowpokes before, but you're\nsomething else!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " That's the end of the\nrun. Come on back!"
+    - utf16_bytes:
+        - 0
+  AskPurpose_Expert:
+    - text: "So what brings you out here today? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nWanna show me the results of all that\ntraining I'm sure you've been doing?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 2
+        - 1
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  GoalBeginnerCourse_BadTime_Expert:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "You clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nHonestly, I think you can do better."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "It might feel like you're only making\ntiny gains, but they add up. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: Keep at it!
+    - utf16_bytes:
+        - 0
+  Failed_00_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀYou still have some room to improve,\nbut who doesn't?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Stick with it, and I\nthink you can cut your time in half."
+    - utf16_bytes:
+        - 0
+  Goal_CommonTime_Expert:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "You clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nDecent enough."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Could be faster, though.\n\nYou want to really build up speed before\nyou hit the turns."
+    - utf16_bytes:
+        - 0
+  Failed_00_02:
+    - text: "One helpful thing is thinking about your\nmoves in advance. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Don't get so caught\nup in the run that you forget your goal."
+    - utf16_bytes:
+        - 0
+  Goal_BadTime_Expert_Present:
+    - text: "Take this shield and keep practicing\nwith it."
+    - utf16_bytes:
+        - 0
+  Goal_CommonTime_Expert1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀYou clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " That's\npretty fast, as these things go!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Stay focused, believe in yourself, and\nyou'll be setting new records like it's\nnothing!"
+    - utf16_bytes:
+        - 0
+  Check_Money00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Of course, you still have to pay the\ninstructor's fee, even on the advanced\ncourse. Still "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 20 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ", if you wondered."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 2
+        - 15
+        - 16
+    - text: Ȁ
+    - utf16_bytes:
+        - 0
+  NotHadEnoughRupee:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ጋLooks like you're too broke to afford the\ninstructor's fee."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Come back when you\ncan scrape together "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 20 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  Exit_01:
+    - text: "Sure, take a breather."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Your journey to\ndominating the slopes has just started!"
+    - utf16_bytes:
+        - 0
+  Goal_CommonTime_Expert2:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀYou clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " That's not\ntoo far off my own record."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: That takes some serious skills!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " I'll admit,\nyou've impressed me."
+    - utf16_bytes:
+        - 0
+  Exit_02:
+    - text: "You must be cold. I'll see you back to the\ncabin."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " You can warm up a bit there\nbefore you go."
+    - utf16_bytes:
+        - 0
+  IfAnswerSurface_Beginner:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ဋLife? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "It's your whole life? That's your\nanswer?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " *sigh*"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Slipping, "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+        - 4
+        - 0
+    - text: "crashing, "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+        - 4
+        - 0
+    - text: "and falling over\ncliffs is no kind of a life for anybody."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nTrust me—I know.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀIf that's how you see things, you're in no\nshape to advance yet."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Sorry, but I'll have\nto ask you to "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: do the basic course again
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 0
+  Goal_BadTime_Expert_dame:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3075
+    - text: "You clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nIs it me, or have you gotten worse?"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Maybe you should hit the beginner\nslopes a few more times to bone up on\nthe fundamentals."
+    - utf16_bytes:
+        - 0
+  Check_Money02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Of course, I'll still need that course fee\nof "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 20 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 2
+        - 6
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  RefusePay_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ሀWow, OK."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " If you want to pass up the\nchance to get tips from a former pro,\nhey, I won't stop you."
+    - utf16_bytes:
+        - 0
+  Exit_03:
+    - text: Thanks for stopping by.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I look forward\nto seeing you beat your record the next\ntime we meet."
+    - utf16_bytes:
+        - 0
+  EntranceTalk_Expert_Default:
+    - text: "Hey there. Everything going OK?\n"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "What, me? Psh, like anything\never gets me down!"
+    - utf16_bytes:
+        - 0
+  Goal_BadTime_Expert_dame1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ᤃYou clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "I guess\nyou're getting the hang of it by now."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "This is about the time I knew the whole\nsurfing thing might be going somewhere."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nI hope you have as much fun as I did!"
+    - utf16_bytes:
+        - 0
+  AskRetry_Expert:
+    - text: So wanna hit the slope one more time?
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 15
+        - 14
+        - 6
+    - text: Ȁ
+    - utf16_bytes:
+        - 0
+  Goal_CommonTime_Expert_Present:
+    - text: "Take this shield and use it the next time\nyou hit the slopes."
+    - utf16_bytes:
+        - 0
+  IfSelectBeginnerCourse_Expert:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "Oh, really? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Yeah, sometimes it's good to\nreview the fundamentals."
+    - utf16_bytes:
+        - 0
+  "0000":
+    - text: Yes!
+    - utf16_bytes:
+        - 0
+  "0001":
+    - text: No!
+    - utf16_bytes:
+        - 0
+  Goal_GoodTime_Beginner:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "You clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nGreat run! I'm definitely seeing some\ntalent in you.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀI'd like to see what you can do on a\nharder slope now. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "You can consider the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "advanced course "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "open for business!\nMake me proud, OK?"
+    - utf16_bytes:
+        - 0
+  Initial_GlassShield1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጄ*sigh...*
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Hey... "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "2"
+    - utf16_bytes:
+        - 0
+    - text: "What's that on\nyour back?!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "A royal guard's shield... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "*yawn*"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nThose flimsy pieces of garbage are\nworthless to serious surfers."
+    - utf16_bytes:
+        - 0
+  "0002":
+    - text: Yes!
+    - utf16_bytes:
+        - 0
+  "0010":
+    - text: Do your worst!
+    - utf16_bytes:
+        - 0
+  AskCourse_Expert:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "That's my boy. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Which slope were you\nthinking for today?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 15
+        - 14
+        - 16
+    - text: Ȁ
+    - utf16_bytes:
+        - 0
+  Initial_GlassShield:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጄ*sigh...*
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Hey... "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "2"
+    - utf16_bytes:
+        - 0
+    - text: "What's that on\nyour back?!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "A royal guard's shield... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "*yawn*"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nThose flimsy pieces of garbage are\nworthless to serious surfers."
+    - utf16_bytes:
+        - 0
+  Initial_RoyalShield:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጄ*sigh...*
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Hey... "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "2"
+    - utf16_bytes:
+        - 0
+    - text: "What's that on\nyour back?!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Oooh, a royal shield! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "I have one hanging\nup in my cabin too."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " It's hands down the\nbest design for surfing I've ever seen!"
+    - utf16_bytes:
+        - 0
+  "0003":
+    - text: "I'm fine."
+    - utf16_bytes:
+        - 0
+  "0011":
+    - text: "I'll just take it easy..."
+    - utf16_bytes:
+        - 0
+  "0004":
+    - text: Never mind!
+    - utf16_bytes:
+        - 0
+  "0012":
+    - text: Shield surfing is life!
+    - utf16_bytes:
+        - 0
+  "0005":
+    - text: "That's OK."
+    - utf16_bytes:
+        - 0
+  "0013":
+    - text: "*shrug*"
+    - utf16_bytes:
+        - 0
+  "0006":
+    - text: "I'm through for now."
+    - utf16_bytes:
+        - 0
+  "0014":
+    - text: The advanced course.
+    - utf16_bytes:
+        - 0
+  CautionBigDoor_Expert:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3072
+    - text: "Oh, one more thing! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "Watch where you\nsurf"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "If you go the wrong way, you're bound\nto slam into this "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: giant stone door
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". Take\nmy word for it...that thing hurts."
+    - utf16_bytes:
+        - 0
+  Failed_01_02_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ሉDon't apologize, just...don't do it to\nbegin with. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Anyway, at least you're not\nhurt. You had me worried!"
+    - utf16_bytes:
+        - 0
+  "0007":
+    - text: Nothing!
+    - utf16_bytes:
+        - 0
+  "0015":
+    - text: The beginner course.
+    - utf16_bytes:
+        - 0
+  Stop_00:
+    - text: "What's up?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 6
+        - 7
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  Failed_01_02_01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ሉ
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "...Yes? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Obviously? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "It's cold. There's\nsnow. Yeah, it happens. It's gonna\nhappen to US if we don't get moving."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: Sheesh...
+    - utf16_bytes:
+        - 0
+  "0008":
+    - text: I still want out!
+    - utf16_bytes:
+        - 0
+  "0016":
+    - text: Neither of them!
+    - utf16_bytes:
+        - 0
+  EntranceTalk_Beginner_SP:
+    - text: "If you're carrying THAT shield, then...\nWhoa. This is big!"
+    - utf16_bytes:
+        - 0
+  Goal_BadTime_Beginner:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ሃYou clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nDon't take this the wrong way, but you\nhave some serious practicing to do.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀYou can't move on to the trickier slopes\nuntil you've learned to keep your mind\non what's in front of you now."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nWhat seems like a smooth stretch can\nbe bumpier than it looks!"
+    - utf16_bytes:
+        - 0
+  Stop_01:
+    - text: "Uh... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "You know I'm not giving your\nrupees back, right?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 8
+        - 9
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  "0009":
+    - text: "Well, in that case..."
+    - utf16_bytes:
+        - 0
+  Pouch_Check00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Hey, look who made some room in their\npack! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "I got that shield I promised you\nright here."
+    - utf16_bytes:
+        - 0
+  Stop_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 3075
+    - text: "Feels like a waste to me, but all right."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nJust promise me you'll come back\nsometime and show me what you've got!"
+    - utf16_bytes:
+        - 0
+  "0018":
+    - text: Sorry...
+    - utf16_bytes:
+        - 0
+  Goal_CommonTime_Beginner:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "You clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nPretty average time, all told. I'm not too\nkeen on letting you move on, but...\nWell, I'll make it your call. You comfy\nwhere you are, or do you want to push\nahead anyway?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+    - text: "\n"
+    - utf16_bytes:
+        - 11
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  Pouch_Check01:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "I wish I could give you that prize shield\nfor the advance course I was holding\nfor you..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+        - 0
+  Stop_03:
+    - text: "Great! Now get back out there, and show\nme what you've got!"
+    - utf16_bytes:
+        - 0
+  "0019":
+    - text: Does that happen?
+    - utf16_bytes:
+        - 0
+  Goal_GoodTime_Expert_Present1:
+    - text: "A shiny new record deserves a shiny new\nshield. Here y'go!"
+    - utf16_bytes:
+        - 0
+  Pouch_Check02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 5
+    - text: "Buuuut you still haven't made any room\nfor it in your pack. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "So I'll keep holding\non to it for the next time you stop by!"
+    - utf16_bytes:
+        - 0
+  AskPurpose_Beginner:
+    - text: "You hiked all this way to meet the best\nthere ever was at shield surfing, right?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 0
+        - 1
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  Goal_GoodTime_Expert_Present2:
+    - text: Nice time! That deserves a prize.
+    - utf16_bytes:
+        - 0
+  Pouch_Check03:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "C'mon, let's head back to the cabin."
+    - utf16_bytes:
+        - 0
+  Initial_RoyalShield1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጄ*sigh...*
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Hey... "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "2"
+    - utf16_bytes:
+        - 0
+    - text: "What's that on\nyour back?!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Oooh, a royal shield! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "I have one hanging\nup in my cabin too."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " It's hands down the\nbest design for surfing I've ever seen!"
+    - utf16_bytes:
+        - 0
+  AskRetry_Beginner:
+    - text: "So want to hit the slope again?\nIt'll be another "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 20 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " for the\ncourse fee."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 2
+        - 6
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  Pouch_Check04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "When you find some room in your pack,\nlet me know!"
+    - utf16_bytes:
+        - 0
+  LetsStart_01:
+    - text: "Then let's get straight to the slopes."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nFollow me!"
+    - utf16_bytes:
+        - 0
+  IfAnswerRetry_Beginner:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2304
+    - text: "Good. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Knowing your limits is important\nwhen it comes to a hobby that involves\nscreaming down the side of a mountain.\nYou know, you've got a good head on\nyour shoulders. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Let's keep it there."
+    - utf16_bytes:
+        - 0
+  Pouch_Check05:
+    - text: "I want to see you shred on that shield\nI gave you..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Show me what you got!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 5
+        - 8
+        - 15
+        - 14
+        - 16
+    - text: Ȁ
+    - utf16_bytes:
+        - 0
+  Initial_MoonlightShield1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጄ*sigh...*
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Hey... "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "2"
+    - utf16_bytes:
+        - 0
+    - text: "What's that on\nyour back?!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "That's a radiant shield! You wouldn't\nbelieve how elusive those things are!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " You\npractically never see them anymore..."
+    - utf16_bytes:
+        - 0
+  LetsStart_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: "Do you need a rundown on how this\nworks?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 2
+        - 5
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  Initial_GoldenShield1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጄ*sigh...*
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Hey... "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "2"
+    - utf16_bytes:
+        - 0
+    - text: "What's that on\nyour back?!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "That's a Gerudo shield! The Gerudo\nare famous for it!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Wow, they put actual\nthought into making it surfable."
+    - utf16_bytes:
+        - 0
+  LetsStart_03:
+    - text: "Oh, so you already know what you're in\nfor. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Suits me. I hate having to explain to\ncasuals anyway."
+    - utf16_bytes:
+        - 0
+  LetsStart_04:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ЀI wanna see you shred out there.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nYou ready?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " On your mark..."
+    - utf16_bytes:
+        - 0
+  AskTraining_Beginner:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЁKnew it! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Too bad for you that I'm retired,\nhuh?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " It's been years since anyone knew\nme as the Duchess of Downhill.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ĀBut if you don't mind a few pointers from\na has-been, I'd be happy to critique\nyour technique."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 2
+        - 3
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  AskRupee_Expert:
+    - text: The same charge as usual applies.
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nYou have that "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 20 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " for the course\nfee, right?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 2
+        - 3
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  AskRupee_Beginner:
+    - text: "How does... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Hmmm... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Is "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 20 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\na session OK with you?"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 2
+        - 4
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  Goal_GoodTime_Expert1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ᔄYou clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " That's...\nThat's better than I've ever done...\nYou beat my record.\nWhat are you still paying me instruction\nfees for? "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "There's nothing else I can\nteach you. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Well done, champ."
+    - utf16_bytes:
+        - 0
+  ExplainExpertCourseToBeginner_Expert_00:
+    - text: "Getting stranded on a long course is no\nfun at all. Make sure you keep your goal\nin the back of your mind, OK?"
+    - utf16_bytes:
+        - 0
+  Initial_GoldenShield:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጄ*sigh...*
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Hey... "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "2"
+    - utf16_bytes:
+        - 0
+    - text: "What's that on\nyour back?!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "That's a Gerudo shield! The Gerudo\nare famous for it!"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Wow, they put actual\nthought into making it surfable."
+    - utf16_bytes:
+        - 0
+  ExplainExpertCourseToBeginner_Expert_01:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "촄First, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: go straight
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " under the same bridge\nthat was your goal for the beginners'\ncourse."
+    - utf16_bytes:
+        - 0
+  Goal_WonderfulTime_Expert:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ᔊWow—
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "?!"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "Ā You're no\nslouch! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Keep that up, and you could\neasily go pro someday."
+    - utf16_bytes:
+        - 0
+  ExplainExpertCourseToBeginner_Expert_02:
+    - text: "Once you're through there, make a\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "sharp turn "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "before going down a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "long\nstraightaway"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nYou should be able to see a pair of "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "big\nflags "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "marking the finish line. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Head for\nthose and you can't go wrong.\nIf you do manage to veer too far off\ncourse, I'll just drag you back here."
+    - utf16_bytes:
+        - 0
+  ChangeBeginnerToExpert_Expert1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ᤀNow let's see you hang on the advanced\nslope."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " It's longer than the beginner\ncourse, but stick with it!\nYou already won all the shields, so how\nabout I give you rupees instead?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nThe faster you finish, the more you get!"
+    - utf16_bytes:
+        - 0
+  EntranceTalk_Beginner_Default_00:
+    - text: "I'll watch you surf. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "If you don't mind a\nlittle attention from a former pro, that is."
+    - utf16_bytes:
+        - 0
+  Goal_GoodTime_Expert_Present:
+    - text: "Consider this a graduation gift. It's all\nyours, champ!"
+    - utf16_bytes:
+        - 0
+  suremi_fire_shield1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 8
+    - text: "Hey! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "What's the big idea?! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: Cut that out!
+    - utf16_bytes:
+        - 0
+  EntranceTalk_Beginner_Default_01:
+    - text: "Not for free, though. There's a "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "20-rupee\nfee "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: for every try.
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 2
+        - 4
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  EntranceTalk_Beginner_Default_02:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "I will need you to cough up "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: 20 rupees
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "\nas a course fee."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 2
+        - 4
+    - text: Ā
+    - utf16_bytes:
+        - 0
+  HintNextStep_Beginner:
+    - text: "If I dig the way you surf, I'll let you\nadvance to the next step. But we can\ngo down that hill when we get to it."
+    - utf16_bytes:
+        - 0
+  NoPlay_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ဃRight... "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "I used to be a big deal back in\nmy day, but the world moves on fast."
+    - utf16_bytes:
+        - 0
+  Goal_00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: 촁Aaaand time!
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I'll wait right\nhere for you to come back!"
+    - utf16_bytes:
+        - 0
+  AboutCourse_Beginner:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "촇Straight down from here, you'll see a\nbig bridge."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Why don't you start by\nsurfing your way there?\nIt's a pretty no-frills course, but it'll\nhelp me get a bead on where you're at\nwith your technique."
+    - utf16_bytes:
+        - 0
+  Goal_CommonTime_Expert_Present1:
+    - text: "I'm giving you this but only so you can\nuse it to learn to do better. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "I wanna see\nyou give it all you got next time."
+    - utf16_bytes:
+        - 0
+  IfAnswerFact_Beginner:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1536
+    - text: Uh...are you pulling my leg?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Though..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nThese days I'd probably answer the\nsame way.\nShield surfing is how we express a\npassion that we can't put into words."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nSurfing is its own meaning.\nFunny,"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I started out thinking I'd teach\nyou a few tricks, but I ended up learning\nsomething pretty important.\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "I think you'll be just fine on the\n"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: advanced course
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ". "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "But don't make me\nregret that decision, OK?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " Haha..."
+    - utf16_bytes:
+        - 0
+  Goal_BadTime_Expert:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ကYou clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nLet's face it. You need to get serious."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Remember, "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: "your shield doesn't take\ndamage"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: " on snow or sand, so surf those\ndunes all you want for practice."
+    - utf16_bytes:
+        - 0
+  IfSelectExpertCourse_Expert1:
+    - text: "Sure. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Let's see just how far your practice\nhas gotten you."
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "Once you clear the advanced course,\nyou can earn special shields for beating\ncertain times. How's that for incentive?\nExcept..."
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+        - 20
+        - 0
+    - text: "it looks like you have all the\nshields you can carry."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Ditch one or I\ncan't give you your proper reward!"
+    - utf16_bytes:
+        - 0
+  Initial_SpikeShield1:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጄ*sigh...*
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Hey... "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "2"
+    - utf16_bytes:
+        - 0
+    - text: "What's that on\nyour back?!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "It's a steel Lizal shield! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "That spike is\nworth major style points for when you\nwant to look hard-core on the slope!"
+    - utf16_bytes:
+        - 0
+  GoalBeginnerCourse_GoodTime_Expert:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ЀYou clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nSee? I knew you had it in you. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "That's\nwhy I let you move up to the real course.\nA showing like this was a matter of when,\nnot if."
+    - utf16_bytes:
+        - 0
+  EntranceTalk_No_Shield:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: Ą
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 20
+        - 18
+    - text: Notice_00...Huh?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " You don't have a shield!\n\n\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 0
+    - text: "Self-sufficiency is the foundation of\nshield surfing."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Go find a shield and\ncome back!"
+    - utf16_bytes:
+        - 0
+  Goal_BadTime_Expert_rupi:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጀDid you...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: pick up a shield along the way?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nI could swear there was room in your\npack when you left...\n"
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: "ąIt's fine."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " It's fine. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "I'll just hold on to it\nuntil the next time you surf with some\nfree space in your gear."
+    - utf16_bytes:
+        - 0
+  Goal_BadTime_Expert_Present1:
+    - text: Well...
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "you made it to the goal. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "Everyone\nhas to start somewhere. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "Take this,\nand don't give up, OK?"
+    - utf16_bytes:
+        - 0
+  Failed_01_00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 1
+        - 2
+    - text: "촄Huh? How'd I lose track of him?! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "\nThat's not good... I better find him\nbefore it's too late!"
+    - utf16_bytes:
+        - 0
+  Failed_01_01:
+    - text: "What in the world... Where did you think\nyou were going?"
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " You coulda gotten\nstranded out there!"
+    - utf16_bytes:
+        - 14
+        - 1
+        - 4
+        - 6
+        - 18
+        - 19
+    - text: Ȁ
+    - utf16_bytes:
+        - 0
+  NG_00:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 1539
+    - text: Really? Are...are you sure?
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: " I-it's not\nlike I was expecting visitors today."
+    - utf16_bytes:
+        - 0
+  Goal_GoodTime_Expert:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+        - 2305
+    - text: "You clocked in at "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultMinute
+    - utf16_bytes:
+        - 0
+    - text: ":"
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: JFMiniGame_ShieldSurfing_ResultSecond
+    - utf16_bytes:
+        - 0
+    - text: "."
+    - utf16_bytes:
+        - 14
+        - 2
+        - 19
+    - text: TPMiniGame_ShieldSurfing_ResultMilliSecond
+    - utf16_bytes:
+        - 0
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: "..."
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: "\nThat's on par with my best time!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "You should be proud. "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "The only other\nones on that level are Rito, and they\ntend to cheat by "
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 0
+    - text: flying
+    - utf16_bytes:
+        - 14
+        - 0
+        - 3
+        - 2
+        - 65535
+    - text: ".\nI'm out of things to teach you."
+    - utf16_bytes:
+        - 0
+  Initial_SpikeShield:
+    - utf16_bytes:
+        - 14
+        - 3
+        - 1
+        - 2
+    - text: ጄ*sigh...*
+    - utf16_bytes:
+        - 14
+        - 5
+        - 1
+        - 0
+    - text: " Hey... "
+    - utf16_bytes:
+        - 14
+        - 1
+        - 0
+        - 4
+    - text: "2"
+    - utf16_bytes:
+        - 0
+    - text: "What's that on\nyour back?!"
+    - utf16_bytes:
+        - 14
+        - 0
+        - 4
+        - 0
+    - text: "It's a steel Lizal shield! "
+    - utf16_bytes:
+        - 14
+        - 5
+        - 0
+        - 0
+    - text: "That spike is\nworth major style points for when you\nwant to look hard-core on the slope!"
+    - utf16_bytes:
+        - 0

@@ -1,0 +1,402 @@
+---
+entries:
+  Broken_04:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 30
+        - 28
+    - text: "CustomBroken04That's it!"
+    - utf16_bytes:
+        - 0
+  Lead_00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 26
+        - 24
+    - text: CustomLead00Follow me!
+    - utf16_bytes:
+        - 0
+  Lead_01:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 26
+        - 24
+    - text: CustomLead01Over here!
+    - utf16_bytes:
+        - 0
+  Chance_00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 30
+        - 28
+    - text: "CustomChance00Link, now!"
+    - utf16_bytes:
+        - 0
+  Retreat_00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 30
+    - text: "CustomRetreat00You're going back?!"
+    - utf16_bytes:
+        - 0
+  Lead_02:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 26
+        - 24
+    - text: CustomLead02Close in!
+    - utf16_bytes:
+        - 0
+  Chance_01:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 30
+        - 28
+    - text: CustomChance01Aim for its feet!
+    - utf16_bytes:
+        - 0
+  Retreat_01:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 30
+    - text: CustomRetreat01Stay with the Divine Beast!
+    - utf16_bytes:
+        - 0
+  Invalidity_00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: "&$CustomInvalidity00Hah!"
+    - utf16_bytes:
+        - 0
+  Lead_03:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 26
+        - 24
+    - text: "CustomLead03Don't fall behind!"
+    - utf16_bytes:
+        - 0
+  Chance_02:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 30
+        - 28
+    - text: "CustomChance02Now's our chance!"
+    - utf16_bytes:
+        - 0
+  Retreat_02:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 30
+    - text: "CustomRetreat02What's the matter?!"
+    - utf16_bytes:
+        - 0
+  Invalidity_01:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: "&$CustomInvalidity01Ungh..."
+    - utf16_bytes:
+        - 0
+  Worry_00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 28
+        - 26
+    - text: CustomWorry00You all right?!
+    - utf16_bytes:
+        - 0
+  Lead_04:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 26
+        - 24
+    - text: "CustomLead04Let's go!"
+    - utf16_bytes:
+        - 0
+  Chance_03:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 30
+        - 28
+    - text: CustomChance03All right! Now!
+    - utf16_bytes:
+        - 0
+  Retreat_03:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 30
+    - text: "CustomRetreat03You're giving up?"
+    - utf16_bytes:
+        - 0
+  Invalidity_02:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: "&$CustomInvalidity02Foolish!"
+    - utf16_bytes:
+        - 0
+  Worry_01:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 28
+        - 26
+    - text: CustomWorry01Are you hurt?
+    - utf16_bytes:
+        - 0
+  Chance_04:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 30
+        - 28
+    - text: "CustomChance04It's right where we want it!"
+    - utf16_bytes:
+        - 0
+  Retreat_04:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 30
+    - text: CustomRetreat04Where are you going?!
+    - utf16_bytes:
+        - 0
+  Invalidity_03:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: "&$CustomInvalidity03Not yet!"
+    - utf16_bytes:
+        - 0
+  Worry_02:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 28
+        - 26
+    - text: CustomWorry02Link!
+    - utf16_bytes:
+        - 0
+  Invalidity_04:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: "&$CustomInvalidity04Ugh!"
+    - utf16_bytes:
+        - 0
+  Worry_03:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 28
+        - 26
+    - text: CustomWorry03Caution now!
+    - utf16_bytes:
+        - 0
+  Worry_04:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 28
+        - 26
+    - text: CustomWorry04Keep it together!
+    - utf16_bytes:
+        - 0
+  NoWorry_00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 30
+    - text: CustomNoWorry00We move!
+    - utf16_bytes:
+        - 0
+  NoWorry_01:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 30
+    - text: "CustomNoWorry01Let's go!"
+    - utf16_bytes:
+        - 0
+  Warn_00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 26
+        - 24
+    - text: "CustomWarn00Don't wander off!"
+    - utf16_bytes:
+        - 0
+  NoWorry_02:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 30
+    - text: CustomNoWorry02Ready?
+    - utf16_bytes:
+        - 0
+  Warn_01:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 26
+        - 24
+    - text: CustomWarn01Look out!
+    - utf16_bytes:
+        - 0
+  NoWorry_03:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 30
+    - text: CustomNoWorry03Here we go!
+    - utf16_bytes:
+        - 0
+  Warn_02:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 26
+        - 24
+    - text: CustomWarn02Stay close to me!
+    - utf16_bytes:
+        - 0
+  NoWorry_04:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+    - text: " "
+    - utf16_bytes:
+        - 30
+    - text: CustomNoWorry04Now!
+    - utf16_bytes:
+        - 0
+  Warn_03:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 26
+        - 24
+    - text: CustomWarn03Over here!
+    - utf16_bytes:
+        - 0
+  Warn_04:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 26
+        - 24
+    - text: "CustomWarn04Don't stray!"
+    - utf16_bytes:
+        - 0
+  Broken_00:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 30
+        - 28
+    - text: "CustomBroken00That's the way!"
+    - utf16_bytes:
+        - 0
+  Broken_01:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 30
+        - 28
+    - text: "CustomBroken01Good, Link!"
+    - utf16_bytes:
+        - 0
+  Broken_02:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 30
+        - 28
+    - text: CustomBroken02We can do this!
+    - utf16_bytes:
+        - 0
+  Broken_03:
+    - utf16_bytes:
+        - 14
+        - 4
+        - 2
+        - 30
+        - 28
+    - text: CustomBroken03Good!
+    - utf16_bytes:
+        - 0

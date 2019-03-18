@@ -1,0 +1,436 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Haven't you seen it?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " just appeared one day.\n\nIt's been terrorizing the village nonstop.\nWe can't take much more of this."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 19
+    - text: "Oh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You're a traveler."
+  near00:
+    - text: Come on...
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 13
+    - text: "Ever since that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " appeared above\nthe village, there have been new victims\nevery day."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "We were just chatting about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "that\nmonster in the sky"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". You know,\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nTurns out that a long, long time ago,\nthat thing was on our side."
+  near01:
+    - text: Open beds here!
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Heh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " If you want a place to stay,\ntalk to the innkeeper."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: "Right. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "A long time ago, the Champion of\nRito Village,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Revali, tamed "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: that beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and\nused it to protect the village.\n...According to the elder, at least."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAnd I believe him!"
+  near02:
+    - text: Phew...
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Come back soon!
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "So the story goes, but why did it start\nattacking us now?"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 2
+    - text: "Welcome to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Swallow's Roost"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nvoted best (and only) inn in Rito Village."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nLooks like you got caught in the rain."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 2
+    - text: "Hey, there!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nBusiness is slow right now, thanks to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast Vah Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "up there.\nIt's really ruining my commissions!"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Look, I'm just running my mouth here."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIf you want to know the details, talk to\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: elder
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on the top floor."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Our inn is the perfect place to snooze\nyour troubles away!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: I will not keep you—
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: go get some rest.
+  "0000":
+    - text: Troubles?
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Long ago, the village Champion, Revali,\ntamed that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "thing "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and used it to protect\nthe village."
+  "0001":
+    - text: "Keep talkin'!"
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 15
+    - text: "Hah! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "He acts like a know-it-all even\nthough he simply regurgitates what the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "elder "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: says.
+  "0002":
+    - text: Take care.
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Luck is on your side, pal!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThe village has finally quieted down after\nall the commotion from the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sky monster
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 2
+    - text: "Welcome to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Swallow's Roost"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", the\nfinest inn this side of Death Mountain!"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: "I decided to take a break.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Today has been dead anyway, what with\nthat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "monster flying around "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: up there.
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 2
+    - text: "Welcome to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Swallow's Roost"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", the\nfinest inn you will ever step foot in."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYou must be tired at this late hour."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 2
+    - text: "All right. I gotta get back to work.\n\n\nHey, buddy. You should stop by and\ntake a load off. I work at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Swallow's Roost"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"

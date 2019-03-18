@@ -1,0 +1,75 @@
+---
+entries:
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hold on!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " We need to watch out for those\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sentries
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "If one of them spots us, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Rudania "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "will\nstomp around"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and cause Death Mountain\nto erupt.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'll follow along when you whistle,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so just\nfocus on getting us through here without\nbeing spotted by the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sentries
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"

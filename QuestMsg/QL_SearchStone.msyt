@@ -1,0 +1,22 @@
+---
+entries:
+  QL_SearchStone_Desc:
+    - text: "Garini wants to know what the fragmented\nstone monument said when it was whole.\n\nHe's asked me to note down with whatever\ntools I have what each scattered fragment\nof the monument looks like."
+  QL_SearchStone_Step1:
+    - text: "I took "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "pictures "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "of the scattered fragments\nof the stone monument and showed them\nto Garini.\n\nOnce assembled, I discovered that the\nwriting on the monument read as follows:\n\n\"When the two find their place and kneel\nin reverence, the shrine will reveal itself.\"\n"
+  QL_SearchStone_Finish:
+    - text: "I knelt on one platform as Garini took his\nplace on the other, causing an ancient shrine\nto appear!\n\nGarini seemed satisfied as he gazed upon the\nnew discovery."
+  QL_SearchStone_Name:
+    - text: A Fragmented Monument

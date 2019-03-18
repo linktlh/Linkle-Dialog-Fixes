@@ -1,0 +1,56 @@
+---
+entries:
+  QL_Gerudo_Ch_SnowBoots_Finish:
+    - text: "I found the eighth heroine's sword at the\nsummit of the Gerudo Highlands.\n\nI took a picture of the sword, so Bozai kept\nhis promise and gave me the snow boots."
+  QL_Gerudo_Ch_SnowBoots_Name:
+    - text: The Forgotten Sword
+  QL_Gerudo_Ch_SnowBoots_Desc:
+    - text: "The eighth heroine actually had a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nBozai may have just made it up, but it seems\nworth checking out, at least. The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " said to\nbe once held by the eighth heroine is most likely\nsomewhere in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Gerudo Highlands
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI need to show a picture of the eighth heroine's\nsword to Bozai to get the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: snow boots
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."

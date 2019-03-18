@@ -1,0 +1,457 @@
+---
+entries:
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 45
+    - text: Farewell!
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "At the top of these stairs is the throne\nroom of King Dorephan and his son,\nPrince Sidon."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: Me?
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: My name is Tottika.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm a novice soldier."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 19
+    - text: By the way...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: HYLIAN...
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 6
+            field_3:
+              - 1
+              - 205
+  "0003":
+    - text: What is this place?
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You managed to make it to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nall by yourself, eh?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "That would mean you've got a pretty\nreliable weapon on you, yes?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 7
+            field_3: 9
+            field_4:
+              - 0
+              - 1
+  "0004":
+    - text: Who are you?
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "I see.\n\n\nI've been supplied a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: silverscale spear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI have no complaints about it, but...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "There are rumors of a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary blade
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\none that chooses its wielder."
+  "0005":
+    - text: Good-bye.
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: I want to become an important soldier...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\none who's worthy of being chosen by\na legendary weapon!"
+  "0006":
+    - text: What?
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: Hylian!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Have you seen?!\n\n\nThe rain that has been falling ever since\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " was angered..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nhas finally stopped!\nWas that you and Prince Sidon?"
+  "0007":
+    - text: Yes.
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "You're that Hylian I met at\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora River
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Are you here at Prince Sidon's request?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Well, King Dorephan and Prince Sidon\nare waiting for you."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Please help them!"
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Hylian!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You have done us a\ngreat service!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Captain Bazz filled me in.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " He told me you\nare the Champion who visited Zora's\nDomain 100 years ago. Or...something."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: "Ohoho... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "So you're back."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou're that Hylian our Prince Sidon\nbrought here, aren't you?\nPlease go and meet with him right away."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 20
+    - text: Great Hylian Champion...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Thank you so\nmuch for all you have done for us."
+  "0009":
+    - text: "It's not much."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Good morning.
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Now, even the elders who were so down\non you are likely looking upon you with\nregard and triumph!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Good day.
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Because of your glorious deeds, I'm sure\nthe elders will be content to let the\nsubject of Mipha finally wash away."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Good evening.
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Here in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", we're currently\nrecruiting warriors to join Prince Sidon\nin his noble struggle.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "However, the elders are...stubborn."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThey are wholly against outsiders\ngetting involved in Zora affairs.\nBut King Dorephan, as well as the young\nfolk, are ready to accept anyone's help..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWell, so long as they are trustworthy.\nIf you wish to learn more, please go and\nspeak with King Dorephan directly."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 45
+    - text: "Yes, ma'am! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Nothing to report, ma'am!"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "...Yes? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Did you need something?
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 3
+              - 0
+              - 4
+              - 0
+              - 5
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Ohoho, a Hylian, eh?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " The path\nto "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is paved with\nmonsters, is it not?\nHere in the domain, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "we are currently\nrecruiting warriors to join Prince Sidon\nin his fight.\nPlease hurry up and meet with him."

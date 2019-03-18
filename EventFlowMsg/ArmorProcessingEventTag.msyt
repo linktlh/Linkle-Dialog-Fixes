@@ -1,0 +1,417 @@
+---
+entries:
+  Talk00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Girl...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nSweet girl...\n\n\nPlease..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Listen to my story..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk01:
+    - text: "Now... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You have rupees for me, right?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHand them over. Quickly!"
+  "0014":
+    - text: Here you go.
+  Talk02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: That is truly tragic...
+  Talk09_1:
+    - text: "Nwaaaaaagh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: am...
+  Talk03:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - text: Ah...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You've returned."
+  Talk04:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "What's this?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You don't have enough\nrupees?\n\nHow tragic..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " How dreadfully tragic."
+  Talk06:
+    - text: "This place was once a beautiful spring...\n\n\nBut as time passed, fewer and fewer\ntravelers arrived to offer me rupees."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " As a\nresult, my power has abandoned me.\nI'm nearly powerless now, so I beg your\nhelp. I need rupees to become whole\nagain."
+  Talk07:
+    - text: Hast thou...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I mean..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Have you ever felt\nthe pain of losing a horse companion?\n\nIf my power is returned to me,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I may be\nable to help you out in some way...\n\nSo please... I beg of you..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHelp me regain the power I've lost..."
+  Talk08:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Thank you. You are too kind.
+  Talk10_1:
+    - text: Revived!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 90
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk09:
+    - text: "Aah... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: The power...
+  Talk20:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "All I need is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "1,000 rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  Talk03_01:
+    - text: "Now... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "If you have rupees,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " hand them\nover to me. Quickly!"
+  "0000":
+    - text: Sure.
+  "0001":
+    - text: "I'll pass."
+  Talk03_05B:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "In order for me to regain my power,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "1,000 rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 14
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Talk26:
+    - text: "Once my power has been restored,\nI can help you do great things, girl."
+  Talk27:
+    - text: "When my power has been restored,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI should be able to be of use to\nyou, who loves horses so."
+  "0005":
+    - text: "I'll keep my rupees."
+  Talk28:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Ah-HAAAAAAAAAAA!!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk10:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "It's overflowing!!!"
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 90
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk11:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: I am the Great Fairy Cotera...
+  Talk12:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: I am the Great Fairy Mija...
+  Talk13:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: I am the Great Fairy Kaysa...
+  Talk14:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: I am the Great Fairy Tera...
+  Talk15:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: I am Malanya...
+  Talk16:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "All I need is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type17:
+            field_1: 70
+            string: AmountRupeeForNextRevivalFountain
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  Talk03_01B:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "In order for me to regain my power,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type17:
+            field_1: 70
+            string: AmountRupeeForNextRevivalFountain
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 14
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Talk03_m:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - text: Well...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You're back!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI mean... You've come back, have you?"
+  Talk03_01C:
+    - text: Oh? I feel the power of a new sister...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nQuickly,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " free me as well!"

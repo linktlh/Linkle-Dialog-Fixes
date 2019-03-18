@@ -1,0 +1,46 @@
+---
+entries:
+  QL_TabantaBridgeMini_Sundial_Desc:
+    - text: "At the Tabantha Bridge Stable, Toren gave me\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "500 rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and asked me to make an offering\nto the Great Fairy.\n\nClimb the tower beyond Tabantha Great Bridge\nin the afternoon and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: follow its shadow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to locate\nthe Great Fairy Fountain."
+  QL_TabantaBridgeMini_Sundial_Play:
+    - text: I made an offering
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to the Great Fairy,\nfulfilling my promise to Toren.\n\nI'll report back to the Tabantha Bridge Stable \nwhere Toren is waiting."
+  QL_TabantaBridgeMini_Sundial_Finish:
+    - text: "I told Toren that I made an offering to the\nGreat Fairy.\n\nWill Toren's lifelong dream of meeting the\nGreat Fairy come true for him at last?"
+  QL_TabantaBridgeMini_Sundial_Name:
+    - text: A Gift for the Great Fairy

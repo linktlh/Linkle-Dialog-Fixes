@@ -1,0 +1,501 @@
+---
+entries:
+  Appear16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Here, on this isolated plateau, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "we are\nsurrounded on all sides by steep cliffs,\nwith no way down."
+  Appear17:
+    - text: "If you were to try to jump off, well..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nno death could be more certain."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nOr more foolish."
+  Appear18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Of course, if you had a paraglider\nlike mine, that would be quite\nanother story."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 2
+  "1000":
+    - text: And you are?
+  Appear19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: Oho!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Certainly! Why not?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: " But there is no\nsuch thing as a free item in this world,\nyou know."
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Don't be hasty now. Just follow me."
+  "1001":
+    - text: Bye.
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Do you see that structure there?\nThe one shining with a strange light?"
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "It began glowing at the exact moment\nthose towers rose up from the ground."
+  TerrorBomb:
+    - text: What is it?!
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: "I would think such a place might house\nsome sort of treasure, wouldn't you?"
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "I want you to go there and fetch me\nany treasure you find inside."
+  TerrorEnemy:
+    - text: Whoa!
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "I want you to go to that shrine there and\nfetch me any treasure you find inside."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1000
+            field_3: 1001
+            field_4:
+              - 0
+              - 1
+  Appear01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "My, my..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It would seem we have\nquite the enigma here."
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Go on! Fetch me any treasure you find\ninside that shrine."
+  Appear02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 13
+    - text: "This tower and others just like it\nhave erupted across the land,\none after another.\nIt is almost as though..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "a long-dormant\npower has awoken quite suddenly."
+  TerrorArrow:
+    - text: What is this?!
+  Appear03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you do not mind me asking...\nDid anything..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "odd occur while\nyou were atop that tower?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Appear04:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Well now! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "A voice, you say?"
+  Appear05:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "You need not conceal the truth from me.\nTruth be told, I saw the whole thing\nunfold from afar."
+  Appear06:
+    - text: "Although I could not hear anything, I did\nsee you react as if you heard something\ncoming from the direction of the castle..."
+  "0000":
+    - text: I heard a voice.
+  Appear07:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Hit the nail on the head, did I?"
+  "0001":
+    - text: "..."
+  Appear08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "And did you happen to recognize this\nmysterious voice?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  "0002":
+    - text: No.
+  Appear09:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 11
+              - 205
+    - text: I see.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Well, that is unfortunate."
+  Appear20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Oho! Piqued your interest, have I?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYes, I didn't come soaring down here\non my own feathery wings, you know!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 5
+    - text: "Worry not—I will happily agree to give\nyou my paraglider."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But not for nothing."
+  "0003":
+    - text: "..."
+  Appear21:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "Let's see now...\n\n\nHow about I trade it for a bit of treasure\nthat slumbers nearby?"
+  TerrorImpulse:
+    - text: Whoa!
+  TerrorInsect:
+    - text: Whoa!
+  "0004":
+    - text: I do.
+  Appear22:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - text: Come. Let me show you something.
+  "0005":
+    - text: "..."
+  "0006":
+    - text: Hand it over!
+  Anataha00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - text: Only now you want to know who I am?!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWell..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm just an old man. One who has\nroamed this land for a long, long time."
+  "0007":
+    - text: Paraglider?
+  ClearTerrorEnemy:
+    - text: Hmm...
+  Near00:
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho!
+  TerrorExplosion:
+    - text: Huh?!
+  NakedPlayer:
+    - text: "Aren't you...a bit chilly?"
+  TerrorSword:
+    - text: Easy there!
+  TerrorFire:
+    - text: Toasty...
+  Appear10:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 11
+              - 205
+    - text: "It seems I have some work to do as far as\nearning your trust goes. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I suppose that is\nunderstandable."
+  Appear11:
+    - text: "I assume you caught sight of that\natrocity enshrouding the castle."
+  Appear12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 5
+    - text: That...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nOne hundred years ago, that vile entity \nbrought the kingdom of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hyrule "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to ruin.\nIt appeared suddenly"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and destroyed\neverything in its path. So many innocent\nlives were lost in its wake.\nFor a century, the very symbol of our\nkingdom, Hyrule Castle, has managed\nto contain that evil. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "But just barely.\nThere it festers, building its strength for\nthe moment it will unleash its blight upon\nthe land once again.\nIt would appear that moment is fast\napproaching..."
+  Appear13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I must ask you, courageous one..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nDo you intend to make your way to\nthe castle?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Appear14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: I had a feeling you would say that.
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Treasure for the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: paraglider
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nA fair exchange, I believe."
+  Appear15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: You need not say a word.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Your eyes\nreveal the determination within."
+  GoodBye01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I am looking forward to your\nsuccessful return."

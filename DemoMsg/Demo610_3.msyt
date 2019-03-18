@@ -1,0 +1,336 @@
+---
+entries:
+  Npc_Musician_AoC_HeroGerudoRelief_101:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 300
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1053609165
+    - text: "♪The hero's power "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: shall grow.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 84
+    - text: "\nSeek trials "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monuments
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " show.♪"
+  Npc_Musician_AoC_HeroGerudoRelief_102:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 275
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1053609165
+    - text: "♪One, "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: fight the brute of the sand
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 90
+    - text: "\nTwo, "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: chase rings upon the land
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".♪"
+  Npc_Musician_AoC_HeroGerudoRelief_103:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 330
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1053609165
+    - text: "♪Three, "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: throw the orb underground
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 84
+    - text: "\nChampion, "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: trials abound!♪
+  Npc_Musician_AoC_HeroGerudoRelief_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Hm? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "How strange to see someone else\nat this ample altitude. I wonder what\nbrought him here..."
+  Npc_Musician_AoC_HeroGerudoRelief_201:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Hmm... It's as though the Champions are\nspeaking to me through the song...\nI hear their silent plea for its completion."
+  Npc_Musician_AoC_HeroGerudoRelief_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "Oh! How embarrassing. I'm afraid\ntraveling on my own encourages\nme to talk to myself on occasion."
+  Npc_Musician_AoC_HeroGerudoRelief_204:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Luckily, the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " chief,"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " Riju"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and her\nguard, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Buliara
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", shared some precious\ntales of their Champion with me."
+  Npc_DungeonPriest_HeroGerudoRelief_001:
+    - text: "I applaud your courage in coming here.\n\n\nThe locations that will be revealed to\nyou are of trials that will enhance\nthe power sleeping within.\nDo not let your guard down..."
+  Npc_Musician_AoC_HeroGerudoRelief_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Ah, such a rush of happiness I feel at\nbeing able to sing while the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine\nBeast"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " watches over us..."
+  Npc_Musician_AoC_HeroGerudoRelief_205:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "I'm grateful I was able to visit\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", even though I had to...\nwell, leave my comfort zone a bit."
+  Npc_Musician_AoC_HeroGerudoRelief_005:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 140
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "The song my teacher left behind...\nThere's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: a verse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " about the trials that\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Champion Urbosa "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "overcame.\n"
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 40
+    - text: Allow me to sing it for you...
+  Npc_Musician_AoC_HeroGerudoRelief_100:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 275
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1053609165
+    - text: "♪Lightning king "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: of the desert.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 66
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naboris
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s Champion, "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: the stalwart.♪
+  Npc_Musician_AoC_HeroGerudoRelief_206:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That's why I must learn more about\nthe Champions of Hyrule's past..."

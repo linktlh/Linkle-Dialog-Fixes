@@ -1,0 +1,196 @@
+---
+entries:
+  Npc_kokiri012_Talk003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Sparkly! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Shiny!\nYou were able to pull out the \n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Master Sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nIf the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Master Sword "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "isn't feeling well, \nyou could always use a magic rod!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "There's more than just ice rods—there\nare also rods with fire or electric \nmagic too!"
+  Npc_kokiri012_Talk004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Hey hey, Hero!\nCan you show me the Master Sword? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nShow me, show me!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_kokiri012_Talk005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: YAAAAAAAAAAAY!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nSo exciting!"
+  Npc_kokiri012_Talk006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Schving! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Fssssssshew!\nWow! So cool!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Thanks, Hero!\nI'm so happy I got to see it!\nNow please go use that sword to save\nthe princess!"
+  Npc_kokiri012_Talk000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Ack!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Could it be?!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYes! It's the heroine of legend! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWelcome to Korok Forest!\nI always wondered what you looked like."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYou're much cuter than I imagined!"
+  Npc_kokiri012_Talk007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Oh...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " OK."
+  Npc_kokiri012_Talk001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hurry, Hero! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "sword "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: is waiting!
+  "0000":
+    - text: All right.
+  Npc_kokiri012_Talk002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "She sparkles! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "She shines!\nYou're very beautiful...for a hero."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\nThere are many magical rods in this land.\nNot just ice magic, but fire magic and\nelectric magic too!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Prepare yourself, Hero!\nYou must bring peace back to Hyrule!"
+  "0001":
+    - text: Another time.

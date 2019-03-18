@@ -1,0 +1,725 @@
+---
+entries:
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: Thank you!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Can...can you go right away?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 7
+            field_3: 8
+            field_4: 10
+            field_5:
+              - 0
+              - 2
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You look handy with a bow. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Mind helping\na poor farmer out?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Oh. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Well, shucks."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Let me know if you\never change your mind."
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 3
+    - text: "About that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: deer hunting
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " No time like\nthe present, right? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Go get started, and\nI'll call you once your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "minute "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is up, OK?"
+  talk19:
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "So? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: You think you can do it?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 7
+            field_3: 8
+            field_4: 9
+            field_5:
+              - 0
+              - 2
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 3
+    - text: "That's time! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Come back, wanderer!"
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 19
+    - text: Huh?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You didn't even get ONE? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Sorry,\nbut no results, no reward."
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The thing with these deer, though...\nWe really have to get their numbers\nunder control."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Hey, wanderer, can I ask you to\ngo again?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: You got
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " "
+    - control:
+        two:
+          type14:
+            field_1: 74
+            string: MiniGame_TimeLimitHunting_HuntedNum
+            field_3: 0
+    - text: " deer"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThanks for doing your part!"
+  near00:
+    - text: Here we go...
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "You got "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 74
+            string: MiniGame_TimeLimitHunting_HuntedNum
+            field_3: 0
+    - text: " deer"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou're downright vicious with that bow,\nwanderer!"
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "You got "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 74
+            string: MiniGame_TimeLimitHunting_HuntedNum
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: deer
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "I knew you were a go-getter, but this is\nmore than I ever dreamed of!"
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: You got
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " "
+    - control:
+        two:
+          type14:
+            field_1: 74
+            string: MiniGame_TimeLimitHunting_HuntedNum
+            field_3: 0
+    - text: " deer"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Easy there, wanderer. I didn't think I'd\nbe saying this, but there's such a thing\nas being TOO good a hunter."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Old lady Purah used to carry a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nof that color..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You think? Nah..."
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Here's a reward for you..."
+  "0000":
+    - text: What do you need?
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Shouldn't you deliver that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "flame "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to old\nlady Purah up in her lab?"
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "I won't skimp on it this time!"
+  "0001":
+    - text: Not today.
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "The director used to carry a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nof that color..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You think? Nah..."
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 3
+    - text: "You've gone too far!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Come back!"
+  "0002":
+    - text: OK!
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Shouldn't you deliver that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "flame "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to the\ndirector up in the lab?"
+  "0003":
+    - text: I should be going.
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I don't know what a stranger like you\nis doing with it, but you'd better hurry\nalong now."
+  "0004":
+    - text: No way.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ho there! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You're up early!"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Good day, stranger!"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "'Lo there! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Nice evening, isn't it?"
+  "0007":
+    - text: Yes.
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hey! Come to visit?
+  "0008":
+    - text: Is there a trick to this?
+  "0009":
+    - text: "I'm out."
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "What a trooper! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm counting on you!"
+  "0010":
+    - text: "Actually, no."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: "Hrm? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Are you some kinda wanderer?
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Hrm, interesting..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " This could work out..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "A trick? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Well, I guess it helps to have\na strong bow to take 'em down with\none shot.\nAnd of course, you want to get close\nenough to the deer to line up your shot\nwithout them noticing you."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Woo-hoo! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I had a lucky feeling you were\nthe answer to my prayers!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "So what I need is for you to hunt some\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: deer
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " out in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Retsam Forest
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "They're overpopulated these days, and\nit's destroying the forest."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "That's why I was hoping you could hunt\nall the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: deer
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " you can..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: one minute
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Will you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "hunt some deer "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: for me?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1

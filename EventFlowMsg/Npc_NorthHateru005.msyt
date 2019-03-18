@@ -1,0 +1,662 @@
+---
+entries:
+  "0008":
+    - text: And then?
+  "0009":
+    - text: "That's enough."
+  talk060:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Satty
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? Well..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I owe him my life.\nIt's a pretty long story—are you sure you\nwant to hear it?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  talk000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Yo...
+  talk061:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "All right. Here goes...\n\n\nHave you heard that rumor about the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: strange mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " on which a bunch of\nanimals appear at a certain time?\nWell, when I heard that, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I went there\nto do some hunting.\n\nI thought it sounded like a good\nopportunity to turn a profit, selling\nthe meat and whatnot..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 1
+  talk001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Really?! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "A girl?!\n\n\nThe only people I can meet here at this\nstable are men, it's nice to see a girl here..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk062:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: So I go to the mountain
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and wait\nfor the animals to show up.\n\nWhen suddenly this dirty little pup\nappears out of nowhere!\n\nI figure he's been separated from his\nparents or abandoned by his last owner.\n\nHe starts begging for food, so I give him\nsome jerky, and he runs off over a hill..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 1
+  talk002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: Oh!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Hey, girl...\nIt's been a while since I've seen a\nvision as fine as you around here"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: Wait a sec...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou're young, aren't you?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Look, girl. Those clothes give a man\nunholy desires,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and they're definitely\ntempting this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n*sigh*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI finally meet a woman here and she turns out\nto be a tad bit too young for me."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk050:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yeah... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: See ya.
+  talk063:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Later on, I doze off for a little while, and\nwhen I come to, there's a big "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "glowing\nbeast "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "standing right in front of me!\nIt caught me completely off guard."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI couldn't even draw my bow!\nI just stared at it.\nAnd then the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "beast "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "runs at me like it\nwants to trample me!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Suddenly the pup I gave food to jumps\nin between us!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " He starts barking at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", who was ten times his size!\nAll to..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: protect me...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nEven though he was trembling with fear..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 9
+            field_4:
+              - 0
+              - 1
+  talk064:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "Then the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " recoiled a bit...\n\n\nSo I took that chance to snatch up the\npup"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and flee down the mountain,\ntripping and falling all the way...\n...\n\n\nAnd that's my story.\n\n\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: strange mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " is called\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Satori Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". It's west of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Central Hyrule
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I brought "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Satty
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " back here, and we've\nbeen best buds ever since.\n\nIf you're feeling brave, you should go\nfind that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "glowing beast "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "on the mountain\nand give it a stern talking to."
+  talk120:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        four:
+          type1:
+            field_1:
+              - 15
+              - 205
+    - text: "The beast... It's...back...\nRun, Satty. Save yourself..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0010":
+    - text: And then? And then?
+  talk065:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You wanna hear the touching story about\nhow Satty and I became best friends\nagain?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  talk005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hm?!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Oh, it's just you..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You want\nsomething? Or are you just here to\ntease me again?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk040:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "You don't know who the Zora are?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThey're, like, slippery fish people.\n\nThey live east of here..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "up "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora River "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in\na place called Zora's Domain.\n\nThey wanted me to stop by their domain\nbecause they need a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hylian "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for\nsomething...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "But I don't want to abandon Satty or put\nhim in danger, so I'm in a bit of a tight\nspot..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  talk110:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm so hungry right now..."
+  "0000":
+    - text: What is this place?
+  "0001":
+    - text: You seem grumpy.
+  talk030:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I don't want to hear it.\n\n\nThe only visitors we get at this stable\nthese days are guys and the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Zora prince
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nMen. Men everywhere..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  "0002":
+    - text: "I'm sorry."
+  talk100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I wonder what'll happen today..."
+  "0003":
+    - text: The Zora?
+  talk101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ugh... Where's the sun?\nAnd the girls? At least there's you..."
+  "0004":
+    - text: See ya.
+  talk020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Take a look to the east.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIt's always covered in clouds, right?\n\nRain and stuff really sours my mood."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nGood thing Satty's here to cheer me up."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  "0005":
+    - text: Satty?
+  "0006":
+    - text: I want to hear it.
+  talk070:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Oh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Bye."
+  "0007":
+    - text: Not really.
+  talk010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "It's a filthy stable filled with nothing but\nunwashed men...\n\nAnd even when we were finally visited by\na Zora..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "turns out he was some\nmanly "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "prince "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "guy who's a dude.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Satty's the only reason I'm sticking\naround this dump."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 3
+            field_3: 5
+            field_4: 4
+            field_5:
+              - 0
+              - 2

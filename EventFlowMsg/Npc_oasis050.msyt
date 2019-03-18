@@ -1,0 +1,1491 @@
+---
+entries:
+  talk60:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "Don't climb up on tables."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Didn't anyone\never teach you how rude that is?"
+  Com_Talk_11b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Sarqso! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: It suits you.
+  talk61:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: The wedding ceremony...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "wasn't what I\nexpected, but it was special all the same.\n\nDid you like the dress? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I made it myself.
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 19
+            field_3:
+              - 1
+              - 205
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Although Hudson wanted me to weave\nthe gems he mined into it, so every step\ndown the aisle was a struggle.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Well, that's life for you, with all its twists\nand turns."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I hope you'll stick with us\nthrough them."
+  Com_Talk_11c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Sarqso. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm sure it'll look good on you."
+  Com_Talk_11d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Sarqso. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm glad you like it."
+  talk40:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Heehee... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Sarqso.
+  talk41:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hudson isn't all that great at things\nbesides his chosen profession, but..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI guess that isn't a huge deal, is it?\nYou should talk to him if you want\nto know more."
+  talk42:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: "We're holding a ceremony..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI was wondering if you'd like to attend?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 13
+            field_4:
+              - 0
+              - 2
+  talk43:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: Sarqso.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " We're actually actively looking\nfor a priest right now.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Getting the proper clothes to wear isn't\na problem at all, but...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "It's not like we can ask Greyson or\nFyson to preside for us."
+  Com_Talk_02b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "OK, I'll go ahead and take that off your\nhands."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Anything else?"
+  Com_Talk_33:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "Just one, right?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " In that case,\nlet's say "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  talk44:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, I see..."
+  Com_Talk_02c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Got it.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Is there anything else you'd like\nto sell?"
+  talk20:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 28
+              - 205
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Vasaaq! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Did you need me for something?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 11
+            field_3: 12
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  talk45:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "For now, I'm glad we decided to have\nKapson"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " preside over the ceremony.\n\nWe're in the middle of preparing,\nactually. Both Hudson and I are\npretty busy.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "We've got to invite Hudson's boss,\ntoo..."
+  Com_Talk_02d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: OK!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It's a special occasion, so I'll buy\nanything that you don't need anymore."
+  Com_Talk_35:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "All "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " of them?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'd say..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: "\nrupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " would be a fair price. OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  "0011":
+    - text: I came to sell.
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Traditional Gerudo clothing...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHow nostalgic."
+  talk46:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You went and called on Hudson's\nboss and coworker for us?"
+  Com_Talk_11:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Sarqso. Glad to be of service.
+  "0012":
+    - text: "Sav'aaq!"
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: What would you like to sell?
+  talk47:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "But right now those two are probably\ntaking a break...\n\nI'd like the ceremony to start when it's\nbright outside,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so when the time comes,\ncan you talk to Hudson for me?"
+  "0013":
+    - text: Unfortunately...
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Sav'orq. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Come back soon.
+  talk48:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Today's the ideal day to start the\nceremony.\n\nTalk to Hudson, and let's get it started!"
+  Com_Talk_13:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "That's what you're selling?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHow many?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5500
+            field_3: 5508
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Heehee... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Don't you remember me?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI'm Rhondson!"
+  talk49:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "*snoooooze*"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Com_Talk_14:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "So "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " of them? It'll\nbe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  "0015":
+    - text: What?!
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Who are you?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I've had to mend Hudson's work\nclothes"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " every single day. It's impressive\nhow quickly he wears them down...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Besides the holes...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " They reek so much\nof sweat, it's..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "actually pretty rough to\nwork on them.\nI tried to bring it up to him, but he got\ndefensive almost immediately.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You know, I came out here to continue\nmy search for a husband..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I wonder if\nhe's the only kind of voe I'll find..."
+  Com_Talk_15:
+    - text: "Oh, I can't buy that from you."
+  "0016":
+    - text: Congratulations!
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Good-bye.
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: You bought everything!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nSarqso."
+  Com_Talk_16:
+    - text: "You're trying to sell me the clothes off\nyour back! If you want to sell it, at least\ntake it off first."
+  "0017":
+    - text: Yes.
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: You...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you're an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: outsider
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", aren't you?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0018":
+    - text: No.
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: What?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Please take your time looking.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " This\narmor was all handmade, by the way."
+  "0019":
+    - text: No kidding!
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Don't bother me if you have nothing to\nsay."
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "You should say \"sav'otta\" now!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHeehee..."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " No. I bet Mama would have a\nproblem with a delicate "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: vai
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " like you.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Oh, yes, I'm Rhondson."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I hail from\nGerudo Town."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ugh... I don't know why I'm even saying\nthis—"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "it's no business of a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " like\nyou, but...\nI'm constantly being bothered by my\nmother over not having found the love\nof my life..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 2
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "You don't know? Really?\n\n\nIt's incredibly rare for a male to be born\nto the Gerudo. For our own survival as a\npeople, we travel to find husbands..."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "Exactly. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Since it's so rare for a voe to be\nborn to a Gerudo, we seek out husbands\nfrom the world beyond Gerudo Town."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I've proven myself to be a gifted tailor,\nbut none of the voe I've met seem to\nappreciate a well-hemmed garment.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "I was hoping my craft would help me find\na mate, but it doesn't seem like there's\nmuch work for a tailor around here."
+  Com_Talk_60:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type16:
+            field_1: 44
+            string: Shop_SelectItemPrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_61:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: Too bad...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nCan I interest you in anything else?"
+  Com_Talk_05b:
+    - text: Take your time making your choice.
+  Com_Talk_05c:
+    - text: "All right, what would you like to sell?"
+  talk50:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: What a cute vai.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAre you out seeking the love of your\nlife, as well?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 17
+            field_3: 18
+            field_4:
+              - 0
+              - 1
+  Com_Talk_05d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: Which would you like to sell?
+  talk51:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Well, good luck to both of us!"
+  talk52:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Oh, I see..."
+  talk53:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Huh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Not the answer I expected...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  talk54:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Vai...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAre you seeking out the love of your\nlife, as well?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 17
+            field_3: 18
+            field_4:
+              - 0
+              - 1
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Yes, \"sav'aaq\"! That is correct!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHeehee..."
+  talk55:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 12
+    - text: "This poor girl... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I wonder if she even has a plan\nfor a life beyond our home..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "You should say \"sav'saaba\" now!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHeehee..."
+  talk56:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 0
+    - text: "Eh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "What is it? "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "So abrupt, too..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nLet me hear the details."
+  "5500":
+    - text: OK.
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I've had to mend Hudson's work\nclothes"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " every single day. It's impressive\nhow quickly he wears them down...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Speaking of which, Hudson"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " gave me\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: gem
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " he found after breaking a rock.\n\nHe may actually be a good person...\nThough he is quite direct."
+  talk57:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "Hey, can you please get down?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nYou aren't a child anymore, you know."
+  "5501":
+    - text: Never mind.
+  talk58:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 14
+    - text: "You should really quit climbing on tables\nlike that."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It doesn't reflect well on your\nupbringing at all..."
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, maybe you've already heard, but...\nHudson and I are engaged!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 15
+            field_3: 16
+            field_4:
+              - 0
+              - 2
+  talk59:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 12
+    - text: "I can't believe you climbed up there..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYou know there are certain things you\njust shouldn't do, right?"
+  "5503":
+    - text: Never mind.
+  "0000":
+    - text: Of course!
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "I wonder if there really is someone out\nthere for me..."
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Thank you so much for coming! And\nthank you for helping me honor\nGerudo tradition...\nI hope you'll continue to support both\nof us!"
+  Com_Talk_00:
+    - text: Take your time.
+  "0001":
+    - text: Gotta go!
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "I wonder if there really is someone out\nthere for me..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk36:
+    - text: "Since the wedding, Hudson and I\nhave been getting along pretty well."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nCome back and visit us anytime!"
+  Com_Talk_01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "I'd say..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIs that enough for you?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Hudson in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tarrey Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " needs\na tailor? It's something, I suppose...\n\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Akkala region
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is kinda far away.\nBut maybe I need to travel. Getting far\naway from a village full of vai...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 18
+    - text: "But it's not like I'm accomplishing\nanything by staying here."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I can continue\nmy search in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tarrey Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Thanks for all the information.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'm gonna\ngo home and pack a huge bag. It'll be a\nlong journey all the way there...\nI'll no doubt see you again in\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tarrey Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Com_Talk_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Sarqso.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Need anything else?"
+  "0003":
+    - text: Uhh...
+  talk13:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Sav'otta."
+  near00:
+    - text: Phew...
+  "0004":
+    - text: Search?
+  talk14:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Sav'aaq."
+  talk39:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Heehee... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Were you surprised?
+  Com_Talk_04:
+    - text: Got it.
+  "5508":
+    - text: All of them.
+  near01:
+    - text: Vasaaq!
+  "0005":
+    - text: Sounds rough.
+  talk15:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Sav'saaba."
+  Com_Talk_05:
+    - text: "I'll be happy to buy anything from you."
+  "0006":
+    - text: Why the rush?
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "*sigh*"
+  "0007":
+    - text: No male Gerudo...
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm still considering how to continue my\nsearch. I've mastered tailoring..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I have\ndozens of other skills...\nI just don't understand what voe are\nlooking for..."
+  "0008":
+    - text: Go to Tarrey Town!
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Yeah...
+  "0009":
+    - text: Yes. Why?
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "This "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: search for the love of my life
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm so exhausted by it."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 2

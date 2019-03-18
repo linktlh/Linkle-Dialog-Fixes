@@ -1,0 +1,1320 @@
+---
+entries:
+  "0010":
+    - text: "I'm fine."
+  "0011":
+    - text: Are you all right?
+  "0012":
+    - text: "I'm sorry!"
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Teba.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Him and I go way back.\nAs far as flying goes, he is undoubtedly\nthe best in the village. \nHis only downside is that he's reckless..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nand has a bit of a temper..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "and he can be\nrude."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But we look out for each other.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: But the way he was talking...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "saying that\nhe was going to \"blow "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "out of\nthe sky.\"\nHe wants to go back up there..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "alone.\nWhich is absolutely insane. What kind of\nmoron with a wife and a kid does that?"
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: I am Harth. Bow craft is my trade.
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n\n\nMy boyhood dream was to be a warrior,\nbut I gave that up once it came time to\ninherit the family business.\nMy daughter, Molli, is around the same\nage as Teba's kid, Tulin, so our families\nspend a lot of time together.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 9
+    - text: Hold on...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Is any of this helpful at all?"
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Divine Beast Vah Medoh...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I don't believe it myself, but some say\nit used to protect our village before \ndisappearing 100 years ago.\nTeba and I got to wondering about it,\nand when we went to investigate, it just\nopened fire on us..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "hence the injury.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: Painful_00
+    - text: "But as soon as I recover, I plan to fly up\nthere with a whole mess of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: blow its cannons to bits
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...Help Teba for me."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: Painful_00
+    - text: Owww...
+  talk60:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ah... You did not bring me anything I\nneed to make it."
+  near00:
+    - text: Owwwwwwwww...
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "...Me?"
+  talk61:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You did not bring a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: swallow bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  near01:
+    - text: "..."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Anything else you wanted to ask about?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 8
+            field_3: 6
+            field_4: 7
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  talk62:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You do not have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I heard about it from Teba.\n\n\nSo you are the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " who conquered\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk63:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I am going to need more "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "wood "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: than that.
+  talk18:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "You brought Teba back safely,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " and you\nsaved the village by dealing with\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI wanted you to hear it from me too:"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nthanks, pal. We are in your debt."
+  talk64:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Listen, lady..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You did not bring me a \n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: swallow bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and you do not have\nenough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: wood
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk65:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hey, lady..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You did not bring me a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "swallow bow "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "or a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0000":
+    - text: "What's the matter?"
+  talk66:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Lady...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You do not have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and\nI need more "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "wood "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: than that.
+  "0001":
+    - text: Take care of yourself.
+  talk67:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: You...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "got the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Eagle Bow
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " from the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: elder
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", right?"
+  "0002":
+    - text: Please do.
+  "0003":
+    - text: "No, I'm fine."
+  "0004":
+    - text: Yes.
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: Painful_00
+    - text: "Arrgh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Welcome.\nOwwww..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0005":
+    - text: No.
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "No offense, but this is not your concern.\n\n\nThat cursed "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  "0006":
+    - text: "Who's Teba?"
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Not really...\n\n\nIf this is what we are up against, we\nshould have put more stock in the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: elder
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s words."
+  "0007":
+    - text: You are?
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: Painful_00
+    - text: "Hey, lady..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm guessing you caught\nwind of that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "monster "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "circling around\nour village.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I suppose I should get you up to speed\non what went down."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  "0008":
+    - text: "Who's Medoh?"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Here goes...\n\n\nYou see this wound here on my wing?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI got shot by "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "that thing in the sky,"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nLegend has it, that monster was once\nthe protector of this village.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "But those days are long gone—as soon\nas Teba and I approached the thing, it\njust shot at us out of nowhere.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "We tried to fight back, but I was too slow\nand got hit.\n\nThankfully, Teba caught me while I was\nfalling from the sky. We had no choice\nbut to retreat.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "When I think about what would have\nhappened had Teba not been there..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nStill gives me the bumps.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 18
+    - text: So you planning to go find Teba?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI will tell you everything I know."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 8
+            field_3: 6
+            field_4: 7
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "0009":
+    - text: Please.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hey, lady!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I heard the whole story."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThat was you, yeah?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You conquered\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\nAnd Teba is safe at home too? Looks like\nyou went and did everything while I was\nout of the game.\nI guess I owe you one."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThanks, pal."
+  talk51:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you break or lose the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Eagle Bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I can make a new one for you.\n\nBut you will need to bring me a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: swallow bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " bundles of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: wood
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Hey, lady."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "You meet with Teba?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I imagine he is planning something crazy.\nI would ask you to talk him out of it, but\nI know better than that."
+  talk52:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I cannot help but notice that your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Eagle Bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is missing.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you want me to make another one,\nI will need a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: swallow bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "five "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "bundles of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: wood
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: Painful_00
+    - text: Are you going to see Teba?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I will tell you\neverything I know about\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 8
+            field_3: 6
+            field_4: 7
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  talk53:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Diamonds "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "are pretty tough to come by.\nAre you sure?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...Thanks."
+  talk54:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: All right...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Just wait over there for a bit."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "...Are you leaving?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " But I have more to\nsay!"
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: Painful_00
+    - text: "Ugh... \nWelcome..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nOww..."
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 7
+              - 0
+              - 11
+              - 0
+              - 1
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk55:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Got it...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nStop by whenever you want me to make\nyou another one."
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: Painful_00
+    - text: Welcome...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhat do you want?"
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 7
+              - 0
+              - 11
+              - 0
+              - 1
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk56:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Here ya go...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I made a beauty for you."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nTake good care of it."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I am Harth, the bow craftsman.\n\n\nBut... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I cannot raise my arm right now, so\nbusiness is not exactly booming."
+  talk57:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Where is your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Eagle Bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? Did you\ndrop it somewhere?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I can make you another one, but they are\nexpensive to make. Maybe you should try\nto find your old one first."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 14
+    - text: Hey...
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 12
+            field_3:
+              - 1
+              - 205
+  talk58:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Looks like you got everything ready.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nShould I make you a new one?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 10
+            field_4:
+              - 0
+              - 1
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Heh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Take it.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nNot like I can use it in my condition."
+  talk59:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "If you want me to make one, get the\nmaterials together and come back."
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Sure, go ahead and take it."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nConsider it thanks for conquering\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I have nothing but time, so ask away."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 8
+            field_3: 6
+            field_4: 7
+            field_5: 3
+            field_6:
+              - 0
+              - 3

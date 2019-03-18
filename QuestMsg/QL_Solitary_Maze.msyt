@@ -1,0 +1,20 @@
+---
+entries:
+  QL_Solitary_Maze_Finish:
+    - text: "The labyrinth on the solitary island was\ndifficult, but I prevailed.\n\nWhen I reached the end of the maze,\nI found an ancient shrine waiting for me."
+  QL_Solitary_Maze_Name:
+    - text: Trial of the Labyrinth
+  QL_Solitary_Maze_Desc:
+    - text: "When I approached the curious ruins on\nthe island in the Akkala Sea, I heard a\nvoice speak to me.\n\nIt told me that I will be granted a blessing\nif I "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: travel through the island maze
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."

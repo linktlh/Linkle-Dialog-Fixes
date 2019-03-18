@@ -1,0 +1,915 @@
+---
+entries:
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "You! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Linkle!
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 20
+    - text: You again?!
+  talk30:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 20
+    - text: "Ah, of course!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nBecause you stole my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nthat's why!"
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 20
+    - text: "Who did it? "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Who stole my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Linkle... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I never thought you would be the\none to appease the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\nEver since Lady Mipha was swallowed\nup by the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " 100 years ago..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI have hated you with all my heart.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "But it would seem my anger\nwas misplaced."
+  "0002":
+    - text: Good luck.
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 4
+    - text: Linkle...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You are the true "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Champion
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Will you please allow my prior rudeness\nto wash away with the tide?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Such is the\nmagic"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " of Zora's Domain..."
+  "0003":
+    - text: "It's too dangerous!"
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: Huh?!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " A Hylian!\n\n\nI am sorry, but the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " council"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\ndoes not take kindly to Hylians.\n\nI advise you to not stick around here\nfor too long.\n\n...\n\n\n..."
+  "0004":
+    - text: "...Whatcha doin'?"
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "Though I lack the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " needed\nfor the job, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I am on my way to take on\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " all by myself!\nDo not try to stop me, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Linkle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "!!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0005":
+    - text: What do you mean?
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 9
+    - text: Ha ha ha!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That is the very last thing\nI wish to hear from you!"
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "You... You're Linkle!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Finally, I can avenge\nLady Mipha!\n\nIt has been 100 years since you last\nshowed your face here! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Now I, Seggin,\nwill cut you down myself!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 5
+            field_3:
+              - 1
+              - 205
+  "0006":
+    - text: "I won't fail her again."
+  talk12:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "AAAARGH! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: What did you say?!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nI, Seggin, used to strike fear into the\nhearts of demons"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " just by setting foot\nonto the battlefield!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Stopping the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nwill be simpler than taking a fish from\na baby... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "No trouble at all, I say!"
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: HEY!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk00:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 31
+    - text: KYAAAAAAHHHH!!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 18
+    - text: "Still... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "According to my fortune today,\nI should be cautious of injury.\n\nIn light of that, I think it would be for the\nbest if I call it a day."
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "In that case, YOU take the responsibility\nof appeasing the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Hmph!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk01:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 31
+    - text: KEEEEYAAAAAHHH!!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "I still greatly wish to dispel "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s\nlingering regrets, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but I fear it is time to\nretire for a while.\nIf I were to fall due to lack of sleep,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nthat would only sadden Lady Mipha\nfurther still..."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 32
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "*pant...pant*\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Lady Mipha! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Watch THIS!\n\n\nI, Seggin, the aptly named Demon Sergeant,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nshall strike down"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 4
+            field_3:
+              - 1
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: Lady Mipha...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I, Seggin..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nshall avenge you... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Zzz...
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "I am in the middle of my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\ntraining. I MUST learn to withstand them!\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "...Did I not JUST tell you that?!"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: The rain...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "has stopped.\n\n\nCould this be Prince Sidon's doing?"
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 1
+    - text: "To commit such violence with the great\nSeggin standing right before you..."
+  talk04:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "Playing dumb, eh?!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Nice try,\nbut you cannot fool me,\nChampion Linkle!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\nYou were unable to protect Lady Mipha"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nfrom "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: It has been 100 years since we lost her...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nPoor Lady Mipha... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: How heartbreaking...
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 6
+            field_3:
+              - 1
+              - 205
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "Zzz... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "*snore* "
+  near00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 31
+    - text: KEEEEAAAAAAAHHH!!!
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "Hmph! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "There is no way we would ask for\nyour help now, after all this time and\nafter all that has happened!\nSo says I, Seggin, the Demon Sergeant!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nEven if this body of mine is destroyed...\n\nI will drown "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "shock arrows "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: myself!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAnd in doing so, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s regrets\nshall be alleviated.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 20
+    - text: "If you understand anything of courage,\nthen get out of my way at once!"
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: The Demon Sergeant...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: has arrived...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Zzz...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  near01:
+    - text: "*rumble*"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "You have acted so cold and unconcerned\nabout the harm that befell Lady Mipha...\n\nBut no matter—it is too late now.\n\n\nI shall be the one to shoot "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " down."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSo it was decided by the Zora council!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 20
+    - text: Just stay out of my way!
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "You! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Linkle!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I have avenged Lady Mipha!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Actually...I wish I could say that, but it is\nnot true. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "To think you of all people would\nbe the one to appease the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "What happened to Lady Mipha was\nunfortunate..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but I understand now.\nI no longer have reason to despise you."

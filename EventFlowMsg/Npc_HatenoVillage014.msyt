@@ -1,0 +1,736 @@
+---
+entries:
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Sounds good.
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Oh, thank you for being so kind!"
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you would like a room, we can work\nthat out..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "if you could just step to the\nother side of the counter."
+  talk18:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: Why is she asking?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Whatever, I'll just say \nsomething random..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "I'll tell you something that I really like..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Crickets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nIt's my dream to have my very own\ncollection of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 100 restless crickets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk20:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: As if...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk21:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "What's the deal here? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Why so persistent?
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk22:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: Well definitely not Manny anyway...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  talk23:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: I need to get rid of this girl...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk24:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "If I had to choose, maybe Medda..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "A regular bed is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Or, if you're\nlooking for a more relaxing and\nrestorative mind and body experience...\nYou can have one of our extra-soft\ndowny beds for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 40 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  near00:
+    - text: "..."
+  talk26:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: What is this all about...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  near01:
+    - text: Ahhh...
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "Maybe someone who's very...patient,\nI guess?"
+  near02:
+    - text: Welcome!
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "Maybe someone who's kind, perhaps?"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 0
+    - text: "Ma'am, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "blue flame "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: you are carrying
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\ncould disturb our other guests. "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Please\ndispose of that before coming in."
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "Well...someone who likes kids, maybe?"
+  "0000":
+    - text: "Regular bed, please."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Welcome to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ton Pu Inn
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: Someone who is a hard worker?
+  "0001":
+    - text: Yeah...a soft bed!
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Come back again soon.
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Good morning.
+  "0002":
+    - text: Never mind.
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I'll take your payment now... \n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 17
+    - text: "Ah, I'm sorry...but it looks like you don't\nhave enough rupees.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Come back again anytime.
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Hullo!
+  "0003":
+    - text: Morning.
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Very good.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " One regular bed. One guest.\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: When would you like to be woken up?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5: 6
+            field_6:
+              - 0
+              - 3
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Good evening.
+  "0004":
+    - text: Noon.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 10
+    - text: "Very good. So that'll be one extra-soft\ndowny bed for one. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "And when would\nyou like to be woken up?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5: 6
+            field_6:
+              - 0
+              - 3
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Thanks for coming here in the rain.
+  "0005":
+    - text: Night.
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Please enjoy your stay.
+  "0006":
+    - text: Actually...never mind.
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Good mornin'."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Did you sleep well?
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: You look very well rested.
+  "0009":
+    - text: This place is great!
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 10
+    - text: Come back again soon.
+  "0010":
+    - text: Nothing really...
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 43
+    - text: "Ma'am, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "your behavior could disturb our other\nguests. I must ask that you stop that."
+  "0011":
+    - text: What do you like?
+  talk12:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "What is this girl's problem..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0012":
+    - text: Your ideal partner?
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Ma'am..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: did you need something from me?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 12
+              - 52
+              - 72
+              - 97
+              - 116
+              - 101
+              - 110
+              - 111
+              - 78
+              - 80
+              - 67
+              - 48
+              - 49
+              - 52
+              - 95
+              - 82
+              - 105
+              - 100
+              - 101
+              - 95
+              - 70
+              - 97
+              - 118
+              - 111
+              - 114
+              - 105
+              - 116
+              - 101
+              - 11
+              - 42
+              - 72
+              - 97
+              - 116
+              - 101
+              - 110
+              - 111
+              - 78
+              - 80
+              - 67
+              - 48
+              - 49
+              - 52
+              - 95
+              - 70
+              - 97
+              - 118
+              - 111
+              - 114
+              - 105
+              - 116
+              - 101
+              - 9
+              - 0
+              - 10
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk14:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: Do the lunatics only come in during my shift?
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100

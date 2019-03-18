@@ -1,0 +1,233 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Mom's home cooking is the best!"
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "How were the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ruins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Were they\nexciting?"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Rain, rain..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I love to run and jump and\nplay in the rain..."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "I'm going to sleep!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nGood night!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Have you heard?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " There's this really\ninteresting spot at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Palmorae Beach
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nI went there with Garini before, and it\nwas so exciting!\n\nHe said they were "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "ruins "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: or something.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHey, miss, are you interested in old\nstuff like that?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Then I'll take you there!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nFollow me!"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Whaa, really?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " That's too bad."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "We're not there yet!"
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: We made it!
+  Near00:
+    - text: "It's rainy!"
+  Near01:
+    - text: "*yawn*"
+  "0000":
+    - text: I am!
+  "0001":
+    - text: Eh. Not really.
+  Near03:
+    - text: This way! This way!
+  Near04:
+    - text: Zzz...
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "We're almost there.\nFollow me!"
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Those are the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ruins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Near06:
+    - text: Food. Foooood...
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: See ya!
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: "I'm gonna go have dinner!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI have to hurry back home!"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Zzz...
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Tell Garini I said hi!

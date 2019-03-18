@@ -1,0 +1,282 @@
+---
+entries:
+  Broken_04:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomBroken04
+    - text: "That's it!"
+  Lead_00:
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomLead00
+    - text: Follow me!
+  Lead_01:
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomLead01
+    - text: Over here!
+  Chance_00:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomChance00
+    - text: "Linkle, now!"
+  Retreat_00:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomRetreat00
+    - text: "You're going back?!"
+  Lead_02:
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomLead02
+    - text: Close in!
+  Chance_01:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomChance01
+    - text: Aim for its feet!
+  Retreat_01:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomRetreat01
+    - text: Stay with the Divine Beast!
+  Invalidity_00:
+    - control:
+        four:
+          type2:
+            field_1: 38
+            string: CustomInvalidity00
+    - text: Hah!
+  Lead_03:
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomLead03
+    - text: "Don't fall behind!"
+  Chance_02:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomChance02
+    - text: "Now's our chance!"
+  Retreat_02:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomRetreat02
+    - text: "What's the matter?!"
+  Invalidity_01:
+    - control:
+        four:
+          type2:
+            field_1: 38
+            string: CustomInvalidity01
+    - text: Ungh...
+  Worry_00:
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: CustomWorry00
+    - text: You all right?!
+  Lead_04:
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomLead04
+    - text: "Let's go!"
+  Chance_03:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomChance03
+    - text: All right! Now!
+  Retreat_03:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomRetreat03
+    - text: "You're giving up?"
+  Invalidity_02:
+    - control:
+        four:
+          type2:
+            field_1: 38
+            string: CustomInvalidity02
+    - text: Foolish!
+  Worry_01:
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: CustomWorry01
+    - text: Are you hurt?
+  Chance_04:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomChance04
+    - text: "It's right where we want it!"
+  Retreat_04:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomRetreat04
+    - text: Where are you going?!
+  Invalidity_03:
+    - control:
+        four:
+          type2:
+            field_1: 38
+            string: CustomInvalidity03
+    - text: Not yet!
+  Worry_02:
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: CustomWorry02
+    - text: Linkle!
+  Invalidity_04:
+    - control:
+        four:
+          type2:
+            field_1: 38
+            string: CustomInvalidity04
+    - text: Ugh!
+  Worry_03:
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: CustomWorry03
+    - text: Caution now!
+  Worry_04:
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: CustomWorry04
+    - text: Keep it together!
+  NoWorry_00:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomNoWorry00
+    - text: We move!
+  NoWorry_01:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomNoWorry01
+    - text: "Let's go!"
+  Warn_00:
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomWarn00
+    - text: "Don't wander off!"
+  NoWorry_02:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomNoWorry02
+    - text: Ready?
+  Warn_01:
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomWarn01
+    - text: Look out!
+  NoWorry_03:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomNoWorry03
+    - text: Here we go!
+  Warn_02:
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomWarn02
+    - text: Stay close to me!
+  NoWorry_04:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomNoWorry04
+    - text: Now!
+  Warn_03:
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomWarn03
+    - text: Over here!
+  Warn_04:
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomWarn04
+    - text: "Don't stray!"
+  Broken_00:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomBroken00
+    - text: "That's the way!"
+  Broken_01:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomBroken01
+    - text: "Good, Linkle!"
+  Broken_02:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomBroken02
+    - text: We can do this!
+  Broken_03:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomBroken03
+    - text: Good!

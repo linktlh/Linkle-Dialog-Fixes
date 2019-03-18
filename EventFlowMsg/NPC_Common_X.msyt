@@ -1,0 +1,110 @@
+---
+entries:
+  TerrorExplosion_01:
+    - text: Waaah!
+  TerrorInsect_02:
+    - text: Whoa!
+  TerrorHorse_00:
+    - text: Hey!
+  TerrorExplosion_02:
+    - text: Whoa!
+  TerrorHorse_01:
+    - text: Yiiikes!
+  TerrorBomb_00:
+    - text: "What's the deal?"
+  TerrorHorse_02:
+    - text: Whoa!
+  TerrorBomb_01:
+    - text: Huh?
+  TerrorBomb_02:
+    - text: Aah!
+  TerrorArrow_00:
+    - text: "Please, stop..."
+  TerrorArrow_01:
+    - text: What are you doing?
+  TerrorImpulse_00:
+    - text: Yipes!
+  TerrorArrow_02:
+    - text: Hey now...
+  TerrorImpulse_01:
+    - text: Gyaah!
+  TerrorLightning_00:
+    - text: Yiiiikes!
+  TerrorImpulse_02:
+    - text: Whoa!
+  TerrorLightning_01:
+    - text: Waaah!
+  TerrorLightning_02:
+    - text: Whoa!
+  TerrorAnimal_00:
+    - text: Run awaaay!
+  TerrorGuardian_00:
+    - text: Help meee!
+  TerrorAnimal_01:
+    - text: Gyaah!
+  TerrorGuardian_01:
+    - text: Gyaah!
+  TerrorAnimal_02:
+    - text: Get away!
+  TerrorGuardian_02:
+    - text: "I don't want to die!"
+  NakedPlayer_00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "No clothes today, then?"
+  NakedPlayer_01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "You're daring."
+  NakedPlayer_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: Did you lose your clothes?
+  ClearTerrorEnemy_00:
+    - text: Phew...
+  ClearTerrorEnemy_01:
+    - text: Haah... Haah...
+  TerrorFire_00:
+    - text: Hot! Hot!
+  ClearTerrorEnemy_02:
+    - text: Hoh...
+  TerrorFire_01:
+    - text: Gyaah!
+  TerrorFire_02:
+    - text: Yowch!
+  TerrorSword_00:
+    - text: Hyahh!
+  TerrorEnemy_00:
+    - text: Help meee!
+  TerrorSword_01:
+    - text: Stop that!
+  TerrorEnemy_01:
+    - text: Gyaah!
+  TerrorSword_02:
+    - text: Hey!
+  TerrorEnemy_02:
+    - text: Noooooo!
+  ClearTerrorGuardian_00:
+    - text: Phew... Safe at last...
+  TerrorInsect_00:
+    - text: Ughhhh!
+  ClearTerrorGuardian_01:
+    - text: Haah... Haah...
+  TerrorExplosion_00:
+    - text: Yiiiikes!
+  TerrorInsect_01:
+    - text: Gyaah!
+  ClearTerrorGuardian_02:
+    - text: I thought I was a goner...

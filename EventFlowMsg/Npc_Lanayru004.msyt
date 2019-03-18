@@ -1,0 +1,306 @@
+---
+entries:
+  "0003":
+    - text: Good-bye.
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you continue north from here, on the\nother side of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Rutala River
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you can\nsee a huge tower on the opposite bank.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "I thought I heard a voice coming from\nthe top of that tower."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I wonder if\nsomeone's up there."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Rutala River
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is the widest river\nin "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lanayru
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nYou'd be risking your life if you tried to\nswim across it...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "If you want to go north of it, you'll have\nto walk patiently to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Linebeck Island
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in\nthe east so you can circumvent it."
+  near00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: ♪A wanderer...♪
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Is there something else you'd like\nto ask me?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Oh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " So you heard me humming, eh?\n\n\nI'm Eryck."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm traveling the world\non a journey of self-discovery.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "I'm heading for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " now..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nbut I'm lost. I was just about to give up.\n\nBut then, like, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I heard a voice...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\ncoming from the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: north tower
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "Crossing the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Rutala River
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " would be next\nto impossible, though..."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "0000":
+    - text: "Zora's Domain?"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Hey! It's you..."
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 0
+              - 0
+              - 1
+              - 0
+              - 2
+              - 0
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0001":
+    - text: North tower?
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: See ya!
+  "0002":
+    - text: Rutala River?
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is home of the Zora."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt's a town in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lanayru
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nBut crossing the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Rutala River
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis impossible.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "It's a hard place to get to, so I just\ngave up altogether."

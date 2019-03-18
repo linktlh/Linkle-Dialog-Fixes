@@ -1,0 +1,41 @@
+---
+entries:
+  talk03:
+    - text: "You have at last conquered all of our\ntrials.\n\nHaving fulfilled our purpose, we monks\nbestow upon you this...\nThe warrant of the true heroine.\nYou must now depart for the\nForgotten Temple."
+  talk04:
+    - text: "Your triumph over the test of strength\nsubverts a prophecy of ruin. From the\nashes of Hyrule, a heroine rises.\nIn the name of Goddess Hylia, I\nbestow upon you this Spirit Orb."
+  talk05:
+    - text: "You have done well to arrive at this\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "shrine. A heroine rises to right the\nwrongs of Hyrule.\nIn the name of Goddess Hylia, I\nbestow upon you this Spirit Orb."
+  talk06:
+    - text: Are you ready to exit this shrine?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk00:
+    - text: "Your resourcefulness in overcoming this\ntrial speaks to the promise of a heroine...\n\nIn the name of Goddess Hylia, I bestow\nupon you this Spirit Orb."
+  talk07:
+    - text: "Extract the Rune from the\nGuidance Stone, and then return."
+  talk01:
+    - text: "You have proven to possess\nthe resolve of a true heroine.\n\nI am "
+    - control:
+        two:
+          type10:
+            field_1: 0
+    - text: ",\nthe creator of this trial. \n\nI am a humble monk, blessed with the\nsight of Goddess Hylia and dedicated to\nhelping those who seek to defeat Ganon.\nWith your arrival, my\nduty is now fulfilled.\n\nIn the name of Goddess Hylia, allow\nme to bestow this gift upon you...\n\nPlease accept this Spirit Orb."
+  "0000":
+    - text: Yes.
+  talk02:
+    - text: May the Goddess smile upon you.
+  "0001":
+    - text: Not yet.

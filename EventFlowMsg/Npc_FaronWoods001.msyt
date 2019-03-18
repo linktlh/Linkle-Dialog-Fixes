@@ -1,0 +1,133 @@
+---
+entries:
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Feel free to ask me anything whenever\nyou like!"
+  Near01:
+    - text: "All right, all right!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Anything else you want to ask about?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 1
+            field_3: 0
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Near02:
+    - text: Zzz...
+  talk06:
+    - text: Hrnghhh...
+  Near03:
+    - text: Phew!
+  Near04:
+    - text: Time for bed...
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Thank you so much for your help!\nIn return, I'll happily tell you about\nthis area. \n"
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - text: "Are you, perchance, interested in a giant\nhorse? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Or in...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: resurrecting horses?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 1
+            field_3: 0
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk01:
+    - text: Zzz...
+  "0000":
+    - text: Resurrecting horses?
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Not far from here lives the mysterious\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: god of horses
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". If a horse dies, he can\nbring it back to life.\nSounds crazy, right? But it's true."
+  "0001":
+    - text: A giant horse? Hm...
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you head west of here, you'll reach a\nplace called "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Taobab Grassland
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nA "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: really big horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " lives there.\nAnd by big...I mean REALLY big."
+  "0002":
+    - text: "I'm good."
+  Near00:
+    - text: "Hmm, looks like rain..."

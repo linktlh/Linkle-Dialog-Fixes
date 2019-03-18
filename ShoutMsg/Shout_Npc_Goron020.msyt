@@ -1,0 +1,318 @@
+---
+entries:
+  CannonInOut_01:
+    - text: " "
+  CannonInOut_02:
+    - text: " "
+  CannonInOut_03:
+    - text: " "
+  CannonInOut_04:
+    - text: " "
+  Follow_00:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomFollow00
+    - text: Hah hah!
+  Follow_01:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomFollow01
+    - text: Hee hee!
+  Follow_02:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomFollow02
+    - text: Wait up!
+  Follow_03:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomFollow03
+    - text: "*pant pant*"
+  PiyoPiyo_00:
+    - text: " "
+  Follow_04:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomFollow04
+    - text: "*gasp*"
+  PiyoPiyo_01:
+    - text: " "
+  Search_00:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomSearch00
+    - text: "!"
+  PiyoPiyo_02:
+    - text: " "
+  Search_01:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomSearch01
+    - text: This is bad!
+  Search_02:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomSearch02
+    - text: It saw us!
+  Search_03:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomSearch03
+    - text: "!"
+  Search_04:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomSearch04
+    - text: Watch out!
+  CannonBack_00:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomCannonBack
+    - text: " "
+  CannonBack_01:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomCannonBack
+    - text: " "
+  CannonBack_02:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomCannonBack
+    - text: " "
+  CannonBack_03:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomCannonBack
+    - text: " "
+  CannonBack_04:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomCannonBack
+    - text: " "
+  HelpEnemy_00:
+    - control:
+        four:
+          type2:
+            field_1: 44
+            string: CustomHelpGoDeathMT00
+    - text: Help me!
+  HelpEnemy_01:
+    - control:
+        four:
+          type2:
+            field_1: 44
+            string: CustomHelpGoDeathMT01
+    - text: "I'm scared!"
+  HelpEnemy_02:
+    - control:
+        four:
+          type2:
+            field_1: 44
+            string: CustomHelpGoDeathMT02
+    - text: "!!!"
+  HelpEnemy_03:
+    - control:
+        four:
+          type2:
+            field_1: 44
+            string: CustomHelpGoDeathMT03
+    - text: "!!!"
+  HelpEnemy_04:
+    - control:
+        four:
+          type2:
+            field_1: 44
+            string: CustomHelpGoDeathMT04
+    - text: "!!!"
+  WhistleStop_00:
+    - control:
+        four:
+          type2:
+            field_1: 40
+            string: CustomWhistleStop00
+    - text: Right!
+  CannonFire_Bridge_00:
+    - text: Oriiiight!!!
+  WhistleStop_01:
+    - control:
+        four:
+          type2:
+            field_1: 40
+            string: CustomWhistleStop01
+    - text: Yup!
+  CannonFire_Bridge_01:
+    - text: Yaaaah!
+  WhistleStop_02:
+    - control:
+        four:
+          type2:
+            field_1: 40
+            string: CustomWhistleStop02
+    - text: Ope!
+  CannonFire_Bridge_02:
+    - text: Huraaaah!!
+  WhistleStop_03:
+    - control:
+        four:
+          type2:
+            field_1: 40
+            string: CustomWhistleStop03
+    - text: Hup!
+  CannonFire_Bridge_03:
+    - text: Go go go!!!
+  WhistleStop_04:
+    - control:
+        four:
+          type2:
+            field_1: 40
+            string: CustomWhistleStop04
+    - text: Ho!
+  CannonFire_Bridge_04:
+    - text: Uraaagh!!
+  Eruption_00:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomEruption00
+    - text: Gah!
+  Eruption_01:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomEruption01
+    - text: Yeek!
+  HelpStrage_00:
+    - control:
+        four:
+          type2:
+            field_1: 38
+            string: CustomHelpStrage00
+    - text: Somebody!
+  Eruption_02:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomEruption02
+    - text: Watch out!
+  HelpStrage_01:
+    - control:
+        four:
+          type2:
+            field_1: 38
+            string: CustomHelpStrage01
+    - text: Help me!
+  CannonFire_Battle_00:
+    - text: Hrahhh!
+  WhistleGo_00:
+    - control:
+        four:
+          type2:
+            field_1: 36
+            string: CustomWhistleGo00
+    - text: All right!
+  Eruption_03:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomEruption03
+    - text: Out of the way!
+  HelpStrage_02:
+    - control:
+        four:
+          type2:
+            field_1: 38
+            string: CustomHelpStrage02
+    - text: "I can't get out!"
+  CannonFire_Battle_01:
+    - text: Eat this!
+  WhistleGo_01:
+    - control:
+        four:
+          type2:
+            field_1: 36
+            string: CustomWhistleGo01
+    - text: OK!
+  Eruption_04:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomEruption04
+    - text: Danger!
+  HelpStrage_03:
+    - control:
+        four:
+          type2:
+            field_1: 38
+            string: CustomHelpStrage03
+    - text: "...!"
+  CannonFire_Battle_02:
+    - text: Take that!
+  WhistleGo_02:
+    - control:
+        four:
+          type2:
+            field_1: 36
+            string: CustomWhistleGo02
+    - text: Coming!
+  HelpStrage_04:
+    - control:
+        four:
+          type2:
+            field_1: 38
+            string: CustomHelpStrage04
+    - text: "..."
+  CannonFire_Battle_03:
+    - text: GO!!
+  WhistleGo_03:
+    - control:
+        four:
+          type2:
+            field_1: 36
+            string: CustomWhistleGo03
+    - text: Ready!
+  CannonFire_Battle_04:
+    - text: Heyaaaaah!!
+  WhistleGo_04:
+    - control:
+        four:
+          type2:
+            field_1: 36
+            string: CustomWhistleGo04
+    - text: Hyup!
+  CannonInOut_00:
+    - text: " "

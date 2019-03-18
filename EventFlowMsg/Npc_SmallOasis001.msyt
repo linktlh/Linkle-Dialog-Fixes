@@ -1,0 +1,289 @@
+---
+entries:
+  Talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I made it all the way to Gerudo Town!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But I'm not sure why they let me in..."
+  Talk_55:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: "I'd heard that the sandstorm\ndies down sometimes, but..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nit seems like it's dead forever.\nI guess I need to find a new hobby."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nMaybe I'll take up sleeping.\n"
+  Talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Hrm?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Wait a minute..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Didn't I meet you\nat the Kara Kara Bazaar?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Or was it\nsomeone else?"
+  near00:
+    - text: Does it...not go away?
+  Talk_56:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Good morning!
+  Talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: "I heard the sandstorm sometimes dies\ndown, but it's been going strong the\nentire time I've been watching it.\nI'm going to sleep..."
+  Talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But I hear that sandstorm over there will\ndie down for a few hours each day,\nclearing a path.\nI want to visit that huge tower, but the\nsandstorm is in the way, so...I'll just sit\nhere and wait for it to die down."
+  Talk_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I heard the sandstorm dies down from\ntime to time, and I really want to figure\nout why..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: and when!
+  "0000":
+    - text: Sandstorm?
+  "0001":
+    - text: Gotta go.
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm watching the sandstorm.\nWant to join me?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Sandstorms are pretty common out in the\ndesert. If you get caught in one, you'll\nget lost for sure..."
+  Talk_50:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The sandstorm is gone, but I'm sure it\nwill come back today. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Yup, it definitely\nwill."
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I...want to get to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". But they\ntold me it'd be too difficult to get there\nright now."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 16
+    - text: "So...I'm just kind of stuck here..."
+  Talk_51:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I was filling my days with watching that\nsandstorm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That's all I did, unless I was\nsleeping."
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I watch that sandstorm around the clock!\nEvery minute of the day! Except when\nI'm sleeping, of course."
+  Talk_52:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 16
+    - text: It was always there...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " So reliable."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut now it's never there."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhat happened?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 16
+    - text: "They said it dies down occasionally,\nbut I've never seen it happen."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nDid they lie to me?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_53:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I was thinking of going to the giant\ntower, you know."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " With the sandstorm\ngone, maybe I can go now?"
+  Talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 16
+    - text: "Urgh, what's the deal with this cold...\nHow does it get this cold in the desert?\nI hate the nighttime here."
+  Talk_54:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm waiting for the sandstorm to appear..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWanna sit and wait together?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1

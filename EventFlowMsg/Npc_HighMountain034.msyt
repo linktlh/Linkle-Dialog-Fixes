@@ -1,0 +1,199 @@
+---
+entries:
+  Talk_110:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: Gotta go practice at the shrine!
+  Talk_200:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: ♪Loo la loo!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " La la lee!♪\nThis is Dad's music!\nWe're all singing along!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Huh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: What was that sound just now?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHmm..."
+  Talk_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 37
+    - text: "*sob* "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "*sniff*"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_201:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "As long as everyone has fun together,\nI don't care what we sing!"
+  Talk_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 16
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast Vah Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in the sky\nis the worst.\n\nMolli's dad"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " got hurt..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "and Tulin's dad\ndisappeared.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Mom and Big Sis and my little sis are all\nsad.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: And I...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "can't do anything to help."
+  Talk_030:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 31
+              - 205
+    - text: "*sniff*"
+  Talk_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "OK... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Bye.
+  Talk_120:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "I'm tired. *yawn*"
+  Talk_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 16
+    - text: "If only Dad were here...\n*sob*"
+  Talk_210:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: On my way to practice at the shrine!
+  "0000":
+    - text: "What's wrong?"
+  Talk_100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Because of what you did, everyone's\nhappy and singing again!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Thank you so much!
+  "0001":
+    - text: "I'll leave you alone."
+  Talk_101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "So only you can go into those shrines?\n\n\nI tried sneaking into the one nearby the\nother day, but I couldn't get in."
+  Talk_220:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "I'm going to go hit the feathers. *yawn*"

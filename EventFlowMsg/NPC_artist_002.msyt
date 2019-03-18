@@ -1,0 +1,88 @@
+---
+entries:
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: Yes...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's nice to relax and observe the\nanimals every once in a while."
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: "Ah, these are..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient columns
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you cross the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha Great Bridge
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nover there, there's a large cliff to the\nsouth."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " The ruins are atop that cliff."
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I recall that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shrine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " you can see on the\nright there, too, so I'm pretty certain\nthat's the place."

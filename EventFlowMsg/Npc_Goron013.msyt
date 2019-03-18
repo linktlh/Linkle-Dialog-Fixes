@@ -1,0 +1,513 @@
+---
+entries:
+  "0000":
+    - text: Who are you?
+  "0001":
+    - text: What is this place?
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: See ya later.
+  "0002":
+    - text: Good-bye.
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I'm a proud Goron of Goron City.\nIf we dig up "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "ore "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "like this, Goron City \nwill prosper. Everyone wins!"
+  "0003":
+    - text: The Boss?
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yeah, yeah. What is it?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  "0004":
+    - text: Got it!
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "But right now, we've got that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "lizard\nmonster "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "sittin' up on "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Death Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nNormally we can pull up good "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "ore "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "from\nnear the mountain peak..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " But for now,\nwe have to mine here instead.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You should ask the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Boss "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for more details.\nHe's in Goron City."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Well then... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Time to work.\n\n\nDon't talk to me while I'm workin', OK?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI need to concentrate."
+  talk24:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Boss "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is the most important Goron\nin Goron City! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "His name is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Bludo
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nHe's the visionary who thought to set up\ndig sites here and at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Death Mountain "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "so\nwe can sell the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "ore "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "we find.\nThanks to the Boss, Goron City is happy\nand prosperous."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Nowhere else can even\ncompete! No way, no how!"
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: "♪Work, work, work!♪"
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "lizard monster "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "on "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Death Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\ncalmed down, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "so the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Boss "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has instructed\nus to start mining this site again!"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I need to concentrate while I'm workin'.\nIf you wanna talk, come see me when\nit's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: nighttime
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "It's finally break time!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " We can talk once\nI'm good and relaxed."
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Anything else you wanna ask?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "Bah! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "You scared me!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: What is it?!
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: "If you wanna talk, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "lemme sit down\na bit first, OK?"
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Problem is, there's a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: lizard monster
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\non the summit right now.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "We can get better ore up there,\nbut we're stuck mining here for the\ntime being.\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Boss "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "at Goron City can explain the\nwhole thing if you're interested."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Me?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'm Jengo."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Take a look around. This is where we dig\nup "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ore
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: We call it the Southern Mine.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Oh, it's you again. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "It's not time for me\nto stop workin' yet, ya know..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  near01:
+    - text: ♪Break time!♪
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I'm Jengo."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 18
+    - text: "Heh... I'm exhausted."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " But now I've got\nsome time to talk. So what did ya wanna\nask me?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2

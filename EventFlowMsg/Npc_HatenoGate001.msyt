@@ -1,0 +1,945 @@
+---
+entries:
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Doctor...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  "0010":
+    - text: "You're right."
+  "0011":
+    - text: Read it.
+  talk38:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "It's close... It HAS to be..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Hmm, dawn is starting to break. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Time for another\nday of field research."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I don't mind a little rain, but the lightning\nin Hyrule is alarmingly attracted to\nanything metallic.\nNo, on days like this, it's best to shut\noneself in and wait for the rain to clear."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If you must go gallivanting across the\ncountryside, take care you don't get\nstruck, at least."
+  "0012":
+    - text: Leave it alone.
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Today's research trip is on hold.\nMy glasses are unfortunately metallic,\nso I must remain indoors at all costs!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 10
+            field_4:
+              - 0
+              - 1
+  Book00:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Monsters roam these parts after nightfall.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt's best to stay safely inside until dawn."
+  Book01:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: "There's a worn-looking book here.\nWould you like to read it?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 11
+            field_3: 12
+            field_4:
+              - 0
+              - 1
+  talk23:
+    - text: "Today's research trip is on hold.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "My glasses are unfortunately metallic...\nIn this weather, my life could be at risk!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 10
+            field_4:
+              - 0
+              - 1
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I only do fieldwork at shrines and ruins\nduring the day."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Why, you ask?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Hmm, could it have something to do\nwith the hordes of monsters roaming at\nnight? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: What an ignoramus...
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I try not to set foot outside my hut when\nnight falls and monsters begin to roam\nthis area.\nJust because I'm a trained archaeologist\ndoesn't mean I have any skill with\na blade. Quite the opposite, in fact."
+  "0000":
+    - text: What are you up to?
+  "0001":
+    - text: "I'll...leave you to it."
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hrm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " This changes things..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Very well then!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm feeling charitable,\nso I'll let a few things spill."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " This is just\nbetween us, understand.\n\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 23
+              - 205
+    - text: "I'm still in the process of deciphering\nthat one, so I don't suppose there's\nany harm in sharing it with you.\nThat's my life in a nutshell."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Days filled\nwith researching shrines and nights\nspent studying ancient texts.\nThat leaves no time to converse with\npassing strangers, so farewell."
+  "0002":
+    - text: Do you need help?
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 23
+              - 205
+    - text: "Soon, my long years of research will be\nrevealed...and all the world will hail it as\nthe discovery of the century!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "To prevent any undue attention, I haven't\neven told my family about my work.\nYou understand, I'm sure."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 7
+            field_3: 8
+            field_4:
+              - 0
+              - 1
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...\n\n\nThese ancient writings are like a gauntlet\nlaid before us from long-dead\ncivilizations!\nOr, if you prefer, they are love letters\nmeant for the eyes of all archaeologists\nseduced by history.\nDo you see what I mean?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Either way,\nit's a private matter between me and my\nrelics. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "There's no room for laypersons."
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "I mustn't be outside right now!\nMy glasses are unfortunately metallic,\nso I must remain indoors at all costs!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 10
+            field_4:
+              - 0
+              - 1
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Did I...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: just hear you call me doctor?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAs in,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " not merely Calip,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but DOCTOR\nCalip?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIt rolled off your tongue so naturally."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIt was downright salivary!"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 12
+              - 205
+    - text: "Will you never cease pestering me?\nAnd call me by my proper title: Dr. Calip.\nThe \"Dr.\" is important.\nAnyway, I'm busy deciphering these\nancient texts. Can whatever you need\nwait until later?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0006":
+    - text: Ancient texts?
+  Talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Don't go spreading this around, but I've\nmade an interesting discovery in this\nancient text.\n\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\"\nAfter cross-checking with a few other\nmanuscripts, I've realized something\nabout this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: cursed statue
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "It can only refer to a dreadful variety of\ndoll with the ability to influence one's\nbehavior!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ah, but my apologies."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm delving into\nmatters too terrifying for laymen."
+  "0007":
+    - text: "Of course, Dr. Calip."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Unusually sensible of you. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "But if you\nhave the wit to address me by my proper\ntitle, perhaps I shouldn't be so surprised.\nMy work keeps me far too busy to sleep,\nso you can rest in my bed over there if\nyou need."
+  "0008":
+    - text: "Gotcha, Calip."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I only do fieldwork at shrines and ruins\nduring the day."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Why, you ask?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Hmm, could it have something to do\nwith the hordes of monsters roaming at\nnight? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: What an ignoramus...
+  Talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\"\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I've been pondering the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dark light
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nmentioned here for some time, and I\nmust admit I'm stumped.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Light can't be dark, obviously. Unless..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWhoops!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Can't go divulging my research\nbefore I publish, now, can I?"
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hrm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " This changes things..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Very well then!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm feeling charitable,\nso I'll let a few things spill."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " This is just\nbetween us, understand.\n\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 23
+              - 205
+    - text: "I'm still in the process of deciphering\nthat one, so I don't suppose there's\nany harm in sharing it with you.\nBut see here, there are far too many\ndangers lurking at this time of night for\nme to stand around discussing this.\nIf you want to rest in my bed, you may."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI tend to be far too engrossed in my\nwork to sleep..."
+  "0009":
+    - text: What do you mean?
+  talk00:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\"\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I'm not wrong, am I?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It must be around there..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 12
+              - 205
+    - text: "For goodness' sake, can you not take\neven the broadest hint?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm busy!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " These\nancient texts won't decipher themselves!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "Times like these make me long to be\nback in academia, where at least people\nunderstood the value of solitude..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: HA!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Let me guess...\n\n\nYou caught wind of the great Dr. Calip's\ngroundbreaking research and just HAD to\nmeet him for yourself."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Heh...\nNo?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Don't tell me you've never even\nHEARD of me!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " After I've dedicated my\nlife to researching the ancient shrines?!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "*sigh*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Well, you'd better remember my\nname, for it's not the last you'll hear\nof it!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "And while I'm at it, it's \"DOCTOR Calip,\"\nif you please. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I didn't study my rear end\noff to be called \"Mr. Calip.\"\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Everyone forgets I'm a doctor for some reason..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 23
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "And since you asked, I'll inform you that\nI'm engaged in analyzing ancient texts.\nI haven't time for idle chitchat."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 12
+              - 205
+    - text: You again?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " What now?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You want to tag\nalong on my fieldwork?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Well, I suppose it might do you some\ngood to see an expert at work."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Just try\nto stay out of my way."
+  near00:
+    - text: What a mystery...
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, it's you. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Can whatever it is wait?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI'm VERY busy deciphering these ancient\ntexts."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk30:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "A shrine? Here? But I hadn't completed my\ninquiry into the mystery of the ancient texts."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: Hrm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " This must be what we in the archaeology\nprofession refer to as \"a stroke of luck.\""
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Er, not\nthat I believe in any such thing..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Huh.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " The mystery deepens..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "My only response can be to redouble\nmy efforts—now that the shrine is\nvisible—to solve the mystery at last!"
+  talk32:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThe answer is here somewhere..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: but what is it?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "You again... You certainly look pleased\nwith yourself."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "But no matter. It's time I headed out for\nsome more shrine fieldwork. "
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "I'm feeling charitable, so I'll let a few\nthings spill."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " This is just between us,\nunderstand.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "\"When a dark light resides in the cursed\nstatue's eyes, pierce its gaze to purge\nthe seal from the shrine.\""
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI'm still in the process of deciphering\nthat one, so I don't suppose there's\nany harm in sharing it with you.\nThat's my life:"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " days spent researching\nshrines and nights filled with the study\nof ancient texts. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Back to work now...

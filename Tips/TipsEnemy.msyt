@@ -1,0 +1,287 @@
+---
+entries:
+  Tactics_20:
+    - text: Electric Lizalfos
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If you hit an Electric Lizalfos's horn with an arrow, it will discharge\na massive electric shock."
+  Tactics_21:
+    - text: Horseback Battles
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "When fighting on horseback, use "
+    - control:
+        one:
+          type7:
+            field_1: 2
+            field_2:
+              - 15
+              - 205
+    - text: " to focus your attention,\nmaking it easier to aim."
+  Tactics_22:
+    - text: Battle Tip
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If a monster is hiding behind a shield, you can bat the shield away\nby hitting it with a heavy sword or axe."
+  Tactics_10:
+    - text: Battle Tip
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If an enemy camp has multiple levels, each packed with monsters,\nconsider using the paraglider to sneak your way to the top."
+  Tactics_23:
+    - text: Elemental Weaknesses
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If you use a fiery attack against an icy enemy, you may defeat it\nin one hit."
+  Tactics_11:
+    - text: Battle Tip
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Using Magnesis to toss metal objects into a camp full of monsters\nis a great way to do some damage."
+  Tactics_24:
+    - text: Elemental Weaknesses
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If you use an icy attack against a fiery enemy, you may defeat it\nin one hit."
+  Tactics_12:
+    - text: Battle Tip
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Monsters have a harder time detecting you if you press "
+    - control:
+        one:
+          type7:
+            field_1: 2
+            field_2:
+              - 33
+              - 205
+    - text: "\nto crouch and quietly approach them."
+  Tactics_25:
+    - text: Perfect Dodge
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If you backflip or side hop away from a monster's attack at just the\nright moment, you will be rewarded with a chance to let loose\nwith a flurry of attacks."
+  EnemyGuardian_00:
+    - text: Guardians
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Guardians are ancient, highly advanced weapons, so items from the\ncurrent age won't deal much damage. Weapons from their own era\nlike ancient arrows are better suited to combat them."
+  EnemyLizalfos_00:
+    - text: Lizalfos
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "As carnivores, they eat meat, fish, and even insects."
+  Tactics_00:
+    - text: Stealth Tip
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "It's harder to hear footsteps when it's raining...making it the\nperfect time to sneak up on some monsters!"
+  Tactics_13:
+    - text: Battle Tip
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Monsters need their beauty rest too. If you see a group of monsters\nsleeping, use that opportunity to sneak-attack them!"
+  Tactics_26:
+    - text: Perfect Guard
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "When equipped with a shield, if you press "
+    - control:
+        one:
+          type7:
+            field_1: 2
+            field_2:
+              - 10
+              - 205
+    - text: " to deflect a monster's\nattack at just the right moment, you will be rewarded with a chance to\ncounter the attack."
+  Tactics_01:
+    - text: Stealth Tip
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Crouching in a grassy field makes it harder for monsters and enemies\nto detect you. Keep this in mind if you want to ambush enemies or\navoid fighting altogether."
+  Tactics_14:
+    - text: Bomb Barrels
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Shoot a fire arrow into a bomb barrel to make it explode.\nTossing a burning weapon at one works too."
+  Tactics_27:
+    - text: Charged Attack
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "You can ready a charged attack by holding "
+    - control:
+        one:
+          type7:
+            field_1: 2
+            field_2:
+              - 13
+              - 205
+    - text: ". Doing so depletes\nyour stamina, so be sure to time your attack carefully."
+  Tactics_02:
+    - text: Critical Hits
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Hitting a monster or enemy in the head with an arrow deals double\nthe normal amount of damage."
+  Tactics_15:
+    - text: Electric Chuchus
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "When you attack Electric Chuchus, they explode in a burst of sparks.\nUse this to your advantage to shock nearby monsters."
+  Tactics_28:
+    - text: Jump Slash
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Perform a jump slash by pressing "
+    - control:
+        one:
+          type7:
+            field_1: 2
+            field_2:
+              - 13
+              - 205
+    - text: " after jumping or while in the\nair. The shock wave created when you hit the ground can affect\nnearby monsters."
+  Tactics_03:
+    - text: Horseback Battles
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "When fighting on horseback, weapons with reach such as spears and\nbig swords have an advantage over short swords and clubs."
+  Tactics_16:
+    - text: Fire Chuchus
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "When you attack Fire Chuchus, they explode and start a fire.\nUse this to your advantage to turn up the heat on nearby monsters."
+  Tactics_04:
+    - text: Battle Tip
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "The difference between winning and losing a battle often comes down\nto strategy. With the right tactics, you may be able to defeat an entire\ngroup of enemies at once."
+  Tactics_17:
+    - text: Ice Chuchus
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "When you attack Ice Chuchus, they explode in a burst of frost.\nUse this to your advantage to put nearby monsters on ice."
+  EnemyChuchu_00:
+    - text: Chuchus
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "They will explode when attacked. Try throwing something at them\nfrom a safe distance."
+  Tactics_05:
+    - text: Battle Tip
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Monsters sometimes leave their weapons lying around their camp.\nSneaking up and stealing these items will make defeating them\nmuch easier!"
+  Tactics_18:
+    - text: Critical Hits
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Weapons that you have no use for are perfect for throwing\nat monsters. If one hits, it will deal double damage."
+  Tactics_06:
+    - text: Ice Arrows
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If you find yourself surrounded by an overwhelming number of\nenemies, try using ice arrows to freeze them in their tracks."
+  Tactics_19:
+    - text: Battle Tip
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If the foe you're fighting is too powerful, train yourself up! You can\nstart by finding a stronger weapon or collecting Spirit Orbs\nto get more hearts or increase your Stamina Wheel."
+  Tactics_07:
+    - text: Fire Arrows
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Use fire arrows to burn dry grass and defeat multiple enemies\nat the same time."
+  EnemyMoriblin_00:
+    - text: Moblins
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "These large carnivores require sizable helpings of meat and fish\nto sustain their bulky frames."
+  Tactics_08:
+    - text: Shock Arrows
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Shoot shock arrows into water or metallic objects to electrify\nenemies and monsters."
+  Tactics_09:
+    - text: Battle Tip
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Monsters on the lookout in watchtowers will sound the alarm if they\nspot you. Defeat these foes first before they alert the others."
+  EnemyBokoblin_00:
+    - text: Bokoblins
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Without much in the way of clothing to protect them, they tend to\nrun when menaced by bees."
+  EnemyBokoblin_01:
+    - text: Bokoblins
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "These omnivorous monsters enjoy not only meat and fish but also\nfresh fruit."

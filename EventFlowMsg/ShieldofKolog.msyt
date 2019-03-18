@@ -1,0 +1,455 @@
+---
+entries:
+  Npc_Kokiri011_R_111:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 18
+    - text: "Phew...\n\n\nThat was a close one."
+  Npc_Kokiri011_S20_061:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Hey, lady!\n\n\nWhere are you going?! The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: trial
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is \nthataway! You're not Cuccoing out,\nare ya?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 2
+  Npc_Kokiri011_S10_071:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Are you ready to take the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Test of Wood
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Npc_Kokiri011_R_101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "GAAAH!\n\n\nKnock it off, pyro!"
+  Npc_Kokiri011_S20_051:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 1
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Gooooooooal!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_Kokiri011_R_041:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 11
+    - text: "All you have to do is reach the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "shrine "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in\nthe back of the area. Off you go!"
+  Npc_Kokiri011_S20_052:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "CONGRATULATIONS!\nYou've passed the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Test of Wood
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nWell done, Hero lady!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHappiness awaits you at the shrine."
+  Npc_Kokiri011_S10_061:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Let me know when you're ready."
+  Npc_Kokiri011_S20_053:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "Oh, yeah!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If you ever want to do the trial again,\njust let me know.\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: See ya!
+  "0000":
+    - text: "I'm ready."
+  Npc_Kokiri011_R_031:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I see. Well, come back when you're\nready."
+  "0001":
+    - text: Maybe later.
+  Npc_Kokiri011_S10_051:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "All right. Go get 'em!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You have to keep the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "shield "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "equipped the whole time. If they\nbreak or you unequip them, you're out!"
+  "0002":
+    - text: "Let's do this."
+  "0003":
+    - text: Wait a second.
+  "0004":
+    - text: "I'll never give up!"
+  Npc_Kokiri011_R_091:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 19
+    - text: "HEY!\n\n\nThat equipment is for trial participants\nonly!"
+  "0005":
+    - text: I give up...
+  Npc_Kokiri011_R_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Hey, Hero lady! I was told you'd be\ncoming.\n\nBut do you really think you're ready for\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Test of Wood
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?! Some say it's the\nhardest of the Korok Trials.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But it's not complicated—all you need to\ndo is equip this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Korok weapon set
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and\nreach the shrine at the back of the area.\nAre you ready to try it?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_Kokiri011_S10_031:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Huh?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Your inventory is full!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "You need to make some space for a\nsword, a shield, and a bow before we\ncan get started."
+  Npc_Kokiri011_R_081:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You can sign up for the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Test of Wood
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nhere.\n\nTo pass the test, you just need to equip\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Korok weapon set
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and reach the\ngoal. Nothing to it!\nWant to give it a try?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_Kokiri011_R_001:
+    - text: Are you ready?
+  Npc_Kokiri011_S10_021:
+    - text: Gotta get the area ready...
+  Npc_Kokiri011_S20_081:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 12
+    - text: "Too bad, Ms. Hero..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWe all fail sometimes.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Do you want to try again right away?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Npc_Kokiri011_S20_001:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: DISQUALIFIED!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You lose!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "You have to keep all three forest-dweller\nitems equipped the whole time!\n\nThat's the forest dweller's sword,\nthe forest dweller's bow, and the\nforest dweller's shield."
+  Npc_Kokiri011_R_071:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: "Hold it.\n\n\nYou can't go in there unless you're\ntaking on the trial."
+  Npc_Kokiri011_S20_071:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 2
+    - text: "Oh, my, Hero lady!\nDid you get lost in the mist?\nDo you want to give up on the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: trial
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1

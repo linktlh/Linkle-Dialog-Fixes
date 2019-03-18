@@ -1,0 +1,448 @@
+---
+entries:
+  Sinjyu_Female_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 23
+    - text: "Our chief has finally done it. It's been a\nlong time since I've seen the desert as\npeaceful as this...\nAnd now that I've refreshed myself, I\ncan really buckle down and get back to\nliving my life!"
+  Npc_oasis010_009:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 19
+    - text: "When I say \""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Outsider
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\" I mean \"not welcome here,\"\nobviously!"
+  Npc_oasis010_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 19
+    - text: "When I say \""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: vai
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\" I mean \"woman,\"\nobviously!"
+  TerrorArrow:
+    - text: "I'll pay you back!"
+  Npc_oasis010_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Here's a tip:"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " if you stop by the canteen,\ndo yourself a favor and order a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Noble Pursuit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIt's hands down the best drink I've ever\nhad."
+  TerrorFire:
+    - text: Stop!
+  Npc_oasis010_012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Vai
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is a word in the Gerudo language\nthat means \"woman.\""
+  "0000":
+    - text: What?
+  Npc_oasis010_013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Voe
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is a word in the Gerudo language\nthat means \"man.\""
+  Sinjyu_Normal_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 23
+    - text: "At last, our chief has finally done it!\nThe desert is once again peaceful!\n\nEveryone can safely travel across the\ndesert without a worry in the world!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Even you! Yes, you! Stop lingering\naround here—get out, traverse the\ndesert, and go home!"
+  Npc_oasis010_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "I will not let a single "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: voe
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " pass, even if\nit was a mere ant. But you are fine.\nPlease relax and enjoy your time here."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 2
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  "0001":
+    - text: Good-bye.
+  Npc_oasis010_014:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - text: "All "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: voe
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " must leave at once!"
+  Npc_oasis010_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "I will not let a single "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: voe
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " pass, even if\nit was a mere ant. But you are fine.\nPlease relax and enjoy your time here."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 2
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  "0002":
+    - text: Vai?
+  Npc_oasis010_015:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "You don't even know the difference\nbetween "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: voe
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: vai
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and you're trying\nto enter town?!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 2
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  Npc_oasis010_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "We don't get a lot of Hylian "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: vai
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " around\nhere. Welcome to Gerudo Town.\n\nIt is an old tradition here that only "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: vai
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nare allowed within the walls. "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Voe
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are\nstrictly forbidden. Take your time here."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 2
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  Npc_oasis010_016:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "There are many other Gerudo words,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nand it would help to learn them if you\nplan on entering Gerudo Town.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "But you should at least remember "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: voe
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: vai
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 2
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  TerrorBomb:
+    - text: Is it a fight you want?!
+  TerrorExplosion:
+    - text: Nwahhh!
+  Npc_oasis010_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "I will not let a single "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: voe
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " pass, even if\nit was a mere ant. But you are fine.\nPlease relax and enjoy your time here."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 2
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  Npc_oasis010_017:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq."
+  Near_Raimei_001:
+    - text: A replica of the helm?
+  Npc_oasis010_018:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta."
+  Npc_oasis010_019:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba."
+  TerrorSword:
+    - text: You got some nerve!

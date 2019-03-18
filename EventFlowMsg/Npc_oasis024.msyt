@@ -1,0 +1,322 @@
+---
+entries:
+  Npc_oasis024_009:
+    - text: Enjoy!
+  Sinjyu_Normal_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The chief has calmed the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThe town can finally rest easy with that\nthreat handled...\nI'm sure we'll see more business traffic\ngoing in and out than we have in a\nwhile, too.\nWhich means I have to be extra diligent\nin keeping voe from slipping into town\nwith the crowds!"
+  Sinjyu_Female_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "The chief has calmed the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThe town can finally rest easy with that\nthreat handled...\nNow you can truly relax in town.\nFeel free to come inside."
+  Npc_oasis024_001:
+    - text: "If you need to prepare for a journey, you\nshould head to"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "the oasis near the\ndesert's entrance, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Kara Kara Bazaar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+    - text: "\nOr one of our many shops!"
+  Npc_oasis024_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Try "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Kara Kara Bazaar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", the oasis at the\nentrance of the desert.\nOr one of our many shops!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Near_Raimei_001:
+    - text: "Ooo, that helm..."
+  Npc_oasis024_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", Hyrule's largest\ntrade hub.\n\nOnly "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: vai
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are permitted entry within the\nwalls, and we're constantly on alert for\nanyone who looks suspicious."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_oasis024_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "This place is famous for its bustling\ntrade, but also for our unusual rule\nallowing only "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: vai
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " into the town.\nWe're constantly on the lookout for\nanyone suspicious, so you can rest\neasy here."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_oasis024_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Since you're here, it might be worth it\nto learn some Gerudo words, right?\n\"Good-bye\" is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "sav'orq"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_oasis024_Near001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: Freeze!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Where do you think you're\ngoing?!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 12
+              - 205
+    - text: " Not into town—that's for sure!\nYou are not welcome. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Off with you!
+  Npc_oasis024_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq."
+  Npc_oasis024_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba."
+  "0000":
+    - text: Oh thanks!
+  Npc_oasis024_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta."
+  "0001":
+    - text: Good-bye.
+  "0002":
+    - text: "Sorry, \"bai\"?"
+  Npc_oasis024_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Not \"bai\"!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Vai
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Bite your bottom lip as you say it.\nIt translates to \"woman\" in your\nlanguage.\nSo long as we're on the subject, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: voe
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is\nour word for \"man.\"\n\nIf you plan to stay awhile, you'd do well\nto learn the language."

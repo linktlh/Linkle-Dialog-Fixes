@@ -1,0 +1,857 @@
+---
+entries:
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Hey, thanks! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "But don't bring me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "too big\na horse"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... Won't be able to ride it!\nNo, I need a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: suitably sized horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 16
+    - text: "Hey, hey! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You brought a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBut it's a little too big for me to ride...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Sorry to say this after all the nice\nhorse-bringing you just did, but could\nyou please find me a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: normal horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Hey, yeah, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: thanks so much!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHere's the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "300 rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "I promised you\nas fair payment for this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Hey, hey, I sure wasn't expecting to meet\nanyone out here..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Maybe this is just the\nupturn in luck I needed!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Yeah, so yeah, I'm a traveler like you..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAnd I was attacked by monsters in this\nvery canyon...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "That's when my partner, that's to say,\nmy "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", ran off."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " And hey, I've been\nstranded here ever since..."
+  Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "So that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... Hey, I know this is asking\na lot!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But could I buy that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for \n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 300 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "Yeah, hey, if I just had a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I could\nkeep traveling on my way... Please!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nPlease find and bring me a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 16
+    - text: "Hey, hey! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You brought a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBut it's kind of really scary...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Sorry to say this after all the great\nhorse-bringing you just did, but could\nyou please find me a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: normal horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 22
+    - text: "Ohh! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "HEY! That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It's just like my\nold partner! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Talk about a fine "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Think I could have this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " \nI'll pay you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 300 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for it, what do\nyou say, hey?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "Hey, hey! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You brought a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWait a sec!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " That's not a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "horse "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "at all!\nBring me a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: HORSE
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! Please!"
+  Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Hey, hey, so you decided that you \nwant to help me out?"
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Heyyyyy, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "really?!\nYou know this is for keeps, right?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: "I'll sell it!"
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: Hey
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "yyyyy... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: He
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "yyyyy... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Hey,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " OK, I see..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " \nI mean sure, after you went to the\ntrouble of catching this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and all...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I get it. But if you find a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " you don't\nmind selling, please bring it to me, hey?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nEven a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: wild horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is fine! Just, please!"
+  "0001":
+    - text: No way!
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Hey, hey! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm making this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " I bought\nfrom you my new partner! My new best\nbuddy and traveling attendant!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "So off we go, me and my partner!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nMay we all have good travels!"
+  "0002":
+    - text: "It's yours."
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "All I need is a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to continue my\ntravels..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: " A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: " "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " \nIf I just had a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0003":
+    - text: "No, never mind."
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "Hey, yeah, if I just had a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I could\ncontinue my travels,"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: " and you're a fellow\ntraveler, so I have to ask, right?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If, on your travels, you see a horse that\nwould suit me,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " would you sell it to me for\n100,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " no,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 300 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  "0004":
+    - text: You got it!
+  "0005":
+    - text: I refuse!
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: Heyyyy...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Heyyyy..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That's disappointing\nto hear from a fellow traveler."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'll trust in\nyour eventual generosity and wait here."
+  Near_00:
+    - text: Must have a good horse...
+  Near_01:
+    - text: Hey... Hey... Hey...

@@ -1,0 +1,198 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...Whozat? "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Zzzzzrrmblle...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 7
+    - text: "Some of us have things to do, y'know?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWould you mind leaving me alone?"
+  near00:
+    - text: "Wow, really?!"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 13
+    - text: "...What?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Go hassle someone else."
+  near01:
+    - text: "...No clothes? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Really?
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "I'm waiting for someone. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAnd it's not you. Can you go away?"
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 17
+    - text: I have stuff I need to do now.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " \nCould you stop following me?"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 7
+    - text: Um...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Would you mind not following me?"
+  near03:
+    - text: Zzzzz...
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Hey! Captain Snoop!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You want to get out\nof my personal space or what?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\nEver heard of the concept of a PRIVATE\nconversation?"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "I'm trying to have a decent gossip here!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nAnd I don't need you! Now go away!"
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: Hm?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I could've sworn someone just\ncalled out to me..."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 5
+    - text: What do you have there?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nUm, that's really dangerous.\nYou shouldn't run around with that."
+  talk13:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Urk...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 7
+    - text: "That thing you're holding..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt's dangerous! So put it away!"
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 15
+    - text: "Excuse me, but I'm going to bed."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nCan you please get out of my way?"

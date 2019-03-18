@@ -1,0 +1,68 @@
+---
+entries:
+  TerrorArrow:
+    - text: Stop it!
+  Challenge000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Ah!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You've done well climbing all the way\nup here!\n"
+  TerrorFire:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorSword:
+    - text: Knock it off!
+  TerrorExplosion:
+    - text: WAAAAAA!
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Ah! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "So \""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "nothing between you and the\nnight air"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\" meant naked!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Boldly standing naked on the pedestal...\nThat's definitely reminiscent of the\nhero of legend.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Take care, and may the light illuminate\nyour path."

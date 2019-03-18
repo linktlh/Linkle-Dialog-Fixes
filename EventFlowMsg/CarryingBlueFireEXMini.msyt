@@ -1,0 +1,2692 @@
+---
+entries:
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 19
+    - text: Anyway.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Enough about that!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBack to the topic at hand!"
+  talk62:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Hmmm, lessee here... Which one is it..."
+  talk02:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Scare_00
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: Really?!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Well! I'm so shocked I don't\nknow if I'll ever be able to recover\nfrom this!"
+  talk63:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Oooh, I can't wait to see it!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nLemme see, lemme see!"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Scare_01
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I heard the hesitation in\nyour voice."
+  talk64:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Did you get a good one this time?
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Even though, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "100 years ago,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I took you\nto the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Shrine of Resurrection "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "after\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " fatally wounded you...\nEven though "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I was the one who put you\nsafely into the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Slumber of Restoration
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\nDespite all that, you still don't\nremember me?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 16
+            field_4:
+              - 0
+              - 2
+  talk65:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You can also use the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "zoom "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "function if\nyou want."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Just make sure I look cute!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Hey! Heeeey! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Are you surprised?!\n\n\nThe director of this laboratory is\nNOT Symin."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's ME!"
+  talk66:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: "Hateno Ancient Tech Lab is now\nset as a travel gate."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "This is the really important bit,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nso listen up!"
+  talk67:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Do you have any other questions?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 9
+            field_3: 10
+            field_4: 11
+            field_5: 12
+            field_6:
+              - 0
+              - 3
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: Understand_00
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " As expected.\n\n\nAfter 100 years in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Slumber of Restoration
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: ",\nsubject...has...lost...all...memories."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Noted!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk68:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 11
+    - text: "Whaaaaa—?! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Linkle?!\nIs it really you?"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk08:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Here you are, after 100 years! \n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 1
+    - text: "Here to defeat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nwho is growing in strength with\nevery passing moment!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "And to rescue our beloved "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Princess\nZelda"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That is, if you've got the\ncourage to try.\nAnd to help the one true heroine, I, the one\nand only Purah, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "will restore the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "basic\nfunctions "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "missing from the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah Slate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: Aaaand what do you say to thaaaat?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5:
+              - 0
+              - 2
+  talk69:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 36
+            string: CustomGreeting_00
+    - text: "Snappity... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: SNAP!
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "I knew you'd say that!"
+  talk50:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Take a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: picture
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of me with the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Camera
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nOh, and don't forget to lemme see it!"
+  talk51:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Oh, sooooorry..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I have a bad habit of\ntaking notes rather abruptly like that.\nIt's a charming quirk, isn't it?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Anyhoo... Do you have any questions\nfor me?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 17
+            field_3:
+              - 1
+              - 205
+  talk52:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: How very rude!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Hm, or perhaps it's not rude at all..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI suppose that's actually a rather\nlogical conclusion to jump to."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Think_00
+    - text: "The truth is,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I look this way because of\na failed experiment.\n\nWell, I say \"failed,\" but..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "in some ways,\nit was a success. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I documented the full\naffair in my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diary upstairs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nBUT! The whole thing is embarrassing,\nso I insist you refrain from reading it!"
+  talk53:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, but..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "it's raining now, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "so I guess\nyou can't."
+  talk54:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It might be best to rest at an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "inn "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and\nwait for the rain to stop."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Once it does,\nI'm counting on you!"
+  talk55:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's fine to wait for the rain to stop,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nbut I'll be counting on you for that\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "blue flame "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: when it does!
+  talk56:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "It's fine, really. No need to stress."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nJust make sure you take a cute one\nof me! And soon!"
+  talk57:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's one of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah Slate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: runes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", silly."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nPrincess Zelda used it long ago."
+  talk58:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Use it the same way as "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Remote Bombs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand the like."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Just equip it and SNAP!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nJust like that!"
+  talk59:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Use it the same way as "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Cryonis "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and\nthe like."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Just equip it and SNAP!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nJust like that!"
+  talk40:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 19
+    - text: "Oh, yeah! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "There's just one more thing\nI need from you!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You don't have to worry about this until\nafter you see Impa, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but I want you to\nbring me back some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ancient materials
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nBring them either to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: me
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "or to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Robbie "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "at\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Akkala Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "As if my joy weren't enough, if you\nbring us "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ancient materials
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " we'll give\nyou "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "something good "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: as a reward.
+  talk42:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Could you please bring the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfrom the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient furnace
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in town?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nOh, and also use it to light our "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: furnace
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk44:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This sweet little "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Guidance Stone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " will start\nworking once you do that,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " allowing us to\nrestore your missing "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: runes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Huh... I wonder if young women these days still say\nthings like \"sweet\" and \"little.\""
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Ah, well. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I suppose\nit doesn't matter anyway."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  talk45:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well then... Let's go ahead "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "and restore\nthose "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah Slate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "runes "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: for you!
+  talk46:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "All right! Let's do this!"
+  talk47:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Snappity snap!
+  "0020":
+    - text: Camera?
+  talk48:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: TalkPositive_00
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Camera
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Compendium
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: album
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nYep, looks good!"
+  "0021":
+    - text: One moment.
+  talk49:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: TalkPositive_00
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Camera
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Compendium
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: album
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "and\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah Sensor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Yep, looks good!"
+  "0022":
+    - text: "That's true, but..."
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Guidance Stone "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "must be starting\nto react!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " There's nothing mysterious\nabout it—this is pure science!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: LaughBad_00
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Heh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " My sweet little "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Guidance Stone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nyou sure know how to make this old\nresearcher's heart flutter!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0023":
+    - text: Precisely.
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Give me a nice "
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomGreeting
+    - text: SNAP!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Go on, no time to\nbe shy about it!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 13
+            field_3: 14
+            field_4: 15
+            field_5:
+              - 0
+              - 2
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: That was pretty weak.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBut that's OK."
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: LaughBad_00
+    - text: "Heh heh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Here it comes...
+  "0026":
+    - text: Pic?
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Aaaand...it's done!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " So?!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Is it all fixed\nup now?"
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "Huh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Oh, I guess that's my cue!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "Sorry, I kind of lost it there."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It wasn't\non purpose."
+  talk36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Hmmm...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Ah, it's not just a pretty girl in these\nimages."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Yes, there are also some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "old\nlandscape photos"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " stored in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: album
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "I knew Princess Zelda had made frequent\nuse of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Camera "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "feature, but this...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Hey, Linkle! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It dawns on me that you were\nPrincess Zelda's appointed knight, which\nmeans...\nthere's a strong possibility that you\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "accompanied "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "her to all of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "places\nwhere these pictures were taken"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Oh...right. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "The \"lost memory\" thing\ncould prove troublesome.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "But don't lose hope! It just means these\npictures could be the missing piece"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nto help restore your lost memories!\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "If my hunch is correct, I suggest you\ncheck in with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Impa
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " She knows more\nabout Princess Zelda than even I do!"
+  talk37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "You know... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That's not a very good\neffort, now is it?"
+  "0010":
+    - text: Got any pointers?
+  talk38:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "How's the picture taking going?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nDid you get a cute pic of me\nwith the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Camera
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 19
+              - 0
+              - 20
+              - 0
+              - 26
+              - 0
+              - 21
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0011":
+    - text: And you are?
+  talk39:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Nice one!
+  "0012":
+    - text: Nope.
+  talk20:
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: Understand_00
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Hmmm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Post "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Slumber of Restoration
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nsubject is plagued by...presumptuous...\ntendencies."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Noted!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0013":
+    - text: SNAAAP!
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Hmm. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You're pretty considerate for a\nyoung person.\n\nBut then..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I suppose that's because\nyou're actually over 100 years old!"
+  "0014":
+    - text: Snap?
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Let me explain what this errand entails.\n\n\nYou know the unlit "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "furnace "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "on the wall\njust outside this laboratory?"
+  "0015":
+    - text: Nah...
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Okaaay then. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Well, you'll just have to\nstart over!"
+  "0016":
+    - text: "..."
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This is the first documented case\nof someone waking up from the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Slumber of Restoration
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  "0017":
+    - text: "Aren't you a child?"
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: TalkPositive_01
+    - text: "You'll find the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient furnace
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "high ground "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "behind Reede's house.\n\nAs soon as you leave this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: laboratory
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nhead left until you're at the cliff's edge.\nThen make use of your scope!\nYou'll see a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". That's the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient furnace
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Ummm, can I help you?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 9
+            field_3: 10
+            field_4: 11
+            field_5: 12
+            field_6:
+              - 0
+              - 3
+  "0019":
+    - text: I took one!
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " makes it sound fancy, but it's\nreally just the same as a regular flame."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIf it gets wet, that's that.\nIt'll help to light the village "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: lanterns
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nyou'll see on your way back here"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and\nto "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: avoid steep inclines
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I'm Purah!"
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "When bringing back the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "blue flame "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "from\nthe ancient furnace, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you may find it\nhelpful to use a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: torch
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThere should be one at the entrance of\nthis house."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Feel free to use it."
+  talk70:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No, no, no! Now is not the time for this...\n\n\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Guidance Stone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is suddenly working again,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nand now Linkle has arrived..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hmmm... Say, Linkle!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Did you, by any\nchance,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " happen to light the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: furnace
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwith a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 22
+            field_3:
+              - 1
+              - 205
+    - text: "\nIf you figured out how to do that without\nbeing told..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You must've come out of the\nSlumber of Restoration in good shape!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Oh! Yes, I forgot to introduce myself.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I am the Hateno Ancient Tech Lab's\ndistinguished director..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " ♪Purah!♪"
+  "0002":
+    - text: "I don't remember."
+  talk10:
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: Understand_00
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Hmmm... I see, I see.\n\n\nPost-"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Slumber of Restoration
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " the subject's verbal\ncomprehension skills have...somewhat...atrophied.\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Noted!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk71:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "My apologies, Linkle."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It seems you have\nyet to fully grasp the specifics of the\nsituation at hand.\nI'll just speak bluntly, how about?\n\n\nYou were instructed by "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Impa
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "to come\nhere to have your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah Slate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nrepaired,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " correct?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 23
+            field_3:
+              - 1
+              - 205
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "♪Called it!♪ "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "And we'll get to that,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nbut first I have some questions!"
+  "0003":
+    - text: I remember...
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Oh, REALLY?"
+  talk72:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Ah, yes. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It seems I spilled the beans all\nby myself"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " about my role as the true\ndirector of this place."
+  "0004":
+    - text: "Yes, please!"
+  talk12:
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: Understand_00
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Hmmm... Post "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Slumber of Restoration
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "subject\nhas a tendency to give...uncomfortable...\nresponses...to questions."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Noted!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk73:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Symin can't keep a secret for anything..."
+  near00:
+    - text: "Don't spill the beans!"
+  "0005":
+    - text: Once more?
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, if you change your mind..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou know where to find me."
+  talk74:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "When you take a picture, you must be\nsure to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: center
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " the subject. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Got it?
+  near01:
+    - text: Hmph...
+  "0006":
+    - text: "No, thanks."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "All right, then. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "First I need you to \nrun an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: errand
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for me.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "What's with that look on your face?\n\n\nYou didn't think "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'd fix your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah Slate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfor free, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: did you?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 7
+            field_3: 8
+            field_4:
+              - 0
+              - 2
+  talk75:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "picture "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is an image that is a perfect\nlikeness of its subject. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "All you need\nto create one is a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Camera
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Pictures "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "of animals and objects will\nbe automatically registered in the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Compendium
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIn other words, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you should basically\ngo and take pictures of anything\nand everything!"
+  near02:
+    - text: "♪Take my picture!♪ "
+  "0007":
+    - text: I did.
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hm?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You weren't asking about my name?\n\n\nOh, I get it. You want to know my age,\ndon't you?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "Well, Linkle, I must say..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's not polite\nto ask a young maiden such as myself\nher age!\nAnd also don't ask me why I know so\nmany ancient terms! And ALSO don't\nask about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: my diary upstairs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk76:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "So "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I know this is sudden, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but hear\nme out."
+  near03:
+    - text: "I'm countin' on ya!"
+  "0008":
+    - text: I did not.
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 11
+    - text: "OK then. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm counting on you for that\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  near04:
+    - text: "..."
+  "0009":
+    - text: Ancient furnace?
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Linkle, thank you so much!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Now then,\ntake a look over there!"
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'd rather not have to repeat myself\nover and over..."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: Huh.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " So you failed...again?"
+  talk60:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Use it the same way as "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Stasis "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and\nthe like."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Just equip it and SNAP!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nJust like that!"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Anywaaay. Linkle! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Do you remember\nany dreams from your time in the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Slumber of Restoration
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\nYou don't look like you've changed a bit\nin the last 100 years,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but SOMETHING\nmust have happened in all that time!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Well, no matter! I'm just happy you're\nstill in one piece.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "...Linkle? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "What's with that look?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou do still remember me, right?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  talk61:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Use it as you would "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Magnesis "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and\nthe like."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Just equip it and SNAP!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nJust like that!"

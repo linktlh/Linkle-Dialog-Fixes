@@ -1,0 +1,201 @@
+---
+entries:
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "\"My cache?\""
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Could it be a hidden stash\nof money?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If it was left by the ancient hero that\ndefeated the Calamity 10,000 years ago,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nit must be a big amount!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Good luck figuring it out.\nMay the light illuminate your path."
+  talk04:
+    - text: "Would you like to hear the ancient song \nabout this rock pillar?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: "Maybe some other time, then."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nMay the light illuminate your path."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: Ah!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You already found it?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "A...single "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: gold rupee
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I guess all heroes\naren't made of money."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  talk00:
+    - text: "This oddly shaped rock pillar we're\nstanding on is the subject of a song.\nWould you like to hear it?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 19
+    - text: "Why, hello!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I certainly didn't expect to\nsee anyone else up here."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: As you wish!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n*ahem*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  talk08:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 230
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1053609165
+    - text: "\"My cache is at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 17 of 24
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThis rock will point toward its retrieval.\""
+  "0000":
+    - text: "Yes, please."
+  Near000:
+    - text: "Ah, the smell of the sea."
+  talk02:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 210
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1053609165
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "An ancient hero spoke these words:\n\"One day I'll return to fight evil.\""
+  "0001":
+    - text: Not now.

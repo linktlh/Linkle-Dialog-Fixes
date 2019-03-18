@@ -1,0 +1,208 @@
+---
+entries:
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "\"Seal the deal on your fortune by using\nmore valuable fruit!\""
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nYeah, there was no avoiding that pun."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 18
+    - text: "Thank you for your wisdom, kind\nPatricia! We're very grateful!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "\"Look to the top of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Highlands
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nto sea"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: SEE
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "...the path to a dragon.\"\n"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "*sigh* "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I've spared you the seal pun."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "\""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Risoka Snowfield "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "rests upon the\nshoulders of the eighth heroine...\""
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nA rare, pun-free prophecy..."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "\""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Sand boots "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for desert sands and\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "snow boots "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for...serious snowfall.\"\nI've spared you the painful seal pun."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "\"The location a dragon drifts to is also\nthe goal of those...seeking a great fairy.\""
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI've spared you the painful seal pun."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "\"Sand seals can be knocked out by the\nsound of an explosion. I'm se—"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n...Serious.\"\nThat was a close one. She tried to slip a\nseal pun in there."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "\""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Molduga "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "eat anything—even bombs.\nThat's a rather...serious diet!\""
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI've spared you the painful seal pun."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "\"The southern desert is..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "searing hot\nduring the day! Bring "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: gear made for it
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\"\nI've spared you the painful seal pun."

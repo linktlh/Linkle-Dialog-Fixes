@@ -1,0 +1,166 @@
+---
+entries:
+  "0003":
+    - text: Until noon.
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: I see...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nCome stay with us some other\ntime, then!"
+  "0004":
+    - text: Until night.
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Ma'am, you don't have enough rupees..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nCome back when you do."
+  "0005":
+    - text: Never mind.
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: Did you sleep well?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\nAs a little treat for staying with us,\nplease feel free to use the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "raft "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "at the\ndock."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Come again!"
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: How long would you like to rest?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5: 5
+            field_6:
+              - 0
+              - 3
+  "0007":
+    - text: Never mind.
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "A normal bed would be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". If you\nwant to soothe your body and soul,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I can\noffer you the fluffy bed for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 40 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 7
+            field_5:
+              - 0
+              - 2
+  "0000":
+    - text: "Normal bed, please."
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Welcome!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYou must be tired from your long trip.\nDo you want to stay?"
+  "0001":
+    - text: Fluffy bed for me!
+  "0002":
+    - text: Until morning.
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: All right then.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Go get some rest!"
+  Near00:
+    - text: Welcome!

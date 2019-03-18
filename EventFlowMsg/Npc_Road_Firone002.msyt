@@ -1,0 +1,675 @@
+---
+entries:
+  Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm headed toward"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Faron Grasslands
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: I believe it too.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I have to believe, in my\nheart, that I'll see my friend again."
+  Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: How could you be so cruel...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I have to\nhold out hope, even if you don't."
+  Talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: I knew it was real! I knew it!
+  Talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "You know, the rumor..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " About the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "fountain with the power to revive lost\nhorses"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I heard it from Perosa over there, but she\nwasn't sure about the exact location."
+  Talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I see you've been out on the road too."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhat brings you here?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 7
+            field_3: 8
+            field_4:
+              - 0
+              - 2
+  Talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ah, I see. Well, I love it here. There are\nso many horses around. It's just so\ndelightful.\nYou know, I heard a rumor"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " that there's a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "fountain near here where you can revive\nlost horses"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "That's why I traveled all the way here. I...\nI want to be reunited with a dear friend,\na horse I lost a long time ago..."
+  Talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: You too?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm so sorry to hear that...\n\n\nI'm here for the same reason. I heard the\nrumor that there's a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "fountain where you\ncan revive lost horses"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". I hope I find it..."
+  Talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: fountain that revives horses
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is\nsupposed to be somewhere near here."
+  Talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm not going to give up..."
+  Talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hmmm...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I wonder..."
+  Talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I suppose you're right..."
+  Talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "That's a beautiful horse."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhat brings you here?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 7
+            field_3: 11
+            field_4:
+              - 0
+              - 2
+  Talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I see you're traveling too."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhat brings you here?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 7
+            field_3: 11
+            field_4:
+              - 0
+              - 2
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Oh, what a beautiful horse!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Where are\nyou two headed?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  "0000":
+    - text: To the south.
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "This might sound strange, but"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " do you\nbelieve it's possible to bring a dead\nhorse back to life?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  "0001":
+    - text: To the east.
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "That's a beautiful horse."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " What brings\nyou here?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 7
+            field_3: 8
+            field_4:
+              - 0
+              - 2
+  "0002":
+    - text: "I'm not sure..."
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, so we meet again."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I can't remember,\ndid I already tell you about..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 6
+            field_4:
+              - 0
+              - 2
+  "0003":
+    - text: "I'm a believer."
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "It won't be easy to find..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n\nMaybe it's just a tall tale. I mean,\n\""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "fountain nearby where you can revive\nlost horses"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\"? It sounds so ridiculous...\nOh, excuse me..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Were you\neavesdropping on me?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 4
+            field_4:
+              - 0
+              - 2
+  "0004":
+    - text: That is ridiculous.
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "It won't be easy to find..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n\nMaybe it's just a tall tale. I mean,\n\""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "fountain nearby where you can revive\nlost horses"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\"? It sounds so ridiculous..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 10
+            field_4:
+              - 0
+              - 2
+  "0005":
+    - text: You did.
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "So the horse fountain is real... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "That's\nwonderful news!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm going to go and\ncheck it out right away!"
+  "0006":
+    - text: About what?
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Really?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You have to tell me more!\nWhere is it? What happened?\n\nAh, it's at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Malanya Spring
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " And you met\na...god of horses?\n\nThat's wonderful news!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm going to\ngo check it out right away!"
+  "0007":
+    - text: Just passing through.
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's unusual to see someone out here\ntraveling alone."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Where are you headed?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  "0008":
+    - text: Reviving my horse...
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Oh, that's the same as me!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " So you're\ngoing to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Faron Grasslands
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", huh?"
+  "0009":
+    - text: I found it.
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Headed east, huh?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Going to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Floria Falls
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nby any chance?\n\nI've heard some strange stories about\nthat place... Stories about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "a creature\nthat looks like a huge snake"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Near00:
+    - text: "*snore*"
+  "0010":
+    - text: You might be right.
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Wow. You, uh... You really say what's\non your mind, don't you?"
+  Near01:
+    - text: "Oh, I hate this."
+  "0011":
+    - text: Came to catch a horse.
+  Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: You want to hear my story?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Sure, I'll\ntell you.\n\nIt was a while back..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'd lost my\nbest friend, a horse I'd been traveling\nwith for years and years, and then...\nI heard this tale of a"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " fountain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Faron Grasslands
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... A magical fountain\nthat can"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " revive lost horses"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Near02:
+    - text: Gotta go to bed...
+  Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You take care of that horse, now."

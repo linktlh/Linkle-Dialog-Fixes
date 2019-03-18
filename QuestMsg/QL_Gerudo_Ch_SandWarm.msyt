@@ -1,0 +1,20 @@
+---
+entries:
+  QL_Gerudo_Ch_SandWarm_Desc:
+    - text: "Malena's husband has fallen ill. He needs the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "guts of a Molduga "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in order to get better. The\nMolduga is a ferocious monster that's sensitive\nto the slightest vibration, and it attacks anything\nthat comes near it. The woman is desperately\nlooking for help, but nobody seems capable..."
+  QL_Gerudo_Ch_SandWarm_Name:
+    - text: Medicinal Molduga
+  QL_Gerudo_Ch_SandWarm_Finish:
+    - text: "I handed over the Molduga guts to Malena\nto help fix her husband's illness.\n\nShe was overjoyed and left to get her husband\nhealthy again."

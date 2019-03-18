@@ -1,0 +1,48 @@
+---
+entries:
+  Near_Raimei_001:
+    - text: Looks good on you...
+  Talk00:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Halt! "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nUnless you have permission, you'll stay\nright there!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I don't care who you are!"
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 14
+    - text: "You must be pretty special to have\ngotten permission from the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."

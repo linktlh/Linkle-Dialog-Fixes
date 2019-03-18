@@ -1,0 +1,75 @@
+---
+entries:
+  "0000":
+    - text: Read.
+  "0001":
+    - text: "Don't read."
+  Book00:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: "I've loved rumors since before I was\nborn. In fact, I was the first to report\non my rumored birthday! Traysi here!\nThis time I've got a juicy bite of gossip\nI've been dying to share!\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Ancient horse gear is real,\nand it's FABULOUS!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\nApparently, there's some incredible\nhorse gear from Hyrule's distant past.\nI'm talking the long, long ago, folks!\nA bridle that increases your horse's skill\nand a saddle that can instantly summon\nyour horse to your side.\nThe bridle is south of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Ridge
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "beneath a cherry blossom tree at a\nmountain where creatures gather"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThe saddle is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at a mysterious spring\nwhere a horse spirit resides"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nAt least, that's what the rumors say.\nSounds like the ancients liked to\nhorse around. I NEED that gear!\nTraysi's Recommendation: ★★★★★"
+  BookFirst:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: "Super Rumor Mill EX: Volume 3"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1

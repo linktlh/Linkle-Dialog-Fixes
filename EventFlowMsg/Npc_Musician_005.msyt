@@ -1,0 +1,45 @@
+---
+entries:
+  TerrorArrow:
+    - text: Stop it!
+  Challenge000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "I'd expect no less from a well-worn\ntraveler like yourself.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Me? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I stay nice and dry. My feathers\nrepel the rain rather well.\n\nAnd my instrument was designed to\nwithstand extreme moisture.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "When your livelihood revolves around\nancient songs, you've got to be prepared\nfor a few raindrops."
+  TerrorHorse:
+    - text: Gah!
+  TerrorFire:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorExplosion:
+    - text: WAAAAAA!
+  TerrorSword:
+    - text: Knock it off!

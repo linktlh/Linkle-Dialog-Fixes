@@ -1,0 +1,170 @@
+---
+entries:
+  talk-Gamyo01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Thanks to your picture, I'll be able to\nprove that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "leviathans "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "went extinct due\nto a severe prolonged drought."
+  talk-Gamyo08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "Why stay here and waste time? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWhy not just go out and find it?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Things \nlike these are best accomplished on foot!"
+  talk-Gamyo02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Zzz...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n*pant*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nZzz..."
+  talk-Gamyo03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "On days like this, I like to stay in and\nthink about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: leviathans
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk-Gamyo04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: This weather is terrible...
+  LookPicture:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: I cannot believe my eyes!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYou are REALLY good at drawing!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "With this, I'll finally be able to prove that\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: leviathans
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " went extinct due to \na catastrophic drought!"
+  talk-Gamyo06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "We are in search of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "leviathan "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "bones\nin order to determine the cause of their\nextinction.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "But we haven't had any luck."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWe are resting here for now while we\nplan our next move."
+  talk-Gamyo07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Zzz...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: zzz...

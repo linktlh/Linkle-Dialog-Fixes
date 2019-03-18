@@ -1,0 +1,278 @@
+---
+entries:
+  "0002":
+    - text: Egg pudding.
+  talk03:
+    - text: "Today's Recipe:\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Egg Pudding
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nIngredients:\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Bird Eggs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " (a few should do)\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fresh Milk
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " (a few bottles)\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Cane Sugar "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "(let's say...several servings)\nNote: "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Cane sugar "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "can be tough to come\nby, but the dish will fail without it."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "0003":
+    - text: Close book.
+  talk00:
+    - text: "Ivee's Recipe Book"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "0000":
+    - text: Mushroom risotto.
+  talk01:
+    - text: "Today's Recipe:\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mushroom Risotto
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nIngredients:\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian Rice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " (one bundle)\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Goat Butter
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " (one serving)\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian Shrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " (approximately a few)\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Rock Salt "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "(exactly \"a little\")\nNote: Use a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: hearty salmon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " instead of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hylian shrooms "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for a fish-lover's dish!"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "0001":
+    - text: Poultry pilaf.
+  talk02:
+    - text: "Today's Recipe:\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Poultry Pilaf
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nIngredients:\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Raw Bird Drumstick "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "(just toss a few in)\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Raw Bird Drumstick "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "(actually, a few more)\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Goat Butter "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "(measure out \"a little\")\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hylian Rice "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "(one \"suitable amount\")\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Bird Eggs "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "(a few should be fine)\n\nNote: Inaccurate measurements only\nmake the dish more de-lish!"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3

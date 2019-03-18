@@ -1,0 +1,32 @@
+---
+entries:
+  QL_RitoMini_Flint_Finish:
+    - text: "I gave Jogo, who is honeymooning in\nRito Village, some flint and received a\ntidy sum of rupees in return.\n\nJogo is planning to feed his wife as many\nbaked apples as he can cook. He'll gladly\ntake all the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " I'm willing to deliver."
+  QL_RitoMini_Flint_Name:
+    - text: The Spark of Romance
+  QL_RitoMini_Flint_Desc:
+    - text: "Jogo is in Rito Village on his honeymoon,\nand he wants his new wife's favorite treat:\nbaked apples. The snag in the plan so far\nis that he has no fire to bake with.\n\nI'm to bring Jogo some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " so he can light\na fire."

@@ -1,0 +1,509 @@
+---
+entries:
+  Npc_oasis013_016:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Who would do something like that?\nI'll never forgive you!"
+  Npc_oasis013_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nToday was another busy day, so I think\nI'll go to bed soon."
+  Npc_oasis013_017:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Hey, you guys! Are you in love?"
+  Npc_oasis013_018:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "When I'm all growed up, I will be!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI'll go to Miss Ashai's class, and I'll\nbecome in love and I'll get married!"
+  Npc_oasis013_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I wonder how Dalia's crops are\ndoing..."
+  Npc_oasis013_019:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Mom says it's really strange that Miss\nAshai is unmarried but teaches her class\non voe."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: I wonder what unmarried means...
+  Npc_oasis013_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Hey, lady!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nIf you shoot them at something...\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: BZZBZZT!!!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: They zap!
+  Npc_oasis013_009:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Hey, lady!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fire arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nIf you shoot them at something...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: BOOSH!!!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: Flames everywhere!
+  Npc_oasis013_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I heard that being in love and being\nmarried is the sweetest thing in the\nworld!\nBut I really like berries, and those\nare really sweet. I don't know if I can\nhandle something sweeter than that!"
+  Npc_oasis013_021:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: Whoa...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThat's a really big vure..."
+  Npc_oasis013_022:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You're a good person, right, lady?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nMy vaba always says that people who\nspend lots of money are good people!"
+  Npc_oasis013_010:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Hey, lady!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ice arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nIf you shoot them at something...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: CRAAAAACK!!!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: Frozen solid!
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "...Wait, I don't have time to hang around\nhere greeting people like this!\n\nI've got to hurry and go help out!"
+  Npc_oasis013_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Have you heard about Dalia's crops?"
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Npc_oasis013_012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Dalia... She won't stop crying..."
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba!"
+  Npc_oasis013_013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Where is everyone?
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 28
+              - 205
+    - text: Vasaaq!
+  Npc_oasis013_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Vasaaq.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBuy a lot"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "...OK?"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_oasis013_014:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: I wanna eat a lot of fruit!
+  Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "...Wait, I don't have time to hang around\nhere greeting people like this!\n\nI've got to hurry up and meet the others!"
+  Npc_oasis013_015:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Let's go help everyone next time!"
+  Npc_oasis013_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Hey, lady!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Be sure to buy a LOT of stuff,\nOK?\n\nI really recommend..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIf you shoot them at something...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: BOOOOOM!!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "It's amazing!"
+  Talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "Wait... I don't have time to hang around\nhere greeting people like this!\n\nIf I don't hurry, the vure will go away!"

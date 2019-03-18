@@ -1,0 +1,48 @@
+---
+entries:
+  QL_Gerudo_Ch_FindingValetta_Desc:
+    - text: "Barta has disappeared again. She headed\nsouth in search of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: leviathan bones
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " but never\ncame back. Not only is the area home to\nMolduga, but it's also known for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: extreme heat
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI'll need special gear, or I'll be in danger.\nI can use my map to search for Barta."
+  QL_Gerudo_Ch_FindingValetta_Step2:
+    - text: "I fed Barta a hearty durian after finding\nher collapsed in the desert.\n\nShe seemed much better, but once I told her\nof Liana's anger, she dashed off back to\nGerudo Town. Just in case, I should let Liana\nknow that Barta is OK."
+  QL_Gerudo_Ch_FindingValetta_Name:
+    - text: The Search for Barta
+  QL_Gerudo_Ch_FindingValetta_Finish:
+    - text: "Barta seems to have made it back to \nGerudo Town in one piece.\n\nBut it sounds like Liana really chewed Barta out\nfor making her worry. Maybe she'll lay low for a\nlittle while."
+  QL_Gerudo_Ch_FindingValetta_Step1:
+    - text: "I found Barta collapsed in the desert.\n\nShe just keeps muttering, \"A hearty durian,\na hearty durian,\" over and over again,\ndeliriously.\n\n...Seems like she really wants to eat a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: hearty durian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."

@@ -1,0 +1,44 @@
+---
+entries:
+  QL_Kakariko_Ch_Cooking4_Finish:
+    - text: "When I handed over the courser bee honey,\nthe missing ingredient Koko needed for her\nmother's special dessert, she prepared the dish.\nA single taste brought back a flood of memories\nfor her, as tears of joy streamed down her face.\n\n　　\t"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "/////Koko's Recipe Corner/////"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n1 serving of Mother's honeyed apples:\n\nDip an apple in courser bee honey. Heat until\nready to be sliced and serve warm."
+  QL_Kakariko_Ch_Cooking4_Name:
+    - text: "Koko's Specialty"
+  QL_Kakariko_Ch_Cooking4_Desc:
+    - text: "Koko is trying to replicate the recipe for\nher mother's beloved honeyed apples,\nbut she's missing the essential\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: courser bee honey
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: courser bees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nare found in dangerous territory outside\nof the village, beyond her reach..."

@@ -1,0 +1,47 @@
+---
+entries:
+  QL_GanonQuest_Finished:
+    - control:
+        zero:
+          type0:
+            field_1: 10
+            field_2: 4
+            field_3: 6
+    - text: "ふよう不要？\nガノンの"
+    - control:
+        zero:
+          type0:
+            field_1: 12
+            field_2: 4
+            field_3: 8
+    - text: けいたい形態によってステップを
+    - control:
+        zero:
+          type0:
+            field_1: 6
+            field_2: 2
+            field_3: 2
+    - text: わ分けた
+    - control:
+        zero:
+          type0:
+            field_1: 8
+            field_2: 2
+            field_3: 4
+    - text: ほう方がいいかも
+  QL_GanonQuest_Name:
+    - text: Destroy Ganon
+  QL_GanonQuest_Desc:
+    - text: "The ghost of King Rhoam told me that\nHyrule is on the brink of annihilation.\n\nPrincess Zelda is currently fighting to contain\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " inside Hyrule Castle, but her\npower cannot keep him at bay forever.\nEventually, Ganon will regain his full\nstrength and destroy the world.\n\nMy ultimate task is to aid Princess Zelda in\ndefeating Ganon before that can happen."

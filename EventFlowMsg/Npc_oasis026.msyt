@@ -1,0 +1,668 @@
+---
+entries:
+  Talk_43:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Now that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naboris
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has been appeased,\nthe desert seems different..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I suppose\nit is, actually. It's back to normal now.\nI thought that Hylians were a small, weak\nlittle people, but you're not so bad..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Talk_44:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: I suppose you could say...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIt would be a mistake to judge people\non appearances alone."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 4
+            field_5:
+              - 0
+              - 2
+  Talk_45:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "chief "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "said she'd leave everything to\nyou, but ever since she returned, I could\ntell something was wrong.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: She was clearly worried about you.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou should hurry to her at once."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI'm sure she'll be relieved to see you."
+  Talk_46:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 18
+    - text: "We've been waiting for you!"
+  Talk_20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "There sure are a lot of Hylians coming by\ntoday.\n\nThis is the home of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of the\nGerudo. It is my duty to make sure that\nno one suspicious enters.\nDo not distract me from my job!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Talk_21:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "You're short!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nYour hair is the wrong color!!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nAnd I can't even see your abs!!!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nIt is absolutely ridiculous for you to claim\nthat you're Gerudo. All evidence says\notherwise."
+  Talk_22:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "We're busy!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nIt's an emergency!!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nAuthorized personnel only!!!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...That's what I would say if I had my\nway, but the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is a kind person.\nShe's told me to allow visitors.\nIf you want to go inside, be my guest.\nBut if you say even one rude thing to\nthe chief..."
+  Talk_23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You are free to go inside, but if you are\nrude to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  Talk_25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "You and my spear will have a very\npersonal conversation!"
+  Talk_26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Allowing the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Thunder Helm
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to be stolen\nwas a failure shared by everyone tasked\nwith guarding this town.\nIf I'm being honest, I'd prefer to ban all\nbut Gerudo from the palace for the\nmoment..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Talk_27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Security is really tight lately!\nI'd rather there only be Gerudo in the\npalace right now, if I could make it so..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Talk_28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Now that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naboris
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has calmed, it seems\nlike the desert is different..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I suppose it\nis, actually. It's back to normal now.\nI thought that Hylians were a small, weak\nlittle people, but you're not so bad..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  "0000":
+    - text: "I'm Gerudo!"
+  Talk_29:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "You're short!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nYou're blond!!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nAnd I can't even see your abs!!!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Though... I can imagine that those traits\nmight be considered appealing in the\noutside world...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "In some eyes, you'd be considered an\nattractive vai, then."
+  "0001":
+    - text: Can I go in?
+  Talk_30:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Of course!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nAnytime!!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nYou're welcome!!!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Naturally, you are already one of us! You\nare welcome here anytime!"
+  "0002":
+    - text: Good-bye.
+  "0003":
+    - text: Lookout post?
+  Talk_32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Not \"good-bye\"!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "You're among friends here. It's\nsav'orq!"
+  Talk_33:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq."
+  "0004":
+    - text: "Sav'ork!"
+  Talk_34:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta."
+  Talk_35:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba."
+  Talk_36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "First that vai, Traysi, and now you..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThere sure are a lot of Hylians coming\naround today."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Talk_37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's best to head to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: lookout post
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthrough the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: southeastern gate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nAsk the guard there for directions."
+  Talk_38:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has left for the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: lookout post
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "We can breathe a little easier now that\nwe have the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Thunder Helm
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " back, "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 1
+    - text: "but we\ncan't let our guard down again.\nFor the good of Gerudo pride, we must\nmake sure that such an embarrassment\nnever, ever happens again!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 3
+            field_3: 0
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Talk_39:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "chief "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "left on her own, but I wonder\nif she'll be all right.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: If I meet anyone flouting the rule of law...
+  Near_Raimei_001:
+    - text: That looks good on you...
+  Talk_40:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "They'll have a sudden meeting with the\nsharp end of my spear."
+  Talk_41:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: I suppose you could say...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIt would be a mistake to judge people\non appearances alone."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Talk_42:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "It's not \"sav'ork\"!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nYou're a friend to the Gerudo now, and\nit's \"sav'orq\" among friends!\n\nYou just need to work on your\npronunciation a little bit!"

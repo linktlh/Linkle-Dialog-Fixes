@@ -1,0 +1,86 @@
+---
+entries:
+  QL_HatenoMini_MyHome_Name:
+    - text: Hylian Homeowner
+  QL_HatenoMini_MyHome_Wood:
+    - text: "I gave Bolson his wood and got him to\nslash his asking price for an old-fashioned\nhome from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "50,000 rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "3,000 rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nWhen I have the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "3,000 rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "saved up, I\nonly need to talk to Bolson again to close the deal."
+  QL_HatenoMini_MyHome_Finish:
+    - text: "I ordered lots of furniture and exterior\nknickknacks, and my house is finally a home.\n\nBolson seems pretty relieved to have finished\nsuch a big job."
+  QL_HatenoMini_MyHome_Desc:
+    - text: "I can buy a house in Hateno Village!\n\nBolson, president of Bolson Construction,\noffered to slash his original asking price of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "50,000 rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " down to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "3,000 rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " if I\nalso throw in 30 bundles of wood.\n\nWhat am I waiting for? I need to gather the\nwood and bring it to him!"
+  QL_HatenoMini_MyHome_Repurchase:
+    - text: "I bought a house in Hateno Village for\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "3,000 rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! Bolson generously furnished\na weapon rack inside my empty home as a\nhousewarming gift.\n\nThe place is still pretty bare, though. If I\ntalk to Bolson, he might be able to help me\nwith that."
+  QL_HatenoMini_MyHome_Furniture:
+    - text: "Bolson offered to sell me furniture! Not only\nthat, he'll also remodel my home's exterior!\n\nRenovating my home with furniture and style,\nwill make me the envy of my new neighbors!"

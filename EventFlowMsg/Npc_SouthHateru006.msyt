@@ -1,0 +1,269 @@
+---
+entries:
+  "0003":
+    - text: Good-bye.
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Kakariko Village is the village where the\nSheikah clan lives.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "It's said that, some time ago, they had\nadvanced techniques that were more\npowerful than anything anyone had seen.\nBut that power put them at odds with the\nking at the time, and they were scattered\nacross the land...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Anyway, if you leave here and follow the\nroad straight to the north, you'll find a\nbig bridge.\nCross that and keep following the path,\nand you'll come to the Kakariko Village\ngate."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Hateno Village is a village on the\nedge of Hyrule.\n\nIt was largely unaffected by the events\nof the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Great Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", so the people\nthere are pretty easygoing.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I hear they even have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "research\ncenter"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " But folks tend to avoid the\nweird scientist who lives there...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Anyway, head north from here until you\nreach a fork in the road. Then go east\nand just follow the road.\nIt's a little far if you walk it, but with a\nhorse, you should get there in under\na day!"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Leave it to Rensa to tell you about the\nroads around this area."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 1
+              - 205
+    - text: I can give you directions!
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Everything looks just as it always has,\nbut the effects of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Great Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nstill linger.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "For example, a lot of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monsters
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " come out\nat night, so be careful when the\nsun sets..."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "You're asking me now?\n\n\nThere certainly are not as many as in\nyears past, but there are still quite a few\naround...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you manage to catch one, let my\nbrother Tasseren know. He'll register the\nhorse for you!\nMy boys are wellsprings of information\nabout horses, but I'm sure you don't\nneed another lecture.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "After all, you're the one who beat me,\nthe guy who took second in the Hyrule\nHorse-Taming Competition."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ya know, someone who can handle a\nhorse has a real leg up on the \ncompetition when it comes to ladies...\nI know what I'm talking about! I took\nsecond in the Hyrule Horse-Taming\nCompetition!"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Welcome to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Dueling Peaks Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nWhat do you think of the place?\nPretty nice, yeah?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "It might be hard to imagine now, but this\nplace was nearly destroyed about 100\nyears ago.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "However, thanks to the blessings of the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Dueling Peaks
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", everything is full of life\nagain.\nEven the wild horses are back. There's a\nlot of energy in this place!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So where are you heading? Both\nKakariko Village and Hateno Village\nare nearby."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "0000":
+    - text: Wild horses?
+  "0001":
+    - text: Kakariko Village?
+  "0002":
+    - text: Hateno Village?
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Huh? Did you not see any horses on\nyour way here?\n\nCertainly not as many as in years past,\nbut there are still quite a few around...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Horses in the wild are...well, wild!\nNo one has trained or cared for them.\n\nIf you manage to catch one, let my\nbrother Tasseren know. He'll register the\nhorse for you! \nMy boys are wellsprings of information\nabout horses, so feel free to pick\ntheir brains."

@@ -1,0 +1,335 @@
+---
+entries:
+  Talk_110:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "I'm going to go sing at the village shrine!"
+  Talk_111:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "The elder said he likes the way I sing!\n\n\nI'm gonna go eat some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand practice some more tomorrow!"
+  Talk_200:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "Oh, hey! I've been practicing with my\ndad!\n\nWhen I told him about the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nshrine, he told me about the history of\nthe ancient shrines!\nI wonder how many shrines there are in\nthe world. Do you think you can find\nthem all?\nHow about this? "
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "If you find all of them,\nI'll give you something special!"
+  Talk_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Who are you?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Some kind of traveler?\n\n\nDid you come to make that big bird up in\nthe sky stop bothering us?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_201:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "So I guess there are lots of shrines out\nthere! If you find all of them, I'll\ncongratulate you!"
+  Talk_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Nooo!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nIf everything goes back to normal, Kheel\nwill make me go to singing practice.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I mean...I feel bad that Molli's dad, Mr. Harth, got\nhurt, but..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "But I definitely know I don't want\nto practice singing!"
+  Talk_030:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 31
+              - 205
+    - text: Zzz...
+  Talk_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "Well...you don't look as strong as Teba.\n\n\nIf you try to fight that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bird monster
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nyou'll probably lose!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "Oh! Maybe if everyone in the village\nplays dead, the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "monster "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "will leave.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "But then I'll have to go to singing practice."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Ugh..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "That bird monster isn't ALL bad. At least I don't\nhave to go to singing practice."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Don't tell Mom I said that!"
+  Talk_210:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "On my way to go practice at the village\nshrine!"
+  Talk_300:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 19
+    - text: "Wow...you look different somehow...\nCooler...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "WHOA! You found all of the shrines!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "CONGRATULATIONS! GOOD GIRL!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: OK. Hope you liked the congratulations!
+  "0000":
+    - text: Sure did!
+  Talk_100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "Hey, check it out. I'm practicing my\nsinging! \n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "You know, if you didn't go to Kheel,\nI never would have realized how much I\nactually like to sing.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "But thanks to you, I'm having a blast!"
+  Talk_301:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "What's wrong? You kind of look like\nyou're hungry?"
+  "0001":
+    - text: Just passing through.
+  Talk_101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I love singing here! Only the mountains\nare listening!"
+  Talk_220:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "The elder said he likes the way I sing!\n\n\nI'm gonna go eat some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI can practice more tomorrow!"

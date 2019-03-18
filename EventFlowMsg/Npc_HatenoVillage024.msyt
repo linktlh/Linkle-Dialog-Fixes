@@ -1,0 +1,599 @@
+---
+entries:
+  near02:
+    - text: Time to switch off again...
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 18
+    - text: "I know it's all the same, more or less,\nbut the rain feels different on your skin\nthe higher you go."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 5
+            field_3:
+              - 1
+              - 205
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 18
+    - text: "What a nice breeze... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It doesn't carry\nthat tang of salt on it, though."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 5
+            field_3:
+              - 1
+              - 205
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Oh, you've noticed these, have you?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "It's apparently one of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: lanterns
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthat the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " lights with the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\nBut if there's still a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " there, I've\nnever seen her."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Not even once since\nmoving here after my marriage."
+  "0000":
+    - text: What is this thing?
+  "0001":
+    - text: What are you doing?
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "They say this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: lantern
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " needs "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "blue\nflame"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " from the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nOh, but I'm not guarding it. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm just\nsitting here watching the windmill."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I was married recently and moved here\nto my husband's hometown, so I can't\ntell you much more than that."
+  "0002":
+    - text: Good-bye.
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you're curious, why not head up the\nroad and pay a visit to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The windmills have to keep turning, so\nmy husband and I watch them in shifts."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "It's a pleasant job. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Sitting here and\nwatching the world go by makes it\nfeel like a very peaceful place."
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I take care of the windmills during the\nday in place of my husband."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "The windmills have to turn at the right\nspeed, or we can't grind the flour!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "My husband is very particular when it\ncomes to our work. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "But I take a more\nfreewheeling attitude toward it."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "It's a small fishing community far to\nthe south. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I lived there before I moved\nhere with my new husband.\nWe had to cross the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Bridge of Hylia "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to\nget here, weighted down with everything\nI couldn't bear to leave behind.\nThinking back on it, it's a wonder either\nof us survived the trip..."
+  "0005":
+    - text: What do you mean?
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "I'm getting ready for bed now. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Why don't\nwe talk tomorrow?"
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "Lurelin Village is a small fishing\ntown on the south side of the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Bridge of Hylia
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI haven't been back there yet since\nI moved here after the wedding."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I wonder if Father is still healthy enough\nto go raft fishing..."
+  "0006":
+    - text: Lurelin Village?
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 19
+    - text: Oops! I forgot we just met.
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "I was reminiscing about my hometown\nof Lurelin Village by the sea."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "The view and the air are different here\nin Hateno Village, but this is where my\nwonderful husband calls home.\nI count myself lucky to be able to live\nand work alongside such a wonderful,\nloving man."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 6
+            field_3:
+              - 1
+              - 205
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "What a strangely colored "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fire
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt's almost like an anglerfish's lure."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Can I help you with anything else?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 6
+            field_3: 1
+            field_4: 0
+            field_5: 2
+            field_6:
+              - 0
+              - 3
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: That fire is mesmerizing.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I shouldn't stare\nany longer or I'll get sucked in."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: "I'm sorry, but I should go get ready\nfor bed now."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: It was nice talking with you.
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: What is it?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 6
+            field_3: 1
+            field_4: 0
+            field_5: 2
+            field_6:
+              - 0
+              - 3
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: Heehee...
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: "It'll be time for work soon. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I have a lovely\njob that lets me sit here, watch the\nwindmills, and feel the breeze in my hair."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Good morning!
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 9
+    - text: "I'll be starting work soon. "
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Are you wondering what I do? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Heehee...\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'll tell you all about it once I can sit."
+  near00:
+    - text: "Another day's work!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hello!
+  talk18:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "It's so late... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Husband's turn now... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Zzz...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  near01:
+    - text: "♪La la la, la la!♪"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Good evening.
+  talk19:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Mm...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100

@@ -1,0 +1,157 @@
+---
+entries:
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Oh, it's you! The shrine's glowing\ntoday, too!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "You aren't just a normal lad, are you?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "I'm just happy that the mystery was \nsolved!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I don't want to do more \nsnooping than is absolutely necessary!"
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 11
+    - text: "Whoa! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I don't know what was closer to\nbowling me over, the surprise or the\nway the ground was shaking! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Haha!
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So the two who needed to \"find their\nplace\" were you and me..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Makes sense.\n\nGood job figuring that one out!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: I sure never would have...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 19
+    - text: "Huh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You're fixing to go explore\nthat shrine?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, sorry. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I won't keep you any longer.\nOff you go!"
+  LookPicture:
+    - text: Oh!
+  LookPicture_00:
+    - text: Hrm...hrm...
+  Talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "There really does seem to be something\nspecial about you, though...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "But I'm just happy that the riddle is\nsolved!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You're a clever, mystery-solving\ngirl, and that's all I need to know!"
+  LookPicture_01:
+    - text: "That's amazing!"
+  Talk_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: Hrm...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " What was written on \nthis stone monument?"
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "The shrine's beautiful today, too!"

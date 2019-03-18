@@ -1,0 +1,2045 @@
+---
+entries:
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you'll return my lost "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to\nme,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: expand
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " the size of your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: inventory
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nWhich stash do you want another slot in?"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 0
+              - 42
+              - 78
+              - 112
+              - 99
+              - 95
+              - 79
+              - 108
+              - 100
+              - 75
+              - 111
+              - 114
+              - 111
+              - 107
+              - 95
+              - 87
+              - 101
+              - 97
+              - 112
+              - 111
+              - 110
+              - 49
+              - 49
+              - 1
+              - 36
+              - 78
+              - 112
+              - 99
+              - 95
+              - 79
+              - 108
+              - 100
+              - 75
+              - 111
+              - 114
+              - 111
+              - 107
+              - 95
+              - 66
+              - 111
+              - 119
+              - 48
+              - 56
+              - 2
+              - 42
+              - 78
+              - 112
+              - 99
+              - 95
+              - 79
+              - 108
+              - 100
+              - 75
+              - 111
+              - 114
+              - 111
+              - 107
+              - 95
+              - 83
+              - 104
+              - 105
+              - 101
+              - 108
+              - 100
+              - 49
+              - 54
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk62:
+    - text: ♪DANCE PARTY!♪
+  talk63:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Shala-laka!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSo then..."
+  talk64:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Shalaka!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Working up a nice sweat here!"
+  talk65:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 16
+    - text: Shaka!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Did you like my dance?"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Shaka... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: How sad...
+  talk66:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: Shakala!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That was fun!"
+  talk67:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 18
+    - text: Shakalay!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That felt great!"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Shaka! Shakaka!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nYou are nekkid!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 26
+    - text: I am nekkid!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWe are united in exposure!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n♪Nekky nokky nakey!♪"
+  talk68:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hmmkay then.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Buh-bye."
+  talk08:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 26
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: ♪Nakey nakey!♪
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n♪Nekky nokky nakey!♪"
+  talk69:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It looks like you have no\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Korok seeds "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: at all.
+  talk53:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you find any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " bring them\nby. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I'll expand the size of your\ninventory as thanks!"
+  talk57:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You've maxed all of your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stashes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSo let me give you this!"
+  talk58:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 26
+    - text: "It's amazing that you found all the\nchildren of the forest. \n\n♪Humm-aaaaaaa-mazing!♪"
+  talk59:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: So?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Do you like it?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I hope you'll still visit me. You can watch\nme dance whenever you want!\n\n♪Shalaka!♪"
+  talk46:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "In that case, I'll give you my treasure,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nbut let's expand your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "inventory "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: first.
+  talk90:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: ♪Shalaka!♪
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "We meet again!\n\n\nWhy so quiet? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Don't you remember me?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHestu?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The famed musician of\nKorok Forest?\nI've got to hand it to you—it's not easy\nto find this place."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " They don't call them\nthe Lost Woods for nothing!\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: Oh right!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Shakalo...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I can expand your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "shield stash "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: no further.
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "So then-a-den-den...do you want to\nexpand another "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stash
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 0
+              - 42
+              - 78
+              - 112
+              - 99
+              - 95
+              - 79
+              - 108
+              - 100
+              - 75
+              - 111
+              - 114
+              - 111
+              - 107
+              - 95
+              - 87
+              - 101
+              - 97
+              - 112
+              - 111
+              - 110
+              - 49
+              - 49
+              - 1
+              - 36
+              - 78
+              - 112
+              - 99
+              - 95
+              - 79
+              - 108
+              - 100
+              - 75
+              - 111
+              - 114
+              - 111
+              - 107
+              - 95
+              - 66
+              - 111
+              - 119
+              - 48
+              - 56
+              - 2
+              - 42
+              - 78
+              - 112
+              - 99
+              - 95
+              - 79
+              - 108
+              - 100
+              - 75
+              - 111
+              - 114
+              - 111
+              - 107
+              - 95
+              - 83
+              - 104
+              - 105
+              - 101
+              - 108
+              - 100
+              - 49
+              - 54
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Shakala!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Come back again!"
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: ♪Saw-reeeeee!♪
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Shalaka!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Which "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "stash "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: shall I expand?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 0
+              - 42
+              - 78
+              - 112
+              - 99
+              - 95
+              - 79
+              - 108
+              - 100
+              - 75
+              - 111
+              - 114
+              - 111
+              - 107
+              - 95
+              - 87
+              - 101
+              - 97
+              - 112
+              - 111
+              - 110
+              - 49
+              - 49
+              - 1
+              - 36
+              - 78
+              - 112
+              - 99
+              - 95
+              - 79
+              - 108
+              - 100
+              - 75
+              - 111
+              - 114
+              - 111
+              - 107
+              - 95
+              - 66
+              - 111
+              - 119
+              - 48
+              - 56
+              - 2
+              - 42
+              - 78
+              - 112
+              - 99
+              - 95
+              - 79
+              - 108
+              - 100
+              - 75
+              - 111
+              - 114
+              - 111
+              - 107
+              - 95
+              - 83
+              - 104
+              - 105
+              - 101
+              - 108
+              - 100
+              - 49
+              - 54
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk80:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Shokay!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "45"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nDeal?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk81:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Shokay!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "55"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nDeal?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Let the expansion begin!
+  talk83:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: Hm?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Fwah?!\n\n\n"
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomSurpriseL
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Fwahahahaha!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: I...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I think I remember"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " how to get back to\nKorok Forest!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Maybe I'll head back now."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I bet "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Grandpa
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis waiting for me.\n\nThanks for the Korok seeds!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'm off to\nKorok Forest!\n\nCome visit me there sometime!"
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Do you want me to expand a different\nstash?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  talk84:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 8
+    - text: ♪Dah-
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 16
+    - text: na-na-na-
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 6
+    - text: naaaaaaaa!♪
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk24:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: Hey! Guess what!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nAll of the forest children returned to\nKorok Forest!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "You must have had an army of people\nsearching for them, huh?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 8
+            field_3:
+              - 1
+              - 205
+    - text: "\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomSurpriseL
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "NO WAY! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: Fwahahahaha!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 26
+    - text: ♪NAAAAAAAAICE!♪
+  talk85:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomSurpriseS
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: Phwahh!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You don't have enough\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You should learn how\nto count good!"
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Expand-a-band-band...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: weapon stash
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Shakala!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk86:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hmmkay then!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: four
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Korok\nseeds "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: from you. Deal?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Expand-a-band-band...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bow stash
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Shakala!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk87:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hmmkay then!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Korok\nseeds "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: from you. Deal?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Expand-a-band-band...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shield stash
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Shakala!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk88:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hmmkay then!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "15"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Korok\nseeds "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: from you. Deal?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: Weapon stash!
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Shakalo...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I can expand your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "weapon stash "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: no further.
+  talk89:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hmmkay then!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "20"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Korok\nseeds "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: from you. Deal?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  "0001":
+    - text: Bow stash!
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Shakalo...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I can expand your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "bow stash "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: no further.
+  talk70:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I sure hope so!
+  "0002":
+    - text: Shield stash!
+  talk71:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Shokay!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: one
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seed
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nDeal?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  "0003":
+    - text: Nothing right now.
+  talk72:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Shokay!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: two
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nDeal?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  "0004":
+    - text: Yeah.
+  talk12:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomSurpriseL
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "...Shakalo?!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You've enlarged all of your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stashes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: ♪Naaaaaaice!♪
+  talk73:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Shokay!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: three
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nDeal?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  near00:
+    - text: I must dance!
+  "0005":
+    - text: Never mind.
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You enlarged all of your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: inventories
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nShakala!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Thanks to you, my maracas sound so...\n"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: ♪shakey
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "-shake"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " SHAKETY!♪\n\nBut there may still be some children of\nthe forest out there. I'm sure they'd\nstill love to meet you."
+  talk74:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Shokay!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nDeal?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  near01:
+    - text: ♪La dah dee!♪
+  "0006":
+    - text: Yes!
+  talk75:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Shokay!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: eight
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nDeal?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  near02:
+    - text: ♪Dah dee dah!♪
+  "0007":
+    - text: Good-bye.
+  talk76:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Shokay!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "12"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nDeal?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  "0008":
+    - text: "Nope, just me."
+  talk77:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Shokay!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "17"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nDeal?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk78:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Shokay!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "25"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nDeal?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk79:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Shokay!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll just need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "35"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nDeal?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk60:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: ♪Shaka-kala!♪
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: ♪Shalaka!♪
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "It's you! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "We meet again!\n\n\nWhat's with the silent treatment?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nDon't you remember me?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'm the\nmusician of Korok Forest,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Hestu!\nI'm impressed you found your way\nthrough the Lost Woods and made it\nhere...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "So have you brought me any\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk61:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "If you have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hestu's gift"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " dance with me!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: What dance should we do?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3

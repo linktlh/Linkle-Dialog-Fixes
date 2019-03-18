@@ -1,0 +1,455 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Here's what I'll do, lady. Just for you,\nI'll sell ya that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fireproof elixir
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " at a\nspecial price of only "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 60 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Hey, it's the Hylian!\n\n\nI know "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Rudania "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has chilled out, but the\ntemperature here is still burnin' hot!\n\nIf ya get too hot, try some good ol'\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fireproof elixir
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", OK?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Speakin' of...\nNeed some?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  near00:
+    - text: Raaaarghhhh!!!
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Whaa—?! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You don't have enough rupees!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Times are tough, aren't they?"
+  near01:
+    - text: Zzz...zzz...
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: A sale! I actually made a sale!!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHere ya go, sister!"
+  near02:
+    - text: Yaaaargh...
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " like you will need more\nthan that!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fireproof elixir
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " will\ncost ya "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 60 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Huh? Your pouch is full!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nMake some room and come back."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Hey, lady! Buy somethin'!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: "A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " like you needs this, right?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIt's a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fireproof elixir
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Well, don't come cryin' to me when\nyou're on fire, lady!"
+  "0000":
+    - text: What now?
+  "0001":
+    - text: "No, I'm good."
+  "0002":
+    - text: I probably do.
+  "0003":
+    - text: "I'll buy it."
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Need a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fireproof elixir
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\nYou do, yeah?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0004":
+    - text: Never mind.
+  talk11:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Hmm hm hmmmm...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Whoa! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: An actual customer?!
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Then why'd you wake me up?!\nSheesh!"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: All you need to do is cook one
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " fireproof lizard\nwith monster parts"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: ", fella..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: See ya later!
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Heheh... It all worked out...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Er, nothin'!"
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Here ya go!

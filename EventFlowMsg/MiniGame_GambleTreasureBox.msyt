@@ -1,0 +1,584 @@
+---
+entries:
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Attagirl...
+  talk16:
+    - text: "Now for the million-rupee question:"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHow much are you betting?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5: 7
+            field_6:
+              - 0
+              - 3
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Just tipping a toe in the water, eh?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nProbably smart."
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "Now we're talkin'!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Looks like someone's\nready to make some REAL money!"
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "Way to live on the edge, pal!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " That\nrecklessness—I mean, fearlessness—\nalmost reminds me of me!"
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 16
+    - text: "...Waaaait a minute."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " No making bets you\ncan't cover."
+  talk21:
+    - text: "You can't gamble without putting cash on\nthe table."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Come back when you have at\nleast enough to go for the minimum."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: There we go.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Step right up and take\nyour chances!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Take all the time you need to choose a\nchest to open."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Look, listen, smell..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "taste\n'em if you think it'll help."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Them's the breaks."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But hey, surely you'll\nwin big NEXT time!"
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Whoa!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Who'd have thought?!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I mean,\nit was pure luck, but..."
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Nice find!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " See what comes to those who\nbet big?"
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: Where did that...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " What did you..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " How\ndid you score a prize like that?!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Can you\nintroduce me to Lady Luck?"
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You are gonna keep going, right?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Or do\nyou admit defeat?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: I hear you.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Hey, if that's what you want..."
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "What's with that look?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Pay attention,\nor Lady Luck will lose interest."
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "You must be feeling cocky if you're\ntalking to me instead of picking a chest."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Just so you know, I don't give do-overs.\nYou pay your money, and you take your\nchances."
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: "You can only see inside the chest with\nyour heart, not your eyes."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: Close your eyes...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: look deep inside...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nand pray to Lady Luck..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If you're truly sincere, she'll give you\nthe sign you—"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " HAAAAhahahaha! I can't\nfinish with a straight face.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: What a load of hooey!
+  "0001":
+    - text: "I'm in."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Psst... C'mere."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " No, closer."
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "Hey! Where're you going?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " There's\nno chests outside. I wouldn't pull a fast\none on you like that.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The prize is in one of these three chests,\ncross my heart."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Now get back here."
+  "0002":
+    - text: "How's it work again?"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Hey, hey, simmer down."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm not talking\nabout anything illegal here."
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'll go get set up."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " No peeking while I'm\nfiddling with the chests,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " got it?"
+  "0003":
+    - text: "I don't think so."
+  talk34:
+    - text: "How'd you like to be rich..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "without\nhaving to work for it?"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: See those treasure chests over there?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWhaddaya say to a little wager on 'em?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "The idea is you pick any chest you want\nand open it."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Simple, right?"
+  "0004":
+    - text: "...10 rupees."
+  talk06:
+    - text: The best part is
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " whatever chest you\nopen,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " you get all the money inside."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Course, only one chest is worth opening,\nheh heh."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Don't come crying to me if you\npick wrong."
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Fair enough.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Every good gambler knows\nthere's a time to walk away."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I'm always here"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " in case you ever feel like\ntrying your luck again."
+  "0005":
+    - text: 50 rupees.
+  talk07:
+    - text: "Before you go opening any boxes,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " you'll\nhave to show me what it's worth to you."
+  talk36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "Whoa there, lady!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Those aren't your\nchests to open!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "But if you really wanna open them, have\nI got a deal for you..."
+  "0006":
+    - text: 100 rupees!
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "What's a bet, after all, if you don't stand\nto lose a bundle on it?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " That's the part\nthat really gets the heart racing!"
+  "0007":
+    - text: I changed my mind.
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's up to you how much you want to\nthrow in."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But the more you bet, the more\nyou stand to win.\nA woman like you must have expenses."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nCouldn't hurt to make some quick cash—\nright here, right now—"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: am I right?
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Whaddaya say?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " All you've got to lose\nis your pride...and your money."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 1
+            field_3: 2
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "How 'bout it?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Wanna try your luck?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 1
+            field_3: 2
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  Near00:
+    - text: Place your bets!
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "All right, listen up."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 16
+    - text: "Psh... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Lady Luck has no time for a woman\nwho won't take any chances."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, suit yourself."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But if you ever feel\nlike trying your luck, I'm always here."

@@ -1,0 +1,33 @@
+---
+entries:
+  OP_DRC04:
+    - text: "That is a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Sheikah Slate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 75
+    - text: "Take it. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 55
+    - text: "It will\nhelp guide you after your long slumber."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 157

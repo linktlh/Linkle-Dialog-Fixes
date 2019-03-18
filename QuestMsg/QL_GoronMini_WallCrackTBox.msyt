@@ -1,0 +1,82 @@
+---
+entries:
+  QL_GoronMini_WallCrackTBox_Name:
+    - text: "Death Mountain's Secret"
+  QL_GoronMini_WallCrackTBox_Finish:
+    - text: "The treasure that young Goron Dugby hid and\nalluded to turned out to be...a drillshaft!\n\nSince I found it, he's going to let me\nkeep it."
+  QL_GoronMini_WallCrackTBox_Desc:
+    - text: "Dugby, the young Goron soaking in the\nGoron Hot Springs, said: \n\n\"I bid a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: tweshure
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " binteen gear an ba\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Bridge of Eldin
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! Iz an abazing "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: schtick
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nBeely bool! If boo bind it...iz boars!\"\n  \nIt sounds like gibberish, but maybe there's\nsomething to it after all?"
+  QL_GoronMini_WallCrackTBox_Get:
+    - text: "I found a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "drillshaft "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "buried in a crag\nbetween the Bridge of Eldin and\nGoron Hot Springs.\n\nCould this be the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "treasure "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "that Dugby\nmentioned? I'll try showing Dugby the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "drillshaft "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "I've acquired."

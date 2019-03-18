@@ -1,0 +1,629 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 13
+    - text: "This goes without saying,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " but it must be\nREALLY cold for it to be snowing."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI wish I had some food to warm me up."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: Thank you!
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "With "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Goron spice "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and \n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian rice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I'll be able to make\nsome "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: curry rice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: to warm my soul.
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 13
+    - text: The thing about me is...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I just can't get\nenough spice in my life."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: Here—
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 50 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Now, I have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian rice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on hand, \nwhich I need to make "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: curry rice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "but I'm\nfresh out of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Goron spice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 13
+    - text: Sorry for asking so much of you...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Ah... I can't feel my toes."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "I can't just run off and leave the stable."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you happen to get your hands on some\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Goron spice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", can you give it to me?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 17
+    - text: "Do you have that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Goron spice "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "I asked\nfor?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I must have that curry..."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 32
+    - text: Just relax.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Take it easy."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYou can't have a real conversation until\nyou're settled."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you come across any more "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Goron\nspice"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", please bring it to me.\n\nNext time, I'll trade you some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian rice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfor it."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Well, I guess that means I'll just have to\nfreeze to death. Hope you can sleep at\nnight."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Thank you kindly, young lady.\n\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Curry rice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: always warms me right up.
+  Near00:
+    - text: Need curry rice...
+  Near01:
+    - text: So spicyyyyyyyyy...
+  "0000":
+    - text: Sure thing!
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you add other ingredients to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Goron\nspice"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian rice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you can make all\nkinds of different curry rice dishes.\nTry it next time you have some spare\ningredients."
+  "0001":
+    - text: Sorry...
+  "0002":
+    - text: "It's all yours!"
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 13
+    - text: The nights sure are cold...
+  "0003":
+    - text: "No, it's mine."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "You're sure at it late..."
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 20
+    - text: "What's that? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "You got your hands on\nsome "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Goron spice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Can you show it to me?
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: Spicyyyyyyyyyyyyyyy...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI need that burny tingle..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: curry rice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 13
+    - text: This weather is killing me...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nSome "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: curry rice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "would really help\nkeep the cold at bay."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 13
+    - text: Brrr...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It sure is chilly today."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWish I could eat something that'd warm\nme up."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 23
+    - text: "That's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Goron spice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " all right!\n\n\nHey... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Could I ask you to part with \nthat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Goron spice "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "say,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 50 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1

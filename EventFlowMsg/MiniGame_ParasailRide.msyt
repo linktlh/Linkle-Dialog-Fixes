@@ -1,0 +1,747 @@
+---
+entries:
+  Result_03_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Here, this is for you."
+  "0014":
+    - text: "Nah, I'll pass."
+  Initial_01_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: Then you are in for disappointment.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThe only object to be found here is this\nstrange building.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "What is my purpose here, you ask?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI suppose..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I am here to find my freedom.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIn a manner of speaking."
+  Initial_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: I think we will be fast friends.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I've never\nfelt such kinship with a Hylian before."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Your style of wing is different than mine\nbut similar enough that I think you could\nundergo my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: training to become the wind
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5
+            field_3: 6
+            field_4: 7
+            field_5:
+              - 0
+              - 2
+  Initial_06:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Greetings, my Hylian friend. Have you\nreturned to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: train to become the wind
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5
+            field_3: 6
+            field_4: 7
+            field_5:
+              - 0
+              - 2
+  Result_00_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: "Hmm? How many rings did you achieve?\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 86
+            string: MiniGame_ParasailRide_PassedTargetNumTemp
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I appear to have overestimated\nyour skill a bit, it seems."
+  Land:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Hmmm. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Stay there and I will come\ncollect you, my flightless friend."
+  Result_00_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You may be unaccustomed to flying.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut this is nothing a bit of practice on\nmy course can't correct."
+  Initial_End:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: I see.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " There is a gulf in our thinking on\nthe matter, then."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Please leave me in\npeace that I may hear the wind's voice."
+  Initial:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: What are you doing all the way up here?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  Suggest_Bay:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I recommend...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: the route over there.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIt can be enjoyable to waft along on\na calm breeze."
+  Suggest_Peninsula:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I recommend...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: the route over here.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nToday is a day to cast your fate to the\nturbulent, capricious winds!"
+  Result_04_00:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - control:
+        two:
+          type14:
+            field_1: 86
+            string: MiniGame_ParasailRide_PassedTargetNumTemp
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?! Unbelievable..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Are you certain\nthat you're not a Rito in disguise?!"
+  Suggest_End:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: But the choice is ultimately yours.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWhatever you decide, the wind will\nwelcome you."
+  Result_02_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "You achieved "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 86
+            string: MiniGame_ParasailRide_PassedTargetNumTemp
+            field_3: 0
+    - text: " rings"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " That is \nwonderful! Your score is unsurpassed,\neven by we Rito!"
+  Result_04_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: To see you soar was a rare treat.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHere, you deserve to be rewarded\nin kind."
+  "0000":
+    - text: Seeking adventure!
+  AskMoney_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "It lifts my spirits to hear of your keen\ninterest."
+  Talk_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: Hrm?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " What is wrong?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 11
+            field_4:
+              - 0
+              - 1
+  Result_02_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You have truly become one with the\nwind, and so I must insist that you\naccept this reward."
+  Initial_00_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: You must be drawn to heights.
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: You and I have that in common.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It is\nonly from here that I can properly hear\nthe wind."
+  "0001":
+    - text: "I heard there's treasure."
+  AskMoney_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I require "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to set up a course\nfor you to train."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Is that acceptable?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 1
+  ReadyStart_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You should wait here while I prepare\nthe course for you."
+  Rain_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Flying during a downpour is not for the\nfaint of heart. I bid you good luck."
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I have already used the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "you\nprovided and cannot return them to you\nnow."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Are you certain you want to quit?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 12
+            field_3: 13
+            field_4:
+              - 0
+              - 1
+  Result_01_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: Hmm...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 86
+            string: MiniGame_ParasailRide_PassedTargetNumTemp
+            field_3: 0
+    - text: " rings"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " A fair showing, but\nyou are not yet one with the wind."
+  "0002":
+    - text: With all my heart.
+  ReadyStart_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "That took longer than I expected. My\napologies. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "But it is ready now for you\nto fly whenever you are ready."
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "*sigh* "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I am dismayed to see that the\nfickle wind of cowardice has shaken\nyour resolve."
+  Result_01_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Still, I suppose you deserve this\nparticipation award."
+  ReadyStart_02:
+    - text: "I will be ready to swoop in whenever\nyou tire of flying, so do not worry\nyourself on that account."
+  "0003":
+    - text: Never occurred to me.
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I see.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If you mean to fly, you may do so\nwhenever you like."
+  "0005":
+    - text: "I'll do it!"
+  Again:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Are you satisfied for the day?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Or would\nyou like to train again?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 14
+            field_4:
+              - 0
+              - 1
+  "0006":
+    - text: Train to what?
+  "0007":
+    - text: "I don't know..."
+  "0008":
+    - text: Of course!
+  Exit_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Yes, you are much like a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Cucco
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " First you\nfly, and now you cluck. Most intriguing."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: I look forward to seeing you again.
+  NoEnoughMoney_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Hmm. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "No. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I need more than what you\nhave. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "For you see, I can contribute no\nresources of my own.\nFortunately for both of us, attending to\nthe voice of the wind is free."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " We can\ntrain again some other day."
+  "0009":
+    - text: Sounds like hot air.
+  Explain_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "The wind is stormy or calm by turns but\nalways moves as it will. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I seek to emulate\nits freedom by mimicking its movements.\nTo that end, I have devised a training\nprogram that involves flying through\nrings suspended in the air.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Should you choose to undertake this\ntraining, I promise that you will find it\nenriching."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  "0010":
+    - text: "I'm tired of flying."
+  Near00:
+    - text: Fine wind today.
+  "0011":
+    - text: Never mind.
+  Near01:
+    - text: The wind and rain dance...
+  Initial_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I want to live as the wind does—free and\nunrestricted. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "To bide here and listen to\nits voice offers a taste of that freedom.\nDon't you long to be like the wind too?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  "0012":
+    - text: "I'm pretty certain."
+  "0013":
+    - text: "Hm...I'll keep going."
+  Result_03_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "You achieved "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 86
+            string: MiniGame_ParasailRide_PassedTargetNumTemp
+            field_3: 0
+    - text: " rings"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", hm? Very\ngood. You take to your strange wings\nquite well."

@@ -1,0 +1,258 @@
+---
+entries:
+  Talk_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "was up there all day today.\nI wish it would go away..."
+  Talk_110:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "We're all going to go sing.\nYou should come listen to us!"
+  Talk_200:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: ♪
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: La la laaaa!♪
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nPoppy's back! We're all gonna sing\ntogether!"
+  Talk_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "They say it's too dangerous to go\noutside of the village right now.\n\nBut all I want to do is go sing with my\nsisters at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast Vah Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is\na big jerk!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_201:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "We're all gonna sing with Poppy!\nCome listen to us!"
+  Talk_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: SurpriseS_01
+    - text: "Kheel! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Watch your language!
+  Talk_030:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 31
+              - 205
+    - text: "*sniff*"
+  Talk_202:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's so fun singing with everyone!"
+  Talk_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "But, but..."
+  Talk_120:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I've been getting better and better at\nsinging! Gonna do my best tomorrow\ntoo!"
+  Talk_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Could you...maybe tell that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " thing\nto go somewhere else? I want to go\npractice my singing at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Talk_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm headed to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nI hope it's safe there."
+  Talk_100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "When I told the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: village elder
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " that this\nshrine popped out of the ground, he was\nso surprised!\nI guess shrines like playing hide-and-\nseek too!"
+  Talk_101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Poppy used to sing about shrines\nin his songs.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: But...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: he never comes home anymore...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI miss..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: his voice.

@@ -1,0 +1,331 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I haven't seen Purah lately..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I wonder\nif those rumors are true..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Ms. Traveler, don't give it a second\nthought—just take a load off at the inn."
+  near00:
+    - text: Come on in!
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Well, that's a relief to hear. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Us village\nfolk get worried so easily, y'know?"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Starting to rain...
+  near01:
+    - text: Haah...
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Yes, indeed..."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you plan to stay, just talk to the clerk\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: across the counter
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  near02:
+    - text: Whew...
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you plan to stay, just talk to the clerk\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: across the counter
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  near03:
+    - text: Now then...
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Best place to rest up in all of\nHateno Village is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ton Pu Inn
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "A kid...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 11
+    - text: Ahh!
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Fancy seeing ya so early in the morn.
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Good day.
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Good to see ya, even at this hour."
+  "0000":
+    - text: "She's doing great!"
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Aha! You gave it away! So the rumor\nabout Purah's grandkid visiting her is\ntrue after all?!\nI can't think of any other reason why\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: a young girl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " would be hanging around\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: research lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0001":
+    - text: "..."
+  "0002":
+    - text: Good-bye.
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Good to see ya, even in this bad weather."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If ya need to rest those bones, go\ncheck out "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ton Pu Inn
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Isn't it from the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Hoo, that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Doesn't it belong\nto old woman Purah?"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "Is the director having trouble getting\naround these days?"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Can old-woman Purah
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " not get around on\nher own anymore?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Is she making\nthe youth carry things around for her?"
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "The weather isn't going to get any\nbetter anytime soon. How's a roof over\nyour head sound?"

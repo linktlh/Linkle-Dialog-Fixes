@@ -1,0 +1,110 @@
+---
+entries:
+  TerrorExplosion_01:
+    - text: Gyaah!
+  TerrorInsect_02:
+    - text: Yikes!
+  TerrorHorse_00:
+    - text: Look out!
+  TerrorExplosion_02:
+    - text: Gahhhh!
+  TerrorHorse_01:
+    - text: What are you doing?!
+  TerrorBomb_00:
+    - text: What the?
+  TerrorHorse_02:
+    - text: Yikes!
+  TerrorBomb_01:
+    - text: Hm?
+  TerrorBomb_02:
+    - text: Wah!
+  TerrorArrow_00:
+    - text: "That's dangerous!"
+  TerrorArrow_01:
+    - text: Stop it!
+  TerrorImpulse_00:
+    - text: Aieeee!
+  TerrorArrow_02:
+    - text: Whyyy?
+  TerrorImpulse_01:
+    - text: Yikes!
+  TerrorLightning_00:
+    - text: Uwaah!
+  TerrorImpulse_02:
+    - text: Gyah!
+  TerrorLightning_01:
+    - text: Gyaah!
+  TerrorLightning_02:
+    - text: Wauuugh!
+  TerrorAnimal_00:
+    - text: Run awaaay!
+  TerrorGuardian_00:
+    - text: A Guardian!
+  TerrorAnimal_01:
+    - text: Gyaah!
+  TerrorGuardian_01:
+    - text: Save meeee!
+  TerrorAnimal_02:
+    - text: Nyaaaah!
+  TerrorGuardian_02:
+    - text: Gyaah!
+  NakedPlayer_00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: Hm. Put some clothes on lady!
+  NakedPlayer_01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: Uwaah...
+  NakedPlayer_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: Where are her clothes...
+  ClearTerrorEnemy_00:
+    - text: Phew...
+  ClearTerrorEnemy_01:
+    - text: That was a close one...
+  TerrorFire_00:
+    - text: Hot!
+  ClearTerrorEnemy_02:
+    - text: Wow...
+  TerrorFire_01:
+    - text: "That's hot!"
+  TerrorFire_02:
+    - text: Yikes!
+  TerrorSword_00:
+    - text: Hold it!
+  TerrorEnemy_00:
+    - text: Help meee!
+  TerrorSword_01:
+    - text: Aaaah!
+  TerrorEnemy_01:
+    - text: Gyaah!
+  TerrorSword_02:
+    - text: Hey!
+  TerrorEnemy_02:
+    - text: Heeeeelp!
+  ClearTerrorGuardian_00:
+    - text: "Phew... I'm saved..."
+  TerrorInsect_00:
+    - text: Aaaaagh!
+  ClearTerrorGuardian_01:
+    - text: Phew...
+  TerrorExplosion_00:
+    - text: Uwaah!
+  TerrorInsect_01:
+    - text: Gyah!
+  ClearTerrorGuardian_02:
+    - text: That was close...

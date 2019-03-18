@@ -1,0 +1,655 @@
+---
+entries:
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Why's a stranger like yoooou askin'\nabout Yunobo?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Yunobo went to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Bridge of Eldin
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI thiiiiink."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Probably.\n\nTo get to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Death Mountain Summit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\njust keep going uuuuup this hill\naaaaall the way to the top!"
+  "0000":
+    - text: Who are you?
+  "0001":
+    - text: Where am I?
+  talk20:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Ever since "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Rudania
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nshowed up, there's a tooooon of lava.\n\nIt's waaaay too hot now, and there are\nmore monsters around too.\n\nBoss keeps waaaatch over this area,\nbut he can only do sooo much..."
+  "0002":
+    - text: Bye.
+  talk21:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "This place is daaangerous, so Boss told\nme not to let anyone through..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThat means you tooooo, my laaaady."
+  "0003":
+    - text: Do you know Yunobo?
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, OK."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll tell you agaaaain."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: HEEEY!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " YOOOOU!!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Don't mess with\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Boss's"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: cannon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "You dooon't wanna send a cannonball\nflyyyin', so don't even thiiiiink about\nputtin' any explosives inside!"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 3
+              - 36
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 48
+              - 51
+              - 48
+              - 95
+              - 89
+              - 117
+              - 110
+              - 98
+              - 111
+              - 0
+              - 0
+              - 1
+              - 0
+              - 2
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0006":
+    - text: Boss wants to know.
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you're lookin' for Yunobo, he rushed\noff earlier, baaaack to Goron City."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Soooo? Do ya neeeed somethin' else?!"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 3
+              - 36
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 48
+              - 51
+              - 48
+              - 95
+              - 89
+              - 117
+              - 110
+              - 98
+              - 111
+              - 0
+              - 0
+              - 1
+              - 0
+              - 2
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk13:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Huuuuh? "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Boss "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: does?!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Then I guess I better tell you\nwheeeeere Yunobo is!"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Who, meeee?"
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Yunobo...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "went to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: vault
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to fetch some\npainkillers. But now that ya mention it,\nI suppooooose he never came back."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Goooood-bye!
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This place is daaaaangerous, so ya\nprobably shouldn't go lookin' for him."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Oh. Yooou again.
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 3
+              - 36
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 48
+              - 51
+              - 48
+              - 95
+              - 89
+              - 117
+              - 110
+              - 98
+              - 111
+              - 0
+              - 0
+              - 1
+              - 0
+              - 2
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "HEY! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Stooop that!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " That's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Boss's cannon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nDon't you daaaare touch that lever!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "This is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Abandoned North Mine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nOh, and this is the little ditty we all\nused to siiiiing as we worked:\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Ammo "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "goes BOOM 'til "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "ore "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "fills the ROOM!\nGather said "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ORE
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for rupees GALORE!\nDig all the DAY to get the good PAY!\nYeah, this is a famous mine, my maaaan.\nOr it was...until "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Rudania
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nshowed up. Now it's waaaay too hot!\nThere's tons more lava and all kiiiiiinds\nof monsters out and about."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's so\ndangerous, we can't dig here anymore!"
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Huuuuh?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Didn't I already teeeell you..."
+  near00:
+    - text: Hm?
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Yeesh!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " What's goin' on today?!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSo many peeeople out and about!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You should know it gets much hotter\npast here, and there are also looots of\nmonsters. It's reeeally dangerous!"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 3
+              - 36
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 48
+              - 51
+              - 48
+              - 95
+              - 89
+              - 117
+              - 110
+              - 98
+              - 111
+              - 0
+              - 0
+              - 1
+              - 0
+              - 2
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Yunobo?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " He went rushin' off to\nGoron City... I think. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Preeeetty sure.\nAll cuz of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Rudania
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\nMaaaaybe he went to talk with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boss
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: They call meeeee...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Draaaaak
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"

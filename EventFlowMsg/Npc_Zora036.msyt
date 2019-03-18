@@ -1,0 +1,783 @@
+---
+entries:
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Right now, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is\nrecruiting Hylians.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you don't mind, may I ask you to go\nto the throne room?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Please...listen to\nwhat the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: king
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has to say."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: "Oh?! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Hylian!
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "That's the spirit!\n\n\nWe can't touch "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "shock arrows "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "ourselves,\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "so we're really counting on you!"
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 6
+    - text: "You will help us stop "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWon't you?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Did you see it?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The sky! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "It's finally sunny\nagain!"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s water assault has stopped!"
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "I guess you beat me to dealing with\nthat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hinox
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: I...really want to get stronger.
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I'm the same as usual!"
+  near00:
+    - text: Hmm...
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Hylian! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "To think that you were able to\nappease "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You turned out to be\na pretty incredible girl!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "In fact, I wonder if you can do this, too..."
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "What?! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Don't be such a downer..."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Hiya!
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Would you like to give it a try now?
+  "0000":
+    - text: Surely.
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Hey!
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Exterminate the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hinox
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " by "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ralis Pond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0001":
+    - text: Not now...
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Hmm...
+  "0002":
+    - text: Yes.
+  "0003":
+    - text: No.
+  talk04:
+    - text: "For now, you should head to the\nthrone room.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Please, won't you listen to what\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "King Dorephan "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: has to say?
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ralis Pond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is southwest of here."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: "Oh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "You're the girl from\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Inogo Bridge
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: The truth is...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I challenged that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hinox
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nonce before."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It managed to completely\nturn the tables on me."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: "Oh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Oh!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " A Hylian! This is much too\ncoincidental to be a coincidence!"
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "I knew it... The Champion who saved the\ndomain is in a whole other league!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Please, take this."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Consider it a small\ntoken of my immense gratitude."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "What's wrong, Hylian?"
+  talk36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "I was worried about whether I'd be able\nto fell that giant beast."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " But I think it's for\nthe best if you defeat it for me!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "So...yes. I'll leave it to you!"
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Don't tell me"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " you're planning on helping\nus stop "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  talk37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: "Hm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: That stench... Did you perhaps...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\ndefeat that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hinox
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " by "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ralis Pond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 2
+            field_3:
+              - 1
+              - 205
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "The fact that you're here"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " must mean\nyou've met with Prince "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Sidon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk38:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: "Whaaaat?! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "You really did?!\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "I just... I can't... Wow!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nTh-thank you. Really!"
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: I see. Then get out of here.
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I heard all about it from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Prince Sidon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n\nYou're the Hylian!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The one helping us\nwith "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", right?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If so, hurry on to the throne room."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI'd like you to speak with\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "King Dorephan "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: right away.
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "OK... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "In that case, give it a try!\n\n\nFor she who saved the domain,\nthis should be a piece of fish cake."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nGo on, I'm counting on you!"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Ya know, you beat me to the punch\nwith that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hinox "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "by "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ralis Pond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "You never know when a giant like that\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hinox
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " will go on the attack. I need to \nget stronger..."

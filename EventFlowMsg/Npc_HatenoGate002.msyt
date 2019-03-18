@@ -1,0 +1,187 @@
+---
+entries:
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Hey, don't be shy. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm here for the same\nreason, after all. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Why else would anyone\ncome all the way out here?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "To be honest, though, I've been waiting\nfor a pretty long time, and...well..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Nobody's shown up yet."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I thought this was the \"sweetheart's\npond\" everyone talks about, but maybe\nI'm in the wrong place?"
+  "0002":
+    - text: Believe in yourself!
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Where's that special someone I've been\nwaiting for?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Is this a sign?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Should I put\nmyself out there more?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  "0003":
+    - text: Try another pond.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Are you trying to cheer me up?
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Because don't worry about me! My mom\nalways said, \"You can do anything you\nput your mind to, Mimos.\"\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Anyway, what about you? Putting your\nfaith in some silly legend won't make the\nboys come calling!"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hmm. Hmmmmm...
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "You really think that'll help?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You here to meet your soul mate too?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You must really be hungry for love,\ncoming out here in this weather."
+  "0000":
+    - text: "That's right."
+  "0001":
+    - text: Huh?
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Yeah, same."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "There's just one problem..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Nobody's shown up yet."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I thought this was the \"sweetheart's\npond\" everyone talks about, but maybe\nI'm in the wrong place?"

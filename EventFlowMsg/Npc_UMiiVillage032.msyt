@@ -1,0 +1,199 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Goooood morning!
+  talk15:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Happy_01
+    - text: OK!
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hiya!
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 3
+    - text: "Karson! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "We're going home!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Goooood evening!
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hey, can you hold on for a second?\nMaybe once we get settled, we can\nchat, OK?"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Do you need something from me?\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Urk...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Sorry, but we're heading to sleep now..."
+  TerrorArrow:
+    - text: Watch out!
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Sorry, dear, but I'm going to bed... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSee you later."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Talk to Hudson! Let's get this\nceremony started!"
+  "0000":
+    - text: Indeed!
+  TerrorBomb:
+    - text: What is THAT?!
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "We're here!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Talk to Hudson and let's\nget this ceremony started!"
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The bride and groom were so lovely,\nweren't they?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Love...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's such a sublime, precious\nthing, you know?\n\nMy best wishes to the couple."
+  TerrorSword:
+    - text: Cut it out!
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hey there!
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Now that the wedding's over,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " we should\nprobably head back to Hateno Village."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Wow!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " How exciting!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nNow then..."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Well then...

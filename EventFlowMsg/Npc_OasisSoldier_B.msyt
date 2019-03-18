@@ -1,0 +1,158 @@
+---
+entries:
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Sounds like the team over there is having\ntrouble, but I'm sure it's just Barta again\nanyway.\nShe's normally the source of their woes,\nthat's for sure.\n\nI'm gonna avoid eye contact so\nI don't get wrapped up in it..."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, you're here! I heard you were able\nto get the helm back for us, huh?\n\nYou really saved us by doing that, you\nknow?\n\nIf it was still in the hands of those\nthieves, we'd all be stuck doing more\nspear training..."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Now that the thieves have been defeated\nand the Divine Beast has calmed down,\nI thought we'd definitely get a break...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "But just looking at Babi, I can tell there\nwon't be any resting for a while yet.\n\nAnyway, I'm gonna avoid eye contact and\ntry not to get sucked into things..."
+  near00:
+    - text: "So exhausted, ugh..."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Those thieves learned their lesson, so I\nthought we'd be able to relax for a little\nwhile...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "But just looking at Babi, I can tell there\nwon't be any resting for some time.\n\nI think I'll just avoid making eye contact\nand try not to get singled out..."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Near_Raimei_001:
+    - text: "That's the Thunder—"
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 45
+    - text: "Those thieves sure have guts, scheming\nagainst us like that. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "We'd never have lost\nin a fair fight.\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "But this training... It's so tough..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That Babi... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\"Training without rest is the\npinnacle of discipline!\"\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I wonder if that's what she's thinking...\nI just can't keep up with her, though.\nI wish she could feel how tired I am..."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Babi... If no one stopped her, I think she\nwould keep training for days and days\nwithout taking a break.\nI've gotta avoid eye contact... I don't\nwant to accidentally get dragged into\nmore training."

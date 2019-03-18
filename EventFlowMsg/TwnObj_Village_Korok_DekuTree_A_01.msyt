@@ -1,0 +1,104 @@
+---
+entries:
+  DekuTree_A_01_Talk000:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "If you hope to extract the sword, you'll\nneed to summon a heroine's strength.\n\nLet us see how brightly your life force\nburns.\n"
+  DekuTree_A_01_Talk010:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "The sword cares not for your physical\nmight. It is moved by what lies within.\n\nIt cuts through bravado and superficial\nenhancements. Only true strength can\ndraw it from its resting place.\nThe only way to know if you have what\nit takes..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: is to try.
+  DekuTree_A_01_Talk020:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "When used against Calamity Ganon or\nthose tinged with its Malice, the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Master Sword "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "will shroud itself in light.\nIt is then that the true power of the\nsword will manifest."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But you cannot rely\nsolely on the power of the blade.\nIf you swing it about recklessly, it will\nforget its purpose and be rendered\npowerless for a time.\nShould this happen, you must wait for\nthe sword to recover.\n\nIt would be foolish to rely on the sword\nalone if you mean to defeat Ganon.\n\nYou should also consider freeing the\nDivine Beasts in order to improve your\nposition.\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "I would most like to see her smiling face\nagain... The lost princess."
+  DekuTree_A_01_Talk030:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "When used against Calamity Ganon or\nthose tinged with its Malice, the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Master Sword "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "will shroud itself in light.\nIt is then that the true power of the\nsword will manifest."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But you cannot rely\nsolely on the power of the blade.\nIf you swing it about recklessly, it will\nforget its purpose and be rendered\npowerless for a time.\nShould this happen, you must wait for\nthe sword to recover.\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Master Sword "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "waited for you for\n100 years. Wield it with respect."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Wield it\nto save the one who waits for you.\nI would most like to see her smiling face\nagain... The lost princess."

@@ -1,0 +1,102 @@
+---
+entries:
+  QL_PictureMemory_Name:
+    - text: Captured Memories
+  QL_PictureMemory_Desc:
+    - text: "Princess Zelda left behind an album with twelve\npictures in it. Traveling to the places shown in\nthese pictures may help me to regain my\nmemories of the princess.\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Memories remaining
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ": "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 48
+            string: PictureMemory_Spot_Int
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  QL_PictureMemory_First1:
+    - text: "Princess Zelda left behind an album with twelve\npictures in it. Traveling to the places shown in\nthese pictures may help me to regain my\nmemories of the princess.\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Memories remaining
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ": "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 48
+            string: PictureMemory_Spot_Int
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n\nI decided to report my progress so far to\nImpa in Kakariko Village."
+  QL_PictureMemory_GetShirt:
+    - text: "Princess Zelda left behind an album with twelve\npictures in it. Traveling to the places shown in\nthese pictures may help me to regain my\nmemories of the princess.\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Memories remaining
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ": "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 48
+            string: PictureMemory_Spot_Int
+            field_3: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  QL_PictureMemory_Find11:
+    - text: "I've found all of the locations in\nthe pictures!\n\nI should go and report the news to\nImpa in Kakariko Village."
+  QL_PictureMemory_Last1:
+    - text: "The location of the final memory is hanging on\nthe wall of Impa's home.\n\nWhat memory of my past with Princess Zelda\nawaits me there?"
+  QL_PictureMemory_Finish:
+    - text: "I've visited all 13 of the locations shown in\nthe old pictures and recovered the associated\nmemories of my days with Princess Zelda.\n\nIn my memories, Princess Zelda always \nseemed burdened by her task...\n\nI must go and save her as quickly as I can\nto finally ease that burden."

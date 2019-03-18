@@ -1,0 +1,86 @@
+---
+entries:
+  TerrorHorse:
+    - text: Whoa!
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Good to see you again!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI trust you're keeping well?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You've come quite some distance.\n"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Even I, blessed with the gift of flight, \nstruggled a bit to make it here."
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "\n..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "My teacher was the court poet in the\nemploy of the Hyrulean royal family.\n\nOne hundred years ago, he came \nface-to-face with the Calamity at \n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and was forced to flee.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 13
+    - text: "It was a perilous journey—very different\nfrom my own travels, I imagine. Danger\nwas his constant companion...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Anyway,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I should return to my task."
+  TerrorArrow:
+    - text: Stop it!
+  TerrorFire:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorSword:
+    - text: Knock it off!
+  TerrorExplosion:
+    - text: WAAAAAA!

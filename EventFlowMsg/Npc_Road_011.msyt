@@ -1,0 +1,1100 @@
+---
+entries:
+  MSG_Gerud_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Meat and hydromelons just taste\nbetter when you're lounging at the\nKara Kara Bazaar. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Everyone knows that.\nWhich should I go for? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Melon or meat?
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "What am I saying? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Both, obviously!"
+  MSG_Gerud_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "You're..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "not trying to sneak into\nGerudo Town in my shadow, are you?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "It won't work. And if Dorrah and Merina\nat the gates catch you, you'll wish you\nhadn't even thought of trying."
+  RetMSG_Gerud_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "*sigh* "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\"Stop playing in the fountain and\ngo practice your sand-seal riding!\" vaba\nalways said."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Why didn't I listen?"
+  MSG_Gerud_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Are you sure you want to be here?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's\nnot safe with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Naboris "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: roaming around.
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I'd rather be anywhere else, personally."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI do love the desert, but "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Naboris "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "makes\nit tough..."
+  MSG_Gerud_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: "I'm on a snack break right now."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nFood just tastes better when you're\nlounging at the Kara Kara Bazaar."
+  MSG_Gerud_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I haven't been out in these sands long,\nbut it's still such a relief to see the face\nof my fellow vai whenever I come home."
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 42
+    - text: Hey!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Personal space!"
+  first_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: N...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "nice to meet you! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I'm Kyra."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nFrom the..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "the... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: From the Gerudo!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I'm wandering the world, learning what\nI can and seeking my dreams...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "And I can tell, just from looking at you...\nYou have a place in my dreams, don't\nyou? Did we meet for a reason?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 42
+    - text: This is why I hate leaving town...
+  hello_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq."
+  first_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Oh, is that how it's going to be?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThen I can stop wasting my time\nwith you.\nSav'orq, traveler."
+  RetMSG_Gerud_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Even with the Divine Beast appeased,\nthese sands are dangerous. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Move fast,\nor the monsters will catch you."
+  hello_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba!"
+  first_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "No. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I know this one.
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "My vaba warned me about vai who throw\nwords like \"dream girl\" around."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nLet's just forget we ever spoke.\nSav'orq, traveler."
+  first:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 19
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: OK...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's a vai. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: You can handle this.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nDeep breaths, Kyra."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Remember your training."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: First...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You greet the outsider like anyone else."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  first_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: You again?
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I'm on my personal journey of learning\nand discovery,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so it would be great if you\ncould not disrupt it...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Unless... Do you think you're part of my\ndestiny?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " My dream life?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  MSG_Gerud_05_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You're..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "not actually trying to sneak into\nGerudo Town in my shadow, are you?"
+  "0000":
+    - text: "You're my dream girl!"
+  first_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "My vaba always said nothing's so shady\nas a vai who talks about dream this\nand dream that."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I guess she was right.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Run along, vai."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm busy."
+  Rest_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Phew... Traveling the world outside of\nhome is harder than I expected."
+  "0001":
+    - text: "Just a girl takin' a walk."
+  first_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Pretty clothes. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You don't see my\nkinswomen wearing that style often."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI bet it drives voe out in the world wild.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm at the perfect age to travel and see\nwhat the world holds, myself, but I've\nbarely explored this desert...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "Adventures won't come and find me, I\nknow. I have to put myself out there..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI like staying around the familiar, I guess.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You, though..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You should see the\nworld. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Meet new people. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Maybe you'll\nmeet a nice voe!\nSav'orq, traveler!"
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "There've been monsters swarming these\nsands ever since I can remember."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I swear they've gotten more\naggressive lately, though."
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "Sarqso, traveler. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "But that thing's friends\ncould show up any second. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Let's run\nwhile we still can!"
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 42
+              - 205
+    - text: "Urgh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I think my hourglass is running\nout."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I had so much left to do..."
+  Thanks00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "Oh, right... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: You should have this.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou fought well."
+  MSG_Gerud_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: The desert sands are hard on my feet.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nMaybe one day someone who can\nsand-seal surf will carry me about..."
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 44
+    - text: "Urgh... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Looks like this is the end...
+  hello:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta!"
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "Sa'oten!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You're stronger than I gave you\ncredit for."
+  RetMSG_Gerud_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: It occurs to me sometimes...
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If we got rid of the law keeping voe out\nof Gerudo Town, they could come to\ntown with tales of their adventures...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Then again, the younger vai like the\nlaw. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It gives them an excuse to get out\nand see the world, you know?"
+  RetMSG_Gerud_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "My daydreams keep getting more\nelaborate. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'd better get down to it and\nstart living them!"
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "Sarqso, traveler. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I really should be able\nto handle myself... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Need to work on that.
+  Near00:
+    - control:
+        four:
+          type0:
+            field_1: 10
+            string: Call
+    - text: "I'm bushed..."
+  RetMSG_Gerud_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Kara Kara Bazaar is sounding real nice\nright about now, but..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I can't sand-seal surf, so I'd have\nto walk, and I'm not feeling up to that\nright now.\nWhy didn't I ever learn how to stay\nupright while one of those things pulls\nme around the desert? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "*sigh*"
+  Near01:
+    - control:
+        four:
+          type0:
+            field_1: 10
+            string: Call
+    - text: "I'm baking in this sun..."
+  MSG_Gerud_06_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I wish I was anywhere else but out here\nwith "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Naboris "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "roaming around. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I feel like\nI could be zapped at any moment."
+  RetMSG_Gerud_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Even with the Divine Beast appeased,\nthese sands are dangerous. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Move fast,\nor the monsters will catch you.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "It's easiest to give them the slip when\nyou're sand-seal surfing, but I never\nreally learned how."
+  Near02:
+    - control:
+        four:
+          type0:
+            field_1: 10
+            string: Call
+    - text: "Oh, to live my dreams..."
+  RetMSG_Gerud_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "There's no better place to relax than\nKara Kara Bazaar. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Cool water, green\nplants—this place has it all.\nI come here whenever possible."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI just can't get enough of it!"
+  RetMSG_Gerud_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Sometimes I wish voe were allowed in\ntown,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but banning them does have\nsome advantages...\nThe outside world can be an interesting\nplace, and I'd probably never have\nleft town if I could just hear about it."
+  RetMSG_Gerud_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Have you tried the hydromelon here?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIt's the same fruit you can buy in\nGerudo Town—it just tastes better here.\nIn this desert heat, it's just the thing to\ncool you down inside and out."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "I used to walk around these sands eating\nthem when I was a young vai. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Oh, how\nmy vaba fussed at me for it!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Hah... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "But I'm sure when I have vai\nof my own, I'll be the one fussing\nat them."
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That was trouble, no mistake."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIt's over now, right?"
+  MSG_Gerud_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Kara Kara Bazaar is the best vacation\nspot in all of the desert."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I could stay\nhere and relax for days..."
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: Sa...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Sarqso.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That looked like the last of\nthe monsters."
+  first_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " My vaba was right about you vai."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "\"Dream girl...\" Nah, I don't have time to\nwaste on you. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Get out of here.
+  MSG_Gerud_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: "I hate wandering the wastelands.\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Give me the bustling streets of\nGerudo Town any day.\nBut the outside world is where the\nadventure is,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " so this is where I have\nto be, too."
+  MSG_Gerud_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I hope to someday be able to talk to voe\nwithout a stomach full of butterflies."
+  MSG_Gerud_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Dorrah and Merina are always a sight for\nsore eyes. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "When I catch a glimpse of\nthem, I know I've made it back home.\nThey're pretty tough on voe, and you\nwouldn't want to get on their bad side,\nbut they're nice vai deep down."
+  RetMSG_Gerud_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "In the worst of the desert heat, have\nsome hydromelon. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "There's nothing\nbetter for cooling off.\nI would never go outside the town walls\nwithout some when I was a young vai."
+  first_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "I hate to be rude, but... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "What's the point\nin talking to you anymore?"
+  MSG_Gerud_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The desert sands are hard on my feet.\nI'd love to use a sand seal, but..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I never actually learned the trick to\nsand-seal surfing."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Maybe one day I'll meet someone who\nreally knows how to do it. Then I can\ncatch a ride and travel with ease!"
+  MSG_Gerud_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Kara Kara Bazaar is a sort of resort for\nwe Gerudo. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I love to come here and\nrelax..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's perfect for a vacation, really."

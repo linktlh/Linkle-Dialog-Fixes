@@ -1,0 +1,49 @@
+---
+entries:
+  QL_Bottle_Mes_Name:
+    - text: Special Delivery
+  QL_Bottle_Mes_Desc:
+    - text: "I'm to follow the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "letter "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "down the river without\nlosing sight of it, and find out who receives it.\nThe letter's casing is fragile, so I need to take\ncare when pursuing it downstream.\n\nIf I lose sight of the letter, I can return to Finley\nand try again."
+  QL_Bottle_Mes_Step10:
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: letter
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s casing is fragile, so I need to keep\na close eye on it.\n\nIf I lose sight of the letter, I can return to Finley\nand try again."
+  QL_Bottle_Mes_Step20: []
+  QL_Bottle_Mes_Step30:
+    - text: "It turns out that Sasan picked up the message.\nHe's heading to Zora's Domain to meet\nFinley now.\n\nIf I want to see what happens, I should\nget to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " too..."
+  QL_Bottle_Mes_Finish:
+    - text: "Sasan arrived safely at Zora's Domain and met\nwith Finley. My part in the matter is concluded,\nthough it remains to be seen whether Sasan\ncan put on the muscle Finley hopes for."

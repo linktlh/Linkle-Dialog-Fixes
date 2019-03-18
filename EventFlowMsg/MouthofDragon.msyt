@@ -1,0 +1,130 @@
+---
+entries:
+  Npc_Musician_002_R_Near1:
+    - text: Splays its jaws...
+  Text004:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 495
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1053609165
+    - text: "Where the forest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dragon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " splays its jaws,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 170
+    - text: "\nA"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " shrine"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " sleeps with noble cause."
+  Npc_Musician_002_R_Near2:
+    - text: A shrine sleeps...
+  Text005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "The forest dragon? I've never seen a\ndragon in a forest around these parts.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Though I suppose the forest from the\nsong could be the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Damel Forest
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", north of\nhere.\nThere's definitely a secret lying in wait—"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nit's just a matter of tracking it down.\n\nMay the light illuminate your path."
+  Text006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 8
+    - text: "Ah, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you've already solved it, I see..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Though I am impressed,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " an\nuncharacteristic fear hangs over me.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: "I hope that your journey remains free\nof misfortune."
+  Text007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: A visitor? So deep in the forest?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  Npc_Musician_002_R_Near0:
+    - text: The forest dragon...

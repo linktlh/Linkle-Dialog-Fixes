@@ -1,0 +1,177 @@
+---
+entries:
+  "0002":
+    - text: Fried bananas.
+  "0003":
+    - text: Close book.
+  talk04:
+    - text: "Toss these ingredients in a pot alongside\nthe nuts of your choice to make a tasty\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: nutcake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! I prefer "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "acorns "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: myself.
+  talk05:
+    - text: "First, you'll want to buy "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha wheat
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: cane sugar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " here at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Slippery Falcon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk06:
+    - text: "Then, just fry those up alongside some\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: mighty bananas
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Mighty bananas "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "are rare\nin these parts, but this dish is worth it!"
+  talk00:
+    - text: "Misa's Recipe Book"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "0000":
+    - text: Apple pie.
+  talk01:
+    - text: "First, you'll want to buy "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha wheat
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: goat butter
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: cane sugar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " here at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Slippery Falcon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0001":
+    - text: Nutcake.
+  talk02:
+    - text: "Cook those ingredients with an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: apple
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nuntil the crust is a flaky golden brown\nand the insides are gooey and delicious.\nAnd for an added kick, try substituting\nthe apple with something else!"

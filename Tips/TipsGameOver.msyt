@@ -1,0 +1,51 @@
+---
+entries:
+  Fall_00:
+    - text: Falling Death
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Depending on the height, you may take damage, or even die, when\nyou fall. So be cautious out there walking near cliff edges!"
+  Lightning_00:
+    - text: Lightning Strikes
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "It may sound like a superstition, but lightning seems to strike metal\nobjects frequently. If you hear thunder, unequip anything metallic."
+  Enemy_00:
+    - text: Battle Tip
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "It's dangerous to approach enemies head-on when you're low on\nhearts or don't have protective armor equipped. Always be prepared!"
+  Fall_01:
+    - text: Falling Death
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Depending on the height, you may take damage, or even die, when\nyou fall. Remember to use the paraglider for a safe descent."
+  Cold_00:
+    - text: Freezing Climates
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Wear cold-resistant clothing or eat something that warms your body\nwhen adventuring in cold regions. Otherwise, the cold will slowly\nchip away at your health."
+  Enemy_01:
+    - text: Battle Tip
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Instead of throwing yourself at enemies over and over to no avail,\ntry cooking special dishes and elixirs to give yourself better defense,\nextra damage, or more hearts."
+  Guardian_00:
+    - text: Guardians
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Their entire bodies are covered in armor, so low-powered weapons\nwon't do any damage. It's best to avoid these foes until you have\nthe right tools for the job!"

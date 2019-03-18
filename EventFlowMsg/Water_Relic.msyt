@@ -1,0 +1,5037 @@
+---
+entries:
+  Npc_Zora004_R_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 17
+    - text: "This is just too much, my liege! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nI do not understand it one bit!"
+  Npc_Zora004_R_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: And that is not the least of it!
+  Npc_Zora004_R_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 20
+            string: Wakeup_00
+    - text: "It is their fault that Lady Mipha was lost\nto us..."
+  Npc_Zora004_R_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "She may be a Champion, but Mipha had\nno such relationship with her. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "So why\nshould SHE receive such an honor?"
+  Npc_Zora004_R_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: What?!
+  Npc_Zora003_S1_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: Linkle...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Muzu is most likely at the\nsquare down below.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: Would you mind going down there?
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nI need you to convince him to fulfill\nhis duty."
+  Npc_Zora003_S1_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Ah, Linkle!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I was unable to give this\nto you earlier, so please take it\nnow, along with my best wishes."
+  Npc_Zora003_S1_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Oh. Linkle...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " It seems your inventory is full.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Please return after you have made\nsome room."
+  Npc_Zora003_S1_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 4
+    - text: "My daughter, Mipha, put her heart and\nsoul into making that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora armor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "So long as you wear it, even a Hylian\nlike yourself will have"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " the power to\nascend waterfalls "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "like a Zora.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Please take good care of it.
+  Npc_Zora003_R_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "But first, it is worth noting"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " how\nremarkable it is that Sidon brought\na Champion here without realizing it!"
+  Npc_Zora003_S1_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 16
+    - text: "Muzu... What am I to do with him?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "He insists he will not cooperate unless\nyou prove you are the one Mipha had\nfeelings for.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "If only there was a way to prove that\nthis "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora armor "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: is rightfully yours...
+  Npc_ZoraB001_S2_010:
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomPose
+    - text: "What are you talking about?!\nWe can do this!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Let's get going!"
+  Npc_Zora003_R_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Now then. Heroine...I must inform you that\nZora's Domain is in danger of vanishing\n"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "because of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I shall do you the courtesy of speaking\nbluntly. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "We alone cannot stop this beast.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Will you lend us your strength?
+  Npc_ZoraB001_S2_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: OK! Here we go!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_Zora003_R_012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "Muzu, I expected more of you."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nHow can you still protest?"
+  Npc_ZoraB001_S2_012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Ha! I am unstoppable in the water!
+  Npc_Zora003_R_013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Linkle...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Divine Beast Vah Ruta "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: has great power.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "\nIt has the unique ability to create an\nendless supply of water.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Of late it has been mercilessly spouting\nwater into the air."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " As a result, this area\nhas been plagued by heavy rains.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "For us Zora, water and air are as one,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nso you would not think this would be\nquite so critical of a problem.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Sadly, the rains have filled the eastern\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: reservoir
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " nearly to the point of flooding."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "If the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: reservoir
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " bursts, as it soon will,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "\nI fear immense damage will befall not\nonly Zora's Domain...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "but also the area downstream from us.\nThere, Hylian lives are in very\ngrave danger."
+  Npc_ZoraB001_S2_013:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "I'll keep going at full speed! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "It's up to\nyou to ward off "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s attacks!"
+  Npc_Zora003_R_014:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Thank you, Linkle. Truly.\nWe are in your debt.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "Our goal is the same. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That means our\nmeeting was nothing short of destiny.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Now then, allow me to offer you this gift\nas a show of faith."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Npc_ZoraB001_S2_014:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Ruta "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: is responding to our presence!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nI'll move away and wait for an opening\nbefore we approach!"
+  Npc_Zora003_R_015:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 16
+    - text: Hmm...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " The Divine Beast is crying out\nonce again..."
+  Npc_Zora003_R_016:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Your princess, Zelda, often studied the\nDivine Beasts."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " That is, in the time before\nthe Great Calamity.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "According to her research,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " the orbs\nlocated on "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s shoulders...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "mechanisms that can control\nthe water it generates"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "However,\nthey require electricity to work.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "These orbs are clearly out of control\nnow because there is no electricity\ncoursing through to stop them."
+  Npc_ZoraB001_S2_016:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: "Linkle! You are leaving the area of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Reservoir Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Do you wish\nto retreat for now?!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 23
+            field_3: 24
+            field_4:
+              - 0
+              - 1
+  Npc_Zora003_R_017:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "Hmm, but what shall we do now?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I tasked Muzu with finding the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "shock arrows "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "we will need to\nappease "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: But now he has rushed off in a huff...
+  Npc_ZoraB001_S2_018:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 12
+    - text: "You almost had it, Linkle!"
+  Npc_ZoraB001_S2_019:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: Greeting_01
+    - text: "Do you remember what to do, Linkle?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nGaze upon the Divine Beast's back!"
+  Npc_ZoraB001_S1_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Listen well, Muzu."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " There is something\nyou need to know.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "She who stands here...the woman called\nLinkle..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "is the one whom my sister,\nMipha, had feelings for.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I was only a child then, so I did not know\nit myself at the time. But it is so.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I grew up hearing my father tell stories,\nsome of which were about my sister's\nundying love for a Hylian named Linkle."
+  Npc_ZoraB001_S1_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Aha!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 22
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "You must mean that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nHe is a man-beast, that one!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_ZoraB001_S1_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: OK... Listen carefully.
+  Npc_ZoraB001_S1_Near:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: Muzu... Please listen...
+  Npc_ZoraB001_S1_005:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "When you have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: gathered at least 20
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " come join me at"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Reservoir Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". I'll be waiting!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 16
+            field_3: 17
+            field_4:
+              - 0
+              - 1
+  Npc_Zora003_R_Near:
+    - text: Hmm...
+  "0000":
+    - text: "I've been sleeping."
+  Npc_ZoraB001_S1_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Why do you still doubt her, Muzu?"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nI have no doubt she will be triumphant!"
+  Npc_Zora004_F_Near:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Linkle!
+  "0001":
+    - text: I lost my memory.
+  Npc_Zora003_R_030:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 16
+    - text: "Linkle, your pouch appears to be full."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "\nPlease make some space in there so\nI may gift you this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora armor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0002":
+    - text: Mipha who?
+  Npc_ZoraB001_S1_009:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "Wonderful! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "Together we shall stop that\nDivine Beast's onslaught!"
+  Npc_ZoraB001_S45_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 11
+    - text: Linkle!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I must ask you something!\nWhat was it like within "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "In any case, I know you still have a job\nto do, and I am certain you will succeed.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Give it everything you have, my friend!"
+  Npc_ZoraB001_R_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: "The Hylian Champion? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You can't mean\nTHE Linkle? THAT Champion?!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "So that's where I have heard your name\nbefore! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "What a fateful coincidence that\nwe should cross paths!"
+  "0003":
+    - text: "Doesn't ring a bell."
+  Npc_Zora003_R_032:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Linkle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I doubt not that you have endured\na great many trials. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "Still, I must ask you\nto hear my plea."
+  Npc_Zora003_R_033:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "That is quite a feat, my boy!"
+  Npc_ZoraB001_R_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Linkle,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " I am certain you have already\nfigured this out, but..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "We need you to use "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "shock arrows "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to\nget those orbs working properly again!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomPose
+    - text: "I will aid you in any way I can, of course.\nPlease, heroine... I beg of you. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "Help me\nstop "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s rampage of destruction!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "What's more, if we are able to stop "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nyou should be able to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: get inside of it
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 18
+            field_3:
+              - 1
+              - 205
+  "0004":
+    - text: "I'm ready!"
+  Npc_Zora003_F_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Linkle! You did well to survive your trial!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nI have been awaiting your return!"
+  Npc_ZoraB001_R_012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: "I did not know you had such grand\nambitions, Linkle..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Npc_Zora003_R_034:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "So long as you wear this,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " you can\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "ascend waterfalls "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "just like a Zora.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Please, take good care of it."
+  "0005":
+    - text: Not yet.
+  Npc_Zora003_F_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The violent downpour has disappeared,\nas has the threat to Zora's Domain!\nIt is all little more than a bad dream now.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Thanks to your efforts, there is no longer\nany danger of a great flood laying waste\nto "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Npc_Zora003_R_035:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Do you see that statue? "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "Does gazing\nupon Mipha's immortalized form still\nnot jog your memory?"
+  Npc_ZoraB001_R_013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "Wondrous! Naturally, I shall help too!"
+  Npc_Zora004_S1_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "That tall mountain over yonder...\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "It is called "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and there\nyou will also find "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Shatterback Point
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_Zora003_F_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "The heavy rains have stopped, and the\nDivine Beast is our ally once again!"
+  Npc_ZoraB001_R_014:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Once it has stopped rampaging, you can\neasily "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: climb inside it
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Come, Linkle!\nLet us appease "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Ruta "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: together!
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 18
+            field_3:
+              - 1
+              - 205
+  Npc_Zora003_R_036:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Naturally, she means a lot to him..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "\njust as she means the world to us.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Ever since we lost her to the Calamity,\nhe has grown to despise Hylians.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: I hope you can forgive his rudeness.
+  Npc_Zora004_S1_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "A terrifying creature has made its home\nup there.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "This awful beast shoots volley after\nvolley of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Even a single\none could be fatal to a Zora."
+  Npc_Zora003_F_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "By the way, Linkle. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "I see you are without\nyour trusty blade...the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "sword that seals\nthe darkness"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "Did you perhaps lose it when you lost\nyour memory?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 14
+            field_3: 15
+            field_4:
+              - 0
+              - 2
+  Npc_Zora003_R_037:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I am King Dorephan, ruler of the Zora."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nYou did well to come all the way here!"
+  "0008":
+    - text: I remember.
+  Npc_Zora003_F_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "It is no doubt resting somewhere in\nHyrule even now...waiting for its\nmaster to return."
+  Npc_Zora003_R_038:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: You did well to come all the way here!
+  Npc_Zora004_S1_013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 7
+    - text: "Save your lies for another Zora. Without\nany solid proof, "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "I have no choice but to\nassume you are a lying scoundrel.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "If you are truly Lady Mipha's beloved,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nthen prove it!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "Do so and I will tell you how to get\nthose "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", as well as\nanything else you wish to know."
+  "0009":
+    - text: Just a bit...
+  Npc_Zora003_F_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "It undoubtedly found a safe place\nto wait for you...sleeping soundly,\njust like its master."
+  Npc_Zora003_R_039:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "I am King Dorephan, ruler of the Zora."
+  Npc_Zora004_S1_014:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 7
+    - text: "Hm? "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "You really think changing your\nclothes is going to make me..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 22
+  Npc_ZoraB001_S1_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: Hm?
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Well, well! What have we here?"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nIt seems you already have some\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Still, if you need any more, you can\nalways go to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nto restock!"
+  Npc_Zora003_F_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Speaking of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "sword that seals the\ndarkness"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I hear that a legendary\nblade now sleeps in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lost Woods
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nMind that I cannot say with certainty\nthat it is the same blade you wielded\n100 years ago.\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Still, I advise you to go there and see it\nfor yourself. The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Lost Woods "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "are to\nthe west, north of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_ZoraB001_S1_021:
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomPose
+    - text: "Linkle... "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "I'll be waiting for you at\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Reservoir Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", right by the\nDivine Beast.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 25
+    - text: "When you are ready, come join me there!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 16
+            field_3: 17
+            field_4:
+              - 0
+              - 2
+  Npc_Zora003_F_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Linkle, all of the Zora thank you from the\ndepths of our hearts for your heroic\nand selfless work!"
+  Npc_Zora004_S1_016:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "In order to appease the Divine Beast,\nI estimate that you will need..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 22
+    - text: hmm...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at least 20 "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Do you think you can gather that many?
+  Npc_ZoraB001_S1_022:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "If you run out of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nremember "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "But it looks like you're all set for now."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nCome join me at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Reservoir Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 16
+            field_3: 17
+            field_4:
+              - 0
+              - 2
+  Npc_Zora003_F_009:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "As your father,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I am proud of you\nfor fighting the Divine Beast\nalongside Linkle.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: You have grown much recently.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I know\nyou will be a worthy heir when your\ntime comes."
+  Npc_Zora004_S1_017:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: WHAT?!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "Do not mistake me for a fool, Hylian!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nThere is no way you remembered her\njust now, when it is most convenient."
+  Npc_Zora003_S2_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: "You were informed how to appease the\nDivine Beast, were you not?"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Sidon can\nbe found at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Reservoir Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I ask that you meet up with him and do\nall you can to calm the Divine Beast."
+  Npc_ZoraB001_S1_024:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "The stubborn fool. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "Lucky for us,\nwe have proof!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Show Muzu the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora armor "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "my father\ngifted you with!"
+  Npc_Zora004_S1_018:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: What?! No...
+  Npc_Zora004_S2_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you want "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you should\ngo to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "There resides a vicious beast there...\nA "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Lynel "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "that is known to frequently\nshoot "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Though be warned... "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "If you go, I cannot\nguarantee you will survive."
+  Npc_Zora004_S1_019:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 13
+    - text: "Hm? "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: You are quivering like a hatchling...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "\nWhatever is the matter? "
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 20
+            field_3:
+              - 1
+              - 205
+  Npc_Zora003_S2_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 11
+    - text: You remember!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " That is wonderful!"
+  Npc_Zora004_S2_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: Incredible... The rain has stopped!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nHylian! Did you really appease the\nDivine Beast?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "No...that cannot be! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "This must be a\nmistake of sorts."
+  Npc_Zora003_S2_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 11
+    - text: "No, please do not apologize. It is not\nyour fault."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " All of this is the despicable\nwork of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_ZoraB001_S1_027:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "Have you truly not figured it out yet?\nSimply take a closer look at what Linkle\nis wearing!"
+  "0020":
+    - text: Mipha... I remember.
+  Npc_Zora003_S2_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: You mean...what happened to Mipha?
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nNot even I know that."
+  Npc_Zora003_S2_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " took control of the\nfour Divine Beasts..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "and trapped\nthe Champions inside of them.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Since then, not a single one of them has\nreturned. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "It pains me to think what must\nhave happened.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "All I can do is hope and pray, "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "though I\nam well aware of the odds that anyone\ncould have survived something like that."
+  "0022":
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomPose
+    - text: No problem!
+  Npc_Zora003_S2_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I see! Well, even if you only remember\nher a little, that is better than nothing."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nIt warms my heart to hear it."
+  "0023":
+    - text: "Let's retreat."
+  Npc_Zora003_S2_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "I was so proud when Mipha was chosen\nas our Champion..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "but I was also quite\ndistressed about it.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - text: "When Calamity Ganon took control of\nDivine Beast Vah Ruta...it all happened\nso fast.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: "I cannot help but feel that I should have\ntried harder to keep Mipha from harm...\nI should not have let her go."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 11
+            field_4:
+              - 0
+              - 2
+  Npc_Zora003_F_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "How glorious! Truly splendid!\nWah ha ha ha!"
+  "0024":
+    - text: Never surrender!
+  Npc_Zora003_S2_009:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "What befell my dear Mipha and the other\nChampions within those Divine Beasts?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Sadly, I have no way of knowing.\nI can only hope that by some\nmiracle they are still alive."
+  "0025":
+    - text: "I heard Zelda's voice."
+  "0026":
+    - text: "Yes, in Hyrule Castle."
+  Npc_Zora003_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: Hm?
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " Well, I'll be!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nAre you not..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "a Hylian?\n\nBy chance, did my son, Sidon, ask you\nto come here?"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I am so glad you could\nmake it!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 4
+    - text: "So then... "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: Where is Sidon?
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nDid he not come with you?"
+  Npc_ZoraB001_S2_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "Glad to see you're ready to go, Linkle!"
+  Npc_Zora003_R_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "Ah. You are a Hylian, are you not?"
+  Npc_ZoraB001_S2_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Wonderful!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "You never cease to amaze, Linkle!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nNow then, let us go and appease\nthat Divine Beast as one!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Here we go!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_Zora003_R_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "Ah. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "You must be the Hylian that Sidon\nbrought here, correct?"
+  Npc_ZoraB001_S2_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: Greeting_01
+    - text: "Gaze now upon the Divine Beast's back!"
+  Npc_Zora003_R_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Hm? "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: That object upon your waist...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nis that not a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah Slate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: HMMM?!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Now that I have gotten a good look\nat you, it is all too clear who you are..."
+  Npc_ZoraB001_S2_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Do you see those glowing, pink orbs?"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nYou will need to shoot each of them with\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "With your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora armor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you now have the\nability to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ascend waterfalls
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "So I shall take you right up to the side of\nthe Divine Beast,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " and from there you can\nswim up and take aim!"
+  Npc_Zora003_R_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 16
+    - text: "Come again? "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "Sleeping, you say..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nHm. Is that why you do not seem\nto remember me?"
+  Npc_ZoraB001_S2_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: What? Not yet?!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " That is not a good sign,\nmy friend!"
+  Npc_Zora003_R_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 16
+    - text: "Come again? "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "You say you have lost\nyour memory?"
+  Npc_ZoraB001_S2_006:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomPose
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Are you ready for this? Do you have your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora armor "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Npc_Zora003_R_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: "But surely you must remember my\nprecious daughter, Mipha, yes?"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "\nYou do, do you not?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  Npc_ZoraB001_S2_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: I know you can do it! I believe in you!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: Now hurry up and get on my back!
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 12
+            field_3: 13
+            field_4:
+              - 0
+              - 2
+  Npc_Zora003_R_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "I cannot believe it... Have you truly\nforgotten my dear Mipha as well?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: You and Mipha were so close...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "\nYet you do not remember her?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Young heroine... Please look upon the\nbeauty of Zora's Domain."
+  Npc_ZoraB001_S2_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "Hm? "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: Wait a second...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " You need at least\nfour "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for this mission!"
+  Npc_ZoraB001_S2_009:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Good answer! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "Let's get going!"
+  Npc_Zora004_S1_Near:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "I don't care what you say!"
+  Npc_Zora030_S3_001:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: WOW!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " That was astounding!\nAn absolute thrill!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_Zora030_S3_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Linkle, look!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " The water spouting from\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Ruta "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: has slowed down!
+  Npc_Zora030_S3_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is floating higher now!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " You wanted\nto venture inside it, right?!"
+  Npc_Zora030_S3_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I'll bring you closer! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "We're counting on\nyou, heroine! Do good work in there!"
+  Npc_Zora003_R_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Well, perhaps your memory will return\nin time."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: I dearly hope so.
+  Npc_ZoraB001_S2_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: Linkle! I still believe in you!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Come on! Get on my back and we shall\ntry it again!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 22
+            field_3:
+              - 1
+              - 205
+  Npc_Zora003_R_021:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Indeed!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " Linkle is a Champion,\nthrough and through.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "As things now stand, Zora's Domain..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Nay! Perhaps all of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "is doomed\nto be swallowed by the sea.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "This is bigger than all of us, my friend.\nZora and Hylians alike must put aside\nour differences and band together."
+  Npc_ZoraB001_S2_021:
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomPose
+    - text: "OK... We shall start over when the time\nis right!"
+  Npc_Zora003_R_022:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: Hmph.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " That Muzu is not easily swayed\nonce his mind is set."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You must understand... He was in charge\nof educating my dear daughter, Mipha."
+  Npc_ZoraB001_S2_022:
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomPose
+    - text: OK... Let us regroup then!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nCome on over!"
+  Npc_ZoraB001_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Seggin, who is quite shock resistant for\na Zora, hit one with a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "\nSure enough, it slowed the water a bit.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Unfortunately, as an aquatic race,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nwe Zora are terribly vulnerable to\nthe power of electricity.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Perhaps because we could not safely\nstrike it with enough electricity at once,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "\nthe water soon returned to its full force."
+  Npc_Zora003_R_023:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: Linkle...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Muzu is most likely at the\nsquare down below.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Would you mind going down there?
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nI would like you to try to speak\nwith him."
+  Npc_Zora004_R_F001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: I am Muzu.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " I tend to the affairs of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " by the grace of our\nbeloved King Dorephan.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - text: But wait... Are you a Hylian?
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nWhat is a Hylian doing in\nour domain?!"
+  Npc_ZoraB001_S2_023:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: Wait a second...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Now that I look closer,\nI see that you are not wearing your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora armor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Npc_ZoraB001_R_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "That is why I went in search of a Hylian\nwho could help us!"
+  Npc_ZoraB001_S2_024:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - text: Wait a second...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " You do not have the\nright armor equipped, nor do you\nhave all of the arrows you need!"
+  Npc_Zora003_R_025:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 11
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "You are the Hylian Champion, Linkle!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Do not tell me you have forgotten me...
+  Npc_ZoraB001_R_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Muzu! It is rude to speak that way to\nyour king and his guest."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Linkle is here\nbecause I invited her!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "With such unprecedented rainfall,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nwe have no choice but to rely on\nthe aid of a trustworthy Hylian.\nHave we not already discussed this and\narrived at that very conclusion?"
+  Npc_ZoraB001_S2_025:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Unless you have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora armor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", we cannot possibly\nhope to appease the Divine Beast!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Please hurry and gather what you need!
+  Npc_Zora004_F_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: "You are rather incredible for a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nI will have to rethink my preconceptions\nabout you people.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Yes, perhaps people who are not Zora\nare not so hopeless after all! I am eager\nto learn more about other ways of life."
+  Npc_Zora003_R_026:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I cannot believe it. The Hylian Champion,\nLinkle, has appeared before us... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "We have\nmet numerous times, I'll have you know.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Ah... So many memories! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "My mind is\noverflowing with nostalgia, my friend.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "I had heard a terrible rumor that you had\nfallen in combat, but it appears you\nmanaged to survive. Extraordinary!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  Npc_ZoraB001_R_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "She is the key to saving Zora's Domain."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "\nI have no doubt in my mind."
+  Npc_Zora004_S1_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 13
+    - text: Hmph.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " You came all the way here,\nbut it was in vain."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I have no desire\nto speak with you."
+  Npc_ZoraB001_S2_026:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: Hm?
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Hey, wait a moment!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " You do not yet\nhave at least 20 "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Npc_Zora004_F_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Linkle...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I must sincerely apologize for\nmy harsh treatment of you.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "That whole time, you were thinking of\nHyrule's and Lady Mipha's well-being,\njust like the rest of us.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "All of the members of our council humbly\nfold our fins back in gratitude, along with\nthe rest of our people.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Perhaps the older generation of Zora,\nmyself included, misunderstood "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nafter all. It would seem so.\nThat said, I would be overjoyed if you\ncould find it in your heart to forgive me.\nIf not now, then perhaps one day."
+  Npc_ZoraB001_R_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Linkle,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " I am certain you have already\nfigured this out, but..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "We need you to use "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "shock arrows "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to\nget those orbs working properly again!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomPose
+    - text: "I will aid you in any way I can, of course.\nPlease, heroine... I beg of you. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "Help me\nstop "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s rampage of destruction!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 19
+            field_3:
+              - 1
+              - 205
+  Npc_Zora004_S1_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: Hmph.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I never would have imagined\nshe would make that special armor\nfor one such as her..."
+  Npc_ZoraB001_S2_027:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Are you ready? "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwill undoubtedly use its ancient and\nmysterious powers against us..."
+  Npc_ZoraB001_R_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Father... I do not believe discussing my\nsister is helping matters at the moment."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nLinkle seems confused."
+  Npc_Zora003_R_028:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Sidon...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I suppose that means you are\ngoing to tell him..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_ZoraB001_S2_028:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "That includes hurling giant ice blocks\nthat we will need to watch out for.\nI shall leave those to you!"
+  Npc_Zora003_R_029:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Oh? "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "Yes, of course."
+  Npc_ZoraB001_R_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Linkle! Do not let his words concern you.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "\nI will work this out with Muzu."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nI shall return shortly!"
+  Npc_ZoraB001_S1_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "It is the truth, Muzu."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Though you never\nknew it, she was ever in Mipha's heart."
+  Npc_ZoraB001_R_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Muzu! How dare you speak so rudely\nto your king and his guest!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "This Hylian has come to us in our most\ndire hour of need. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "That our paths have\ncrossed is certainly the work of fate."
+  Npc_ZoraB001_S1_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Now you understand, do you not?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Now you know who her heart\nbelonged to"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " and who she made\nthis special armor for.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "The fact that this armor fits Linkle perfectly\nshould be proof enough that Mipha made\nit for her and her alone!"
+  Npc_ZoraB001_S1_012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "The stubborn fool. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "Lucky for us,\nwe have proof!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Linkle! Go ahead and show Muzu the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora armor "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: my father gave you!
+  Npc_ZoraB001_S1_013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "What is the matter, Linkle?"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nAre you unwell?"
+  Npc_ZoraB001_S1_014:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Muzu! Look closely at the clothes\nLinkle is wearing!"
+  Npc_ZoraB001_F_001:
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomPose
+    - text: Linkle! Thank you so much!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Truly, I could\nnever thank you enough!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You helped save our home from\nvanishing away!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "This calls for a top-tier expression\nof gratitude!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "ZO! ZO! RA RA RA!\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "With all my heart...\nThank you!"
+  Npc_ZoraB001_S1_015:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You have always disliked Hylians,\neven before the Great Calamity."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nThat is why Mipha never told you."
+  Npc_ZoraB001_F_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Linkle! Thank you so much! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "Now hurry!\nYou must go tell my father!"
+  Npc_ZoraB001_S1_016:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Now that you know, you must promise\nto help her save us all, Muzu.\n\nPlease... "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "Tell us where we can find the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "shock arrows "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: we need.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Knowing you,\nI bet you have already figured it out."
+  Npc_ZoraB001_F_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: Father... I... Thank you!
+  Npc_ZoraB001_R_F001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 20
+    - text: "Oh! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "You are a Hylian, are you not?!\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: This is perfect!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "What excellent timing for you to\nshow up!"
+  Npc_ZoraB001_S1_017:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "That beast does indeed wield\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " That is certainly\none way to collect them quickly.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "He is vicious, to be sure. But I am certain\nLinkle will rise to the challenge."
+  "0010":
+    - text: "I'm so sorry..."
+  Npc_ZoraB001_F_004:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "Linkle! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: This is wonderful!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_Zora003_R_040:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Hm? What is the matter, Linkle?\nYou seem to be looking about\nas though in a bother..."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 25
+            field_3:
+              - 1
+              - 205
+  Npc_ZoraB001_R_F002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Come, friend, and speak with our king!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nHe has something important he wishes\nto ask of you!"
+  Npc_ZoraB001_S1_018:
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomPose
+    - text: "OK, Linkle. Let's get moving."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " The fastest\nway to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Ploymus Mountain "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is to ascend\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: waterfall east of the domain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: That Zora armor should come in handy.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nJust "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: swim to the waterfall basin
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and then\ngo up the waterfall from there!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 25
+    - text: "I'll wait at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Reservoir Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", right by\nthe Divine Beast."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Gather "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: at least 20
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and then come join me!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 16
+            field_3: 17
+            field_4:
+              - 0
+              - 2
+  "0011":
+    - text: What happened?
+  Npc_Zora003_R_041:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "Lady Zelda's voice, you say?!\n\n\nLady Zelda...is still alive?!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 26
+            field_3:
+              - 1
+              - 205
+  "0012":
+    - text: "I'm ready."
+  Npc_Zora003_R_042:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 16
+    - text: I do not believe it...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " She was alive this\nwhole time, just as you were!\n\nThe events of 100 years ago cannot be\naltered, it is true."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\nBut if we can regain control of the Divine\nBeasts...they may yet prove useful in\nsealing Calamity Ganon once and for all!"
+  "0013":
+    - text: Are you sure?
+  Npc_Zora003_F_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Oh...but I see you already awakened the\nsword that seals the darkness. Perhaps\nyou do not have need of this after all.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "What you have there is a legendary blade\nthat only you can wield."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " You must take\ngreat care of it."
+  Npc_Zora003_R_043:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The creature behind that roar\nyou just heard..."
+  "0014":
+    - text: What sword?
+  Npc_Zora003_F_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 16
+    - text: Hm. So you have forgotten that as well...
+  Npc_Zora003_R_044:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 22
+    - text: Whaaat?!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 0
+    - text: "Princess Zelda herself instructed you\nto board the"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " Divine Beast"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and appease\nit from within?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 0
+    - text: So then...Princess Zelda is still alive?
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 26
+            field_3:
+              - 1
+              - 205
+  "0015":
+    - text: Perhaps.
+  Npc_Zora003_F_012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 12
+    - text: What? Is it truly lost?!
+  Npc_Zora003_R_045:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: Wah ha ha! That is a good one!
+  Npc_Zora004_S1_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "How could Lady Mipha possibly have\nfeelings for a Hylian like her?!"
+  "0016":
+    - text: "I'm on it!"
+  Npc_Zora003_F_013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "That is a legendary blade that only you,\nthe Hylian Champion, can wield."
+  Npc_Zora003_R_046:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Sidon was looking for a Hylian to bring\nto Zora's Domain.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: And now you have come...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "as if led by\nsomething."
+  Npc_Zora004_S1_021:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "The facts are clear. She remembers\nnothing. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "Even when she looks upon\nPrincess Mipha's statue..."
+  "0017":
+    - text: Come again?
+  Npc_Zora003_F_014:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I expect it was awaiting your return while\nyou slept, resting in a sacred forest\nor some such."
+  "0018":
+    - text: "I'm in. Let's do this!"
+  Npc_Zora004_S1_022:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 7
+    - text: "In any case, without any solid proof,"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nI cannot possibly take you at your word!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you have any such proof, now is the\ntime to show it.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Do so, and...and I...I shall tell you how to\nget those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! Yes, as well as\nanything else you wish to know."
+  Npc_Zora003_F_015:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Linkle!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I must reward your efforts!"
+  "0019":
+    - text: "I, um..."
+  Npc_Zora004_S1_023:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Eh?!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: "What in the... "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "That is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora armor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfrom before!\n\nLady Mipha made that by hand..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand yet it fits you perfectly!\n\nWhat is the meaning of this?!"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  Npc_Zora003_F_016:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "...And you too, Sidon."
+  Npc_Zora004_S1_024:
+    - text: "..."
+  Npc_Zora004_S1_025:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 17
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "I do not approve of asking for help from\na Hylian,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " but I suppose it is our only\noption at this point.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "I am a proud Zora. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "That means I must\ntake responsibility for my unwarranted\nbehavior toward you."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "As promised,"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " I shall tell you where you\ncan collect as many "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " as\nyou will need."
+  Npc_Zora003_F_018:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "You appeased the Divine Beast Vah Ruta\nand thusly saved "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "We are all truly grateful! What you did\nfor us is more than we could have\never expected of you."
+  Npc_Zora004_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CallFar_01
+    - text: "King Dorephan! My liege!\nPlease do not speak so!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: To ask a Hylian for help...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " Why, the very\nthought of it curls my fins!"
+  Npc_Zora004_S1_026:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "You cannot fool me with such a\nfanciful lie. Not this Zora!"
+  Npc_Zora003_S2_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: What is this?! The rain has stopped!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nLinkle! Were you actually able to\nappease the Divine Beast?!\nLinkle, you are a true Champion!\nI am grateful beyond words!"
+  Npc_Zora003_F_019:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Now then! I implore you to collect the\ntreasure inside that chest over there.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "It was cherished by Mipha. A memento\nof sorts. "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "I would like you to have it as\na token of our friendship.\nPlease take good care of it."
+  Npc_Zora004_R_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: SurpriseM_00
+    - text: "Have you forgotten already, my king?!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nWe cannot trust these lowly Hylians!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "A hundred years ago, they abused the\npower of an ancient civilization"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " and\nturned "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " into what it is today!"
+  Npc_Zora003_S2_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 4
+    - text: "By the way...did you ever regain your\nmemories of my daughter, Mipha?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 2
+  Npc_Zora004_R_003:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: SurpriseL_00
+    - text: King Dorephan!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Surely you do not really intend to give\nthis outsider the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora armor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: SurpriseM_00
+    - text: "Countless generations of Zora princesses\nhave gifted that armor "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "to the one they\nhave sworn to marry!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "Princess Mipha made that one there with\nher own hands!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " It is far too important\nto entrust to a shady Hylian!"

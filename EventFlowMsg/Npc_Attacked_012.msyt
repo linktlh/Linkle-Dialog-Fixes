@@ -1,0 +1,333 @@
+---
+entries:
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "I came out this way to search for this\ncitadel. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Can't believe I made it so close,\nonly to have to turn back now..."
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: A Guardian?! Time to bail!
+  After00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 13
+    - text: "Do you know the story behind that\ncastle there?"
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Well, I hope you enjoyed watching me\nmake a fool of myself. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Glad I could\nprovide some free entertainment.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Learn from my example, traveler—always\nbe on your guard on these roads."
+  After01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Maybe I'm biting off more than I\ncan chew..."
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Well, that's what I get for being careless."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I was too distracted by the sight of the\ncitadel to notice that thing getting the\ndrop on me."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Watch yourself, OK?"
+  After02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 24
+    - text: "That's the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Akkala Citadel Ruins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Long\nago, at the peak of Hyrule's power, they\nbuilt a fortress to protect Akkala.\nIt was said to be unassailable, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but during\nthe Great Calamity, Hyrule Castle fell...\nThe army had no royalty to lead them.\nWith no other choice, they fell back to\nthis citadel to make their last stand."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Sadly, a concentrated assault from the\nout-of-control Guardians spelled the\nend for this fortress too.\nIn a real sense, the kingdom of Hyrule\nmet its doom here."
+  After02_2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 17
+    - text: "I found out my own kin died in that\nbattle, so I came to at least pray at the\nspot where they fell.\nBut it turns out that the old Guardians\nare still active, so this is as far as I go."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "I've never heard of anyone else escaping\na Guardian's sights, at least."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "You don't look reckless enough to\nchance it, but be on your guard in these\nhills all the same."
+  After03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "When you look at these massive\nstructures and ruined cities...you really\nget a sense of what we lost.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: "I wish I could get a closer look, but I\ndon't have a death wish. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "If you're\nheaded for the citadel, be very careful."
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 17
+    - text: I could have beaten that thing! Really!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI must have just been having an off day."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWell, this is for going out of your way."
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: "Hmph... We'll never really know if I could\nhave beaten them now. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "So technically,\nI suppose you did rescue me."
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Th-thanks... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That monster was more than\nI bargained for."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I'm a dab hand with a blade, but you..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWell, my hat is off to you, girl. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Here,\ntake this for your help."
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 15
+    - text: "Aw, I wasn't in any REAL danger. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "But I\nguess it was hard to tell from a distance."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThanks anyway."
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "You hel... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: You held your own out there!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nNo, no."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You he..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "aded for town, I take it?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nOK, OK. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You helped me. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "There. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I said it.
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 8
+    - text: "It took all I had just to stay alive against\nthat monster, but you beat it like it was\na straw training dummy.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Whoever you are, you deserve this more\nthan I do!"
+  Near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 13
+              - 205
+    - text: This is the end of the line.
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Monsters have no business being here!
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Come on and get me! I'll take you on!"

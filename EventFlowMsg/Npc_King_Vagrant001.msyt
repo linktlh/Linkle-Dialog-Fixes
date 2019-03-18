@@ -1,0 +1,781 @@
+---
+entries:
+  GoodBye02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - text: Hmph!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " To an old man, a sound sleep is\nmore valuable than gold. Please do not\ndisturb me unless you have need of me."
+  GoodBye03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: "Ah, invigorating!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I encourage you to\njoin me by this warm fire."
+  GoodBye04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: I shall be here for some time.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nPlease let me know if I may\nbe of service."
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Hm? What's this?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  "1001":
+    - text: What is this place?
+  Takibi00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Oh... I was just feeling a chill.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " A warm\nfire can do wonders for a weary soul."
+  GoodBye05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Do you not have somewhere else to be,\nyoung one?"
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: "Well, hello."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " So we meet again..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  "1002":
+    - text: What are you doing?
+  Takibi01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "A campfire is a wonderful place to\npass the time."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Staring into these flames, it's easy to\nlose track of the hours...\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: Bah! Please ignore my ramblings.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nFeel free to relax here for as long\nas you'd like."
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "You'll catch a chill out there in the wild."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nCome warm your bones by the fire."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  "1003":
+    - text: Bye.
+  Takibi02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "A roaring fire makes it easy to pass\nthe time."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Feel free to relax here for\nas long as you'd like."
+  TerrorBomb:
+    - text: What is it?!
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Vicious beasts answer the night's call in\ngreater numbers."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Feel free to pass the\ntime here with me until the light of morn."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Takibi03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm relaxing by the fireside, of course."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nAlthough I'll need to cook myself another\nbaked apple at some point...\nSimple foods such as apples are fine to\neat raw, but roasting them on a fire\nmakes them tastier and more nutritious."
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "Hrm?! What's that?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It seems there is\nno rest for the old and weary."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  TerrorEnemy:
+    - text: Whoa!
+  Near00_First:
+    - text: "..."
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: "Oho ho, what are you waiting for?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nCome and sit by the fire."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "I take it you are still searching for\nsome of the treasure hidden here\non the plateau, correct?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  TerrorArrow:
+    - text: What is this?!
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "So then... How goes your endeavor to\nexplore the shrines?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Yes?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " How might I be of service to you?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Apple00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 14
+    - text: "I BEG YOUR PARDON! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I do believe that\nis my baked apple! You can't just go\nabout taking whatever you please!"
+  Apple01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: Oho ho!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Forgive me—I could not resist\npulling your leg.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Please help yourself. An apple and an\nopen flame make for a succulent treat."
+  Torch00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 20
+    - text: "Well then, just help yourself to that\ntorch there. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "And how, may I ask,\nare you planning to use it?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2000
+            field_3: 2001
+            field_4: 2002
+            field_5:
+              - 0
+              - 2
+  Torch01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 5
+    - text: Innovative...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " However, that is probably\nbest used to light fires. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "If you need a\nweapon, you can find something better."
+  Torch02:
+    - text: "Many beasts roam the land past this\npoint. You can take my axe with you,\nif you please. Assuming you can find it."
+  Torch03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 5
+    - text: That is rather
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "...unnerving."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Please be\ncautious with that around any dry\ngrass that might catch fire.\nYou know, there are plenty of monsters\nin this area. That torch would make\na good weapon, if need be."
+  TerrorImpulse:
+    - text: Whoa!
+  TerrorInsect:
+    - text: Whoa!
+  Torch04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 14
+    - text: "I see. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Well then, do as you please.\n\n\nThere are plenty of monsters ahead of\nhere, though. Remember that you can\nuse that as a weapon, if need be."
+  Torch05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "However, do not just swing it around\nwithout purpose. You must face your\nopponents and lock your sights on them!"
+  Torch02_2:
+    - text: "Ah, I see you found my axe. I do believe\nit will be of more use to you than it is\nto me."
+  ClearTerrorEnemy:
+    - text: Hmm...
+  Near00:
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho!
+  TerrorExplosion:
+    - text: Huh?!
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: "Oho ho! So you fancy yourself the\nstrong silent type, eh?"
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 1001
+              - 44
+              - 78
+              - 112
+              - 99
+              - 95
+              - 75
+              - 105
+              - 110
+              - 103
+              - 95
+              - 67
+              - 111
+              - 109
+              - 109
+              - 111
+              - 110
+              - 95
+              - 75
+              - 111
+              - 107
+              - 111
+              - 104
+              - 97
+              - 1002
+              - 66
+              - 78
+              - 112
+              - 99
+              - 95
+              - 75
+              - 105
+              - 110
+              - 103
+              - 95
+              - 86
+              - 97
+              - 103
+              - 114
+              - 97
+              - 110
+              - 116
+              - 48
+              - 48
+              - 49
+              - 95
+              - 67
+              - 104
+              - 111
+              - 105
+              - 99
+              - 101
+              - 69
+              - 120
+              - 99
+              - 108
+              - 117
+              - 100
+              - 101
+              - 1003
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  Near02:
+    - text: Zzz...
+  NakedPlayer:
+    - text: "Aren't you...a bit chilly?"
+  TerrorSword:
+    - text: Easy there!
+  TerrorFire:
+    - text: Toasty...
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Yes?
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 1001
+              - 44
+              - 78
+              - 112
+              - 99
+              - 95
+              - 75
+              - 105
+              - 110
+              - 103
+              - 95
+              - 67
+              - 111
+              - 109
+              - 109
+              - 111
+              - 110
+              - 95
+              - 75
+              - 111
+              - 107
+              - 111
+              - 104
+              - 97
+              - 1002
+              - 66
+              - 78
+              - 112
+              - 99
+              - 95
+              - 75
+              - 105
+              - 110
+              - 103
+              - 95
+              - 86
+              - 97
+              - 103
+              - 114
+              - 97
+              - 110
+              - 116
+              - 48
+              - 48
+              - 49
+              - 95
+              - 67
+              - 104
+              - 111
+              - 105
+              - 99
+              - 101
+              - 69
+              - 120
+              - 99
+              - 108
+              - 117
+              - 100
+              - 101
+              - 1003
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  TalkHub1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho!
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 1001
+              - 44
+              - 78
+              - 112
+              - 99
+              - 95
+              - 75
+              - 105
+              - 110
+              - 103
+              - 95
+              - 67
+              - 111
+              - 109
+              - 109
+              - 111
+              - 110
+              - 95
+              - 75
+              - 111
+              - 107
+              - 111
+              - 104
+              - 97
+              - 1002
+              - 66
+              - 78
+              - 112
+              - 99
+              - 95
+              - 75
+              - 105
+              - 110
+              - 103
+              - 95
+              - 86
+              - 97
+              - 103
+              - 114
+              - 97
+              - 110
+              - 116
+              - 48
+              - 48
+              - 49
+              - 95
+              - 67
+              - 104
+              - 111
+              - 105
+              - 99
+              - 101
+              - 69
+              - 120
+              - 99
+              - 108
+              - 117
+              - 100
+              - 101
+              - 1003
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  Near03:
+    - text: "..."
+  "2000":
+    - text: As a weapon!
+  "2001":
+    - text: To set things on fire!
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I look forward to seeing what type of\ntreasure you secure out there."
+  "2002":
+    - text: "It's a secret..."
+  GoodBye01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: Oho ho!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If you still wish to acquire the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: paraglider
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you must put in the effort.\nI will not simply give it away, you see."

@@ -1,0 +1,1200 @@
+---
+entries:
+  AskGolf8:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "How ya hit the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "ball "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: is yer call.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But the\nfurther ya can smash it with every smack,\nthe better!"
+  "0014":
+    - text: Me? Never!
+  OB_Cancell2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "If ya wanted ta quit, ya shoulda said so!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nCome back when yer feelin' serious."
+  AskGolf9:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "ball "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "moves even an inch, that\ncounts as "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: a stroke
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Huh, I guess those\nrules ain't so simple after all. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Whoops!\nSo are ya in or are ya in?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 20
+            field_3: 21
+            field_4:
+              - 0
+              - 1
+  StrokeOver:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: "Whatta sorry showing... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That's 20\nstrokes, pal. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I'm cuttin' ya off there."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nTry again sometime, all right?"
+  OB_Warning1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 3
+    - text: "Where ya goin'?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It ain't quittin' time\nalready, is it?"
+  Judge_OB:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Holy moly...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Ya went off course, kid!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThat's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: one penalty stroke
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "And ya gotta\npick up where ya left off before."
+  OB_Warning2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Go too far off course and I'll hafta call\nthe game there. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Ya won't get back yer\nentry fee, neither."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " So watch it!"
+  TalkFirst:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Holy moly!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " A Hylian? Here?!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Ya must\nbe tough as iron ta survive the trip out\nthis way!"
+  "0020":
+    - text: "It's time!"
+  NoRupee:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Looks like ya don't have the stones\nafter all..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: by which I mean rupees.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: " Well,\nkeep savin' up!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " We never close!"
+  "0021":
+    - text: "I'm tapped out."
+  Clear_Excellent_1:
+    - text: "Ya got "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - control:
+        two:
+          type17:
+            field_1: 60
+            string: MiniGame_SmashGolf_ShotCount
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?! Well, don't that beat all!\nYa could be a pro "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Boom Bam Golfer!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "\nIf there was a league...or other players..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Clear_Middle_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: Hrm... Ya got a
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type17:
+            field_1: 60
+            string: MiniGame_SmashGolf_ShotCount
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " this time out."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThat ain't bad, but ya strike me as a\ngirl who could do better."
+  Clear_Excellent_2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Whoa
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I lost track of my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: stroke count
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\nIf I remember right, though, it was\nabout the same as yers, give or take!"
+  Clear_Middle_2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Don't worry. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "The game takes some\npractice ta figger out. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "They say "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "every\njourney starts with a single stroke"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Clear_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: NICE shot!
+  Clear_Excellent_3:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Yer the kinda player who's gonna make\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Boom Bam Golf
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "hit the big time! Keep\nit up, and smash those high scores!"
+  NotPlay:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: "Aww, that ain't no fun. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "The course is\nalways open, though. Yer welcome\nanytime!"
+  "0001":
+    - text: "I'm in!"
+  "0002":
+    - text: What is that?
+  RetrunGame:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Attagirl!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " True "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Boom Bam Golfers
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\nnever say die!"
+  Clear_Low_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: Yer score was...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type17:
+            field_1: 60
+            string: MiniGame_SmashGolf_ShotCount
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?! Sheesh, kid."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Boom Bam Golf
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "ain't easy, but it\nain't THAT hard!"
+  NoOneMore1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: Whatta shame.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But at least now ya've\nseen the majesty of "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boom Bam Golf
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\nfor yerself, right?"
+  "0003":
+    - text: "I'm out."
+  Clear_Low_2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Aw, pal."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Well...don't give up, OK?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYa just need ta practice, practice, and\nthen practice some more."
+  NoOneMore2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'll be here fiddlin' with the course."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWe never close, in case yer ever itchin'\nta play."
+  AskGolf10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Say no more!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's time ta tee off!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boom Bam Golf
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is go!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0005":
+    - text: Pony up.
+  AskPlay:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Getting here must mean ya have the\nstones ta strut yer stuff in a round of...\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boom Bam Golf
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Well? Are ya in? "
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 1
+            field_3: 2
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  AskPay:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "At least, once I get that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for\nthe greens fee."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Browns fee?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Ehh."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 6
+            field_4:
+              - 0
+              - 1
+  "0006":
+    - text: Back down.
+  Clear_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Way to take a whack at it! Give me a\nsecond to figger out yer "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: score
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Clear_High_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Yer "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: score
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " was..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type17:
+            field_1: 60
+            string: MiniGame_SmashGolf_ShotCount
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Yer gettin' ta be\na real heavyweight, kid."
+  AskGolf1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "Ya don't know "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boom Bam Golf
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "?!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIt's famous!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " No one who's played it\neven once can get enough!"
+  Clear_High_2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Don't go thinkin' ya got it all figgered\nout, now! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Keep at it, and set the highest\nrecord ever in "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boom Bam Golf
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "!"
+  AskGolf2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I invented it the other day rolling down\nthe hill, so I'm the only one who's played\nit."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " And I love it ta smithereens!\nI guess it makes sense that ya haven't\nheard about it, come ta that."
+  GameTalk:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 19
+    - text: Huh?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Yer throwin' in the towel already?\nSay it ain't so!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 13
+            field_3: 14
+            field_4:
+              - 0
+              - 1
+  AskGolf3:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It couldn't be simpler ta play!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Whack the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ball
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and try to knock it inta the hole at\nthat flag.\nThe fewer tries it takes, the higher\nyer score! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "The best part? It only costs\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " ta play!"
+  StrokeOver_Result:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Hate to see a girl go to 20 strokes.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nJust so's ya know, I was rootin' for ya."
+  AskGolf4:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Two-handed weapons like hammers can\nreally send the ball flyin', but ya gotta\ntake care not ta overdo it.\nSwords and one-handed weapons are\nbetter for short distances, but be careful\nya don't break 'em playin' the game!"
+  PlayOK:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Rock on! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I'll start setting up!"
+  Near00:
+    - text: BOOM-BAM!
+  AskGolf5:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Or ya can just go hog wild on the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ball
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThe more power ya put inta yer swing,\nthe further it goes flying!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " FOOOOORE!"
+  AskOneMore:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Ya look like ya wanna go again! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHeck, who am I ta stop ya?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 20
+            field_3: 21
+            field_4:
+              - 0
+              - 1
+  AskGolf6:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If the ball rolls off the course, ya take\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: one-stroke penalty
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and have ta keep\ngoing from where ya hit it."
+  Cancel_End:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Boom Bam Golf "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "course is\nalways open! See ya around!"
+  AskGolf7:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'll keep track of how many "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "strokes "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "it\ntakes. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Yer job is to get the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ball
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in the\nhole in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 strokes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " or less!"
+  "0013":
+    - text: I give up.
+  OB_Cancell1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 3
+    - text: "Sorry, kid, but I hafta "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: disqualify
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " ya."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThem's the rules!"

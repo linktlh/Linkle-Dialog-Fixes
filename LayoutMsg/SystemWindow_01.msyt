@@ -1,0 +1,38 @@
+---
+entries:
+  "0008":
+    - text: Save progress?
+  "0009":
+    - text: Save
+  T_AutoSave_00:
+    - text: Autosave
+  Pa_BtnL_01-T_Btn_00:
+    - text: Cancel
+  T_DummyText_00:
+    - text: Master Mode
+  T_SaveFinish_00:
+    - text: Progress saved.
+  "0000":
+    - text: Select save file.
+  "0001":
+    - text: Create new save data?
+  Pa_File_00-T_AutoSave_00:
+    - text: Autosave
+  "0002":
+    - text: Overwrite this save data?
+  "0003":
+    - text: Load
+  "0004":
+    - text: Select save data to load.
+  Pa_GuideB_00-T_Guide_00:
+    - text: Cancel
+  "0005":
+    - text: "Load save data?\nUnsaved progress will be lost."
+  T_Text_02:
+    - text: "In Master Mode, you have two files of save data,\nincluding one autosave."
+  "0006":
+    - text: Load save data?
+  TextBox_01:
+    - text: Saving
+  "0007":
+    - text: Start

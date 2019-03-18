@@ -1,0 +1,39 @@
+---
+entries:
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hmm... Though she was a fierce warrior,\nthe Gerudo chief was also a loving friend\nof Hyrule's princess."
+  TerrorFire:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: Yikes!
+  TerrorExplosion:
+    - text: WAAAH!
+  TerrorSword:
+    - text: Stop this madness!
+  TerrorArrow:
+    - text: "Please don't do that!"
+  TerrorHorse:
+    - text: Whoa there!
+  Challenge000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Ah, we meet again!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI trust you're doing well?"

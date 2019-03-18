@@ -1,0 +1,28 @@
+---
+entries:
+  Npc_kokiri001_NearActorsTalk000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: You did a great job on the trial.
+  Npc_kokiri001_NearActorsTalk010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I was cool and composed the whole time!
+  Npc_kokiri001_Talk000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "My little baby's all grown up."
+  Npc_kokiri001_NearActorsNear000:
+    - text: Well done!

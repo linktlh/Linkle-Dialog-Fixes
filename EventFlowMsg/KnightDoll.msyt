@@ -1,0 +1,501 @@
+---
+entries:
+  Talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 8
+    - text: "Mmm... Huh?\n\n\nAnd what is a Hylian vai like yourself\ndoing here?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  "0008":
+    - text: Bye!
+  Talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm an archaeologist...of sorts. I was just\nporing over some ancient text that I\ndiscovered the other day...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "And I've finally decoded it!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Well...part of it, at least.\n...But the rest is not far off.\n\nWith this discovery, I'll finally be able to\nmake a name for myself as an\narchaeologist!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: OF COURSE!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nYou and I meeting here is no\ncoincidence. I've never been one to\nquestion fate.\nI can't explain why...but I trust you for\nsome reason. I'll tell you the details of\nmy research if you can keep a secret."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "There's a temple east of here near\nthe entrance to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Desert
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nIt's dedicated to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "seven giant statues\nof the heroines"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", said to be the divine\nprotectors of the Gerudo.\nIt was at this temple that I originally\ndiscovered the ancient scripture.\nIt reads:\n\"When the symbols of the seven find\ntheir place, the blessed path will be\nrevealed.\"\n...That's all I've been able to decipher\nso far.\n\nIt's believed that people once came from\naround the world in search of the\nheroines' blessing.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "But as far as I can tell, it doesn't appear\nthat anyone has found it yet..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  Talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "What? You're joking, right?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\nLook, whenever I talk to my sister about\nthis, she spaces out. I need someone to\ntalk to, so YOU'RE GOING TO LISTEN!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hoo...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Sorry about that."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThere's a temple east of here near\nthe entrance to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Desert
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt's dedicated to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "seven giant statues\nof the heroines"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", said to be the divine\nprotectors of the Gerudo.\nIt was at this temple that I originally\ndiscovered the ancient scripture.\nIt reads:\n\"When the symbols of the seven find\ntheir place, the blessed path will be\nrevealed.\""
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n...That's all I've been able to decipher\nso far.\n\nIt's believed that people once came from\naround the world in search of the\nheroines' blessing.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "But as far as I can tell, no one has found\nit yet."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  Talk_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Before long, I'll understand the entire\ntext!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nFortunately that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has\nquieted down, so I can conduct my\nresearch in peace."
+  "0000":
+    - text: Where is it?
+  Talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: "The temple with the giant statues is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "near\nthe entrance to Gerudo Desert"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but the\nsandstorm presents a problem.\nAnd that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " isn't in the most\nwelcoming mood. Approaching the\ntemple will be difficult."
+  Talk_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: It was over there the whole time?
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "\nI thought it strange that the sandstorm over there\nnever lifted..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  "0001":
+    - text: Blessing?
+  Talk_13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: "The temple with the giant statues is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "near\nthe entrance to Gerudo Desert"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nNow that the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has calmed\ndown, I should be able to explore the\narea.\nAlthough I still have the sandstorm to\ncontend with..."
+  Talk_14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta."
+  "0002":
+    - text: What are you doing?
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I'm not sure what exactly it means, but\nmaybe I'll find out once I've deciphered\nmore of the text.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm not sure if this is related, but it's said\nthe heroines held powers that were part\nof a bigger whole.\nEach heroine had a different power:\nskill, spirit, endurance, knowledge, flight,\nmotion, and gentleness.\nBut they all look the same to me."
+  Talk_15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq."
+  "0003":
+    - text: Gotta go.
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I should understand the entire script\nbefore long, but that's only the\nbeginning of my problems."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has been moving\naround the area, making it harder for me\nto conduct my research.\nThat thing has no respect for academia!"
+  Talk_16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba."
+  "0004":
+    - text: My lips are sealed.
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 0
+    - text: "Wait, you're leaving already?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Oh. I thought that you came to hear\nthe Legend of the Seven Heroines..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "My sister won't listen to me, so I was hoping\nsomeone else would..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Near_002:
+    - text: I see...
+  "0005":
+    - text: I need to go.
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "\"When the symbols of the seven find\ntheir place, the blessed path will be\nrevealed.\"\nWell, we know the place it's referring to.\nI just need to finish deciphering the full\ntext now."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 8
+            field_5:
+              - 0
+              - 2
+  "0006":
+    - text: Blessing?
+  Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I wish my sister was more like you. If\nshe'd take more interest in my research,\nshe might learn something useful.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Instead she spends her time obsessing\nover Lady Urbosa. She won't even give\nme the time of day."
+  "0007":
+    - text: I see.

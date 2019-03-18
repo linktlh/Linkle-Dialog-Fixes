@@ -1,0 +1,1300 @@
+---
+entries:
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm worried about my precious wares."
+  Com_Talk_00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - text: "Whatcha sellin'?"
+  RetMSG_Kyu_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you're fixin' to travel west beyond the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha Great Bridge
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", be sure to keep\nan eye out for them "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: flying Guardians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Com_Talk_01:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: Hrm...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " If that's what you're thinking,\ndoes "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: sound fair?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: Thank you kindly!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Is there anything else?"
+  Com_Talk_04:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "Oooh, but I really want it!"
+  Com_Talk_10:
+    - text: "Lookin' to buy\n"
+    - control:
+        two:
+          type11:
+            field_1: 42
+            string: Shop_SelectItemName
+            field_3: 0
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  Com_Talk_05:
+    - text: "I'll buy anything you've got."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Just try me!"
+  Com_Talk_11:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: Thank you kindly!
+  Com_Talk_06:
+    - text: "Whatcha lookin' to buy?"
+  Com_Talk_12:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "If it's rice you need, I'm your gal!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nTake your time browsing!"
+  Com_Talk_02b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Thank you kindly!
+  Com_Talk_07:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "Oh, so sorry!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Looks like I'm fresh out of\nthat one."
+  Com_Talk_13:
+    - text: How many you looking to sell?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5500
+            field_3: 5508
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  Com_Talk_02c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Thank you very much!
+  Com_Talk_08:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "Looks like you're a bit short on rupees."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nFind me the next time I come around."
+  Com_Talk_14:
+    - text: "Hmm... You wanna sell "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: "?"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\nI can go as high as "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_20:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "Be sure to check out my rainy-day\nspecial: "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Goron spice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It's handier than\na Cucco on a rooftop if it's cold out!"
+  Com_Talk_02d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "Your business made it worth walking all\nthe way out here!"
+  Com_Talk_09:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: Looks like your bag is a mite full.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nJust sell or toss a few things to free\nup some space."
+  Com_Talk_15:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "I couldn't possibly buy that from you."
+  Thanks00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Here, take this."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's a token of\nmy gratitude."
+  Com_Talk_16:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "I can't literally buy the clothes off your\nback. Go ahead and change first."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nDon't worry, I ain't peekin'!"
+  RetMSG_Kyu_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "This here donkey's been carrying all this\nwheat and rice for days."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If only I could\nlighten his load, even just a mite!"
+  Com_Talk_30:
+    - text: "Well, "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " will cost ya "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  Com_Talk_31:
+    - text: How many can I do ya for?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5502
+            field_3: 5507
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  RetMSG_Kyu_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you're fixin' to travel west beyond\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha Great Bridge
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you'd best\nbe wary of what's over there.\nThese ancient weapons, some sort of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: flying Guardians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", have been a real\nmenace to travelers that far out."
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "I'll just wait here until the monsters go\naway on their own..."
+  Com_Talk_33:
+    - text: Just one?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll buy it for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nSound fair?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  MSG_Kyu_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This ain't much my business, but..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI heard there's some treasure hidden\nin Hyrule Castle."
+  RetMSG_Kyu_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you ever cross "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha Great Bridge
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nkeep your ears open for a right ghastly\nvoice echoing from the valley below.\nThey say a Goron once lost his footing\nand fell off that bridge, all the way\ndown into "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tanagar Canyon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "\nAnd they say that his ghost..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nhaunts all who cross the bridge!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nMwahahahaaaa!"
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "I think I'd better just stay here."
+  Com_Talk_34:
+    - text: "Well, well...I may close early today.\nI've got "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: ", so that'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  RetMSG_Kyu_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you ever cross "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha Great Bridge
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nkeep your ears open for a right ghastly\nvoice echoing from the valley below.\nThey say a Goron once lost his footing\nand fell off that bridge, all the way\ndown into "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tanagar Canyon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  RetMSG_Kyu_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Say, do you have any..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "expensive metal\ngear on you?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWait, what?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "No, no, it's not like that!\nIt's just, lightning strikes these here\nparts pretty often, you see?\nSo if you hear a rumblin' up in the sky,\nyou'd best be unequipping any metal\ngear. That's all I was meanin'!"
+  Com_Talk_35:
+    - text: "I'll give you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for the lot.\nSound fair?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  RetMSG_Kyu_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 26
+    - text: "♪Ooohhh, Hyrule Castle tooown!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThere's treasure to be foooound!♪\n\nOh, this song?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Some singin' traveler\nwandered past and I've had it stuck in\nmy head since! No idea what it means..."
+  Com_Talk_36:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Phew, that was the last of them.\nI'm glad you bought me out!"
+  RetMSG_Kyu_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This here donkey clip-clopped his way\nfrom "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha Bridge Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", full bags on\nhis back every clippin'-clop of the way.\nI can't help but feel bad for the guy."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIf only I could lighten his load, even\njust a mite!"
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: Phew... You saved me.
+  Com_Talk_05b:
+    - text: Just leave the buying to me!
+  Com_Talk_11b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: Thank you much!
+  Com_Talk_37:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "Sorry, looks like I'm all sold out for the\nday."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Want a sneak peek of what I'll\nhave in stock next time?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Oh, hey!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Got enough foodstuffs for your\njourney?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Best not tempt runnin' low, so\nwhy not take a look at what I've got?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: Much obliged.
+  Com_Talk_05c:
+    - text: "I'll be more than glad to buy anything\nyou don't want."
+  Com_Talk_11c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Much obliged!
+  MSG_Kyu_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm passing through "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Serenne Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on\nmy way to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Snowfield Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " myself."
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Fixin' on anything else?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Com_Talk_05d:
+    - text: "I'll buy anything."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Seriously!"
+  Com_Talk_11d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Thank you!
+  Rest_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm a donkey-totin' merchant, ya see,\nspecializin' in all sorts of grain."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Peddlin'\nrice for rice fans, wheat for bread fans!"
+  Rest_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Rain ain't welcome by most travelin'\nmerchants, ya see."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But it ain't all bad."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nGives us a chance to take a rest!"
+  "5500":
+    - text: Sounds good!
+  Rest_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "I ain't mindin' the rain. Gettin' a little wet\nain't never hurt anyone."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's the lightning\nyou best be lookin' out for.\nEspecially if you're wearin' metal!"
+  Com_Talk_56:
+    - text: "Just one, is that right?\nThat'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Sound good?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  "5501":
+    - text: Maybe not...
+  "0000":
+    - text: "Fixin' to buy."
+  "5502":
+    - text: "I'll take it."
+  "0001":
+    - text: "Lookin' to sell."
+  "5503":
+    - text: On second thought...
+  "0002":
+    - text: Not right now.
+  Near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: "♪La-la-la, da-donkey.♪"
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: You saved me...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Not sure how I can repay\nyou, though."
+  Near01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: "♪Donkey-dee, la-la-la.♪"
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: Nice and safe again thanks to you.
+  Near02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: "♪Tra-li-la, da-donkey.♪"
+  MSG_Kyu_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "Sure is a cold one, ain't it?\n\n\nThe trip from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Serenne Stable "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Snowfield Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " always gets me. The\nchange in weather is so drastic!"
+  Near03:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: "♪La-li-lu-li, da-donkey.♪"
+  "5507":
+    - text: "I'll take 'em all!"
+  RetMSG_Kyu_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So if you hear a rumblin' up in the sky,\nyou'd best be unequipping any metal\ngear. Armor, swords, and the like!"
+  Near04:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: "♪Li-li, rain, da-donkey.♪"
+  "5508":
+    - text: "I'll sell them all!"
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: "A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Guardian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... We need to hightail it\nwhile we can!"
+  MSG_Kyu_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Say, are you a traveler too?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWhere you headed?\n\nI'm passing through "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Serenne Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on\nmy way to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Snowfield Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " myself."
+  MSG_Kyu_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You'd best unequip your metal gear\nwhen there's a lightning storm a-brewin'.\nAt least, that's what they say!"
+  MSG_Kyu_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "Maybe you're already knowin' this, but..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nlightning strikes ain't exactly uncommon\naround these here parts.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You'd best unequip your metal gear\nwhen there's a lightning storm a-brewin'.\nAt least, that's what they say!"
+  MSG_Kyu_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "My donkey is plum tuckered out, so\nI'm fixin' to spend a few nights at\nthis here stable."
+  MSG_Kyu_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This ain't much my business, but..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI heard there's some treasure hidden\nin Hyrule Castle.\nTreasure hunting ain't much my thing,\nbut you look like the adventuring sort.\nThought you'd hanker a know!"
+  MSG_Kyu_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 42
+    - text: "*shiver...*\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "N-n-no, I'm not scared."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI'm c-c-cold.\n\nThe trip from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Serenne Stable "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Snowfield Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " always gets me. The\nchange in weather is so drastic!"
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Phew, you're stronger than you look!"
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: "You saved me? I don't know what to say."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nExcept..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: sorry I interrupted your journey.
+  RetMSG_Kyu_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 26
+    - text: "♪Ooohhh, Hyrule Castle tooown!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThere's treasure to be foooound!♪"
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "Thanks for stoppin' by.\nSee you down the road!"
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "That had me so scared I reckoned my\nlegs wouldn't be movin' again!"
+  MSG_Kyu_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "My donkey is plum tuckered out, so\nI'm fixin' to spend a few nights at\nthis here stable."

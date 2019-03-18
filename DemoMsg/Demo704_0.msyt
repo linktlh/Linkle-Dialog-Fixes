@@ -1,0 +1,47 @@
+---
+entries:
+  Demo704_0_Text000:
+    - text: "Well now, I've seen that face before..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 72
+    - text: "\n\n\nI had a feeling you would show\nup eventually. But making me wait\na hundred years is a bit...indulgent."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 214
+    - text: "\nYou're here to wrest control of Medoh\naway from Ganon, correct?"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 103
+  Demo704_0_Text001:
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Guidance Stone "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has the information\nfor the layout of this Divine Beast. Can\nyou make it there?"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 188
+  Demo704_0_Text002:
+    - text: "If so, then the first thing you'll want to\ndo is find yourself a map."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 150

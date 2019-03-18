@@ -1,0 +1,629 @@
+---
+entries:
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Did you want to ask me something?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 5
+            field_3: 6
+            field_4: 7
+            field_5: 8
+            field_6:
+              - 0
+              - 3
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Lady Mipha is the princess of the Zora
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nand Prince Sidon's elder sister.\n\nShe is also the Zora Champion."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThat means she was able to command\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: But unfortunately...Lady Mipha was...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWell, 100 years ago..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: I should not be the one telling you this.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSorry. Please ask King Dorephan if you\nwish to know more."
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: Trello is my father.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\nSince retiring, he has been in charge\nof the Champion Festival. It is he who\nnow bears the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ceremonial Trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nBut, Lady Linkle..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You really should not\nspeak with any of the elderly here.\nIncluding my father.\nAs for me... Well..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I just do not believe\nyou are guilty of anything!"
+  "0002":
+    - text: "I don't remember."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: throne room
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is where King Dorephan\nand Prince Sidon can often be found.\n\nYou can use either staircase to go up."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhen you get to the second floor,\nthe throne room is up and to the back."
+  "0003":
+    - text: That sounds familiar...
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Roger that!
+  "0004":
+    - text: "\"Again\"?"
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "The sky is clear for the first time in a bit!\n\n\nI would like to celebrate by taking my\ndaughter on a trip,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but I cannot afford\nto leave my post..."
+  "0005":
+    - text: Mipha?
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Thank you for saving "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast Vah Ruta "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is your\nally now... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "How incredible.\n\nKeep your spirits up, and use its power\nto banish "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " from\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  "0006":
+    - text: Trello?
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: Huh?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " What is it?!"
+  "0007":
+    - text: Throne room?
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Good morning.
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "No, I mean..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Hylian Champion!\n\n\nCome back anytime!"
+  near00:
+    - text: Hm?
+  "0008":
+    - text: Good-bye.
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Good day.
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 6
+    - text: Is there anything else you want to ask?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 5
+            field_3: 6
+            field_4: 7
+            field_5: 8
+            field_6:
+              - 0
+              - 3
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Good evening.
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Nothing to report, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Lady Linkle.
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "*AHEM* Father..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " We are on guard duty\nright now."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "It's me! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Rivan!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "We used to swim together when I was\nbut a child..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Remember?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: "Oh, right... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Sorry.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "Well, it has been "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 100 years
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " since then."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAnd now I'm over 130 years old...\n\nI must say, you've aged well for a Hylian."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nUnbelievably well!\n\nNow that I think about it—"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "shouldn't you\nbe dead?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Sorry. That may be too\npersonal a question."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - text: "So the Hylian that Prince Sidon brought\nhere..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Don't tell me..."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "The leader of the pack, Bazz...\nThe heroine, Gaddison...\n\nAnd my father, Trello... They have all\naged quite a bit, I'm afraid."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " But they\nare all doing well.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "Oh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "But, Lady Linkle, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you probably\nshouldn't speak to the elderly.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Oops! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Sorry for keeping you too long.\n\n\nYou have business in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: throne room
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nright?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Please proceed there at your\nearliest convenience."
+  talk23:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: Lady Linkle!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - text: Is it truly you? The Hylian Champion?!
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "By the way... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Lady Linkle, are you going\nto fight "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " again?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 4
+            field_3:
+              - 1
+              - 205
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: I mean...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Lady Linkle...\n\n\nYou and Lady Mipha fought "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Calamity\nGanon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " 100 years ago. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Don't you recall?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Lady Linkle... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You really don't remember\nanything, do you?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: OK!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " In that case, ask me anything \nyou want to!"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 5
+            field_3: 6
+            field_4: 7
+            field_5: 8
+            field_6:
+              - 0
+              - 3

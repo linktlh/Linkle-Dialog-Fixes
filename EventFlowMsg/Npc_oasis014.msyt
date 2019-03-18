@@ -1,0 +1,337 @@
+---
+entries:
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 14
+    - text: "What is it? I feel like I've met you before,\nbut I don't recall having any Hylian\nacquaintances...\nEspecially since I've only ever served\nin the palace. I've never even set foot\nbeyond the town's walls.\nI thought I could relax at last, now that\nBuliara has come of age. But then\nsomething like this happens...\nI'm retired now, though, so there isn't\nanything I can do about it."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 2
+    - text: "What were the guards doing while\nthieves were sneaking into town and\nmaking off with the chief's heirloom?\nWhen I was captain of the guard, such a\nfailure would have been absolutely\nunthinkable."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It's just pathetic.\nIf Buliara was out on the front lines, this\nwould never have happened."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I hope that I never have to witness\nsuch turmoil ever again."
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "If I were still on active duty, I'd whip all\nof those guards back into shape."
+  Talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "A little while ago, a gang of thieves\nslipped into the palace and stole the\nchief's heirloom, the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Thunder Helm
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIt's bad enough to be robbed in general,\nbut for the object stolen to be a valued\nheirloom belonging to our own chief...\nIf I was still in charge, any guard who\nfailed to catch those thieves would be\ndoing some serious manual labor.\nAnd then they'd be thrown back into\ntraining, all the way from the beginning."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nNo exceptions!"
+  Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "A little while ago...\n\n\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sand seal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " that the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " was\nwith got spooked by a monster and\nran off...\nShe quickly realized that it had pulled\nher very close to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naboris
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\nAnyone who approaches "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naboris
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " risks\nbeing struck by lightning from that\nDivine Beast.\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " was lucky to get away..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " And\never since then, Buliara has refused to\nleave her side."
+  Talk_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Apparently the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Thunder Helm
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has been\nreturned to us. Thank goodness for\nthat...\nBut don't break out the glasses of Noble\nPursuit just yet. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It wasn't even a Gerudo\nsoldier who did it...\nIt was some outsider, I hear."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " What were\nthe soldiers doing while this outsider was\ndemonstrating such skill?\nWhen I was on active duty, this\navalanche of failures would be\nunthinkable!\nBuliara needs to get back out on the\nfront lines where she belongs."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 14
+    - text: "What is it? I feel like I've met you before,\nbut I don't recall having any Hylian\nacquaintances...\nEspecially since I've only ever served\nhere in the palace. I've never even set\nfoot beyond the town's walls.\nI thought I could relax at last, now that\nBuliara has come of age. But of course\nthings can't be easy.\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - text: "With the Divine Beast raging around\nand thieves breaking into town...\n\nI'm retired now, though, so there isn't a\nlot I can do, unfortunately..."
+  Talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "It's impossible to get a wink of sleep with\nhow noisy everyone is! All those young\nones at the canteen...\nI'd like to whip their attitudes into\nshape."
+  Talk_13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "It seems like the Divine Beast has finally\nstopped stomping all over the desert...\n\nI hear "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady Riju
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " played an active part in\ncalming the creature, too.\n\nShe may be young and may seem out of\nher depth, but she's certainly proven to\nbe a splendid chief.\nWith everything that's happened lately,\nI'd bet Buliara is starting to see "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady Riju
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\ndifferently, too.\nI think the mishaps are behind us now.\nMaybe now I can finally get some rest\nand really relax."
+  Talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta..."
+  Talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq..."
+  "0000":
+    - text: What happened?
+  Talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba..."
+  Raimei_CK_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "That's quite an unusual thing you're\nwearing on your head, isn't it?\n\nWell, I can't say I expected to see you\nwearing that...\n\nAre you exploring what it's like to be a\nthief, now?\n\nEheheh, I'm only kidding, of course.\n\n\nSeeing that reminds me of when I still\nworked in the royal palace.\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: "That item was worn by the previous\nchief, you know. It brings back such\nmemories...\n*ahem* "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Anyway, that helm is a real\ntreasure to the Gerudo people and to\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI don't know how you got it, exactly, but\nyou must treat it with care."
+  "0001":
+    - text: Good-bye.

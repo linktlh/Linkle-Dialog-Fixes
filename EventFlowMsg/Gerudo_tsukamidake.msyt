@@ -1,0 +1,993 @@
+---
+entries:
+  Talk_059:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "5... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "15... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "25... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: 35...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " 55..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Yesss. That's what I like to see!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Talk_1000:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        four:
+          type1:
+            field_1:
+              - 31
+              - 205
+    - text: Rush... Rush...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Lady...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nOh, uhh... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I mean, young lady... \nDidn't mean to imply that you're old..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nAnyway..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Got any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  Talk_060:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Heyyy...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Talk_061:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The deal's for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "55"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It might be a pain to\nget 'em all, but I hear "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "diamonds "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "have a\npretty high value throughout Hyrule.\nNot a bad deal, eh?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " And I'm always\nwaiting right here when you're ready\nto do business."
+  Talk_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Young lady...\n\n\nGot any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  Talk_062:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...Zero."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "...Hey."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Young lady."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " The deal was for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "55"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\n\nI have no use for jokes. They're a waste\nof both breath and time.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you want to make a deal with me,\nbring me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: 55 rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Near01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 11
+              - 205
+    - text: Not enough...
+  "0000":
+    - text: "What's the matter?"
+  Talk_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "See, I... I'm tired.\n\n\nTired of going normal speed, I mean...\n\n\nI first tried "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "rushrooms "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "when I was five\nyears old...\n\nAnd come to think of it, I ate them every\nday since without fail...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Back in the day, I'd win every race I ran\nthanks to those things...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Cut to 55 years later...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nNow I can barely drag these bones off\nthe ground without those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nBut no matter how many I eat to fortify\nmyself...\n\nI'm just too old to get up the cliffs to\npick "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " where they grow...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "That's why I'm letting all able-bodied\nsorts know that I'm in the market for 'em.\n\nI'll give a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: 55 rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". \nThat's worth the effort, right?\n\nIf you want to do business, just come\ntalk to me. I'm always here."
+  Talk_050:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I thought you'd come back...\n\n\nYou bring the stuff?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5:
+              - 0
+              - 2
+  Talk_063:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "I'll happily take another batch anytime\nyou've got one. I'll always be right here."
+  Talk_051:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "5... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "15... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "25... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: 35...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " 55..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Heh, yep, they're all here..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nI left that rock I promised you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "behind the\nstable"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Beats me why anyone would go to such\ntrouble for a little ol' rock...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'd rather have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " any day."
+  Talk_052:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Heh. Come back when you get more.\nI'm always here.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "I can't give you any more diamonds,\nbut I CAN offer twice the market value\nfor 'em.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Just remember that I won't deal in any\nvolume other than "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "55"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " at a time."
+  Talk_053:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 16
+    - text: "...Young lady."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You know the deal was for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "55"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\n\nI have no use for a random number of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Just can't do it.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you want to make a deal with me,\nbring me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "55"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0004":
+    - text: "I brought 'em."
+  Talk_054:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "5... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: 15...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Uh..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Huh."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 16
+    - text: "...Hey. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Young lady.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " The deal was for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "55"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\nWhat am I supposed to do with some\nrandom number of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you want to make a deal with me,\nbring me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "55"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0005":
+    - text: Where are they?
+  Talk_055:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You want to know where to pick\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\nThey grow all over the place.\n\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Rushrooms "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "tend to grow on cliffs, \nso they'll be everywhere around here.\nNo shortage of cliffs.\nIf I was five years younger, I'd be picking\nthem myself..."
+  "0006":
+    - text: Not yet.
+  Talk_056:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "5... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "15... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: 25...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Uh..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Huh."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "...Hey. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Buddy.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " The deal was for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "55"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\nWhat am I supposed to do with some\nrandom number of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you want to make a deal with me,\nbring me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "55"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Talk_057:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "5... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "15... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: 25... 35...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Uh..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Huh."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "...Hey. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Buddy.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " The deal was for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "55"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\nWhat am I supposed to do with some\nrandom number of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you want to make a deal with me,\nbring me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "55"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rushrooms
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."

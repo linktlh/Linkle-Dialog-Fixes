@@ -1,0 +1,58 @@
+---
+entries:
+  TerrorArrow:
+    - text: Stop it!
+  Challenge000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Oh, forgive me."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It seems I've prattled\non..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  TerrorFire:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorExplosion:
+    - text: WAAAAAA!
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: "I see... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "So you were meant to face the\nsun and shoot an arrow from the platform\nas indicated by the tower's shadow...\nI'm amazed you figured that out!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: I hope our paths cross again.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " May the\nlight illuminate your path."
+  TerrorSword:
+    - text: Knock it off!

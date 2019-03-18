@@ -1,0 +1,46 @@
+---
+entries:
+  QL_UMiiMini_GiveCake_Desc:
+    - text: "I overheard a fight between Hagie and Ruli,\nhusband and wife. Their daughter Hunnie is sick\nand won't get better if she doesn't eat. But the\nthing is, the only food she has an appetite for is\ncake, and finding a particular cake to please her\nhas proven nearly impossible. Ruli is at her wit's\nend, ready to even trade her soul to a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: monster
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nif it means finding a cake her daughter will eat.\n\nWhere am I going to find a suitable "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: cake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  QL_UMiiMini_GiveCake_Finish:
+    - text: "I was generously rewarded for giving Ruli\na monster cake.\n\nHer daughter Hunnie seems to have made\na full recovery, well enough even to play\noutside again."
+  QL_UMiiMini_GiveCake_Name:
+    - text: "A Parent's Love"
+  QL_UMiiMini_GiveCake_Give:
+    - text: "I gave Ruli a monster cake!\n\nHer sick daughter, Hunnie, who has not\nhad an appetite for anything but cake\nlately, was able to eat it.\n\nI should check in with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Ruli
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to find out how\nHunnie is doing."

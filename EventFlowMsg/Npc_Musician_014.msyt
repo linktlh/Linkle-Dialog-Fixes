@@ -1,0 +1,31 @@
+---
+entries:
+  TerrorHorse:
+    - text: Watch it!
+  TerrorArrow:
+    - text: Stop it!
+  Challenge000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Ah, I knew we'd meet again!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThough, I never imagined it would be\nhere..."
+  TerrorFire:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorSword:
+    - text: Knock it off!
+  TerrorExplosion:
+    - text: WAAAAAA!

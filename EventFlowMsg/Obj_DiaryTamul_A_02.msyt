@@ -1,0 +1,101 @@
+---
+entries:
+  "0003":
+    - text: Stasis Stuff.
+  "0004":
+    - text: Crazy for Cryonis.
+  "0005":
+    - text: Next page.
+  "0006":
+    - text: First page.
+  talk00:
+    - text: "Sheikah Slate Manual\nWritten by: Purah!"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 2
+              - 0
+              - 3
+              - 0
+              - 4
+              - 0
+              - 1
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0000":
+    - text: Check cover.
+  talk01:
+    - text: "Cute Stamps\n\n\nStamps are simply a mark that you can\nplace on your map. They are incredibly\neasy to use and cute to boot!\nFirst, open the map on your\nSheikah Slate.\n\nLook around it, and if you find a spot\nyou're curious about, you can place a\nstamp there with the press of a button.\nYou can also use "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: pins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " instead of stamps\nif you want to create an actual beam of\nlight at that spot to show you the way.\nIt's all super handy!"
+  "0001":
+    - text: Stop reading.
+  talk02:
+    - text: "Stasis Stuff\n\n\nNot only does Stasis stop objects from\nmoving...it also "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: stores concussive force
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwithin the stopped "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: matter
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nSo if you freeze an object with this rune,\ntry hitting it while it's frozen.\n\nThen, when the Stasis effect has ended...\nHeh, you'll see!"
+  "0002":
+    - text: Cute Stamps.
+  talk03:
+    - text: "Crazy for Cryonis\n\n\nCryonis isn't only for making ice pillars\nyou can climb on...\n\nYou can also use it to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "cut the line of\nsight"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of a Guardian's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: search beam
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nIf you hear a Guardian go BEEP BEEP,\nquickly make some ice to hide behind.\nIt's just common sense!"

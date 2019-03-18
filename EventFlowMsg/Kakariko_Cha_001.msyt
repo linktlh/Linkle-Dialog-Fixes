@@ -1,0 +1,395 @@
+---
+entries:
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Thank you! So much!\n\n\nOK, Koko just needs one "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: swift carrot
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nJust one and Koko can get cookin'!\nKoko will be waiting for you here!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Though, once it gets dark out, Koko will have to\nhead home..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk04_2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: "...Huh?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: HUH?!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nKoko smells "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: swift carrots
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  "0002":
+    - text: This is for you.
+  "0003":
+    - text: "You're nuts."
+  "0004":
+    - text: "You'll live."
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Oooh, that's cold..."
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 31
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "...OH, NO!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Ooooh, it came out perfect!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nHere, please have some!\nKoko's treat!"
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Koko promised to make Cottla some\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: hasty veggie cream soup
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "But silly\nKoko forgot the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: swift carrots
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nKoko is supposed to take Mother's place\nfor Cottla..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Koko is a bad big sister..."
+  Talk13:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Koko wants to try cooking different\nthings so Koko can be a great chef,\njust like Mother!"
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Koko promised to make Cottla some\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: hasty veggie cream soup
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... But Koko\nhas no swift carrots!\nKoko is supposed to be like a mother\nfor Cottla..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Koko is a bad big sister..."
+  Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "Koko is all out of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: swift carrots
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Is that...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: swift carrot
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nThank you so much!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " So very much!\nNow Koko can make dinner for Cottla..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYeah! Time to get cookin'!"
+  Near00:
+    - text: Hrmmm...
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Today's dinner is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: veggie cream soup
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "It's super nourishing and fortifying!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, that's what they say, anyhow.\nIt must be true!\n\nAll you do is toss a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: swift carrot
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rock salt
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "fresh milk "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in a pot\nand stew it up. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Then, voilà! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: So yummy!
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "But...Koko promised to make Cottla\nsome "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: hasty veggie cream soup
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 4
+            field_4:
+              - 0
+              - 2
+  "0000":
+    - text: "I'll bring you some."

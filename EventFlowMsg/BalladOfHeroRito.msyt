@@ -1,0 +1,2542 @@
+---
+entries:
+  Npc_HighMountain011_Talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Naydra "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is usually associated with\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mount Lanayru
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I hear it was also spotted "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "east of\nLanayru Road"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Snowy mountains aren't a problem for\nRitos like myself,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but the journey might\nprove difficult for a Hylian like you.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Be sure to prepare for extreme cold\nif you intend to go there."
+  Npc_ValleyVillage010_Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "Well then...\n\n\nMy wounds are just about healed,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so I \nguess it's time for me to take Tulin\nto the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI'm hoping Tulin grows up to be a\ndistinguished warrior like Master Revali."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 10
+            field_3: 30
+            field_4: 12
+            field_5: 13
+            field_6:
+              - 0
+              - 3
+  Npc_HighMountain011_Talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hmm.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast Vah Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "sure\ncaused a lot of turmoil around here..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 18
+            field_3: 27
+            field_4: 20
+            field_5:
+              - 0
+              - 2
+  Npc_ValleyVillage010_Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: Well then...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I should probably get Tulin\nover to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 10
+            field_3: 30
+            field_4: 12
+            field_5: 13
+            field_6:
+              - 0
+              - 3
+  Npc_HighMountain011_Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Oh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's you."
+  Npc_HighMountain011_Talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Is there anything else you'd like\nto chat about?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 23
+            field_3: 24
+            field_4: 25
+            field_5: 26
+            field_6:
+              - 0
+              - 3
+  Npc_ValleyVillage010_Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "A challenge of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: four targets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Hm, and you\nheard about it in a song?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Shooting four targets...at once, perhaps?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWhy does that sound familiar?\n\nAh, of course! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I've heard "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Master Revali
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\naccomplished something similar at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nAre you going to attempt the same, Linkle?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYes, of course you are. I can see it in\nyour eyes."
+  Npc_HighMountain011_Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 19
+    - text: "Hmm? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: A traveler?
+  Npc_HighMountain011_Talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I used to take lookout duty near\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tanagar Canyon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to keep an eye on\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dragon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " that appears there.\nIt is truly a sight to behold!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Speaking of, you came to see the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast Vah Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "at the top\nof our village, right?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 18
+            field_3: 19
+            field_4: 20
+            field_5:
+              - 0
+              - 2
+  Npc_HighMountain004_Talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hoo?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Champion descendant..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You look\nlike you want to ask me something."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Npc_ValleyVillage010_Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hm? Was there anything else?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 10
+            field_3: 30
+            field_4: 11
+            field_5:
+              - 0
+              - 2
+  Npc_HighMountain011_Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: What a pleasant surprise.
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_HighMountain011_Near00:
+    - text: Lookout duty is tough...
+  Npc_HighMountain011_Talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "There was this big beast called\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast Vah Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "flying above\nthe village up until a while ago.\nBut someone took care of it, and things\nhave finally settled down."
+  Npc_HighMountain004_Talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 20
+    - text: Hoo?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Ah... Never mind."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " My apologies.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Did you need something from me?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Npc_ValleyVillage010_Talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "It's you..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Haven't seen you in a while."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nNow that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s calmed down,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I've\nstarted training Tulin again.\nIf you have the time, would you mind\nshowing Tulin how you handle a bow?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "He gets his bluntness from me, but he\ndoesn't mean anything by it."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Don't let\nwhatever he says get to you."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 15
+            field_3: 31
+            field_4: 17
+            field_5: 14
+            field_6:
+              - 0
+              - 3
+  Npc_HighMountain011_Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I came here because the elder tasked me\nwith keeping watch on the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dragon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " that\nappears around here."
+  Npc_HighMountain011_Near01:
+    - text: I should get some rest.
+  Npc_HighMountain011_Talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "After all that, I went to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tanagar Canyon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nto keep an eye on the"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " dragon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " that is\nsaid to appear there.\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast Vah Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and\na mysterious "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dragon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Geez.\nWe can't catch a break!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 18
+            field_3: 19
+            field_4: 20
+            field_5:
+              - 0
+              - 2
+  Npc_ValleyVillage010_Talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Would you mind showing Tulin how you\nhandle a bow?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Watching a master at work and trying to\ncopy their techniques is a good start\nwhen it comes to training, after all."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 15
+            field_3: 31
+            field_4: 17
+            field_5: 14
+            field_6:
+              - 0
+              - 3
+  Npc_HighMountain011_Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "It's so colossal..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I know it won't\nharm us, yet my body can't help\nbut shiver..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_HighMountain011_Talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Any other questions?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 18
+            field_3: 19
+            field_4: 20
+            field_5:
+              - 0
+              - 2
+  Npc_ValleyVillage010_Talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: Show Tulin how you handle a bow.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It\ncould set a good example for him."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 15
+            field_3: 31
+            field_4: 17
+            field_5: 14
+            field_6:
+              - 0
+              - 3
+  Npc_HighMountain011_Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's been appearing quite frequently\nthese days."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Everyone's worried it's\ngoing to cause trouble for the village.\nAfter the incident with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I can't\nblame them for worrying.\n\nSo far everything seems fine."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll be\nheading back to the village soon."
+  Npc_HighMountain011_Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Come to think of it...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "the horns don't glow\nanymore. I wonder what that means..."
+  Npc_HighMountain004_Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hoo hoo...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Hello, Champion descendant."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou look like you're sitting on a question\nthat would like to hatch."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 4
+            field_3: 28
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  Npc_HighMountain011_Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Don't let me keep you."
+  Npc_HighMountain004_Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "You're curious about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Master Revali
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHoo hoo!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " What perfect timing.\n\nWe recently found "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: The Diary of Revali
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWe were all excited to locate such a\npersonal item of the Champion's.\nHowever, not just anyone has the right\nto read something of that nature..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " \n\nThat's why I left "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Teba
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in charge of it,\nsince he so admires "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Master Revali
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 29
+            field_3:
+              - 1
+              - 205
+  Npc_HighMountain011_Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Do you need something?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_HighMountain004_Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: Hoo hoo...
+  Npc_HighMountain004_Near00:
+    - text: Hoo hoo...
+  Npc_HighMountain004_Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I am happy to answer anything I can.
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 4
+            field_3: 6
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  Npc_HighMountain004_Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: What shall I speak of?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 7
+            field_3: 8
+            field_4: 9
+            field_5: 5
+            field_6:
+              - 0
+              - 3
+  Npc_HighMountain004_Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Was there anything else?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 4
+            field_3: 6
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  "0030":
+    - text: The four targets trial?
+  Npc_HighMountain004_Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I am happy to answer anything I can.
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 16
+            field_4: 6
+            field_5: 5
+            field_6:
+              - 0
+              - 3
+  "0031":
+    - text: The four targets trial?
+  Npc_HighMountain004_Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Was there anything else?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 16
+            field_4: 6
+            field_5: 5
+            field_6:
+              - 0
+              - 3
+  "0010":
+    - text: Tell me about Revali.
+  "0011":
+    - text: Never mind.
+  "0012":
+    - text: Take care.
+  "0013":
+    - text: Not yet.
+  "0014":
+    - text: Sure thing.
+  "0015":
+    - text: Tell me about Revali.
+  "0016":
+    - text: "Where's Teba?"
+  "0017":
+    - text: "Where's Kaneli?"
+  "0018":
+    - text: Divine Beast?
+  Npc_HighMountain011_Talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Any other questions?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 18
+            field_3: 27
+            field_4: 20
+            field_5:
+              - 0
+              - 2
+  Npc_ValleyVillage010_Talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: Warrior...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Might I trouble you to show\nTulin how you handle a bow?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 15
+            field_3: 31
+            field_4: 17
+            field_5: 14
+            field_6:
+              - 0
+              - 3
+  "0019":
+    - text: The dragon?
+  Npc_HighMountain011_Talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Did you know...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "that the dragon\nI mentioned before has a name?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Dinraal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_ValleyVillage010_Talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "A challenge of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: four targets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Hm, and you\nheard about it in a song?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Shooting four targets...at once, perhaps?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWhy does that sound familiar?\n\nAh, of course! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I've heard "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Master Revali
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\naccomplished something similar.\n\nAre you going to attempt the same, Linkle?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYes, of course you are. I can see it in\nyour eyes."
+  Npc_HighMountain011_Talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: That dragon...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "is named "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Dinraal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_HighMountain011_Talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Apparently there are two more of those\ncreatures in Hyrule."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: I believe the other ones are called...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Farosh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naydra
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 21
+            field_3: 22
+            field_4:
+              - 0
+              - 1
+  Npc_HighMountain011_Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's been appearing quite frequently\nthese days."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Everyone's worried it's\ngoing to cause trouble for the village.\nAfter the incident with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I can't\nblame them for worrying.\n\nSo far everything seems fine."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " However..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nJust to be safe, I'll be scoping things out\nfor a while yet."
+  Npc_ValleyVillage010_Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Hm?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " What is it?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If I'm not mistaken,\nthere's something on your mind."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 11
+            field_4:
+              - 0
+              - 1
+  Npc_HighMountain011_Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Come to think of it...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dragon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " always\nflies through this valley at night.\n\nWhen it does, its"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " horns light up"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThere's something about that\nlight that's truly captivating."
+  Npc_ValleyVillage010_Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: Linkle.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " As you know, us Rito use our wings\nto fly forward."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The wind lifts us up into\nthe glorious sky above.\nHowever, "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "we cannot ascend on our own.\n\n\nThe Rito tribe used to believe this was an\nirrevocable truth..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "until "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Master Revali
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s\nfeat changed everything.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "He learned to create his own updraft and\ncrafted a unique skill that allowed him to\nascend straight up into the air.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm sure you can understand the great\nadvantage of being above your foe.\nAs a warrior, I..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "am lacking in that way.\nHowever,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I swear on the sacred sky\nabove that someday I will surpass\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Master Revali
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "To that end, I'm determined to master\nhis skill..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "to teach myself "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Revali's Gale"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_HighMountain011_Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The elder requested that I watch for\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dragon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " that appears around here."
+  Npc_ValleyVillage010_Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: I see.
+  Npc_HighMountain011_Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: Come to think of it...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dragon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " always\nflies through this valley at night.\n\n...Look!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Do you see? Its"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " horns light up"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThere's something about that light\nthat's truly captivating."
+  Npc_ValleyVillage010_Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "Well then...\n\n\nMy wounds are just about healed,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so I \nguess it's time for me to take Tulin\nto the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI'm hoping Tulin grows up to be a\ndistinguished warrior like Master Revali."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 10
+            field_3: 12
+            field_4: 13
+            field_5:
+              - 0
+              - 2
+  Npc_HighMountain011_Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's colossal for sure, but if you look\nclosely, it seems so tranquil."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I can't\nhelp but believe it means us no harm."
+  Npc_ValleyVillage010_Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: Well then...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I should probably get Tulin\nover to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 10
+            field_3: 12
+            field_4: 13
+            field_5:
+              - 0
+              - 2
+  Npc_HighMountain011_Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: Still...
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "When I'm near something that enormous,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nmy body shivers of its own accord,\neven if my mind knows it won't hurt me."
+  Npc_ValleyVillage010_Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "It's you..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Haven't seen you in a while."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nNow that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s calmed down,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I've\nstarted training Tulin again.\nIf you have the time, would you mind\nshowing Tulin how you handle a bow?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "He gets his bluntness from me, but he\ndoesn't mean anything by it."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Don't let\nwhatever he says get to you."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 15
+            field_3: 17
+            field_4: 14
+            field_5:
+              - 0
+              - 2
+  Npc_HighMountain011_Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Everyone's worried it's going to cause\ntrouble for the village..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but everything\nseems fine.\nI think I'll head back."
+  Npc_HighMountain004_Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: Hoo hoo...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You wish to know where\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Teba
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " A good question."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " All I know\nis he has not been in the village lately.\nHe always aspired to be like our\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Champion Revali
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "to become a\nvalued warrior for Rito Village. \nHe also harbors the hope that his son,\nTulin,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " will share in his dream of becoming\na great warrior like "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Master
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Revali
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: "Ah, yes... Perhaps "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Teba's"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "wife,"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Saki
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nknows where he is. \n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "If you're curious, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Teba's home"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "right\nnext door"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to my own humble abode."
+  Npc_ValleyVillage010_Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Would you mind showing Tulin how you\nhandle a bow?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Watching a master at work and trying to\ncopy their techniques is a good start\nwhen it comes to training, after all."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 15
+            field_3: 17
+            field_4: 14
+            field_5:
+              - 0
+              - 2
+  Npc_HighMountain011_Talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Let me guess—you've come to see\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 18
+            field_3: 19
+            field_4: 20
+            field_5:
+              - 0
+              - 2
+  Npc_ValleyVillage010_Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: Show Tulin how you handle a bow.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It\ncould set a good example for him."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 15
+            field_3: 17
+            field_4: 14
+            field_5:
+              - 0
+              - 2
+  Npc_HighMountain011_Talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Let me guess—you've come to see\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 18
+            field_3: 27
+            field_4: 20
+            field_5:
+              - 0
+              - 2
+  Npc_HighMountain004_Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I am happy to answer anything I can.
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 28
+            field_4: 6
+            field_5: 5
+            field_6:
+              - 0
+              - 3
+  Npc_ValleyVillage010_Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I'm counting on you, warrior.\nTulin is awaiting your arrival."
+  Npc_HighMountain011_Talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Ah, yes."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " There's no need for me to keep\nwatch on the dragon anymore."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It simply\ndoesn't seem to mean us any harm.\nThat's why I was able to return to\nthe village. I'm confident we're safe."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Oh! That reminds me.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I've done a bit of\nresearch about the dragon..."
+  Npc_HighMountain004_Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: What shall I speak of?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 16
+            field_3: 7
+            field_4: 8
+            field_5: 5
+            field_6:
+              - 0
+              - 3
+  Npc_ValleyVillage010_Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: elder
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I imagine he's at his home\nin "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Rito Village
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Yes, it's safe to assume\nhe's in his favorite rocking chair.\nThat reminds me."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I was hoping the elder\ncould speak to Tulin about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Master
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Revali
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "But perhaps Tulin's training\nshould come first."
+  Npc_HighMountain004_Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Was there anything else?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 28
+            field_4: 6
+            field_5: 5
+            field_6:
+              - 0
+              - 3
+  Npc_HighMountain004_Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Hoo hoo! So you wish to hear\nabout the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: blazing dragon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Well, you're in luck. A dragon was\nrecently spotted near "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Tanagar Canyon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "It's acting a bit odd, so we're concerned\nit may eventually cause trouble for\nour village.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That is why I have asked the village\nguard, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mazli
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", to keep a close eye\non the creature."
+  Npc_HighMountain004_Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Was there anything else?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 4
+            field_3: 28
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  Npc_HighMountain004_Talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: Hoo hoo...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The historic "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Diary of Revali
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwas recently found at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nour Champion so adored.\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Teba "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "took the diary to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: his home
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfor safekeeping."
+  Npc_HighMountain004_Talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 20
+    - text: Hoo?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Ah... Never mind. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "My apologies.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Did you need something from me?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 4
+            field_3: 28
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  "0020":
+    - text: "Can't talk now."
+  "0021":
+    - text: Tell me more!
+  "0022":
+    - text: Maybe later.
+  "0023":
+    - text: About Dinraal?
+  "0024":
+    - text: About Farosh?
+  "0000":
+    - text: What brings you here?
+  "0025":
+    - text: About Naydra?
+  "0001":
+    - text: Good-bye.
+  "0026":
+    - text: Tell me other things.
+  "0027":
+    - text: "Let's talk dragons."
+  "0028":
+    - text: The flame dragon?
+  "0004":
+    - text: Tell me about Revali.
+  "0029":
+    - text: Diary of Revali?
+  "0005":
+    - text: Bye.
+  "0006":
+    - text: Tell me something else.
+  "0007":
+    - text: Sword?
+  Npc_HighMountain011_Talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Ah.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " So you're developing an interest\nin dragons too, I take it?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 23
+            field_3: 24
+            field_4: 25
+            field_5: 26
+            field_6:
+              - 0
+              - 3
+  "0008":
+    - text: Great Eagle Bow?
+  Npc_ValleyVillage010_Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: Warrior...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Might I trouble you to show\nTulin how you handle a bow?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 15
+            field_3: 17
+            field_4: 14
+            field_5:
+              - 0
+              - 2
+  Npc_HighMountain011_Talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Dinraal "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is the one I journeyed all the way\nto "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Tanagar Canyon "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to see.\n\nI hear it's been spotted near the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Eldin Mountains "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "as well.\n\nThey say standing atop the massive fossil\ncalled the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Eldin Great Skeleton "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is the\nbest way to see it.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Then again, I have no idea how much of\nwhat I just relayed is true..."
+  "0009":
+    - text: Medoh?
+  Npc_HighMountain011_Talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Farosh has been spotted at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lake Hylia
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lake Floria
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nI hear you can get a breathtaking view\nof it "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "from dead center on the right\nside of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Bridge of Hylia
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: I would love to see such a sight.
+  Npc_ValleyVillage010_Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Hm?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " What is it?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If I'm not mistaken,\nthere's something on your mind."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 10
+            field_3: 30
+            field_4: 11
+            field_5:
+              - 0
+              - 2

@@ -1,0 +1,607 @@
+---
+entries:
+  near02:
+    - text: A birdie!
+  talk62:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: A...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shrine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "The snow-white birdie wasn't actually\na bird?\n\nSo the white birdie was actually\nHebra Mountain!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Oh, Grandpa!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You always were such a\nprankster."
+  talk50:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Want me to tell you a story?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 34
+    - text: "I'm not ready to say \"good morning\"\nyet..."
+  talk51:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "OK. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Later.
+  talk52:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Awesome! Me too!\n\n\n*ahem*"
+  talk53:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Once upon a time...\n\n\nMy grandpa "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "stopped at a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: big tree
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " while\nhe was climbing a big mountain and\nlooked below him to the northwest.\nWhen suddenly"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " he saw "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "a HUGE snow-\nwhite birdie "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "with its wings spread wide!\n\nMy grandpa took off "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "flying after the\nsnow-white birdie"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nAnd as he got a little closer to the white\nbirdie,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Grandpa saw "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "something SUPER\nimportant "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: inside its belly!
+  talk54:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: The birdie had swallowed—!
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 4
+            field_3:
+              - 1
+              - 205
+  talk55:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "...I always get sleepy around that part of the\nstory..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "so I don't remember...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: OH!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I know where the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: big tree
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is, though!"
+  talk56:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's over there!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You see it?\n\n\nGrandpa said he saw the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "snow-white\nbirdie "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: from THAT tree!
+  talk57:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Hmm "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "hmm "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "hmm... Now what did that\nsnow-white birdie swallow?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I can't hear the story from Grandpa\nanymore..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n*sniff*"
+  "0000":
+    - text: Uh... Yeah.
+  talk58:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Do you want me to tell you the story\nagain?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  "0001":
+    - text: Nope.
+  talk59:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The snow-white birdie's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "important\nthing"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\nWhen I grow up, I'm gonna go to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: big tree
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and find it."
+  "0002":
+    - text: I love stories!
+  "0003":
+    - text: "No, thanks."
+  "0004":
+    - text: Well? What was it?!
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 34
+    - text: "Yep... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Sleepy.
+  talk12:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: Flight Range?
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n\n\nThat's where me and my friends"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " practice\nflying."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'll ask my dad to take me to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: big tree
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAs for the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " you should just\ngo check it out."
+  "0008":
+    - text: I found it.
+  "0009":
+    - text: Well...
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "I'm busy right now...\n\n\nBut if you follow me, I'll tell you a story."
+  talk70:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Thanks for helping me figure out what\nthe snow-white birdie's important thing\nwas! Even if it wasn't a birdie at all.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "My grandpa isn't here anymore..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut now I can tell the story all by myself!"
+  talk71:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 11
+    - text: "It was... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shrine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The heroine who found the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shrine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " defeated\nthe bad guys...and saved the princess!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: And they all lived happily ever after!
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Let's talk later..."
+  talk72:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "I told the whole story by myself!\nPerfectly!"
+  near00:
+    - text: ♪
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm gonna go sleepy now..."
+  talk60:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The snow-white birdie's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "important\nthing"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\nWhen I grow up, I'm gonna go to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: big tree
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and find it."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 8
+            field_3:
+              - 1
+              - 205
+  near01:
+    - text: "*yawn*"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 34
+    - text: "...Aren't you going to say\n\"good morning\" to me?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  talk61:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: WHAT?!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You met the white birdie?!\nWhat did he swallow?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 9
+            field_3:
+              - 1
+              - 205

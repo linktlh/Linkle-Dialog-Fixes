@@ -1,0 +1,478 @@
+---
+entries:
+  near02:
+    - text: Hee hee!
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: "I like cooking! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Yummy!
+  near03:
+    - text: Zzz... Zzz...
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Ha ha! Fun to run! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Fun! Fun!
+  talk09:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Nyum...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0000":
+    - text: What is it?
+  "0001":
+    - text: Who do you like?
+  "0002":
+    - text: What do you like to do?
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I love talking! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Ask me a question!
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 1
+              - 0
+              - 2
+              - 0
+              - 3
+              - 0
+              - 4
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0003":
+    - text: What do you like?
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: Bye-bye!
+  "0004":
+    - text: Bye!
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Huh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Ma'am?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "I love my mommy!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: But my mommy...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " She's always talking\nwith her friend."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You're not supposed to\ninterrupt them."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThe only way I've been able to talk to her\nwhen she's with her friend is to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "sneak up\nfrom behind"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You have...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: Want shiny jewels! Shiny money! Love!
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You have...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: sapphire
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: No jewels for you...
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Wow...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "blue thing so pretty. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I like!
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You have...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ruby
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: Talk more!
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 1
+              - 0
+              - 2
+              - 0
+              - 3
+              - 0
+              - 4
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 32
+    - text: "*pant*"
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You have...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: topaz
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: I like catching bugs!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Shiny bugs!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Crouch down and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: quietly
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " approach the\nbug."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " If you do that...you'll catch the bug!"
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: So pretty! And cool!
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You have...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: opal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Where can I get it?
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You have...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: amber
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 34
+    - text: Narah needs to go nighty-night.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSee ya!"
+  near00:
+    - text: "What's that?!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 12
+    - text: Talk later!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Bye-bye!"
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: Sell it! Be rich!
+  near01:
+    - text: "*yawn*"
+  talk06:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Zzz... Zzz...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Nyum..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: I love to run!

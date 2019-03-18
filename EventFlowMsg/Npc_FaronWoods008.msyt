@@ -1,0 +1,62 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: That horse is SO BIG!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\nWith that kind of bulk, I wonder if it\ncould even knock back monsters as\nit runs..."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "That giant horse seems pretty wild, eh?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI doubt it'll listen to you."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "You didn't bring the giant horse with ya?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nToo bad, I'd really like to see it again."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "That horse is gigantic!\n\n\nI don't think normal-sized horse stuff\nwill even fit a horse that big!"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: That horse is enormous!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " With muscles\nthat big, I bet it has an insane amount\nof endurance too!"

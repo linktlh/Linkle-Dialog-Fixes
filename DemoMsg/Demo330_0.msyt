@@ -1,0 +1,78 @@
+---
+entries:
+  Npc_oasis039_Demo330_0_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "A challenger has appeared to take on the\nGerudo sand-seal race! Apparently one\nwho does not mind risking life and limb!"
+  Npc_oasis039_Demo330_0_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "But will our current record fall? The one\nset by our undefeated champion?!"
+  Npc_oasis039_Demo330_0_030:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The incomparable beast of the desert...\nThe sand seal is ready to ride!"
+  Npc_oasis039_Demo330_0_040:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Can our new contestant reach the goal in\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "less than "
+    - control:
+        two:
+          type14:
+            field_1: 56
+            string: SunazarashiRace_BestTime_L
+            field_3: 0
+    - text: ":"
+    - control:
+        two:
+          type14:
+            field_1: 56
+            string: SunazarashiRace_BestTime_M
+            field_3: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "while still\npassing under every arch?!"
+  Npc_oasis039_Demo330_0_050:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The suspense is killing me!\nI'm going to start..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: the...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\ncountdoooooown!!"

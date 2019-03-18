@@ -1,0 +1,564 @@
+---
+entries:
+  Talk_07:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I'm gonna eat a lot of wildberries..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: "♪Dalia's garden!♪\n♪Dalia's garden!♪"
+  Talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "My mama sells lots of fruit!\n\n\nThey're all super yummy, so you should\nbuy some, vai-from-out-of-town!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "But don't tell Mama about the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: wildberries
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", OK?!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 31
+    - text: "AHHH! You did another bad thing!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: Bad people get punished!
+  Talk_21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Heehee! Berries are great, but money is\neven more great!"
+  Talk_22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Maybe you don't need to get\npunished after all...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I can just plant this wildberry and it will\ncome back up like SHLOOP! SHLOOP!\nSHLOOP!"
+  Talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "My mama sells lots of fruit!\n\n\nThey're all super yummy, so how about\nyou try some, vai-from-out-of-town?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "But don't tell Mama about the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: wildberries
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", OK?!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 26
+    - text: "♪Dalia's berries...\nTaste so light and airy...♪"
+  Talk_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta!"
+  "0000":
+    - text: What are you doing?
+  Talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq!"
+  "0001":
+    - text: Sightseeing.
+  Talk_13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba!"
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Wildberries
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are amazing! Yeah! Yeah!\nWhen I buried one in the ground...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: SHLOOP! SHLOOP! SHLOOP!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "More and more sprouted up, one after\nthe other!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I think that first "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: wildberry
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " must have\nbeen a MAGIC "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: wildberry
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Talk_14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "What's a vai from out of town doing in\na place like this?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0002":
+    - text: Whatcha doing here?
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Wildberries
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are amazing! Yeah! Yeah!\nWhen I buried one in the ground...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: SHLOOP! SHLOOP! SHLOOP!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "More and more sprouted up, one after\nthe other!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I worked so hard to clean up the rubbish\nand make the earth here happy, but...\n\nI think that first "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: wildberry
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " must have \nbeen a MAGIC "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: wildberry
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Talk_15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Aw, but this is my secret field! You can't\ncome sightseeing here!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "Oh, but if you want to go sightseeing, I\nknow some good spots for it!\n\nThere's a Goddess Statue near the\nsoutheast gate!\n\nNot many people go there, so Mama says\nit's a good, little-known spot!"
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Heehee! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm still keeping it a secret from\nMama, but I'm growing a fruit\ngarden here!\nThen I can eat all the fruit I want until\nmy tummy gets filled right up!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I haven't figured out what I want to\nplant here yet, though..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "If I grow a lot, I'll share some of it\nwith you, OK?"
+  Talk_16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "What's up, lady?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Umm... I feel like I told you about this\nalready, but...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The truth is...\n\n\nI'm growing a secret fruit garden here!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut don't tell anyone—it's a secret."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI haven't even told Mama!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I haven't figured out what I want to\nplant yet, though..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "If I'm able to grow a lot, I'll share some\nof it with you, OK?"
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Sorry, lady, but I'm in a hurry!\n\n\nSee ya! Sav'orq! "
+  Talk_18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "This is my secret place, you know! You\ncan't do any sightseeing around here!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you want to go sightseeing, why don't\nyou go and visit the Goddess Statue at \nthe southeast gate?\nNot many people go there, so Mama says\nit's a good, little-known spot!"
+  Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "My mama sells a bunch of fruit! They're\nsuper yummy, so you should buy some,\nvai-from-out-of-town!\nAnyway, sav'orq!"
+  Talk_06:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I'm gonna eat a lot of fruit..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 31
+    - text: "Ah, my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: wildberries
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "That's bad! You're bad!\n\n\nAnd bad people get punished! Next time\nyou do something bad, you'll get it!"

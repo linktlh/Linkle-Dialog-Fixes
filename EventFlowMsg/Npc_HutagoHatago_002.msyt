@@ -1,0 +1,65 @@
+---
+entries:
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Today, I'm going to see if I can get to\nthe horses before Shibo does!"
+  Near_03:
+    - text: "It's neigh..."
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 34
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I'm feeling so sleepy all of a sudden..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_03:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: One one-color horsey...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nTwo one-color horsies..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Yeah! I beat Shibo here today!
+  Near_01:
+    - text: Zzz...
+  Near_02:
+    - text: "It's neigh..."

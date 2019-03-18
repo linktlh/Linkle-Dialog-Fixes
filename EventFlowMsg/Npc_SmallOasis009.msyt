@@ -1,0 +1,546 @@
+---
+entries:
+  Talk_17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well...come...\n\n\nDid I get that right? Isn't that how you\nsay it where you're from?\n\nHere, we say \"vasaaq.\""
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "5503":
+    - text: Never mind.
+  Talk_18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Sarqso! Eat it and regain your strength!
+  Talk_19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Thank...you! Sarqso!
+  "5507":
+    - text: "I'll take 'em all!"
+  Com_Talk_00:
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - text: So what do you want to sell me?
+  "5508":
+    - text: All of them.
+  Com_Talk_01:
+    - text: "Hmm... I could give you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+    - text: "."
+  "0000":
+    - text: I have things to sell!
+  Com_Talk_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: Sarqso! Is that all?
+  "0001":
+    - text: Good-bye.
+  Com_Talk_04:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "Oh, yeah, no need to rush..."
+  Com_Talk_05:
+    - text: "I'll buy anything!"
+  Com_Talk_05b:
+    - text: "If there's anything you want to sell,\ndon't hesitate to talk to me!"
+  "0005":
+    - text: Then...buy my stuff!
+  Com_Talk_05c:
+    - text: "I'll buy as much as you've got!"
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Good...day...\n\n\nHeh, that's how you say it where you're\nfrom, isn't it?\n\nHere, we say \"sav'aaq.\""
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Com_Talk_05d:
+    - text: "That can't be all, right? Sold, sold!"
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Come back anytime!
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "My little sister runs a butcher shop over\nin "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nShe's traveled all over, so she knows\nyour language pretty well. You should\nstop by..."
+  Talk_21:
+    - text: I need to go hunting...
+  Talk_22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Thank...you...for...shopping...\n\n\nThat's how they say it where you're\nfrom, right?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Oh, sure thing."
+  Talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "And now I'm all sold out...\nGuess I'll have to go hunting again."
+  Talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Thanks...boss...\n\n\nHehe, that's how they say it where\nyou're from, right?"
+  Talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "You want to know if I've seen a\nsuspicious-looking male merchant?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Suspicious, huh..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHmmmm..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "Ahh, I dunno. It's hard to say. I spend all\nmy time right here, and I don't know how\nI'd tell if someone was a merchant...\nAnyway, there are Hylian merchants here,\ntoo. Why don't you go ask one of them?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Near001:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 1
+              - 205
+    - text: All this stuff is fresh!
+  Talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "My kid sister runs a butcher shop over in\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nShe's traveled all over, so she knows\nyour language pretty well.\n\nShe's pretty cute too, so if you stop by\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you should say hello to\nher, at least."
+  Near002:
+    - text: Those clothes suit you.
+  Com_Talk_02b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Thank...you... Hehe, that's how they\nsay it where you're from, right?"
+  Com_Talk_02c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Sarqso. Good, good."
+  Com_Talk_02d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Nice, nice. Sarqso."
+  Com_Talk_13:
+    - text: How many do you want to sell me?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5500
+            field_3: 5508
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  Com_Talk_14:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "All right, "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " of them? That comes to...\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: altogether.
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_15:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "What even is that?\nI'm sorry... I have a policy forbidding\nbuying things I don't understand."
+  Com_Talk_16:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "What, you want me to take that\nright off of you? Take it off yourself\nbefore selling it to me!"
+  Com_Talk_33:
+    - text: One?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_50:
+    - text: That
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "will be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Good...evening...\n\n\nHeh, that's how you say it where you're\nfrom, isn't it?\n\nHere, we say \"sav'saaba.\""
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Com_Talk_35:
+    - text: "So then, "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " of them...\nYou'd agree that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is a fair\nprice, yes?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_53:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: No need to make any hasty decisions.
+  Talk_12:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 12
+              - 205
+    - text: "You're getting in the way."
+  "5500":
+    - text: OK.
+  Talk_15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Good...morning...\n\n\nHeh, that's how you say it where you're\nfrom, isn't it?\n\nHere, we say \"sav'otta.\""
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "5501":
+    - text: Never mind.

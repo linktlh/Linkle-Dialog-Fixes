@@ -1,0 +1,674 @@
+---
+entries:
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: Youch...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " And I'm pretty sturdy, too...\nOwww..."
+  MSG_Akka_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "When you arrive at a stable, you can sell\nthem the things ya don't need.\n\nI would just eat the rocks I don't need,\nbut..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "for a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hylian "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: like you...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I suppose\nyou'd rather sell 'em?"
+  MSG_Akka_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Goron City
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Death Mountain "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to the\nwest of here.\n\nThe journey there's rough, but there are\nlots of great shops."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'd love for you to\npay a visit sometime!"
+  RetMSG_Akka_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "The Gerudo woman who came from the\nGerudo region..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " She was so pretty!"
+  Thanks00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "It's not much, but this is for you,\nbrother."
+  RetMSG_Akka_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Rocks are the staple food of a healthy\nGoron diet."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That's why I always wonder\nwhether to sell rare rocks or eat 'em!"
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "*huff...* "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "*puff...* "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "*huff...*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " *puff...*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYikes, I'm really thirsty."
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "Argh! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Those blasted monsters!
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "Wow! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You really helped me out, brother!"
+  RetMSG_Akka_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "We Gorons live on rocks! YUMMM!\n\n\nOre, on the other hand... Nah. I'd sell\nthat before I ate a single bite!"
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "You're super strong! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You really helped\nme out, brother!"
+  RetMSG_Akka_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Do ya know of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Goron Hot Springs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthat are on the way to the peak of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Death Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\nThe road there's dangerous, but there\nare travelers who go to try out the\nhot springs..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Or so I've heard!\nThat sounds dangerous, though...\nNon-Gorons would be risking their\nlives if they tried that."
+  RetMSG_Akka_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "There's some particularly valuable ore\nout there."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " They're called gems.\n\nYou might find gems in treasure chests\nor ore deposits, but..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "they don't taste\nso good. That's why I usually sell 'em."
+  MSG_Akka_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I know my brother, Boldon, is off\ntravelin' somewhere.\n\nIf ya run into him, I'd love it if you'd\nstop and chat a bit!"
+  RetMSG_Akka_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "The other day, a Gerudo woman talked to\nme on this road."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " She was from the\nGerudo region in the southwest. \n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "She was so pretty! Her hair was as\nshiny as stone!"
+  RetMSG_Akka_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Akkala Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: South Akkala Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI get those two mixed up!\nBut I know I'm definitely on my way to...\nErm... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Heh, actually I dunno!"
+  Rest_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm Naddon!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I have a brother\nnamed Boldon!\n\nHe's probably travelin' the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Eldin\nHigh Road "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: about now...
+  Rest_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "The weather's awful..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I think it's best\nnot to force yourself to walk through\nthis stuff!"
+  RetMSG_Akka_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "There's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Akkala Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and also\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: South Akkala Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " But which one\nis which?"
+  Rest_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Rumble! Rumble!\n\n\nHm? What, that's not me! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThat was the thunder!"
+  MSG_Akka_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Do ya have any ore?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " If so, it's best to\nsell it at the shop. You can sell the\nrare ones for a high price!"
+  Near00:
+    - text: "Mornin'..."
+  MSG_Akka_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Have ya ever been to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Goron City
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIt's in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Death Mountain "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to the west!\n\nOh, but I hear the journey's too hot for\nanyone who isn't a Goron..."
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "Wow! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You saved me, brother!"
+  Near01:
+    - text: Is it lunch time yet?
+  MSG_Akka_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Do ya know a Goron named Boldon?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHe's my brother!\n\nHe's a big-hearted Goron who doesn't\nget caught up in the little things."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWho knows where he's travelin' now..."
+  RetMSG_Akka_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Goron Hot Springs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are a famous\nspot, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but the road there is dangerous,\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Death Mountain "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is crazy hot.\nIf you decide to go, just know that you're\nrisking your little Hylian life!"
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "You're strong!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Thanks so much, brother!"
+  Near02:
+    - text: I wanna eat some rocks...
+  MSG_Akka_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "You can sell your ore for a high price!\n\n\nIf ya find ore deposits while travelin',"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI suggest ya get into the habit of\nmining 'em!"
+  Near03:
+    - text: "It's dark as onyx..."
+  MSG_Akka_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "This is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Akkala Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n\nIf ya have any ore, DO NOT eat it!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nInstead, sell it at this stable!\n\nThough, I guess a non-Goron wouldn't\nbe tempted to eat it anyway... Weird."
+  Near04:
+    - text: This is hopeless...
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 31
+    - text: Run for your life!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Guardian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s coming!"
+  MSG_Akka_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "When I find an ore deposit, I have at it!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThe sparklies that come out of 'em\ncan be sold at a high price!"
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "I owe ya my life, brother!"
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "Thanks, brother!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Phew, that was close!"
+  MSG_Akka_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If ya have any ore ya don't need,\nit's a good idea to sell it at a shop."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThe sparklies go for a high price!"
+  RetMSG_Akka_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You can find gems inside treasure chests\nand ore deposits."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " They taste awful, so I\ntend to sell 'em."
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: I almost had it...

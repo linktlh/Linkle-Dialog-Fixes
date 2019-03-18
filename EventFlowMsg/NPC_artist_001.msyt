@@ -1,0 +1,55 @@
+---
+entries:
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The volcano has a completely\ndifferent face when viewed from\nthis stable..."
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lake Kolomo
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", isn't it?\nIt's an oddly shaped lake west of here.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "There's a forest on the west side of it.\nYes, I can see some trees here as well.\nIt must be over there."
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I've been there before. It's a rather\nbeautiful spot."

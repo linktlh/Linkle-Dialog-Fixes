@@ -1,0 +1,273 @@
+---
+entries:
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Don't follow me! I'm on my way to work!"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: Are you...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: following me?
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 6
+    - text: "Um, excuse me?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Are you running around\ntrying to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "eavesdrop "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "on everyone's\nconversation?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " And so obviously...?\nYou really need to work on your craft."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: Put that
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " blue thing"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " away!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " \nWhatever it is, it's not a toy!"
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "Oh, and that reminds me, my little one\nwas gabbing about something interesting\nthe other day...\nApparently a"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " young girl"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " was seen going\nin and out of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hateno Ancient\nTech Lab"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  near00:
+    - text: "Hey, have you heard?"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "...Huh?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Did I hear something?"
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Oh, weird."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Think they adopted or\nsomething?"
+  near01:
+    - text: Hnng...
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Groooooaar...
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "But the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "just doesn't seem the\nadopting type, you know?\n\nI just have to wonder if the girl is... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nac-"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: tu-
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "ally... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 18
+    - text: "No, that can't be."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Mmrraggghrr...
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "What's your problem?!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " How DARE you \ntry to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: eavesdrop
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? Mind your business!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Time to get ready for tomorrow...
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Honestly, young girls these days..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhat kind of scamp just "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "eavesdrops "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nlike it's no big deal? How rude."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "You should hurry up and head back, too."

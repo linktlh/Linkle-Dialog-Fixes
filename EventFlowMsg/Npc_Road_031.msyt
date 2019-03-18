@@ -1,0 +1,1067 @@
+---
+entries:
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: "Ooog... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "My donkey... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Is my donkey OK?
+  Com_Talk_00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - text: "Can't hurt to look."
+  RetMSG_Gerud_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You'll need some of my bugs if you have\na long trip planned."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Why, you ask? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Good question. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "They're\nimportant ingredients in the elixirs\nyou need to survive harsh climates."
+  Com_Talk_01:
+    - text: "You're selling that? I guess I can give\nyou "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: Great.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Was that all you wanted?"
+  MSG_Gerud_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The daytime heat is much worse than\nthe chill at night. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "If you can only do one,\nI'd make some cooling elixir."
+  RetMSG_Gerud_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Bugs are important ingredients in the\nelixirs you need to survive the desert\nclimate."
+  Com_Talk_04:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 15
+              - 205
+    - text: Too bad.
+  Com_Talk_10:
+    - text: "You're sure?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  Com_Talk_05:
+    - text: I buy anything.
+  Com_Talk_11:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: Thanks.
+  Com_Talk_06:
+    - text: What did you want?
+  Com_Talk_12:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "I've got some darners...and that's\nabout it. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: See for yourself.
+  Com_Talk_02b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "*nod*"
+  Com_Talk_07:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 15
+              - 205
+    - text: "Sorry, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm out."
+  Com_Talk_13:
+    - text: How many were you thinking of selling?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5500
+            field_3: 5508
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  MSG_Gerud_00_1:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Gerudo Desert "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "sands are murder on\nmy feet, and my donkey's too loaded\ndown to ride."
+  Com_Talk_02c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "*nod* Thanks."
+  Com_Talk_08:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 15
+              - 205
+    - text: "You can't afford that. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm running a shop,\nnot a charity."
+  Com_Talk_14:
+    - text: "I'll give you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_20:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "I hope you don't catch cold in this rain."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWould it help if I offered to sell you\na summerwing butterfly?"
+  RetMSG_Gerud_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Did you know you can make an elixir\nthat keeps you warm or cool with just\na few bugs and monster parts?"
+  Com_Talk_02d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: Did you need something else?
+  Com_Talk_09:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 15
+              - 205
+    - text: "You're out of room. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I can't sell you stuff\nyou can't carry."
+  Com_Talk_15:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 15
+              - 205
+    - text: "Hmm, nah. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Nothing personal, I just don't\nthink I could flip it."
+  Thanks00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: You saw me through alive.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I don't know if\nyou'd even want this, but it's yours."
+  Com_Talk_16:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 15
+              - 205
+    - text: "I'm not going to buy clothes that you're\nstill wearing. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: No merchant would...
+  Com_Talk_30:
+    - text: "That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  Com_Talk_31:
+    - text: How many you need?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5502
+            field_3: 5507
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "I'm still too nervous to relax."
+  Com_Talk_33:
+    - text: "Only one? OK. That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Why this? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Why now? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Why me?
+  Com_Talk_34:
+    - text: "ALL of them? OK. That'll be\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  MSG_Gerud_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 17
+    - text: "I'm turning back. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Desert
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nsands are murder on my feet, and my\ndonkey's too loaded down to ride."
+  Com_Talk_35:
+    - text: "So...all of them? Sure. I'll pay\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  MSG_Gerud_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 17
+    - text: "The desert's scorching by day and\nfreezing at night."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Those Gerudo women are probably the\nonly ones prepared for both."
+  Com_Talk_36:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "That's it. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm out. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Thanks for that.
+  MSG_Gerud_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 17
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Gerudo Canyon Stable "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is a nice place\nand all, but are you going further into\nthe desert from here?\nBecause if so, you should make some\nelixirs to keep you both warm\nand cool."
+  MSG_Gerud_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm turning back. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Too many monsters\npast this point for my tastes."
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: "Well, I'm still alive. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Guess that counts\nfor something."
+  Com_Talk_05b:
+    - text: "If you have something to sell, don't hold\nout on me."
+  Com_Talk_11b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: OK. Thanks.
+  Com_Talk_37:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "What can I say? You bought everything\nI had. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I could...pretend I still had some\nin stock? Yeah?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  MSG_Gerud_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 17
+    - text: "Got enough elixir for your trip into the\ndesert? Need any monster parts to\nmake more?\nThe daytime heat is much worse than the\nchill at night. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "If you can only do one,\nI'd make some cooling elixir."
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: I sell bugs.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " What? It's a living!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 17
+    - text: "And here I thought that might be\nthe end..."
+  Com_Talk_05c:
+    - text: What are you offering?
+  Com_Talk_11c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "We got both kinds of bugs here: warm\nAND cool."
+  MSG_Gerud_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 17
+    - text: "Careful... There's lots of monsters past \nthis point."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " If they claim any more\ntravelers, my business is sunk.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "After all, what's a monster need with\nmy bugs? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Nah...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " This is the end of the\nline for me."
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: You all set?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Com_Talk_05d:
+    - text: Why not just show me?
+  Com_Talk_11d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: Nice. Thanks.
+  MSG_Gerud_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The desert's scorching by day and\nfreezing at night. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "You'd better be\nprepared for both!"
+  Rest_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 17
+    - text: "I'd like to travel the desert to sell my\nwares, but I haven't found a pack animal\nyet that won't get stuck in the sand."
+  RetMSG_Gerud_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You can make an elixir that warms you\nup or cools you down while taking a\nbreak right here at the stable. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Try it.
+  "5500":
+    - text: Yes.
+  Com_Talk_56:
+    - text: "One? Sure. That's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  "5501":
+    - text: No.
+  "0000":
+    - text: "I'll buy."
+  "5502":
+    - text: "I'll buy."
+  "0001":
+    - text: Can I sell to you?
+  "5503":
+    - text: Never mind.
+  "0002":
+    - text: Good-bye.
+  Near00:
+    - text: I got both kinds here...
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 23
+    - text: "Wow, look at you. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Nice \"moves.\""
+  Near01:
+    - text: Anyone need some bugs?
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "If a monster attacks and you don't run,\nwell... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "You're not me, that's for sure."
+  Near02:
+    - text: Hot and cold bugs here!
+  Near03:
+    - text: Bugs for sale! All kinds!
+  "5507":
+    - text: "I'll take 'em all!"
+  "5508":
+    - text: All of them.
+  MSG_Gerud_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You should make some elixirs to keep\nyou both warm and cool in the desert."
+  RetMSG_Gerud_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "There are elixirs that can warm you up\nand elixirs that can cool you down."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Either one just takes a few bugs and\nsome monster parts."
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: "Is my donkey OK? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: What about my cargo?
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: "Yipes... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That could've gone better."
+  RetMSG_Gerud_00_1:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Kara Kara Bazaar "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "just beyond the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Gerudo Desert "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is an oasis packed with\nmerchants."
+  RetMSG_Gerud_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 17
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Kara Kara Bazaar "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "just beyond the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Gerudo Desert "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is an oasis packed with\nmerchants.\nToo much competition for me. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Plus I\ndon't wanna drag my donkey out there. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThe stables are more my speed."
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Sounds good. See you.
+  RetMSG_Gerud_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 17
+    - text: "Bound for the desert? Did you stock up\non medicine?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Did you know you can make an elixir\nthat keeps you warm or cool with just\na few bugs and monster parts?"
+  RetMSG_Gerud_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 17
+    - text: "Are you REALLY ready to cross the\ndesert?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If not, you should stock up on\nelixir.\nYou can make some that warm you up\nor cool you down while taking a break\nright here at the stable. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Try it.
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 17
+    - text: "Now's my chance! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "To run away, I mean."
+  RetMSG_Gerud_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 17
+    - text: "If you're planning a trip through the\ndesert by day, you'll need an elixir to\ncool you off.\nAt night, it's a different story. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That's\nwhen you need some warming tonic."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Either one just takes a few bugs and\nsome monster parts."

@@ -1,0 +1,58 @@
+---
+entries:
+  QL_TreasureHunt_touzoku06_Name:
+    - text: "EX Treasure: Garb of Winds"
+  QL_TreasureHunt_touzoku06_Finish:
+    - text: "\"The blue garb of the hero who controlled\nthe wind and traveled the ocean is where\nthe Menoat River was born.\"\n\nI found the treasure that was hidden at Cora\nLake and obtained the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Island Lobster Shirt
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  QL_TreasureHunt_touzoku06_Desc:
+    - text: "The royal family of Hyrule collected historically\nsignificant outfits, but they were stolen by a\nbandit named Misko. One of the items stolen\nwas the blue garb of the Hero of Winds.\n\nSomewhere in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Deya Village Ruins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis a journal that places the location\nof this treasure..."
+  QL_TreasureHunt_touzoku06_Step01:
+    - text: "\"The blue garb of the hero who controlled\nthe wind and traveled the ocean is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "where\nthe Menoat River was born"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\"\n\nMisko's EX Journal 2 describes where the blue\ngarb of the Hero of Winds is hidden...but where\nwas "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: the Menoat River born
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"

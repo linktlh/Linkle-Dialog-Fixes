@@ -1,0 +1,990 @@
+---
+entries:
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Yes! It's a giant monster made of\nenchanted ice!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\nI was out running an errand when I saw\nit..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It was incredible..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "and terrifying.\nIt was incredibly terrifying.\nI believe I saw it over in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Coldsnap Hollow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nbefore my adrenaline kicked in and I fled\nlike the wind.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "In any case, it was enormous. But I bet a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Champion "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "could have taken it down\nno problem."
+  talk40:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Yes...
+  "0010":
+    - text: "What's this big lake?"
+  "0011":
+    - text: Frost Talus?
+  talk42:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Did you need something?
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  "0012":
+    - text: Not interested.
+  talk43:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Did you have any more questions?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 2
+            field_4: 10
+            field_5: 5
+            field_6:
+              - 0
+              - 3
+  "0013":
+    - text: Frost Talus?
+  talk44:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "\"The Rito of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lake Totori
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Where the men\nare fine archers "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "and the women better\nsingers.\""
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "He stormed off to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwith an angry look on his face.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Bit of a loose cannon that one. I'm\nguessing he went to get revenge for\nHarth by himself.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Flight Range "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is where Rito warriors\ntrain for battle.\n\nHe probably went there to stock up on\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk45:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "You being a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: ", I'm surprised you\nhaven't heard that before.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You should visit the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "village "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "if you get\na chance."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is beyond\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Dronoc's Pass"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on the other side of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lake Totori
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "If you're going to go around "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lake Totori
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nto get there, there's a big difference\nbetween the east and the west sides.\nFor a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " like yourself..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'd suggest the west side. It's flatter."
+  talk46:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Now then...
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I imagine you've traveled a long way to\nget here."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Do you need something?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 6
+            field_3: 7
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "I'm impressed you're walking around like\nthat in this weather."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Farewell.
+  near00:
+    - text: Phew...
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ah, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: hello again.
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 6
+            field_3: 7
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Yes.
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Did you need something?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 2
+            field_4: 10
+            field_5: 5
+            field_6:
+              - 0
+              - 3
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast Vah Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "was kicking\nup a storm just a while ago, but he's\ncalmed down now."
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Frost Talus "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is a giant made entirely of\nenchanted ice. \n\nI saw one over by "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Coldsnap Hollow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIf you want to keep breathing, I suggest\nyou stay far away from there.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I'm pretty good in a fight, but I wouldn't\nwant to bump into that thing in a dark\nvalley."
+  "0000":
+    - text: Who are you?
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: WHAT?!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You defeated the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Frost Talus
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Coldsnap Hollow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I never would have thought a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\ncould take down something that big."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nNo offense.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "Well, that's a relief."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " If that thing had\nwandered this way,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " the entire village\nwould've been in danger!"
+  "0001":
+    - text: Um...
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "It's not much, but I'd like to reward you\nfor your trouble."
+  "0002":
+    - text: Village?
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: How am I?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Can't complain, I suppose..."
+  "0003":
+    - text: The Rito?
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Like I said—can't complain."
+  "0004":
+    - text: I defeated it.
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Good morning.
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Do you need something?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  "0005":
+    - text: Good-bye.
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Good day.
+  talk36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "To think you felled the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Frost Talus
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Coldsnap Hollow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". It boggles the mind."
+  "0006":
+    - text: "Where's Teba?"
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Good evening.
+  talk37:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is calm now, so Rito Village\nshould be at peace."
+  "0007":
+    - text: Flight Range?
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hello.
+  talk38:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "But this world's chock-full of savage\nmonsters and terrifying beasts. I must\nremain ever vigilant."
+  "0008":
+    - text: How are you?
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: I am Gesane of the Rito.
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 3
+            field_3:
+              - 1
+              - 205
+  talk39:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Do you have any more questions?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 6
+            field_3: 7
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Rito Village is just across these bridges.\n\n\nWe're all a bit..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "preoccupied right\nnow,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but I'm sure the shops would\nappreciate your business."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Teba? You mean...our Teba?
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Are you a Hylian?
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You've come at a good time..."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You're Hylian, aren't you?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWell done making it here in this weather."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Hmm? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Did you need something?
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 13
+              - 42
+              - 82
+              - 105
+              - 116
+              - 111
+              - 95
+              - 78
+              - 80
+              - 67
+              - 48
+              - 51
+              - 55
+              - 95
+              - 71
+              - 97
+              - 99
+              - 104
+              - 105
+              - 82
+              - 111
+              - 99
+              - 107
+              - 8
+              - 42
+              - 82
+              - 105
+              - 116
+              - 111
+              - 95
+              - 78
+              - 80
+              - 67
+              - 48
+              - 51
+              - 55
+              - 95
+              - 72
+              - 111
+              - 119
+              - 65
+              - 114
+              - 101
+              - 89
+              - 111
+              - 117
+              - 5
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - text: Never mind that. Please listen to this!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI was out for a walk earlier, and I saw..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Frost Talus
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 11
+            field_3: 12
+            field_4:
+              - 0
+              - 1
+    - text: "!"
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "You ever heard of a \"cold shoulder\"?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThat's nothing compared to a soggy,\nfrozen shoulder. Brrrrrr!"
+  talk27:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "This is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lake Totori
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\nAs you can see, it's surrounded by steep\ncliffs with no way up, so don't go falling\nin."
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " like yourself should tread\nespecially carefully. Falling in would\nmean certain death.\nUnless you could magically travel to\nsafety,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " of course,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " but let's be real."

@@ -1,0 +1,254 @@
+---
+entries:
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: I see. My dear Mipha...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I simply cannot\nbelieve it. There was nothing I could do\nto save her...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: Still...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Mipha fulfilled her heroic duty\nas Champion.\n\nAnd she will never be alone..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nIt is my duty as her father to\nwatch over her, even now.\n..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 22
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Linkle...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nShe really loved you, you know.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "There is no mistaking that even now she\nis overjoyed to be able to help you.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 6
+    - text: "Promise me...that you will always\nremember her. Promise me that."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  "0003":
+    - text: We are united now.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: I appreciate you saying that.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nYou are a good person."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: Thank you for saying so.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nI truly appreciate it."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 4
+    - text: "If you ever run into trouble,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " know that\nyou are always welcome here.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "No matter the time, we shall all greet\nyou with open fins!\n\nLinkle..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Thank you. Thank you from the\nbottom of my heart."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Thank you, Linkle."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " You have saved us all.\n\n\nI am certain that Mipha is thrilled to be\nwith you, as she ever was.\n\nI shall watch over Mipha's fight\nfrom here, and yours as well."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Linkle!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " I am truly and eternally grateful\nto you for saving Zora's Domain!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Everyone is rejoicing.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " There is no\nhappier place in the world!"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: But Linkle...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " There is something I wish\nto ask you.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You journeyed within "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", the Divine\nBeast of Water...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Now you are back, but Mipha has still\nyet to return...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: Is it as I feared?
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Were we too late?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  "0000":
+    - text: I met her spirit.
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "Her spirit?!\n\n\nSo that means Mipha really is..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nDid...did she say anything to you?"
+  "0002":
+    - text: "I'll never forget her."

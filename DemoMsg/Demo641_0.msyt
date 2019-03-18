@@ -1,0 +1,23 @@
+---
+entries:
+  Talk01:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: Place the Sheikah Slate in the pedestal.
+  Talk02:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: "Descending...\nPlease beware of tremors."
+  Talk03:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: Sheikah Slate confirmed.

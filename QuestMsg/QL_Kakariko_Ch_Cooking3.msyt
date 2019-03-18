@@ -1,0 +1,44 @@
+---
+entries:
+  QL_Kakariko_Ch_Cooking3_Finish:
+    - text: "Koko donned her apron and prepared to\ndish up a tough meat-stuffed pumpkin  for\nher exhausted father Dorian. With the meat\nI brought her, she served her father a\nrevitalizing tough meat-stuffed pumpkin.\n\n　　\t"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "/////Koko's Recipe Corner/////"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nOne tough meat-stuffed pumpkin :\n\nHollow out a fortified pumpkin and add any\nkind of meat. Bake until firm."
+  QL_Kakariko_Ch_Cooking3_Name:
+    - text: Koko Cuisine
+  QL_Kakariko_Ch_Cooking3_Desc:
+    - text: "Koko donned her apron and prepared to\ndish up a tough meat-stuffed pumpkin for\nher exhausted father, Dorian.\n\nWithout any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: meat
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", though, this chef's in a bind.\nShe needs a skilled hunter to procure some\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "meat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: for her.

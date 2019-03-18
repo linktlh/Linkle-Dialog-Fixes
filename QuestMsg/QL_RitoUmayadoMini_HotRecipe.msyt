@@ -1,0 +1,80 @@
+---
+entries:
+  QL_RitoUmayadoMini_HotRecipe_Finish:
+    - text: "Lester from the Rito Stable in the\nTabantha Frontier taught me to make\ncurry rice. The base ingredients are\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Hylian rice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Goron spice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI can add different ingredients to the\nbase recipe to make all sorts of curry rice.\n\nShould I ever be in need of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Hylian rice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nhe will trade me for some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Goron spice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  QL_RitoUmayadoMini_HotRecipe_Name:
+    - text: Curry for What Ails You
+  QL_RitoUmayadoMini_HotRecipe_Desc:
+    - text: "Lester from the Rito Stable in the\nTabantha Frontier asked for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Goron spice
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nan ingredient for curry rice.\n\nI need to get some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Goron spice "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and\ndeliver it to Lester at the Rito Stable."

@@ -1,0 +1,239 @@
+---
+entries:
+  "0003":
+    - text: Previous page.
+  Diary_03:
+    - text: "The green garments of the man who\nwished to be a fairy are hidden "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "in\nthe ruins of Hyrule Field"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nFind these pieces "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at the ruins\nwhere trade flourished"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at the ruins where sinners\nwere imprisoned"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at the village ruins next to\nfarmland where many people\nonce gathered"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 2
+  "0004":
+    - text: Stop reading.
+  Diary_04:
+    - text: "The princess of twilight, whose stories\nare handed down alongside those of\nthe Hero of Twilight...\nHer helmet can be found "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at the\ntemple ruins soaked in the waters\nof Regencia River"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 2
+  "0005":
+    - text: First page.
+  Diary_05:
+    - text: "Armor worn by fierce phantoms,\nfeared even by heroes, is hidden\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: in the ruins of Hyrule Field
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nFind these pieces "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at a battleground\nwhere brave souls tested their skill"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at ceremonial grounds where\nroyal guards are honored"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at the ruins where the soldiers\nof Hyrule gathered"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 2
+  "0006":
+    - text: Last page.
+  Diary_06:
+    - text: "\"EX\" is all that's written on the last page.\nWhat could it mean?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  Diary_00:
+    - text: Was this book always here?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5
+            field_3: 6
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  "0001":
+    - text: "Don't read."
+  Diary_01:
+    - text: "I hid the eight priceless relics I stole\nfrom Hyrule Castle in treasure chests...\nI shall write down their locations. -"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Misko
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  "0002":
+    - text: Next page.
+  Diary_02:
+    - text: "The ancient mask lies "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at the ruins where\nsoldiers gathered"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". From there, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "the waters\nof Lake Kolomo are visible"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 2

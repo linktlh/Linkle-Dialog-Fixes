@@ -1,0 +1,37 @@
+---
+entries:
+  Demo209_0_Text001:
+    - text: "I shall now tell you all I know about the\narduous trial that awaits you."
+  Demo209_0_Text010:
+    - text: "Now, Linkle... Place the Master Sword\nin its pedestal."
+  Demo209_0_Text002:
+    - text: "This trial shall test your courage to\nensure you are worthy of this splendor."
+  Demo209_0_Text009:
+    - text: "...Hm. Unless my eyes deceive me,\nyou seem quite willing to take on this\ntrial. A hero through and through!"
+  Demo209_0_Text003:
+    - text: "Once you have tempered your soul and\nproven your wisdom and courage by\ncompleting the Trial of the Sword..."
+  Demo209_0_Text004:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Think_00
+    - text: "That sword you have reunited with...\nthe Master Sword...it has yet to realize\nits true splendor."
+  Demo209_0_Text005:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Think_01
+    - text: "All of your weapons and armor will be\nsealed away. You must face your enemies\nwithout the tools you've come to rely on."
+  Demo209_0_Text006:
+    - text: "It is called the Trial of the Sword.\nIt will challenge you as you have\nnever been challenged before."
+  Demo209_0_Text000:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: TalkPositive_01
+    - text: "Hm? What's this? A voice beckoned you\nhere? I see. So the time has come."
+  Demo209_0_Text007:
+    - text: the Master Sword shall truly be yours!

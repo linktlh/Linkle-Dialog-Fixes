@@ -1,0 +1,30 @@
+---
+entries:
+  QL_100enemy_ToDeku:
+    - text: "According to the Great Deku Tree,\nthe Master Sword's true splendor has yet\nto be awakened. To do so, I must\nconquer the Trial of the Sword. \n\nI can challenge the Trial of the Sword by\nplacing the Master Sword in its pedestal."
+  QL_100enemy_Name:
+    - text: EX Trial of the Sword
+  QL_100enemy_Battle: []
+  QL_100enemy_Active2:
+    - text: "I've overcome parts of the Trial,\nallowing me to wield even more of\nthe Master Sword's power.\n\nBut the Trial of the Sword continues...\nI'll persevere until I've unlocked the\ntrue splendor of the Master Sword!"
+  QL_100enemy_Active:
+    - text: "I have overcome part of the Trial,\nallowing me to wield more of the\nMaster Sword's power.\n\nBut the Trial of the Sword has yet to be\ncompletely conquered... I need to continue\n the Trial to unlock the true splendor of the\nMaster Sword!"
+  QL_100enemy_Active3:
+    - text: "When I returned the Master Sword to its\npedestal, I was transported to a shrine\nin a strange place, and a mysterious voice\nspoke to me.\n\nThe voice said to overcome all obstacles using\nnone of the weapons or armor I've been able\nto gather so far. Succeed, and I'll unlock\nthe true splendor of the Master Sword."
+  QL_100enemy_Retire: []
+  QL_100enemy_Finish:
+    - text: "I conquered the merciless Trial of the Sword!\n\nI now have the physical and mental strength\nnecessary to use the Master Sword to its\nfull potential.\n\nPrincess Zelda is no doubt quite happy\nwith my achievement."
+  QL_100enemy_Desc:
+    - text: "I heard a mysterious voice that mentioned\nsomething about a glorious trial...\n\nWhat could this trial be? The voice instructed\nme to speak with the Great Deku Tree at\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Korok Forest
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to take on the challenge..."

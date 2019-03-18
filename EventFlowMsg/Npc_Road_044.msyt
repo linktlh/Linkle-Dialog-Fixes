@@ -1,0 +1,1468 @@
+---
+entries:
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm so scared I could cry!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Goodness!"
+  Com_Talk_00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: What would you like to sell me?
+  MSG_Ichika_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You're an adventurer, aren't you?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWell then! You need to stock up\non some healthy foods! \nThink about it—"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "when you're in the\nmiddle of nowhere, there aren't a lot of\nshops selling quality ingredients.\nI'm willing to guess you don't have\ncooks that follow you around making you\ntasty treats. Nail on the head, hm?"
+  Com_Talk_01:
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I can offer you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  MSG_Ichika_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm the traveling chef, Stamm! I may\nsound a tad arrogant,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " but I'm very\nimportant, so what can be done?\nThey say that hunger is the best sauce..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nor is it love? I forget.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "But that means us cooks will never be\nbetter than a starving chef or a fool\nin love. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I think that's bogus!"
+  RetMSG_Ichika_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "When you use bugs and monster parts\nto cook, what you end up with are elixirs.\n\nChefs don't usually deal with bugs."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThat's perfect for someone like me\nwho's terrified of them!"
+  Com_Talk_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Thanks!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Got anything else?"
+  MSG_Ichika_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm looking for the ultimate ingredients"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nfrom "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "South Akkala Stable "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tarrey Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Com_Talk_04:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "I see, I see."
+  Com_Talk_10:
+    - text: Excellent choice! So wanna buy it?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  Com_Talk_05:
+    - text: "I'll buy anything!"
+  Com_Talk_11:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: Thank you!
+  Com_Talk_06:
+    - text: What do you want to buy?
+  Com_Talk_12:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Take a good look! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Every item is\ntop of the line!"
+  Com_Talk_02b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Thanks! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "If you have anything else,\nlet me know and I'll buy it."
+  Com_Talk_07:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: Oh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Sorry!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm all out at the moment."
+  Com_Talk_13:
+    - text: "I'd love to buy that!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " How many will you\nsell me?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5500
+            field_3: 5508
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  Com_Talk_02c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: Thanks!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I can buy more, if you want.\nSo how about it?"
+  Com_Talk_08:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - text: "HUH? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Rupees...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You don't seem to \nhave enough of them."
+  Com_Talk_14:
+    - text: "Let's go with"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThat OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_20:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "When the weather's bad, I gotta sell my\nbest goods to make up for it..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Like this!\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Goron spice "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: is super rare!
+  Com_Talk_02d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "You're a great customer!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " If there's \nanything else you wanna sell,\njust say the word."
+  Com_Talk_09:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: Your pouch is full.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You'll have to sell or\ndiscard some of your stuff."
+  Com_Talk_15:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: Oh...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Sorry, I can't buy that!"
+  Thanks00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Consider this a thank-you. Go on,\nno need to be modest!"
+  Com_Talk_16:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "I'm happy to buy clothes from you but...\nnot ones you're currently wearing."
+  Com_Talk_30:
+    - text: So...
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: "?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  RetMSG_Ichika_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm selling the ingredients I find when\nI go back and forth from north of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Lake Akkala "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: South Akkala Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThey're all top quality ingredients!\nNaturally!"
+  Com_Talk_31:
+    - text: Great choice! How many?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5502
+            field_3: 5507
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  MSG_Ichika_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: They say that hunger is the best sauce...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nor it might have been love, I dunno.\n\nRegardless, I intend to make people say\nnothing can compete with Stamm's food!\nI won't stop until I succeed!"
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 32
+    - text: URP!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Yeesh, holding my breath isn't\nworking at all..."
+  Com_Talk_33:
+    - text: Only one?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " How about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Monsters!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Maybe I should try throwing\na hard ingredient at them..."
+  Com_Talk_34:
+    - text: All of them?!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Of course!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSo for "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: ", that'll be\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_35:
+    - text: "You're gonna sell all of 'em?!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nOK, so for "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: ", that'll be\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  RetMSG_Ichika_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Lake Akkala "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has great ingredients just\nswimming around in all their glory\nand deliciousness!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThere are also ingredients that grow\nthere, and those that have fallen there,\nand those that fly around there...\nTo me, the world is a giant market!"
+  Com_Talk_36:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Whoa! I'm all sold out!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nGlad you like my ingredients!"
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: Wow!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Thanks for the help!"
+  Com_Talk_05b:
+    - text: Did you want me to buy something?
+  Com_Talk_11b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Thanks!
+  Com_Talk_37:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Oh, sorry! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm actually closed for the day."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIf you want, I can show you the list of\ningredients I'm looking to restock."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  MSG_Ichika_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you're feeling sluggish,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\ncourser bee honey and an\napple are just the ticket."
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Hey now! Why not take a quick look\nat the ingredients I've gathered, eh?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThey're all fresh!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Thanks for helping me!
+  Com_Talk_05c:
+    - text: Do you have anything you wanna sell?
+  Com_Talk_11c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Thank you!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Really!"
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Do you need anything else?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Com_Talk_05d:
+    - text: "I'll buy anything!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Really, I mean it!"
+  Com_Talk_11d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: Thank you so much.
+  RetMSG_Ichika_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm the traveling chef, Stamm! I believe\neverything is an ingredient waiting\nto happen.\nHowever, in reality, it's not always that\nsimple."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " If I tried to stew a leather shoe\nand serve it, I bet it wouldn't go well.\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Even so, I'm not giving up! "
+  RetMSG_Ichika_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Just south of this road, you'll find\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lake Akkala
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! It's great!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: " Oh, whoa."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm not talking about the view.\nI'm talking about the ingredients that are\nswimming in the lake. I mean, come on.\nYou can't eat a view, right?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: " Ha ha ha!"
+  RetMSG_Ichika_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "I'm the traveling chef, but..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm not always traveling.\n\nThere are times when I need to take a\nbreak from life on the road.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Taking a nap at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Lake Akkala "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to the east\nsounds nice...but I have customers\nwaiting at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: South Akkala Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: " Ha ha ha!"
+  Rest_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "To make the ultimate dish, I'm looking for\nthe best ingredients."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " \n\nThat's why I go back and forth between \n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "South Akkala Stable "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tarrey Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nI sell stuff too, so hit me up anytime!"
+  RetMSG_Ichika_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I can't seem to make the dishes I picture\nin my head..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Blah, what happened to\nmy inspiration?!\nAt times like this, I always say..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nnothing beats eating a delicious meal!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "It not only heals your heart and soul,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nit can also make you heat, cold, shock,\nor fire resistant! Or even stealthier!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Dishes are the best!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Thanks to cooking,\nI can move forward in life! I'm so glad I\nbecame a cook in this crazy world. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Ha!
+  Rest_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The rain helps grow lots of green plants!\nGreen plants help animals, and all of\nthat helps me too!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "My dishes help people, and the money\nI get from selling them helps me more!\nIt's a beautiful world, ha ha ha!"
+  "5500":
+    - text: Yes.
+  RetMSG_Ichika_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm the traveling chef, Stamm!\n\n\nI'm hunting for ingredients from north of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Lake Akkala "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: South Akkala Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Rest_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "I don't want to get my ingredients wet..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nMaybe I'll just stay here until the rain \nclears up!"
+  Com_Talk_56:
+    - text: Only one?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  "5501":
+    - text: No.
+  "0000":
+    - text: I want to buy.
+  "5502":
+    - text: Sounds good.
+  "0001":
+    - text: I want to sell.
+  "5503":
+    - text: Never mind.
+  "0002":
+    - text: Good-bye.
+  Near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: Mushrooms for aroma...
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Wow!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Thanks for the help!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nReally, thanks so much!"
+  Near01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: Meat for power...
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: Monsters are too scary!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Thank you for\nhelping me!"
+  Near02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: Fish for nutrition...
+  Near03:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: Fruit for dessert...
+  "5507":
+    - text: "I'll take 'em all!"
+  Near04:
+    - text: "I don't wanna get wet..."
+  "5508":
+    - text: "All of 'em."
+  RetMSG_Ichika_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Today I go from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Lake Akkala "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to the east\nto "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: South Akkala Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", to the west!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSuch is the life of a traveling chef!"
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: "It's after us! Ruuuun!"
+  MSG_Ichika_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Meat dishes are a great pick-me-up! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nFish dishes are yummy and special!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThese are good things to keep in mind!"
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: I barely made it out alive!
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "How dare those nasty monsters come\nafter my ingredients!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Thanks to you,\nmy livelihood is safe!"
+  RetMSG_Ichika_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "When you don't know what to do,\njust eat!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Oh, and also eat when you're\nhungry. That's important too.\nIt not only heals your heart and soul,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nit can also make you heat, cold, shock,\nor fire resistant!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Wow, the dishes that exist in this world\nare really amazing!"
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm the traveling chef! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "And don't you\nforget it!"
+  MSG_Ichika_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Are you looking for the traveling chef\ncalled Stamm?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It's your lucky day!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHe is me! Ha ha ha!\nI'm currently looking for the ultimate\ningredients "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: South Akkala Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nto "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tarrey Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  MSG_Ichika_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "When people call for the traveling chef,\nStamm appears!! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Whoopsie, did I just\ncall for myself? Ha ha ha!\nWhat I'm trying to do is create a dish\nthat anyone would desperately crave\nwhether they know it or not.\nFor example, if they're feeling sluggish,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\ncourser bee honey and an apple are just\nthe ticket."
+  MSG_Ichika_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you were my kid, I'd worry endlessly\nabout your health. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Oh, but one glance at\nyour face tells me how you're doing...\nYou're so-so right now."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " But you can\ndo better! Ha ha ha!"
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "You... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Are you OK?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I just about died\nof fright out there."
+  MSG_Ichika_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm the traveling chef,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Stamm!\n\n\nMeat dishes give you loads of energy!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nAnd fish dishes are just plain special!\n\nTake advantage of each ingredient when \ncooking so you can make what your body\nneeds most!"

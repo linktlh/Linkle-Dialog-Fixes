@@ -1,0 +1,512 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "No matter how ya slice it,\nI'm Bargoh of the Gorons!"
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Yunobo went back to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Goron City
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\nBy the way... Did somethin' happen\nat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Death Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "By the look on Yunobo's face..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI dunno, it just seems like he's\nbeen through somethin'!"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "G'bye!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Good timing, little lady!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Rudania "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "stopped makin' a ruckus,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nso we can all finally relax."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ever since that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "big lizard "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "appeared on\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Death Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", there've been lots of\nmonsters in this area.\nI'm here to make sure they don't come\nanywhere near us!"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Mornin'!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " What a beautiful day!"
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Whoa! It's a Hylian! That's unexpected."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWhat are ya doin' here, little lady?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "There's only an abandoned mine past\nthis point. That and lots of monsters."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIn other words, it's dangerous!"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Hello! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Nice weather, eh?"
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Evenin'! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "The moon is nice and\nclear tonight."
+  "0000":
+    - text: "I'm lost..."
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you're lookin' for Yunobo, he went to\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Abandoned North Mine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0001":
+    - text: Who are you?
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you're lookin' for Yunobo, he's at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Boss
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s house."
+  "0002":
+    - text: Bye.
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's 'cause "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Rudania "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is back again...\n\n\nI bet he's tryin' to help fix up the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boss
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s back "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "so they can drive back\nthat awful beast, just like always."
+  "0003":
+    - text: Do you know Yunobo?
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you're lookin' for Yunobo, he went to\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Bridge of Eldin
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nYou'll find it waaay down this road,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nover the hill and past the bridge.\n\nIt's past the area that's past the area\nthat's past the Goron Hot Springs."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThat's where it is."
+  "0004":
+    - text: The Boss asked.
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "What's up, little lady?"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 3
+              - 34
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 50
+              - 49
+              - 95
+              - 89
+              - 117
+              - 110
+              - 98
+              - 111
+              - 0
+              - 0
+              - 1
+              - 0
+              - 2
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "By the way... What are ya doin' here?"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 3
+              - 34
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 50
+              - 49
+              - 95
+              - 89
+              - 117
+              - 110
+              - 98
+              - 111
+              - 0
+              - 0
+              - 1
+              - 0
+              - 2
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Oh! It's a Hylian!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Hello there!"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "What's a Hylian lady like you doin'\ntryin' to sniff out Yunobo?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 4
+            field_3:
+              - 1
+              - 205
+    - text: "\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "HUH? "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: The Boss asked you to?!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, if the Boss sent ya,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I have no\nchoice but to cooperate!"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I guess if you're not used to this area,\nit's easy to lose your way...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "When that happens, try findin' a spot\nthat's high up to scope things out."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Anything else?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 3
+              - 34
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 50
+              - 49
+              - 95
+              - 89
+              - 117
+              - 110
+              - 98
+              - 111
+              - 0
+              - 0
+              - 1
+              - 0
+              - 2
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3

@@ -1,0 +1,466 @@
+---
+entries:
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Linkle! The rain has stopped...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: Does this mean...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has stopped\nas well?"
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 2
+    - text: Hello...
+  "0000":
+    - text: "What's this statue?"
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 2
+    - text: Good evening...
+  "0001":
+    - text: See ya.
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 2
+    - text: Yes?
+  "0002":
+    - text: "That's right."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: An obvious lie...
+  "0003":
+    - text: No.
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Oh, where are my manners? "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: I am Laflat.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI am the chief secretary for the\nroyal family.\n..."
+  "0004":
+    - text: "Yes, I'm curious."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Are you curious about this statue of\nLady Mipha?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: Well then...
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Is something amiss?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Are you...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: a Hylian?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: If you do not mind...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "please allow me\nto explain.\n\nThis is a statue of the former\nZora Champion. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Her name was\nLady Mipha.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "She was as kind as she was beautiful...\n\n\nThey say her ability to heal wounded\nsoldiers was beyond compare."
+  near00:
+    - text: Now then...
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Ah! Then allow me to illuminate you...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\non the fearsome beast called "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nIt would be nice if seeing it discouraged\nreckless young Zora from venturing near."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBut I suppose that's wishful thinking..."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: Those soldiers she healed...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "they are old\nand decrepit now. But they remember.\n\nFor this reason, the elders of the domain\nall love Lady Mipha dearly.\n\nIf you would like to know more, I suggest\nyou try talking to one of them."
+  near01:
+    - text: "What's next..."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: Linkle!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I hear you appeased "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is saved!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Now Lady Mipha\ncan rest in peace."
+  LookPicture:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: WAAAH?!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "*ahem* "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "My apologies... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "That sound was\nnot very dignified, was it?\n\nP-pardon me... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm all better now."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "How terrifying!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "One look at this, and I doubt anyone\nwould get any reckless ideas about\nvisiting "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  near02:
+    - text: The damage is minimal...
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "All of us, as well as Lady Mipha..."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "We're all so grateful to you, Linkle."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Are you the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Prince Sidon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nbrought here?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 2
+    - text: Good morning...
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: Sorry...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm in the middle of thinking\nabout something.\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "It's on "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " *mumble mumble*"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100

@@ -1,0 +1,20 @@
+---
+entries:
+  QL_DokuroEye_Finish:
+    - text: "I gained entry into the ancient shrine atop\nthe left eye of Skull Lake.\n\nI understand now what Jerrin meant when\nshe said that the real trial was getting there."
+  QL_DokuroEye_Name:
+    - text: "The Skull's Eye"
+  QL_DokuroEye_Desc:
+    - text: "Jerrin told me of an ancient shrine atop\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: left eye of Skull Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nHowever, the sheer cliffs surrounding it may\nmake it next to impossible to reach..."

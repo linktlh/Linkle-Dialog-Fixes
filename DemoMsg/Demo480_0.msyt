@@ -1,0 +1,97 @@
+---
+entries:
+  Dragon_13:
+    - text: "That is the spirit "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Naydra's scale"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIt fell when your arrow struck.\n\nIt serves as proof of the courage you\nreceived from the one who served the\nspring since ancient times.\nCome..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Offer a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "scale "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "from the blue spirit\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Naydra "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Spring of Wisdom
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Dragon_01:
+    - text: "Thanks to your efforts, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naydra
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", the spirit\nof Mount Lanayru, has been freed from\nthe grips of an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: evil power
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Dragon_02:
+    - text: "But a single ceremony remains. Now...\nLoose your arrow through the body of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naydra
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to free the spirit of this region!"

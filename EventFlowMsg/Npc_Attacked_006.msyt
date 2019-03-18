@@ -1,0 +1,252 @@
+---
+entries:
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 23
+    - text: "How did you pull that off?! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Actually,\ndon't answer that. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I ought to be\nthanking you, not interrogating you."
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "That was nice of you. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Here, something\nfor your troubles."
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: I appreciate the help back there!
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: "Gah! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Why is this happening to me?!
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 15
+    - text: "I'll give them a fight they won't forget!"
+  Near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: "I'm saved!"
+  Near01:
+    - text: Sorry about that.
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 24
+    - text: I was cutting it pretty fine there.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThanks for the save!"
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I was totally useless against them.\nMaybe I should have played dead..."
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 12
+    - text: "Where would I be now if you hadn't\ncome along? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Nowhere good, that's\nfor sure. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: You should have this.
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Oww... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Going treasure hunting out here\nwas just asking for trouble, wasn't it?"
+  After00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 13
+    - text: "Thank Hylia that Mina is safe. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I knew it\nwasn't smart to go treasure hunting\nin these parts."
+  Meeting00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: "Ugh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Family...
+  Meeting02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 5
+    - text: "I want to be clear—whatever treasure is\nto be had here belongs to us. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "So don't\ngo poking around.\nNot that anyone in their right mind would\nbe poking around here for treasure to\nbegin with.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "But if my sister says this is where we\nsearch, then this is where we search."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nEven if I wish we could just go home..."
+  PairFailed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: "Oh, no... Not Mina..."
+  PairAtacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "The monsters aren't finished with Mina\nyet! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Help her!
+  PairFailed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Mina! They'll pay for this!"
+  PairAtacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Please, you have to do something\nfor my sister!"
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: We really need to get to safety.
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 23
+    - text: "Those monsters even gave my sister\na run for her money, and she's no\nslouch!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Do you want this in return?"
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "Oh, no... A Guardian! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "We're all in\ntrouble now!"

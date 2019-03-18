@@ -1,0 +1,422 @@
+---
+entries:
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Whoa. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " you have there.\nCould it be..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 2
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Anyway...
+  "0000":
+    - text: "I'm a humble traveler."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: Hmm?
+  "0001":
+    - text: "..."
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: "Oh. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It's you."
+  "0002":
+    - text: "I'm the best!"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I take it you're looking for"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " the fabled\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: sword of legend
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " too?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  "0003":
+    - text: "No, not at all."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Well, I'm not lettin' you have it!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "In fact, I think I'll just go ahead and\nmosey over to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Woodland Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0004":
+    - text: Legendary sword?
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Then get outta my face!
+  "0005":
+    - text: "I'm not interested."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Maybe I'll just mosey over to\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Woodland Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  "0006":
+    - text: Yes.
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "HA! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: You must be joking!
+  "0007":
+    - text: No.
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 2
+    - text: Heyo. Who are you?!
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Right?!
+  "0008":
+    - text: "It's legendary."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "*tsk*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Ignoring me, I see."
+  "0009":
+    - text: "It's a fake."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Hmph. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Show-off.
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I hear the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is hidden\ndeep in a forest."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " But no one has ever\nreturned from that forest..."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Traveling alone to a place like this?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou must be a woman who sets her mind\non something and then gets it done!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: How could a twig like you find it?!
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Your modesty is overwhelming...
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I'm gonna go after that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nso just stay outta my way!"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "That's why I thought, if I can get that\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " maybe a new path\nwill open up for me! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: Whaddaya think?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "That's right!\n\n\nI finally figured out that it's near\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Death Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". However..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "it doesn't\nseem to be in this direction.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Maybe it's on the opposite side,\ncloser to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Woodland Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I was really into sword fighting,\nbut I'm in a bit of a rut with it.\n\nDoesn't help that the sword I'm using\nright now is way too blunt."

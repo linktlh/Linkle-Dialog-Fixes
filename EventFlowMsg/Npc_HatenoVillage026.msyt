@@ -1,0 +1,464 @@
+---
+entries:
+  near02:
+    - text: "..."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hey, hey, hey!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  near03:
+    - text: Zzz... Zzz...
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Kya ha ha! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "LAME!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'll do it again. Watch carefully this time!"
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Of course you do. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That means you have\ngood taste."
+  "0000":
+    - text: Yes?
+  "0001":
+    - text: I love that bit.
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Have you seen that carpenter behind the\ngeneral store?"
+  "0002":
+    - text: Never seen it.
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "All right, I'll teach you, but you gotta pay\nattention, OK?"
+  "0003":
+    - text: See you later.
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I actually heard...he's not a carpenter "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but a\nreally famous designer..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0004":
+    - text: Bolson?
+  talk10:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 39
+              - 205
+    - text: ♪
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: SHAKEEEEEEN!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: ♪
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I actually heard...he's not a carpenter "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but a\nreally famous luminary in his field...\n\nBut I don't know what that means..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0005":
+    - text: Dance?
+  talk11:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 39
+              - 205
+    - text: ♪
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: SHAKEEEEEEN!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: ♪
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 1
+            field_3: 2
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I actually heard...he's not a carpenter "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but a\nreally famous president!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0006":
+    - text: You can stop.
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Easy as pie, right?"
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I actually heard...he's not a carpenter "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but a\nconstruction company...\n\nI don't really know how that's possible, though..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Whatever! You're lame."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "You still don't know the Bolson dance?\n"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: How uncool!
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Whatever he is, I want you to get Bolson\nto show you his dance!"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: Whoa! Pretty!
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Have you seen this one?
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Nice!
+  talk15:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Mama...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm heading home. Time to hit the hay!"
+  talk16:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Mmm...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'll be in trouble if I don't get home soon."
+  talk17:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 37
+              - 205
+    - text: "♪Ba ba ba, Bolson...♪"
+  near00:
+    - text: Kya ha ha!
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Bye-bye!
+  talk18:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 38
+              - 205
+    - text: ♪
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Fu-
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: WA
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "! Fu-"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: WA
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: ♪
+  near01:
+    - text: "What, what?!"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hey, hey! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Traveler!\n\n\nHave you learned the Bolson dance?"
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 4
+              - 0
+              - 5
+              - 0
+              - 6
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hrm?
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 4
+              - 0
+              - 5
+              - 0
+              - 6
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3

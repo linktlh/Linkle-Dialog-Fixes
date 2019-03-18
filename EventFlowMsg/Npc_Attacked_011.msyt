@@ -1,0 +1,469 @@
+---
+entries:
+  PairFailed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Ugh! Mils is down AGAIN!
+  Near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: That was a close call.
+  Meeting02_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Looks like this place is deserted too.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt was never much to look at, but folks\nused to call it home.\nNot anymore. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "The monsters going\nberserk everywhere have led to lots of\nabandoned little towns like this one.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Which is great for us since that means\nthere's treasure to be had!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "We're treasure hunters on the hunt for\nthat one-in-a-million jackpot. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "And so are\nyou, I take it?\nA tip from one pro to another: "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "stay far\naway from Hyrule Castle."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "It's protected by things called "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Guardians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIf one spots you, all bets are off on\nwhether you survive."
+  Near01:
+    - text: "Hurry it up, Mils!"
+  Meeting00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hey! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "We're not here for a chin wag!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHurry up and find some treasure!"
+  Meeting02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "This was once an up-and-coming place\nwith lots of folks moving here. But then\nthe monsters drove everyone out.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Which means there's plenty of treasure\nto be had! That's where we come in."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "We're treasure hunters, searching for a\none-in-a-million payday. "
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I'm guessing you are too. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "So as a tip\nfrom one pro to another, stay clear of\nHyrule Castle.\nIt's protected by things called "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Guardians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIf they spot you, all bets are off on\nwhether you survive."
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Hah! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "If you think I was in the slightest\ndanger, you need to have your eyes\nchecked."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But I like your style. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Here y'go."
+  Meeting03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 17
+    - text: "They say once you're in a Guardian's\nsights, you don't have long to live."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI get nervous just thinking about 'em."
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Funny, I don't remember asking for your\nhelp."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " And now they'll call ME the rude\none if I don't thank you somehow!"
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 18
+    - text: "That got hairier than I expected. You did\npretty good!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Much as it galls me to thank you for\nsaving us...that is what happened.\nSo, sure, here's a little something."
+  Meeting04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "All right, you, go find some treasure,\nor I'll give you something to be nervous\nabout!"
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "You've got a way with a sword, don't\nyou? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I'll admit, I was maybe in a little\nover my head there. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Thanks.
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Calling it now—that monster was the\nworst. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "There has never been nor ever will\nbe a worse monster than that.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Thanks for having my back before things\ngot REALLY ugly."
+  Meeting05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "We're treasure hunters, looking out for\nthat one-in-a-million score. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "If you're out\nfor treasure too..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "look someplace else.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Oh, but not Hyrule Castle, though."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou don't want to mess with all the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Guardians "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: out that way.
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 11
+    - text: "Just where did you learn to take down\nmonsters of that caliber?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "I almost want to invite you to join us for\na share of the loot... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "But, nah. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "This little\nthank-you is all you get."
+  PairAtacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "That dummy can't even run away right!"
+  PairAtacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "You! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Get your rear in gear and go help\nmy poor sap of a brother!"
+  After00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 12
+    - text: "We're all right... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "We should count\nourselves lucky for that."
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: These things came out of nowhere!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Mils!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhat happened to keeping lookout?!"
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Can't talk now! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Guardian coming!
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Gah... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: This is really gonna hurt my rep...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHow will I ever live this down?"
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Don't just stand there gawking! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "We got\na real situation here!"
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Hmph. I'll get 'em next time for sure!"
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Of all the shameful ways to go down...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI must be losing my edge."
+  PairFailed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "That idiot's gone and done it now..."

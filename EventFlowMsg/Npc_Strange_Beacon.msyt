@@ -1,0 +1,578 @@
+---
+entries:
+  Talk_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Oh, I would love to! I don't mind at all.\nI'm sure you'll be able to cook something\nreally tasty. I mean...probably.\nI have recipes for a lavish meat dish,\nan ancient meat dish, and an ultimate\nsurvival dish. Which will you learn?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 7
+            field_3: 8
+            field_4: 9
+            field_5: 11
+            field_6:
+              - 0
+              - 3
+  Talk_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Sure thing! I'll happily teach you the\nrecipe for my lavish meat dish.\n\nFirst, prepare the meat you want to use.\nI recommend either bird meat or steak.\nThen you toss in some niiiice freeesh...\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 45
+    - text: ORE!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 10
+            field_3:
+              - 1
+              - 205
+  Talk_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 44
+    - text: "Hey! That's not nice! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Cooking delicious\nmeat with shiny ore is the only way!\n\nHow else would one create a truly lavish\nmeat dish, silly?!"
+  Talk_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Sure thing! I'll happily teach you the\nrecipe for my ancient meat dish.\n\nFirst, prepare the meat you want to use.\nI recommend either bird meat or steak.\n\nAnd then you'll cook it with something\nfrom a broken Guardian...\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 45
+    - text: AN ANCIENT PART!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 10
+            field_3:
+              - 1
+              - 205
+  Talk_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 44
+    - text: "Hey! That's not nice! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Cooking delicious\nmeat with something that smacks of\nhistory is the only way!\nHow else would one create an ancient\nmeat dish the likes of which no one\nhas ever seen before?!"
+  Talk_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Sure thing! I'll happily teach you the\nrecipe for my ultimate survival dish.\n\nFirst, you'll have to defeat a monster!!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nAfter that, just find yourself a cooking\npot and toss in...\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 45
+    - text: tons of monster parts!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 10
+            field_3:
+              - 1
+              - 205
+  Talk_050:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Oh, thank you! Now I'm going to keep up\nmy cooking practice!\n\nNext up..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "adding a subtle splash\nof seasoning!!"
+  Talk_009:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "In order to survive out in the\nwild, you've got to be willing\nto eat anything!\nThat's the idea behind my\nultimate survival dish!!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "To be honest, what I always end up\nmaking is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dubious food
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Though I\ndon't see what's so dubious about it!"
+  Talk_051:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Oh, that's too bad. It was a pretty\nspecial recipe, too..."
+  "0010":
+    - text: That sounds gross.
+  Talk_101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "To be honest, what I always end up\nmaking is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rock-hard food
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " How did\nit even get that rocky anyway?"
+  Talk_052:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hey, it's you! You don't have to say a\nword. You're back to hear the recipes\nI came up with again, aren't you?\nI have recipes for a lavish meat dish,\nan ancient meat dish, and an ultimate\nsurvival dish. Which will you learn?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 7
+            field_3: 8
+            field_4: 9
+            field_5: 11
+            field_6:
+              - 0
+              - 3
+  "0011":
+    - text: Never mind.
+  Talk_102:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I may end up with nothing to eat but\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dubious food
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...but I won't achieve my\ngoal unless I make some sacrifices!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I don't see what's so dubious about\nusing monster parts, though..."
+  Talk_053:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Do you want to hear another recipe?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 7
+            field_3: 8
+            field_4: 9
+            field_5: 11
+            field_6:
+              - 0
+              - 3
+  "0012":
+    - text: Who are YOU?
+  Talk_103:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "Even when I use ingredients I'm certain\nwill be perfect, there are lots of times I\nstill mess it up."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Cooking is complicated."
+  Talk_054:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "My endeavors today have only added to\nthe wreckage that is my culinary career...\n\nBut tomorrow... Tomorrow is definitely\nthe day I turn it all around!"
+  "0000":
+    - text: "It's burning. Badly."
+  "0013":
+    - text: Your smoke signal?
+  Talk_055:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hm?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Oh, it's you...\n\n\nYou have a satisfied look on your face,\nlike you've accomplished something\nand are all proud of it and stuff.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "Wish I knew what it was like to have\nthat look...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, anyway. To show off the fruits of my\ntraining, I'm going to tell you all about\nthe recipes I've created!\nI have recipes for a lavish meat dish,\nan ancient meat dish, and an ultimate\nsurvival dish. Which will you learn?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 7
+            field_3: 8
+            field_4: 9
+            field_5: 11
+            field_6:
+              - 0
+              - 3
+  "0001":
+    - text: Good luck!
+  Talk010:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 44
+              - 205
+    - text: Now add an ancient gear!
+  Talk_056:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "*sigh* Why do I mess it up every time\nI try to cook?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0006":
+    - text: Teach me a recipe.
+  "0007":
+    - text: Lavish meat dish
+  Talk_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Me? My name is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Moza
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm trying to\nperfect my ultimate dish, so I'm training\nin isolation right now."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 13
+            field_3:
+              - 1
+              - 205
+  "0008":
+    - text: Ancient meat dish
+  Talk_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: Huh?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Who are you?!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 12
+            field_3:
+              - 1
+              - 205
+  "0009":
+    - text: Ultimate survival dish
+  Talk006:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 43
+              - 205
+    - text: A tablespoon of rock salt!
+  Talk_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Smoke signal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Oh, you mean this smoke?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "This is NOT a smoke signal! As you can\nplainly see, I'm in the middle of cooking!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  Talk007:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 31
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Zzz... Needs more salt... Nooo, too much salt..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "I'm burning it?! So then...you're saying\nI've messed it up. I see."
+  Talk008:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 43
+              - 205
+    - text: Now add some Lynel guts!
+  Talk_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "*sigh* For some reason, no matter how\nhard I try to cook something wonderful,\nit always turns out badly.\nI thought up this ultimate recipe myself,\ntoo. Why is this happening?!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk009:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 44
+              - 205
+    - text: Luminous stone to taste!

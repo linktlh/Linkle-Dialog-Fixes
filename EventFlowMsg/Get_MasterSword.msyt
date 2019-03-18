@@ -1,0 +1,276 @@
+---
+entries:
+  Deku_Cancel06:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: "Ho ho...\n\n\nWhy so fearful?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Come back and try again\nonce you've found your determination."
+  Deku_Cancel00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "A hundred years ago, you would have\nbeen able to pull out the sword easily.\nYou have grown weak.\nYou must find a way to become stronger."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: Ho ho ho...
+  Deku_Finish01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "That blade has a name... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIt is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Master Sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nWhen used against "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " or\nthose tainted by his Malice, it"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "will \nbecome suffused with holy light...\nAt such times, the true power of the\nsword will manifest..."
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "but be warned.\nDo not rely too much on its power.\nIf you wield it without need, its power\nwill be exhausted and it will no longer\nbe of use to you.\n...Should this happen, you must wait for\nthe sword to recover.\n\nIt would be rash to rely on this sword\nalone to defeat Ganon..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I suggest you\nfree the Divine Beasts before facing him."
+  Deku_Talk00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "If you hope to pull the sword from its\nresting place, you must use your true\nstrength.\nLet us see whether or not you currently\npossess said power."
+  Deku_Cancel01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "It would seem you still lack the\nnecessary strength for this task. \nYou must recommit to your training."
+  Deku_Finish02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "That blade has a name... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIt is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Master Sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nWhen used against "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " or\nthose tainted by his Malice, it"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "will \nbecome suffused with holy light...\nAt such times, the true power of the\nsword will manifest..."
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "but be warned.\nDo not rely too much on its power.\nIf you wield it without need, its power\nwill be exhausted and it will no longer\nbe of use to you.\n...Should this happen, you must wait for\nthe sword to recover.\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "It was your partner a century ago...\nUse it with care... And wield it bravely\nfor the one who waits for you..."
+  Deku_Talk01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "The sword cares not for your physical\nmight. It is moved by what lies within.\n\nIt cuts through bravado and superficial\nenhancements. Only true strength can\ndraw it from its resting place.\nThe only way to know if you have what\nit takes..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: is to try.
+  Deku_Cancel02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: Ho ho ho...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Why so fearful?\n\n\nYour strength is greater now than it was\na century ago. All you need now is the\ndetermination to succeed."
+  Deku_Cancel01_2:
+    - text: "...However, you were quite close this\ntime."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " "
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: Ho ho ho...
+  Deku_Cancel03:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: You still lack the necessary strength.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut it doesn't look like you lack for\ntraining. No...\nPerhaps you imagine..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "that the\ncontainers given to you by the statues\nof the Goddess cannot be changed?\nVisit Hateno Village in the southeast of\nHyrule. There you will find one who\ntrades in such containers.\nThough...he is a bit wicked..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: Ho ho ho...
+  Deku_Cancel04:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: You still lack the necessary strength.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut it doesn't look like you lack for\ntraining. No...\nOffer a statue of the Goddess your\nSpirit Orbs, and try increasing the hearts\nthat make up your true strength."
+  Deku_FirstFailure01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "You would have lost your life if you\nhadn't released your grip on the sword..."
+  Deku_Cancel05:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 3
+              - 205
+    - text: "You think you can pull out the sword\nwhile suffering such injuries?! Heal your\nwounds first, or you stand no chance."
+  Deku_FirstFailure02:
+    - text: "Prepare before you try again...for I will\nnot stay your hand partway through\nthe next time."

@@ -1,0 +1,621 @@
+---
+entries:
+  near02:
+    - text: Umm...
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: Is there really
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: girl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " there?"
+  near03:
+    - text: Retreat!
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "There aren't any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: girls
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " around here..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWas Karin lying to us?"
+  near04:
+    - text: Zzz... Zzz...
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Ahh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I've seen this before..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " was carrying it."
+  "0000":
+    - text: What?
+  "0001":
+    - text: Sorry.
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "I can't see anything if you stand there..."
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 0
+              - 0
+              - 1
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "I can't see! Move!"
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 0
+              - 0
+              - 1
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Ya... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Yeah.
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Hey, lady, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "how do you know the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Heehee..."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "I heard that there is a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Sheikah-tribe girl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwho is super cute with really big eyes.\nKarin said as much!"
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 3
+    - text: Sefaro!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " How do things look over there?"
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "I'd like to go visit that"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " Sheikah-tribe girl"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nbut I really hate fighting the rain..."
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "No luck! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "There's nothing here!"
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "I wonder if I can see that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Sheikah-tribe\ngirl "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: once the sun comes out...
+  talk00:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: Whoa! Keep your space!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Us spies are on a top-secret mission!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nDon't follow us or you'll blow our cover!"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 34
+    - text: "Ughh... I'm so sleepy..."
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "It's hard enough to see with just the\nrain,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but you're also in the way!"
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 0
+              - 0
+              - 1
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Ahh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I've seen this before..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nOl' granny Purah was carrying it."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "We're playing spies. I love espi'nage!"
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "You're ruining a beautiful, sunny time\nby just standing there, y'know?"
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 0
+              - 0
+              - 1
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Hey, lady..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Just how do you know\nPurah, anyway?"
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "I wonder if we'll see her today...\nThat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: girl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I mean..."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 34
+    - text: "I'm sleepy, so I'm going home..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nLet's be spies some more tomorrow."
+  talk16:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: girl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "She won't come out!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 34
+    - text: "I'm sleepy, so I'm going home..."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 3
+    - text: Sefaro!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Have you seen the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: girl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  near00:
+    - text: Hee hee...
+  talk05:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: girl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Zzz...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Ummm...
+  talk06:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "At the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: research lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "There's a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: girl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Hey, hey..."

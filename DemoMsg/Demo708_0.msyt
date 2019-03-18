@@ -1,0 +1,47 @@
+---
+entries:
+  Demo708_0_Text000:
+    - text: "You're here."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 30
+    - text: " \n\n\nI must say...that I am so happy to see\nthat this day has finally arrived."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 221
+    - text: "\n\nNow Ruta can be freed\nof Ganon's control."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 121
+  Demo708_0_Text001:
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Guidance Stone "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "there contains the\ninformation that you will need."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 115
+  Demo708_0_Text002:
+    - text: "You'll need a map to prevent you from\ngetting lost."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 96

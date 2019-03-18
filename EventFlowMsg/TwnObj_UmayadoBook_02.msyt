@@ -1,0 +1,39 @@
+---
+entries:
+  "0000":
+    - text: Read.
+  "0001":
+    - text: "Don't read."
+  Book00:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: "Time for gossip and news about the past\nand the future! Today's topic is...\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "The Weird and Wonderful\nSpirit Koroks!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\nAt the moment the night is at its\ndarkest, when even the trees have\ndrifted into slumber...\nActually, the time of day doesn't matter\nat all... Anyway...\n\nAll throughout the world, you may spot\nthese odd little spirit critters as you\nwander the land.\nThey could be under a rock, or way out\nin the wilds, or even just in a suspicious\nnook that seems slightly not right...\nReal eerie, huh?\n\n\nTraysi's Recommendation: ★★★☆☆"
+  BookFirst:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: "Rumor Mill: Volume 3"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1

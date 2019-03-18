@@ -1,0 +1,716 @@
+---
+entries:
+  near02:
+    - text: Rrrgh...
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: What do YOU want?
+  near03:
+    - text: "Let me at 'em..."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Cut it out, creep!"
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - text: "Oh, don't act so clueless."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Although... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Fine.
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: You seem harmless enough.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Forgive me,\nI've just been on edge with all these\nmonsters running around.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "They come up from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hateno Beach "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to\nsteal my sheep. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "If someone doesn't do\nsomething soon, I won't have any left!"
+  "0000":
+    - text: Yes?
+  "0001":
+    - text: Good-bye.
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "I wanted to give you some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fresh milk
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nbut you don't have room for any."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Go drink some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fresh milk
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "—or sell it,\nthat works too—and come back."
+  "0002":
+    - text: Which monsters?
+  "0003":
+    - text: Hateno Beach?
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Though, it could certainly be worse..."
+  "0004":
+    - text: "That's right."
+  talk10:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 14
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "I hate that gang of monsters on \n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Beach
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 2
+              - 0
+              - 3
+              - 0
+              - 1
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The scent of the soil is the smell of life\nitself. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "If you ask me, anyway."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "The stupid ones who attack anything\nthat moves."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Last time they showed up,\nI gave them a taste of my pitchfork.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "But I had second thoughts about\nfollowing them back to their camp\non "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Beach
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI was mad enough to spit but maybe\nnot mad enough to take on "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "seven\nmonsters "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: at once.
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "It's southeast of the village."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Follow the\nwinding road, and you'll be there before\nyou know it."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIt's well-known enough that you can\nprobably find it on a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: map
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", come to that."
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The sheep have been eating and sleeping\nbetter."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " They're yielding more milk too."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYou've single-handedly saved my flock!"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hmph. \"Good\" morning. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "What's so good\nabout it, I ask?"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Good... *sigh* "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Good-bye.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I'm sorry if we got off on the wrong foot."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nUh..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "that's all..."
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: Say...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "is that the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " from the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "What are you doing with it? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Some kind\nof scientific ritual?"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hmph. \"Good\" day. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "What's so good\nabout it, I ask?"
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "The sheep have calmed down. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I think\nthey get that they're not about to be\nsnatched at any moment.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Hey... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Sorry if I'm off the mark in asking\nthis, "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "but are you the one who took care\nof those monsters?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk27:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "That's the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "flame "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "they use up at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Where are\nyou taking it?"
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hmph. \"Good\" evening. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "What's so good\nabout it, I ask?"
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: I had a feeling.
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "When the sheep all calmed down,\nI thought, \"Maybe she did it...\""
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: So it seems I owe you some thanks.
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Anything else you wanna know?
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 2
+              - 0
+              - 3
+              - 0
+              - 1
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "Oh, no you don't!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Isn't that old Purah's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhat are you up to with it?"
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "You can't hide the truth from me."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI might not feel it in my bones like the\nsheep do, but I'm no fool, either.\nWhich is to say..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: um...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Thanks."
+  talk05:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Hey! That's Purah's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "How come\nyou're messing with it?"
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "It'll be nice to have a night's sleep\nwithout worrying about my flock.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "And, er..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " If you want..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you can talk\nto me anytime. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: O-or not!
+  near01:
+    - text: "They'll pay! They'll all pay!"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hey, you."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "This isn't much of a reward, but hey,\nit's light."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That counts for something."

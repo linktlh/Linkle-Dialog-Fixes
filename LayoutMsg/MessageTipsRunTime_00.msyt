@@ -1,0 +1,230 @@
+---
+entries:
+  "0008":
+    - text: "Any attack that causes your\nweapon to break becomes a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Critical Hit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", dealing 2x damage."
+  "0009":
+    - text: "Throw a weapon at an enemy to\nperform a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Critical Hit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", dealing\ntwice the weapon damage."
+  "0020":
+    - text: "The air has become very "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: cold
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nYou'll take damage even with\nyour current food and clothes."
+  "0021":
+    - text: "The air has become very "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: hot
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nYou'll take damage even with\nyour current food and clothes."
+  "0022":
+    - text: "The air itself burns. Your current\nclothes and food won't protect\nyou from taking damage."
+  "0010":
+    - text: "The very air around you is\nburning. You'll take damage\nif you stay here any longer."
+  "0023":
+    - text: "You can manipulate certain\naspects of the Divine Beast\nfrom the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Map Screen
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0024":
+    - text: "Master Cycle Zero's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: fuel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " can\nbe refilled by placing materials\nin its fuel tank."
+  "0000":
+    - text: "Press "
+    - control:
+        one:
+          type7:
+            field_1: 2
+            field_2:
+              - 10
+              - 205
+    - text: " to deflect an attack\nwith your shield right before it\nlands for a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Perfect Guard
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0013":
+    - text: "Vertical surfaces become slick\nwith water when it rains, making\nclimbing more difficult."
+  "0001":
+    - text: "Jump out of the way of an\nattack at the last moment to\nexecute a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Perfect Dodge
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0014":
+    - text: "Wooden weapons or\nshields will catch fire if\nequipped in this area."
+  "0002":
+    - text: "To shield surf, jump ("
+    - control:
+        one:
+          type7:
+            field_1: 2
+            field_2:
+              - 12
+              - 205
+    - text: ") while\nholding a shield, and then\npress "
+    - control:
+        one:
+          type7:
+            field_1: 2
+            field_2:
+              - 10
+              - 205
+    - text: " while in the air."
+  "0015":
+    - text: "Crouching increases your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: stealth
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", making it easier to\nsneak up on foes and animals."
+  "0003":
+    - text: "Hit an enemy's head with an\narrow to perform a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Critical Hit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthat deals 2x damage."
+  "0016":
+    - text: "You can't sand-seal surf\nwithout a shield."
+  "0004":
+    - text: "If your Stamina Wheel runs out,\nyou'll be too tired to do certain\nactions until it fills up again."
+  "0017":
+    - text: "Wolf Link will guide you\nto locations that trigger\nyour Sheikah Sensor."
+  "0005":
+    - text: "The temperature is getting\ndangerously low. Find warmth\nsoon or you'll take damage."
+  "0018":
+    - text: "Check a meal's ingredients by\nselecting it from your inventory\nand then selecting "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Recipe
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  TextBox_00:
+    - text: 
+  "0006":
+    - text: "The temperature is getting\nvery high. Find a way to cool\ndown or you'll take damage."
+  "0019":
+    - text: "Electrical attacks can shock\nyou, causing you to drop the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "weapon "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "you're holding."
+  T_Guide_00:
+    - text: Controls Overview
+  "0007":
+    - text: "Sneak up on an enemy and\nunleash a melee attack to do\nsome major damage."

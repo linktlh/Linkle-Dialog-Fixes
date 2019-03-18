@@ -1,0 +1,60 @@
+---
+entries:
+  Demo346_0_Text001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "We did it! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Direct hit, goro!"
+  Demo346_0_Text002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "And thanks to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Daruk's Protection"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nthat didn't hurt me one bit, goro!\nMy ancestor came through for me!\nIf we keep weakening it like this,\nwe should be able to get inside.\nDon't let up, sister!"
+  Demo346_0_Text000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "We did it, goro!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " If we can keep this up,\nwe should be able to corner "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Rudania
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."

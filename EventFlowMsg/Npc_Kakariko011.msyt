@@ -1,0 +1,478 @@
+---
+entries:
+  Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Oh, OK... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "You'd sleep great, though..."
+  Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: Noon?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Alrighty. If you insist.\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: I wonder...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "if I'll be awake..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Near01:
+    - text: Zzz...
+  Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: Night?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Got it. If you insist.\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: I wonder...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "if I'll be awake..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0000":
+    - text: Regular bed.
+  Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Good m-morning.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Or wait... Good day."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI guess."
+  "0001":
+    - text: Soft bed.
+  Talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Good mor...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Wait. I mean, good evening."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI guess."
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Well...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The regular bed is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nAnd..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "th-the soft bed is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 40 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI guess..."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 9
+            field_6:
+              - 0
+              - 3
+  "0002":
+    - text: The difference?
+  Talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: When should I...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: wake you up?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5: 6
+            field_6:
+              - 0
+              - 3
+  "0003":
+    - text: Morning.
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Th-thank you...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " So, um..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhen should I wake you?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5: 6
+            field_6:
+              - 0
+              - 3
+  "0004":
+    - text: Noon.
+  "0005":
+    - text: Night.
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Well...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: d-do come again...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: OK?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nGood night..."
+  "0006":
+    - text: Changed my mind.
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: M-morning?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Alrighty.\nIf you insist.\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: I wonder...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "if I'll be awake..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Um...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Oh, my... It seems you don't..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nhave enough rupees."
+  "0007":
+    - text: Thank you.
+  "0008":
+    - text: "Nah, never mind."
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Um...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Well..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " OK, I guess."
+  "0009":
+    - text: Bye.
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Good m-morning.
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 45
+    - text: "Ack! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: Are you...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "a g-guest?\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I suppose so...\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You s-scared me half to death...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Hrm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Well... I guess it's OK."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt is your first time here..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "right?\n\nI'll give you a freebie..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: just this once.
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 7
+            field_3: 8
+            field_4:
+              - 0
+              - 1
+  Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "The soft bed is stuffed with premium\nCucco feathers..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: or something.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI think.\nSleep on that, and..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Um..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Ya know..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou'll be more energized"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " than usual."

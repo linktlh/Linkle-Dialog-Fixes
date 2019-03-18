@@ -1,0 +1,1133 @@
+---
+entries:
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "You do not have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora spear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", nor do you\nhave a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "You do not have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", nor do you\nhave enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "I will make a new one for you when you\nbring me all of the necessary materials."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nCome see me again once you have them."
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Ah... I see you have brought me the\nmaterials I require."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Shall I remake\nthat weapon for you?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Diamonds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are rather hard to come by.\nAre you sure about this?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Hm. As you wish.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Come back when you\nare ready for me to remake it for you."
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Understood. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'll get to work right away."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: Phew...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That was rather difficult to make.\n\n\nPlease take good care of it."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "As the Champion, you should be able to\nuse both the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Lightscale Trident "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ceremonial trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIf you break either one..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "please let me\nknow so I can remake it for you."
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "You are here...\n\n\nWhat do you need?"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 8
+              - 40
+              - 78
+              - 112
+              - 99
+              - 95
+              - 90
+              - 111
+              - 114
+              - 97
+              - 48
+              - 51
+              - 51
+              - 95
+              - 83
+              - 112
+              - 101
+              - 97
+              - 114
+              - 48
+              - 53
+              - 48
+              - 9
+              - 40
+              - 78
+              - 112
+              - 99
+              - 95
+              - 90
+              - 111
+              - 114
+              - 97
+              - 48
+              - 51
+              - 51
+              - 95
+              - 83
+              - 112
+              - 101
+              - 97
+              - 114
+              - 48
+              - 52
+              - 57
+              - 65535
+              - 0
+              - 10
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ceremonial trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", although it is a\ncounterfeit, is a secret weapon of the\nroyal family, like the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lightscale Trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI am the only person permitted to\ncraft one.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Should you ever break it or lose track\nof it..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "simply bring me a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora spear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five pieces
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nDo so, and I will make you a new\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ceremonial trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  near00:
+    - text: "..."
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ceremonial trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... I somehow felt\nit had disappeared from this world."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nShall I remake it for you?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "You do not have it in your possession,\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but I can sense the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ceremonial trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis still in this world.\nIf you have entrusted it to someone,\nthat is one thing..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but if not, I must\nstrongly suggest you locate it."
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "In that case, I will need "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora spear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five pieces
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk00:
+    - text: "..."
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: What do you want?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 11
+              - 34
+              - 78
+              - 112
+              - 99
+              - 95
+              - 90
+              - 111
+              - 114
+              - 97
+              - 48
+              - 51
+              - 51
+              - 95
+              - 115
+              - 112
+              - 101
+              - 97
+              - 114
+              - 12
+              - 34
+              - 78
+              - 112
+              - 99
+              - 95
+              - 90
+              - 111
+              - 114
+              - 97
+              - 48
+              - 51
+              - 51
+              - 95
+              - 100
+              - 111
+              - 105
+              - 110
+              - 103
+              - 13
+              - 0
+              - 10
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "So...the Hylian who stole Lady Mipha\naway thinks she can just come wandering\nin here like nothing happened.\nWhat business do you have here after\nall these years?!"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 11
+              - 34
+              - 78
+              - 112
+              - 99
+              - 95
+              - 90
+              - 111
+              - 114
+              - 97
+              - 48
+              - 51
+              - 51
+              - 95
+              - 115
+              - 112
+              - 101
+              - 97
+              - 114
+              - 12
+              - 34
+              - 78
+              - 112
+              - 99
+              - 95
+              - 90
+              - 111
+              - 114
+              - 97
+              - 48
+              - 51
+              - 51
+              - 95
+              - 100
+              - 111
+              - 105
+              - 110
+              - 103
+              - 13
+              - 0
+              - 10
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 16
+    - text: The weapons workshop...
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "..."
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 11
+              - 34
+              - 78
+              - 112
+              - 99
+              - 95
+              - 90
+              - 111
+              - 114
+              - 97
+              - 48
+              - 51
+              - 51
+              - 95
+              - 115
+              - 112
+              - 101
+              - 97
+              - 114
+              - 12
+              - 34
+              - 78
+              - 112
+              - 99
+              - 95
+              - 90
+              - 111
+              - 114
+              - 97
+              - 48
+              - 51
+              - 51
+              - 95
+              - 100
+              - 111
+              - 105
+              - 110
+              - 103
+              - 13
+              - 0
+              - 10
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 16
+    - text: Trident maintenance...
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "So I have heard. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Hylian Champion Linkle...\n\n\nNow Lady Mipha's spirit can finally rest\nin peace."
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 34
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lightscale Trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ceremonial trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 4
+    - text: "Linkle... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You have acquired the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lightscale Trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 12
+    - text: "You have been making a racket since you\nwalked in here.\n\nThere is no point in coming here if you\ndo not possess the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lightscale Trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nLeave. Now."
+  "0004":
+    - text: "Yes, please."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lightscale Trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is the royal\nfamily's secret weapon..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I am the\nonly person permitted to craft one.\nShould you ever overuse it to the point\nof breaking, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "or should you ever lose\ntrack of it...\nSimply bring me a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora spear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: one
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five pieces
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nof "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nDo that, and I will make you a new\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lightscale Trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " whenever you\nhave need."
+  "0005":
+    - text: "No, but thank you."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lightscale Trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... I somehow felt\nit had disappeared from this world."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nShall I remake it for you?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  "0006":
+    - text: Yes.
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "In that case,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I will need a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora spear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "one "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five pieces
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0007":
+    - text: No.
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "You do not have it in your possession,\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but I can sense the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lightscale Trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis still in this world.\nIf a monster were to take hold of it,\nthat would be extremely dangerous.\n\nIf you have entrusted it to someone,\nthat is one thing..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but if not, I must\nstrongly suggest you locate it."
+  "0008":
+    - text: A Lightscale Trident.
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: Hmm...
+  "0009":
+    - text: A Ceremonial Trident.
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "You do not have all of the materials\nI require..."
+  "0010":
+    - text: Good-bye.
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "You do not have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora spear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  "0011":
+    - text: A trident?
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "You do not have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  "0012":
+    - text: What are you doing?
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "You do not have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  "0013":
+    - text: What is this place?
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "You do not have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora spear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", nor do you\nhave enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."

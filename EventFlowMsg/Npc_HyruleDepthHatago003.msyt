@@ -1,0 +1,619 @@
+---
+entries:
+  Challenge04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 19
+    - text: "Oh... That aroma...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "You definitely have meat on you, but I'm\nreally craving raw gourmet meat,\nnot regular or even prime meat.\nAnd it's gotta be raw! I'm kind of a weird\nmeat snob like that..."
+  "2002":
+    - text: You are?
+  Challenge05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "For real?!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Well, you don't have to tell me twice!\nI'll take one! Does "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 100 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " work for\nyou?"
+  "2003":
+    - text: This place?
+  RunRain00:
+    - text: Rain...
+  Challenge06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: "Ahh... I want to eat meat so bad I'm\nstarting to hallucinate smells..."
+  "2004":
+    - text: Raw gourmet meat?
+  Challenge07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Thanks to you, I'm starting to feel better\nabout this job. I'm going to really work\nmy hardest.\nIf you get ahold of any more\nraw gourmet meat, hook me up!"
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: Thanks!
+  GoodBye01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Thanks!\nDon't tell anyone I'm taking a break, OK?"
+  NearChallenge00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 11
+              - 205
+    - text: Hah...
+  FirstTalk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: "Heyyyyyy...\nWe-welcome..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1000
+            field_3: 1001
+            field_4:
+              - 0
+              - 1
+  Answer00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Thanks!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Hey, wait a tick... You don't have\nany raw gourmet meat!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "You got my hopes up for nothing...\nNot cool, man. Talk to me when you\nactually have some raw gourmet meat."
+  FirstTalk01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Is it that obvious...\n\n\nI'm...into horses...\nSo I got a job with the stable association,\nwhich is great and all, but...\nThey dispatched me here in\nthe middle of nowhere, which I can\nhandle...\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 15
+              - 205
+    - text: "But they have me working around the\nclock. I feel so hazy all the time..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1001
+            field_4:
+              - 0
+              - 1
+  Ask00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Um... Can I help you?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 1001
+            field_6:
+              - 0
+              - 3
+  Answer01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Thanks!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " ...But you went and cooked your\nraw gourmet meat!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "That's criminal, man. The only way to\neat raw gourmet meat..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "is raw!\n\nGet that cooked stuff out of my face."
+  "1000":
+    - text: You sound tired.
+  FirstTalk02:
+    - text: "If only I could eat some meat for energy.\nBut the stable meals are vegetarian for\nthe most part.\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Ah, what I wouldn't do for some\nfresh-caught raw gourmet meat..."
+  FirstGoodBye00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: Thanks...for coming by...
+  Ask01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Anything...else?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 1001
+            field_6:
+              - 0
+              - 3
+  Answer02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Thanks!\nIs "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 100 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " still good?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  "1001":
+    - text: Bye.
+  FirstTalk03:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Ah, come on... You have time for this,\ndon't you?\n\nThings have been pretty rough out here."
+  Answer03:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Thanks to you, I'm feeling better.\nIf you get ahold of more\nraw gourmet meat, come see me."
+  "1002":
+    - text: Sounds rough.
+  ChallengeAnswer00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 11
+              - 205
+    - text: "I'm the stable apprentice here...\n\n\nI want my own stable one day, but I'm\nnot sure I can handle working here\nuntil then..."
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Thanks to you, I'm feeling better. \nIf you get ahold of some\nraw gourmet meat, come see me."
+  "0000":
+    - text: Have some meat!
+  Answer04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "This is more than enough for today.\n\n\nIf you get ahold of more\nraw gourmet meat, come see\nme tomorrow."
+  ChallengeAnswer01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 11
+              - 205
+    - text: "This is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Outskirt Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". As you can\nsee, we're out in the boonies...\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Ridge
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is north of here. That's the\nquickest way to get to Rito Village.\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Gerudo Desert "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is southwest of here, but\nthere are some really nasty monsters on\nthe way..."
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "...I'm just on a little break here.\nDon't tell my boss."
+  "0001":
+    - text: This place?
+  Answer05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: No... Really?
+  ChallengeAnswer02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Are you into it too? The stuff next to the\nbone is the BEST!\n\nIf only I could take a break and go to\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Satori Mountain "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "area just in front of\nHyrule Ridge to go hunting...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Usually there aren't a lot of animals out\nthere, but every so often a migration hits\nand it's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: teeming with animal life
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nBut I'm never off the clock, so I can't\ngo myself..."
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "You'll get soaked outside. C'mon inside\nthe stable."
+  "0002":
+    - text: Hunting area?
+  Answer06:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 23
+              - 205
+    - text: "This is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Outskirt Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". As you can\nsee, we're way out in the boonies.\n\nNorth of here is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Ridge
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". That's\nthe best way to get to Rito Village.\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Desert
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is to the southwest, but\nthere are a bunch of monsters out there,\nso be careful."
+  "0003":
+    - text: Sure.
+  Answer07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "There's this area just in front of\nHyrule Ridge near "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Satori Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " that's\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: teeming with animal life
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " every so often.\nI hear the Lord of the Mountain makes\nits home around there."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I wonder what its\nmeat tastes like..."
+  "0004":
+    - text: "Eh, never mind."
+  Challenge00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: "Heyyyyyyyy...\nWe-welcome...\n\nAhh...what I wouldn't do for some\nfresh-caught raw gourmet meat..."
+  ChallengeAsk00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Um, can I help you?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2002
+            field_3: 2003
+            field_4: 2004
+            field_5: 1001
+            field_6:
+              - 0
+              - 3
+  Near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 1
+              - 205
+    - text: Welcome!
+  Challenge01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: "Ahh...what I wouldn't do for some\nfresh-caught raw gourmet meat..."
+  ChallengeAsk01:
+    - text: Anything...else?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2002
+            field_3: 2003
+            field_4: 2004
+            field_5: 1001
+            field_6:
+              - 0
+              - 3
+  Near01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: Phew...
+  Challenge02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 19
+    - text: "Oh! That meaty aroma!\n\n\nYou don't happen to have any\nraw gourmet meat on you, do you?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "I'm no freeloader, of course. I'll pay you\nwell if you split it with me."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2000
+            field_3: 2001
+            field_4:
+              - 0
+              - 1
+  "2000":
+    - text: Sure thing.
+  Challenge03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 19
+    - text: "Oh... That aroma...\n\n\nIt has that tinge of raw gourmet meat,\nbut...cooked?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "Aww, man. I like my raw gourmet meat\nrare and juicy!"
+  "2001":
+    - text: No meat here.

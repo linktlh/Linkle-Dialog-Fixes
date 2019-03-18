@@ -1,0 +1,595 @@
+---
+entries:
+  "0044":
+    - text: "I'll give it a shot."
+  "0010":
+    - text: The joy of the Rito
+  "0045":
+    - text: "I'll pass."
+  "0011":
+    - text: The honor of the Rito
+  "0012":
+    - text: The pride of the Rito
+  "0013":
+    - text: The wings of the Rito
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "If I were a properly trained soldier,\nI'd go straight at the beast and bring it\ndown..."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "\"You're right\"?\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I was talking about you, you know."
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "You see "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast Vah Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "flying\naround up there?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The village is in disarray thanks to that\nthing."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Zzz...zzz...
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Hmph...
+  "0030":
+    - text: Its heart lights up
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: "So Bedoli told you I would sing you the\nlast half of the ancient Rito song?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Her memory really is the worst...\n\n\nI can help you..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "but there is a catch!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Recite the first half from memory, and I\nwill teach you the second half."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 44
+            field_3: 45
+            field_4:
+              - 0
+              - 1
+  near01:
+    - text: Phew...
+  "0031":
+    - text: Its face lights up
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You want me to sing the second half\nof the song?\n\nOnly if you can recite the first half\nwithout messing it up."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 44
+            field_3: 45
+            field_4:
+              - 0
+              - 1
+  near02:
+    - text: Pillar in the sky...
+  "0032":
+    - text: Its shadow lights up
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: That is disappointing.
+  near03:
+    - text: "..."
+  "0033":
+    - text: Its wings light up
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Go ahead.
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 10
+            field_3: 11
+            field_4: 12
+            field_5: 13
+            field_6:
+              - 0
+              - 4
+  near04:
+    - text: Zzz...zzz...
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "...Don't tell me you came all the way\nhere just to hear an ancient Rito song."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: OK.
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: You want to hear the ancient Rito song?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0001":
+    - text: Never mind.
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Nothing makes me want to not do \nsomething more than being asked to do\nit on the spot..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " But sure, why not."
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1050253722
+    - text: "The pride of the Rito, "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "pillar in the sky,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nits heart lights up"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " when the sun is high."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 5
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "That's the whole song."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nPretty deep, huh?\nMakes you think."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Morning.
+  "0005":
+    - text: What?
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hello.
+  "0006":
+    - text: "You're right."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Evening.
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hmm. OK.
+  "0020":
+    - text: Village in the sky
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "You...are basically naked.\n\n\nThat's close enough."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Don't make me call\nsomeone."
+  "0021":
+    - text: Bird in the sky
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "I'm about to turn in for the night."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nCome back tomorrow."
+  "0022":
+    - text: Mountain in the sky
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: What are you doing here?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou adventurers are crazy."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 6
+            field_4:
+              - 0
+              - 2
+  "0023":
+    - text: Pillar in the sky
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "What do you mean, \"what\"?"
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Thanks to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", our\nvillage is under siege! It could bomb us\nall at any given moment!"
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Now that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beast Vah Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has\ncalmed down, the village is peaceful\nonce again."
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Seems like everyone in the village is\nthinking about going on vacation."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: ENNNNNNGH! Wrong!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nCome back once you can actually\nrecite the first half."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Correct,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " and after that?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 20
+            field_3: 21
+            field_4: 22
+            field_5: 23
+            field_6:
+              - 0
+              - 4
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Ah...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Right again."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAnd then?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 30
+            field_3: 31
+            field_4: 32
+            field_5: 33
+            field_6:
+              - 0
+              - 4
+  "0040":
+    - text: When the arrows fly
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Well done.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Now for the final line..."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 40
+            field_3: 41
+            field_4: 42
+            field_5: 43
+            field_6:
+              - 0
+              - 4
+  "0041":
+    - text: When the sun is high
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Aha!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You got every word right!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Well, a promise is a promise."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'll teach\nyou the last half of the song."
+  "0042":
+    - text: When the time is nigh
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1050253722
+    - text: The heart shines upon
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " a path not whole,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nbut a warming flame"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " can stir its soul"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 5
+    - text: "."
+  "0043":
+    - text: When the day is shy
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "That's the second half of the \nancient Rito song."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\nProfound, isn't it?"

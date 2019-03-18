@@ -1,0 +1,338 @@
+---
+entries:
+  "0008":
+    - text: Could it be?!
+  "0009":
+    - text: Nope.
+  Henshin00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 35
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1077936128
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Now...time for you to DIIIIE!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 60
+  Henshin01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 35
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1077936128
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Begone, enemy of my maaaaster!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 60
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 3
+    - text: "Hey, buuuuuddy!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Awwww! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "You're so cuuute!"
+  TerrorArrow:
+    - text: "Oh, nooo!"
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Heeeey! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Are you even liiiiistening?
+  Near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 1
+              - 205
+    - text: Helloooo!
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: Want
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " to"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " spend"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " some..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "tiiiiime "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "with "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: meee?
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: Me?
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Well, theeeen..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Can you just clooose\nyour eeeeyes?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  "0001":
+    - text: "..."
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Whaaaaa—?! But whyyyyy?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Don't "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "like "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: meeee?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " If you doooo,\nplease cloooose those eyes!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  "0002":
+    - text: OK...
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Yaaaay! Are your eyes clooosed now?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWell, theeeen..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Hylian Champion...
+  "0003":
+    - text: I refuse!
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: "You're so meeeean."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Well, theeeen..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHylian Champion..."
+  "0004":
+    - text: Um...sure.
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Do "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "remember "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: meeee?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 1
+  "0005":
+    - text: Not happening.
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "That's juuuust what I'd expeeeect..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nfrom the Hylian Champion."
+  "0006":
+    - text: "Well...OK, then."
+  TerrorSword:
+    - text: "Oh, nooo!"
+  "0007":
+    - text: "No, I don't like you."

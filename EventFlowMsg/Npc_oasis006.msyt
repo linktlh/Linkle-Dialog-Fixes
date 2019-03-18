@@ -1,0 +1,500 @@
+---
+entries:
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI hope you slept well!\n\nBut... Are you really planning to head\nout at this hour?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " The desert is quite\ndangerous at night, you know."
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta! You look like the very image of\nrelaxation!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Please be careful on your\njourney... The desert is dangerous!"
+  Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq! You look like the very image of\nrelaxation!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Please be careful on your\njourney... The desert is dangerous!"
+  Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba! You look like the very image\nof relaxation!\n\nBut... Are you really planning to head out\nat this hour?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " The desert is quite\ndangerous at night, you know."
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 28
+              - 205
+    - text: Vasaaq!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Come on in and rest for a while!"
+  Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 25
+    - text: "You've...never heard of the spa plan\nat Hotel Oasis?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: I was sure it was known the world over...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The spa plan we offer will fill you with\nenergy and a truly unique feeling of\nresilience to great dangers.\nAnd as an extra bonus, it'll feel like years\nof worry have been washed away, leaving\nyour skin bright and smooth."
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 24
+    - text: "Sav'orq!"
+  Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Intriguing, right? What do you think?\nThe standard stay is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and the\nspa plan is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 80 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 7
+            field_5: 2
+            field_6:
+              - 0
+              - 3
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 19
+    - text: "What's this... You don't have enough\nmoney!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You can't stay if you can't pay\nfor it!"
+  Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Did you want to try a different option?\n\n\nThe standard stay is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and the\nspa plan is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 80 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 7
+            field_5: 2
+            field_6:
+              - 0
+              - 3
+  Near01:
+    - text: Time to relax?
+  "0000":
+    - text: "Standard, please."
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Oh...just the standard stay, huh?\nThe spa plan is sure to bleed away all\nthe worry and wrinkles of life, but OK...\nWell, when would you like to be woken?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5: 6
+            field_6:
+              - 0
+              - 3
+  Talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The nightly rate is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but we\nalso offer a special spa plan that would\nbring the total to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 80 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 7
+            field_5: 2
+            field_6:
+              - 0
+              - 3
+  Talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 28
+              - 205
+    - text: Vasaaq!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nThe Divine Beast has stopped its\nrampage, so I'm hoping business will\npick up again!\nIt's all thanks to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Riju
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", isn't it?"
+  "0001":
+    - text: "Spa plan, please!"
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "The spa plan it is!\nHeehee, I'm so excited to get to work...\n\nAnyway, when would you like to be\nwoken?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5: 6
+            field_6:
+              - 0
+              - 3
+  Talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 28
+              - 205
+    - text: Vasaaq!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Oh, look at this cute little vai... I bet you\nwould absolutely love what we have to\noffer, little one!\nWe're an inn, of course, but we also have\na special "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: spa plan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! A vacation for mind\nand body!\nIt's really, really popular. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "So popular,\nin fact, that we always have a long line of\npeople waiting to get in!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Although... I don't know what it is, but\nI just feel something special from you."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nYou can cut to the front of the line!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh! I'm just going on and on.\nWhat can I do for you?"
+  "0002":
+    - text: Good-bye.
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 23
+    - text: "Sav'orr!"
+  "0003":
+    - text: In the morning!
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 23
+    - text: "Sav'orr!"
+  "0004":
+    - text: "Around noon, please."
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta! Did you sleep well?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " The desert\nis a dangerous place, but you should be\nup for anything after resting!"
+  "0005":
+    - text: After sunset.
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq! Did you sleep well?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " The desert\nis a dangerous place, but you should be\nup for anything after resting!"
+  "0006":
+    - text: Actually...never mind.
+  "0007":
+    - text: Spa plan?

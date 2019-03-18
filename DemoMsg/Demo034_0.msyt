@@ -1,0 +1,471 @@
+---
+entries:
+  talk07:
+    - text: "In exchange for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: four
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Spirit Orbs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I will\namplify your being. So tell me what it\nis that you desire."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk08:
+    - text: I shall grant the power you seek.
+  talk09:
+    - text: I can offer you great power.
+  talk30:
+    - text: Your path has shown itself. Now go forth.
+  talk31:
+    - text: "I, Goddess Hylia,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " will guide you."
+  "0000":
+    - text: Heart Container.
+  talk32:
+    - text: "The blue spirit, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naydra
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", is released.\n\n\nYou must now offer "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Naydra's scale"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to\nthe spring here."
+  "0001":
+    - text: Stamina Vessel.
+  talk20:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nYou have done well to find this spring."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk33:
+    - text: "Linkle... It appears that you have sufficient\npower. You should not seek to increase\nthis any further."
+  "0002":
+    - text: Never mind.
+  "0003":
+    - text: Yes.
+  talk22:
+    - text: "You who has claimed the Spirit Orbs.\n\n\nRid the blue spirit "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Naydra "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "of Malice.\nShow me the power you hold."
+  "0004":
+    - text: No.
+  talk23:
+    - text: "By your power, the blue spirit of\nMount Lanayru, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naydra
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", has been freed\nof Malice."
+  talk11:
+    - text: "Go, and bring peace to Hyrule..."
+  talk24:
+    - text: "Now, at last, you must pierce the body\nof "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naydra
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " This final ritual will release\nthe spirit of this land."
+  talk12:
+    - text: "It appears you have claimed "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: four
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Spirit Orbs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk00:
+    - text: The Goddess Statue smiles upon you...
+  talk13:
+    - text: "It appears you still possess "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Spirit Orbs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk01:
+    - text: "You who have conquered the shrines and\nclaimed their "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Spirit Orbs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk14:
+    - text: Understood. Which power do you seek?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk27:
+    - text: "Offer "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Dinraal's scale"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", received from\nthe red spirit, to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Spring of Power
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk02:
+    - text: "But you do not yet have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "four "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Spirit Orbs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\nSeek out the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shrines
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " scattered across\nHyrule, and face more challenges.\n\nOnce you have claimed "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "four "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Spirit Orbs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nreturn to me."
+  talk15:
+    - text: "Your life force already tests the seams of\nyour being.\n\nThere is no need to increase your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Heart Containers
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " further."
+  talk28:
+    - text: "Offer "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Farosh's scale"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", received from the\ngolden spirit, to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Spring of Courage
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk16:
+    - text: "Your being overflows with vigor.\n\n\nThere is no need to increase your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Stamina Wheel "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: further.
+  talk04:
+    - text: "You wish for another "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Heart Container
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nyes?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 3
+            field_3: 4
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk17:
+    - text: "You already overflow with life force and\nstamina. Increasing your power any\nfurther may destroy you."
+  talk05:
+    - text: "You wish to expand your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stamina Wheel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nyes?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 3
+            field_3: 4
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk18:
+    - text: "Increase your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Heart Containers
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 3
+            field_3: 4
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk19:
+    - text: "Expand your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stamina Wheel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 3
+            field_3: 4
+            field_4: 2
+            field_5:
+              - 0
+              - 2

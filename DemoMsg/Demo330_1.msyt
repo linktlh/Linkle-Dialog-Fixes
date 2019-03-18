@@ -1,0 +1,165 @@
+---
+entries:
+  NPC_GodVoice_Demo330_1_010:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Huh... "
+    - control:
+        two:
+          type19:
+            field_1: 56
+            string: SunazarashiRace_ThisTime_L
+            field_3: 0
+    - text: ":"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - control:
+        two:
+          type19:
+            field_1: 56
+            string: SunazarashiRace_ThisTime_M
+            field_3: 0
+    - text: "."
+    - control:
+        two:
+          type19:
+            field_1: 56
+            string: SunazarashiRace_ThisTime_S
+            field_3: 0
+    - text: ", eh?!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  NPC_GodVoice_Demo330_1_011:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 18
+              - 205
+    - text: "It's a... A new record?!"
+  Npc_oasis038_Demo330_1_030:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This trophy is something special, you\nknow. Our champions have passed down\na legend about it for ten thousand years."
+  Npc_oasis038_Demo330_1_031:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The legend goes...\n\n\n\"When the holy jewel is offered unto the\npedestal, the chosen one will be granted\na new power.\"\nBut that power has never been granted\nto anyone. "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Not even to me, obviously...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "And yet... I sense a power emanating\nfrom you... The likes of which I have\nnever felt in anyone else.\nYou should give it a shot."
+  NPC_GodVoice_Demo330_1_020:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Just crossing the finish line is a pretty\nbig deal, but remember—you're just a\nnewly hatched Cucco skill-wise. Got it?!"
+  Npc_oasis038_Demo330_1_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Perfect...
+  Npc_oasis038_Demo330_1_040:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: And so...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " A new champion is born!"
+  NPC_GodVoice_Demo330_1_030:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 12
+              - 205
+    - text: "Whoa, whoa, whoa.\nYou heard the rules, right?"
+  NPC_GodVoice_Demo330_1_031:
+    - text: Your run is over.
+  Npc_oasis038_Demo330_1_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I believe this belongs to you...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 90

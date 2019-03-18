@@ -1,0 +1,270 @@
+---
+entries:
+  "0008":
+    - text: Yeah.
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Zzz...
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Great question, Ms. Perceptive.\nHyrule Castle.\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "There's a hidden escape route from\nHyrule Castle called the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: East Passage
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nI hear it leads directly into the castle.\nIt was made for the old royal family\nthough, so who knows if it's still usable."
+  "0009":
+    - text: "No, thanks..."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You know—
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Death Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and some\nother junk. "
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: See you around...
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "My older brothers Izra and Yolero play\nall day long, but I have to stay here and\ngive directions."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 4
+            field_3:
+              - 1
+              - 205
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Hah...
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 3
+            field_3:
+              - 1
+              - 205
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Yeah.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Chapter four, article nine of the \nStable Association Regulations states:\n\n\"Each stable must have personnel\nready to give directions to visitors\nat all times.\"\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "And somehow I got stuck with this dumb\njob instead of playing like my brothers.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I guess that's what I get for being the\nonly person at Wetland Stable with a\ngrasp on geography..."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "OK, let's get this over with.\nWhat do you want to know about the\nsurrounding area?"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 5
+              - 0
+              - 6
+              - 0
+              - 7
+              - 0
+              - 2
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0002":
+    - text: I have to go.
+  "0003":
+    - text: "What's the matter?"
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: All right. Next.
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 5
+              - 0
+              - 6
+              - 0
+              - 7
+              - 0
+              - 2
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0004":
+    - text: Directions?
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You want to know what's south of\nhere?"
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 8
+              - 0
+              - 9
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0005":
+    - text: "What's to the east?"
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Me too,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but I never get to leave this\nstable."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If you really want to know, you\nshould go ask at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Riverside Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0006":
+    - text: "What's to the west?"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: My life is a joke.
+  "0007":
+    - text: "What's to the north?"
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Zora's Domain."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThat's about it."

@@ -1,0 +1,46 @@
+---
+entries:
+  QL_TreasureHunt02_Finish:
+    - text: "I managed to reach Lomei Labyrinth Island\nand found the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Travel Medallion
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in a secret\nunderground room!\n\nJust as the rumors said, the Travel Medallion\nlets one travel instantly to whatever location\nthey've placed it at.\n\nIt seems believing those rumors paid off!"
+  QL_TreasureHunt02_Name:
+    - text: EX Teleportation Rumors!
+  QL_TreasureHunt02_Step01:
+    - text: "I read Super Rumor Mill EX: Volume 2!\nAccording to this special issue, there are\nrumors of an item that lets you instantly\ntravel to a location of your choosing.\n\nThe treasure chest containing this item is\nsupposedly located "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "in northeast Akkala,\nhidden beneath a labyrinth"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nIf the rumors can be trusted, I'll be able to\nfind the labyrinth and locate the treasure chest!"
+  QL_TreasureHunt02_Desc:
+    - text: "Rumor has it there's a tool that allows you to\ninstantly travel to wherever you've placed it.\n\nApparently "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: South Akkala Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has a copy \nof Super Rumor Mill EX, which details some\nrumors about this rare item..."

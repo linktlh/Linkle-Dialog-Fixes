@@ -1,0 +1,44 @@
+---
+entries:
+  QL_HyrulePlainMini_Balloon_Finish:
+    - text: "With the ingenious use of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Octo balloons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I\nkept my promise to Shamae.\n\nAs thanks, she gave me a star fragment."
+  QL_HyrulePlainMini_Balloon_Name:
+    - text: Balloon Flight
+  QL_HyrulePlainMini_Balloon_Desc:
+    - text: "I promised Shamae, the kid from the\nWoodland Stable, that I'd show her a\nsky filled with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: balloons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nThe first step is to find things that serve\nas "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: balloons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and then use them to lift\nthe barrels to delight Shamae."

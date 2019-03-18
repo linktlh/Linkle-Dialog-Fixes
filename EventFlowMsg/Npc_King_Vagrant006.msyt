@@ -1,0 +1,627 @@
+---
+entries:
+  FirstTalk11:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "The pins on your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: map
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " serve as reference\npoints for your travels. Just stick a pin\nanywhere you're interested in!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Kotsu01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "If you're searching for shrines, use the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "scope "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "on your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah Slate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  GoodBye02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho! Wonderful!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Just two more until\nyou can have my paraglider."
+  FirstTalk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: "Oho ho! \n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Just a few tricks I've picked up\nafter many, many years in the wild..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYou may take my advice or leave it."
+  Kotsu02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 11
+              - 205
+    - text: "Must I keep repeating myself?\nYou really need to learn some\nself-reliance, my friend.\nJust check the pause screen if you ever\nneed a reminder of what you can do."
+  GoodBye03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho! Fantastic!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Just one more until\nyou can have my paraglider."
+  FirstTalk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Experience, wisdom..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: instinct?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nCall it what you will and believe\nit only if you so please."
+  FirstTalk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Go ahead and take a look if you feel\ninclined to do so."
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Having trouble finding the shrines?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  "1002":
+    - text: Help me out here.
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: So...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " How long were you planning on\ngoing au naturel? Just curious."
+  "1003":
+    - text: Bye.
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: The sun will set soon.
+  TerrorBomb:
+    - text: What is it?!
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: The plateau is so quiet at night...
+  "1004":
+    - text: Yes!
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Your shrine search is going well,\nis it not?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1004
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: So then...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Can I surmise that your shrine\nsearch is going well?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1004
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  TerrorArrow:
+    - text: What is this?!
+  FirstTalk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "I'm surprised it took you so long to\ncatch up with an old man like me!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  FirstTalk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: Oho ho!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Leave an old man his secrets."
+  Clear3_00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "You have cleared three shrines now.\nGood work.\n\nHowever..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "there is still one more that\neludes you, correct?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: How did you...
+  FirstTalk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: "Oho ho! So you think an old man like me\nneeds to fly to stay ahead of you?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: I still have a few tricks left in me.
+  "0001":
+    - text: Did you...fly here?
+  FirstTalk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: "Well, you certainly took your time.\nDid you forget how to travel instantly?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  "0002":
+    - text: "No, I remember."
+  "0003":
+    - text: "Yep, I forgot..."
+  FirstTalk05:
+    - text: "Open the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "map "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "on your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah Slate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nand select one of the blue tower or\nshrine icons.\nIf you've registered that location to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: map
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you can travel there instantly."
+  TerrorImpulse:
+    - text: Whoa!
+  FirstTalk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "I was observing you the entire time you\nwere searching for the shrines..."
+  "0004":
+    - text: How do you know?
+  FirstTalk07:
+    - text: "It's best to search for things from a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: high vantage point
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I doubt you need\na reminder of that, though.\nTaking in the view here can teach you\nmuch about shrine locations..."
+  "0005":
+    - text: I got it.
+  Clear2_00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: A spirited answer!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Yes, it appears you\nhave cleared two shrines now."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  FirstTalk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Now then...\n\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - text: "I wanted you to join me up here so you\ncould use this as a vantage point to\nsearch for shrines."
+  FirstTalk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Now then...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: " Have you been using the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: scope
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah Slate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\nYou can see all the shrines from up here.\nWhen you find one, just stick a pin in it."
+  Near00:
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho!
+  Near01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: One more...
+  TerrorExplosion:
+    - text: Huh?!
+  Near02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: Two more...
+  NakedPlayer:
+    - text: "Aren't you...a bit chilly?"
+  TerrorSword:
+    - text: Easy there!
+  TerrorFire:
+    - text: Toasty...
+  Near03:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: Three more...
+  Clear1_00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Your confidence is to be admired...\nbut you've only cleared one shrine."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  FirstTalk10:
+    - text: "Did you know about the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: scope
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\non your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah Slate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\nLook through it, and you can stick a pin\nanywhere you'd like to mark on the map."
+  Kotsu00:
+    - text: "I just remembered something that may\nhelp you.\n\nYou can review some of the abilities\nyou've learned on the pause screen."
+  GoodBye01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: Oho ho!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If you still wish to acquire the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: paraglider
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you must put in the effort.\nI will not simply give it away, you see."

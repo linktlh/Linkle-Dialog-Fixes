@@ -1,0 +1,337 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "*sigh*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I get scared in the evening..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " \nI wonder why the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "lightning "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "seems to\nhave it out for this place."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: I can finally relax!
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: Urrrm...run away...
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 42
+    - text: Please... Help!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Stop the"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " lightning"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nPlease find out why it keeps striking\nthis stable!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 31
+    - text: "Aiiiiieeee! I just...can't..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 15
+    - text: "\nI'm so scared..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 15
+    - text: "\nPlease find out why this is happening!"
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 31
+    - text: "Eeeeyah! I've had it..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I can't handle this\nconstant fear."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 15
+    - text: "\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lightning
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " strikes this stable really often, \nso I get scared whenever it starts to\nrain..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 15
+    - text: "\nPlease... Could you go try and find out\nwhy this keeps happening?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "You will?! Really? I'm so happy!\nI'm counting on you."
+  Near00:
+    - text: "*sigh*"
+  Near01:
+    - text: "*shudder*"
+  Near02:
+    - text: Urrrmm...
+  "0000":
+    - text: Leave it to me!
+  Near03:
+    - text: Zzzz...
+  "0001":
+    - text: "I'm a bit busy..."
+  "0002":
+    - text: It was a metal axe.
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: I see...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Well, I guess it can't be helped."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n*sigh*"
+  Near05:
+    - text: Looks like rain...
+  Near06:
+    - text: "*yaaawn*"
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: What?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You found out what was drawing\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "lightning "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: here?
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 2
+            field_3:
+              - 1
+              - 205
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Oh dear, oh dear..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lightning
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " strikes this\nstable so often, I get nervous whenever\nit rains even a little.\nI just don't understand why it strikes so\noften..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 15
+    - text: " "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Hey, it's a long shot, but if you\nhave some time, could you find out why?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 0
+    - text: "Aha! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Yeah, that's as good as a lightning\nrod, isn't it?\n\nI wonder if someone put it up there on\npurpose. How strange..."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Have you...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "have you decided to\nhelp me? Please figure out why "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: lightning
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nkeeps hitting this stable!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Please!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: Thanks for looking into it for me!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHere's something for your trouble."

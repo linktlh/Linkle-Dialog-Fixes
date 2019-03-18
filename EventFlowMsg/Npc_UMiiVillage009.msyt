@@ -1,0 +1,703 @@
+---
+entries:
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: Do you need something else from me?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 10
+            field_3: 11
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "It's you..."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "...If you think you can put one over on\nme, I have grave news for you, missy."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Just the sort of shoddy, corner-cutting job I expect\nfrom the common rabble..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "If you're clear on the deal, then go take\nout the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: two Guardians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " walking around\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Torin Wetland
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: OK. OK. I saw the whole thing.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou did splendidly. I'll give you the\nrest of the reward, as I promised."
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Why do you look so disappointed?\nIt can't be because the reward is lower\nthan the down payment, can it?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "You commoners with your notions and\nassumptions...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The whole idea that a down payment is a\nsmall part of the final payment is an idea\nentirely unique to the common folk!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "In any case, our business is concluded."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nGo over there. Or anywhere, really.\nAnywhere that isn't. Right. Here."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: I...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "got everything I wanted.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "But I'll tell you, there are some things\nout there... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Things that all the money in\nthe world can't get you..."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Haaah... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I've grown weak..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk24:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "My daughter's health has improved"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "...\nDoes that mean that we don't need this house\nanymore?"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: " Hmmm..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  near00:
+    - text: Haaah...
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "I'm going sunbathing with my family."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nYou're in my way—cease to be so."
+  near01:
+    - text: Hmmm...
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Haah... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: What can I do...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: What a beautiful sunset...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nMy soul feels cleansed."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "What's the deal? You're..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I'm so glad I was able to sunbathe today."
+  "0000":
+    - text: "I'm a traveler."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Hmpf...
+  "0001":
+    - text: Good-bye.
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I don't care about the details."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHere, take it."
+  "0002":
+    - text: Yes.
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I normally don't have time to mingle with\ncommoners..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but I have a feeling about\nyou. I'll make an exception this time.\nYour clothes..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm guessing you're a little hard up for\ncash. Am I right?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  "0003":
+    - text: No.
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I appreciate your honesty.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: So for the down payment...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'd say "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: 100 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " sounds fair, yes?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: Hoh ho ho!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nSo you accept, then? Excellent!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Now, listen to what I have to say."
+  "0006":
+    - text: A...down payment?
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Torin Wetland
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " lies to the west of\nhere."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You're aware that there are\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Guardians "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "there? Not just one, either...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Two "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: of them!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: You know how dangerous they are...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So, young lady... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'd like you to find and\nwallop "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "both "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "of them in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Torin Wetland
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThen come and see me."
+  "0007":
+    - text: "I don't need money."
+  "0008":
+    - text: "..."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hand!
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 1
+  "0009":
+    - text: "Actually, never mind."
+  talk10:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Didn't I tell you..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0010":
+    - text: Guardians kaput!
+  talk11:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "I suppose I must endure engaging with the\ncommon folk if I hope to get something done..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You've no doubt heard of the ferocious\nHagie? That's me. But I..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "got everything\nI wanted.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Lately my days have felt so empty.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThe only things that thrill me now are\ntrue risks to life and limb.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Everything else just feels...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: hollow.
+  "0011":
+    - text: Who are you?
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm sorry? You don't want the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "100\nrupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " All right, then."
+  talk13:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: And you are...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100

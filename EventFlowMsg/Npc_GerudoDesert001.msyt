@@ -1,0 +1,148 @@
+---
+entries:
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: sandstorms and lightning are fierce
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\naround that thing."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You're as mortal as\nanyone, so don't get too close."
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: A Hylian?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That's a rare sight so far\nfrom your homeland."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "My orders from the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are to\nmonitor the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " from here."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: sandstorms and lightning are fierce
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\naround that thing."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You're as mortal as\nanyone, so don't get too close."
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'll patrol the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Gerudo Desert "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for a while\nmore and keep an eye on things here."
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has calmed down,\nbut the monsters around here haven't."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I'll patrol the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Gerudo Desert "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for a while\nmore and keep an eye on things here."

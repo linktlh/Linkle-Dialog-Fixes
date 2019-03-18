@@ -1,0 +1,575 @@
+---
+entries:
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "WHAT?! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You're gonna go?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAll the way up the mountain?!"
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - text: "That's right! "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hylians "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "should go home!\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 21
+    - text: "You should listen to grown-ups!\nThey know what's best!!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "...That's what my papa says, anyway."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nBut hey, what do I know?\nI'm just a kid."
+  "0000":
+    - text: "I'm heading that way."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: You again?
+  "0001":
+    - text: "Oh, really?"
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - text: B-b-because!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Just beyond Goron City,\nthey're rainin' down from the sky!\n\nTons of...of "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: magma bombs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  "0002":
+    - text: Bye!
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "N-n-no! You can't!\n\n\nIt's not just "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: magma bombs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " you have\nto worry about..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " My papa says the\nmountain is burning hot!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "It's burning!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's boiling!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's on fire!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Well, anyway... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: You get my point.
+  "0003":
+    - text: Why?
+  talk14:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "I can't eat another bite... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "*grumble...*"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0004":
+    - text: "Yeah, I went."
+  talk15:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "Papa... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "*grumble*"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0005":
+    - text: "I haven't gone yet."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm goin' to sleep now..."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Are you sightseeing?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHave you been to Goron City?"
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 4
+              - 0
+              - 5
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 4
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Hmph. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Good mornin'."
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - text: "Oh. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I see.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Then I don't have anything to say."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nBye now."
+  near00:
+    - text: Gahaha!
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Hmph. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Hello.
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I see! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Well, when you go to Goron City,\ngo to the back of Death Mountain Summit"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nand dig up some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ore
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Just don't tell anybody!"
+  near01:
+    - text: "..."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Hmph. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Good evenin'."
+  near02:
+    - text: Zzz...
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Hmph. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Bare naked!
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "Huh?! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Ah, it's that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " from the\nother day!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Hm?\n\n\nHuh?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Aaaah!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nA "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " This is bad!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 3
+            field_3:
+              - 1
+              - 205
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Did you go to Goron City yet?
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 4
+              - 0
+              - 5
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 4
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "*yaaaaawn* "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: So sleepy...
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "...HUH?! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: Papa says...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "the area up ahead is\ndangerous for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2

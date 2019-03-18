@@ -1,0 +1,201 @@
+---
+entries:
+  "0001":
+    - text: "I've heard enough."
+  Npc_Musician_005_R_011:
+    - text: Lightning from the sky...
+  Npc_Musician_005_R_021:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: Very impressive.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Not many could make\nit up here in such rain."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  Npc_Musician_005_R_041:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 475
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1053609165
+    - text: When a lost hero
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " calls down"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: lightning
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfrom the sky /"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 190
+    - text: " The monk responds"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " from\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: giant mound
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: on high.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Npc_Musician_005_R_051:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "There's a puzzle in this somewhere, but\nas far as I can tell, it could apply to a\ngreat many things.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Anyway, may the light shine ever on\nyour path."
+  Npc_LakeSideHatago005_R_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 23
+    - text: "Don't you think the waterfall flowing\ndown from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Lake Floria "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is the very picture\nof perfection?\nThere's something strange at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "top of\nthat waterfall"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", though..."
+  Npc_LakeSideHatago005_R_021:
+    - text: "Climb the ladder on the watchtower and\ntake a peek. You'll probably need a\ntelescope or something for a good look."
+  Npc_LakeSideHatago005_R_051:
+    - text: "There's something strange "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at the top of\nthat big waterfall"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  "0000":
+    - text: "Let's hear it."
+  Npc_Musician_005_F_021:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 4
+    - text: "Ah, so there was a shrine inside that\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: crag split by lightning
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The bolt was so ferocious that I worried\nI might be struck down myself!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I'd say that's worthy of being\nimmortalized in song. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Anyway, may\nthe light shine ever on your path."

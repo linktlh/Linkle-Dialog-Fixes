@@ -1,0 +1,836 @@
+---
+entries:
+  Goron_Father_Talk07:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 1
+              - 205
+    - text: "Brother! It's ready! You're gonna eat it\nand LOVE IT, and everything will be as\nit should be again!"
+  Goron_Father_Talk08:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "So this is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: secret of the hero
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", eh?\n\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Hmm... It looks oddly familiar...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Anyway, what an amazing discovery!\nThat's my brother for ya!"
+  Goron_Father_Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Thanks for helpin' out my little bro!"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n\n\nNow to return to Goron City with my\nwonderful and accomplished brother!"
+  Goron_Father_Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "I wonder when my little brother will\ncome home...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "He can't really be searchin' for the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "secret of the hero "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in the depths of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gorko Tunnel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... Right?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 3
+  Goron_Father_Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Gorko Tunnel "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is an abandoned spot\nsouthwest of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gorko Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nThe bedrock's insanely hard in that area,\nso we gave up diggin' there ages ago.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "They say the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "secret of the hero "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "lies\nhidden beyond that bedrock."
+  Goron_Father_Near01:
+    - text: "Mmm, Goron grub..."
+  Goron_Father_Near02:
+    - text: Where did he go?
+  Goron_Father_Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Exit here and head "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: down the hill
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to\nGortram Cliff. There you can find\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "rock roasts "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "rollin' around.\nI need ya to please grab one of 'em\nfor me."
+  Goron_Father_Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 16
+    - text: "I'd like more than anything to go there\nand get it myself. It's just...\n\nWell, I have a chronic condition. Yeah.\nIt's called Goron shoulder. Very serious.\nI'd rather not talk about it.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Needless to say, I expect a lot from you!\nPlease don't let me down!"
+  Goron_Son_Near01:
+    - text: "It's the secret of the hero!"
+  Goron_Father_Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "My little brother, Gonguron."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm really proud of him, but...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - text: "He said he was gonna go dig up\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: the secret of the hero
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and then\nhe just took off!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "I really don't know what in the world\ngot into him..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 3
+  Goron_Son_Near02:
+    - text: I need to eat soon!
+  Goron_Son_Talk04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Hm? Am I hunger-hallucinating,\nor do I really smell "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "deliciously\ngrilled rock roast"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+  Goron_Father_Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "No way! If you're gonna run away,\nyou wouldn't first tell your bro you're\ngonna dig up the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: secret of the hero
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "What in the world is goin' on with\nthat kid..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 3
+  Goron_Son_Talk04_2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "Look at this! It looks so tasty! I NEED to\neat it right away!"
+  Goron_Father_Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I'm certain my little brother went off to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gorko Tunnel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", southwest of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gorko Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The bedrock in that tunnel is incredibly\nhard, so us Gorons gave up tryin' to\ndig it out ages ago."
+  Goron_Son_Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 10
+    - text: "Dig, dig, dig! Alls I wanna do is dig!\nI won't stop 'til I find the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: secret
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nWhat am I diggin' for? I told ya!\nIt's a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: secret
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!!"
+  Goron_Son_Talk02b:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 43
+    - text: "Too hungry... Can't lift my arms\nanymore..."
+  Goron_Son_Talk04_3:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Your cookin' is the best of\nthe best, brother!"
+  Goron_Father_Talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Once you've secured a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: rock roast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\njust drop it right into this pot.\nBOOM. Just like that."
+  Goron_Son_Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 43
+    - text: "*cough* *wheeze*\n"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Phew! I'm spent.\n\nTo think that somewhere behind all this\nrubble is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: secret of the hero
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\nI know I'll become really great and\nimportant if I can find it!\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 40
+              - 205
+    - text: "My only problem is that I don't have the\nstrength to go on. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "My belly's empty\nand rumblin' like mad! What to do..."
+  Goron_Son_Talk04_4:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "Now I'm full and my belly is happy!\nLet's do this!"
+  Goron_Father_Talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "But I know better. It's just an excuse for\nhim to slack off and dream his life away!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI really wish he'd grow up a little..."
+  Goron_Son_Talk04:
+    - text: "Yummy! Delicious! Incredible!\n\n\nThat texture! That crunch! Ooooh,\nand that gritty feeling as it glides\ndown my throat!\nOH! Yes! Can't forget that savory flavor\nof condensed minerals seared in high\nheat to perfection! It's a taste explosion!\nIt's restoring my strength! I'm like a\nphoenix reborn and ready to fly!\nIn fact, I AM Death Mountain!!"
+  Goron_Father_Talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Southwest of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gorko Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", there's an\nabandoned spot called "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gorko Tunnel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Behind that hard bedrock, there lies not\njust ore...but the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: secret of the hero
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...Or so the legend goes. True or not,\nit makes for a good story.\n\nI heard it from my dad's cousin's\nneighbor's uncle."
+  Goron_Son_Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Graaaarghhh!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Goron_Father_Talk06_2:
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - text: "I did it! I made a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "deliciously grilled\nrock roast"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Goron_Father_Talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Finally! I've been waitin' on ya! Go on— \ndrop the roast in the pot. Quickly!"
+  Goron_Son_Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Happy_00
+    - text: "WOW! There it is! The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "hero's secret "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has\nrevealed itself to me!!\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Weird... I feel like I've seen somethin' like this\nbefore in Goron City..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0000":
+    - text: Brother?
+  Goron_Father_Talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: secret of the hero
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is a fairy tale\nof sorts, passed down from Goron to\nGoron for ages.\nAs for me, I heard about it from my\ndad's cousin's neighbor's uncle."
+  Goron_Son_Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Thanks for your help, brother! Now I've\ngotta get back to Goron City and tell\neveryone about my triumph!"
+  "0001":
+    - text: Did he run away?
+  Goron_Father_Talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: You...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "understand?! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You understand what\nmy little brother is thinkin'?\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "I'm his brother, and I don't understand him at all...\nMakes me feel lonely..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0002":
+    - text: Where did he go?
+  Goron_Father_Talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Instead of chasin' dreams, I'd prefer to\nsee him face reality and help us out with\nour important Goron work..."
+  "0003":
+    - text: Secret of the hero?
+  "0004":
+    - text: I understand.
+  "0005":
+    - text: Gorko Tunnel?
+  Goron_Son_Talk05_2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "GORON POWER, GOOOO!!!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Goron_Father_Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "My reckless brother hasn't come\nback yet.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "What in the world is he thinkin'?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 4
+            field_5:
+              - 0
+              - 3
+  Goron_Father_Talk02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Brother! So this is where you've been!"
+  Goron_Father_Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I tried to think like my brother and do\nwhat he would do so I could find him..."
+  Goron_Father_Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I need you to do me a favor!\nAs a brother, I can't just sit\nidly by. I have to help him!"
+  Goron_Father_Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm gonna get my cooking preparations\nall in order while I wait for you..."
+  Goron_Father_Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Hmmm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It's amazing!\n\n\nThis is the finest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: rock roast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " I've ever laid\neyes on! I'm gonna cook it up right now!"

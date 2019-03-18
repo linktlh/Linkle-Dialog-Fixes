@@ -1,0 +1,3637 @@
+---
+entries:
+  talk66:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: But I share your pain...
+  talk205:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You're a forest-giant slayer!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk67:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Thanks to you, I now know their\nmusculoskeletal structure"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "...as well as\ntheir general diet.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Thank you so much for your help.
+  talk68:
+    - text: How many would you like?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 6
+            field_3: 28
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  talk70:
+    - text: "That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " mon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Sound good?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  talk69:
+    - text: "You want "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " of them?\nThat'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " mon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", please."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk71:
+    - text: "That comes out to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " mon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Deal?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk72:
+    - text: "You've only got "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 26
+            string: CurrentMamo
+            field_3: 0
+    - text: " mon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", which won't\ndo much for you, but feel free to take a\nlook."
+  talk17B:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Good evening...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nCan I help you with anything?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 0
+            field_4: 9
+            field_5:
+              - 0
+              - 2
+  talk73:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Me?\n\n\nMy name is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Kilton
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk74:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 18
+    - text: I see...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " That's unfortunate, but not\nentirely unexpected."
+  talk75:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 18
+    - text: I see...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " That's unfortunate, but not\nunexpected."
+  talk76:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Ah... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Another thing.\n\n\nI'm always developing new "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster gear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nso remember to check back in between\nyour "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: adventures
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk77:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I've developed a new piece of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster gear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I call it the...\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Spring-loaded hammer
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nWhack a small monster with this thing,\nand..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: BOING!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It'll launch the monster\ninto the distance!\nIt's really useful for getting rid of pesky\nmonsters that you don't feel like fighting.\nPlus, it's just fun to use!"
+  talk78:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "It's been a while, but I've developed a\nnew piece of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster gear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I call it the...\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lizalfos mask
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nThose Lizalfos"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " can really be a pain to\ndeal with when you're injured.\n\nJust when you think they're sleeping,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nthey attack you without a moment's\nnotice!\nSome of those scaled sneaks can even\nuse camouflage to blend in to their\nsurroundings!\nBut if you wear this Lizalfos mask"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: ", they\nwill think you're one of them"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and they'll\nignore you!"
+  talk80:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I'VE DONE IT!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I've developed an\nunprecedented piece of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster gear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nI can't believe I was able to pull this off!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI'm actually a bit terrified of myself right\nnow... \n*ahem* "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI present to you the ultimate in monster\ncamouflage! I call it...\nthe "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dark series
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nWear this, and you will become a\nmonster yourself!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I hope you like being\nhunted for your organs!\n...\n\n\nOr you could just,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " you know,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " think of it\nas a costume.\n\nOh, yes. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "And when night falls, you might\njust be able to move a little bit faster.\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Not sure how it turned out that way, but I'm not\ncomplaining..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk79:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I've developed a KILLER piece of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster gear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! I call it the...\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lynel mask
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nLynels are monsters that are half man,\nhalf horse."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " They are absolutely vicious.\n\nThey wield a multitude of weapons with\nincredible strength and grace.\n\nIf I was a monster, I'd want to be a Lynel\nfor sure!\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Actually, I was"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " almost killed by a Lynel"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " while\ndesigning this mask."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It was one of the best\nmoments of my life"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\nAnyhow..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " This incredible mask can \nfool Lynels into thinking you're one of\nthem!\nTry it for yourself! It's quite a rush."
+  talk81:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Thank you for converting your monster\nparts into "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: mon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nNow then, how else can "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nserve you today?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 0
+            field_4: 18
+            field_5: 9
+            field_6:
+              - 0
+              - 3
+  talk82:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "My "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: monster shop
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is now open for\nbusiness!\n\nSeeing as how you're a first-time\ncustomer here at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\nour first order of business will be\nconverting your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "monster parts "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: mon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 23
+            field_3: 24
+            field_4: 25
+            field_5:
+              - 0
+              - 2
+  talk20B:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Did you need anything else?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 0
+            field_4: 9
+            field_5:
+              - 0
+              - 2
+  talk83:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Da da...DAAAAAAAA!
+  talk84:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: This smell...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " *sniff sniff*\nIs it a Lynel? Or perhaps..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: The stone colossus...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " More commonly\nknown as the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stone Talus
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nThey masquerade as normal rocks,\nburying themselves in the ground."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nStubborn is an understatement...\nAccording to the most recent count,\nthere are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "40"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of them in Hyrule."
+  talk85:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: This smell...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " *sniff sniff*\nIs it a Lizalfos? Or perhaps..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+  talk101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Let's see how many "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stone Taluses
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nyou've harvested so far...\nLooks like "
+    - control:
+        two:
+          type15:
+            field_1: 36
+            string: DefeatedGolemNum
+            field_3: 0
+    - text: " out of 40."
+  talk86:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: This smell...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " *sniff sniff*\nIs it a Chuchu? Or perhaps..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk102:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: "*sniff sniff*\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you haven't killed any\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Stone Taluses "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "yet?! Whew... You have\nyour work cut out for you.\nLet me give you a hint: these guys are\nliterally made of stone, so you can't just\nswing blindly and hope to take them out.\nBut one part of their body is a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: different color
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " If you hit them there,\nyour fortune may improve."
+  talk87:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: This smell...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " *sniff sniff*\nIs it a Moblin? Or perhaps..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk103:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You—! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "You've defeated every last\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stone Talus
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nOh, you are FRAGRANT, my friend."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nIt smells like there's a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stone Talus
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nstanding right in front of me!"
+  talk88:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: This smell...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " *sniff sniff*\nIs it a Hinox? Or perhaps..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk90:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: This smell...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " *sniff sniff*\nIs it a Stone Talus? Or perhaps..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk104:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This is proof you have defeated every\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stone Talus
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in the land."
+  talk89:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: This smell...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " *sniff sniff*\nIs it a Molduga? Or perhaps..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk91:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: All of them?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " So "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " of them will be\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " mon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk105:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You're a real rock crusher!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk106:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I wonder how big that thing will get...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThings just keep getting more and more\ninteresting."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Thank you very much!
+  talk92:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: All of them?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You have "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: ", so you'll\nget "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " mon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk107:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I knew there were four types of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hinoxes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but I just recently learned that\neach type has different food preferences.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Not me, though. I'll eat anything!"
+  talk93:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: "I can't make any more trades right now,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nbut thanks for being such a great\ncustomer."
+  talk94:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: You bought out my entire stock!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " But I\ncan still show you the type of stuff I\ncarry, if you'd like."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  talk95:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 18
+    - text: "Ahhh...it's just you."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nYou startled me."
+  talk96:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 21
+    - text: "AHHHH! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Oh, it's just you."
+  talk97:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 42
+    - text: "I feel like I'm being watched..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "by a pair\nof tremendously evil eyes."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk98:
+    - text: "That's a pretty terrifying outfit, if I do say\nso myself."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It could make even the bravest\nmerchant cry for his mummy."
+  talk99:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Ahhh! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "That heavenly smell...\n\n\nCould it be that you've been mingling\nwith monsters?\n\nI must admit I'm a bit jealous.\n"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So let's exchange the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster parts
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nyou have for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: mon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 16
+            field_3: 23
+            field_4: 24
+            field_5: 25
+            field_6:
+              - 1
+              - 3
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Good evening.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " And welcome to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you come across some\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster parts
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " come on back!"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I imagine you have some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster parts
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\non your person."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: So now...
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Oh, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: thank you very much!
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yes, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: yes.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm happy to explain as many times as\nyou need."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Mon "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: currency
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " I invented to\ndestabilize the market and fight the\nestablishment!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nJust kidding, there is no establishment in\nHyrule! I just love monsters so much that\nI turned them into money!\nHere's the deal: if you bring me\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster parts
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: ", I'll exchange them for\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: mon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI'm the"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " only business"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in Hyrule that\naccepts "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "mon "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: as payment!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nPretty exclusive, eh?\nAnyway,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " you can spend your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: mon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on\nvarious types of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "monster gear "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "that I've\ncreated based on my research."
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "This smells like "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Bokoblin "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: or maybe...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I see... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That's a shame."
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I hope to see you again another\nmonstrous "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: night
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "What would you like to buy with your "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: mon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Monster parts "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "are the things that\nmonsters drop when they expire.\n\nYou know—horns, fangs, eyes..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThe color and size may differ a bit,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nbut they're all monster parts.\nThe more rare they are, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "the more "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: mon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthey're worth!"
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Do you not have any\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster parts
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Hmm?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Seems like you don't have any\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster parts
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Good evening...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHow may I help you?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 0
+            field_4: 18
+            field_5: 9
+            field_6:
+              - 0
+              - 3
+  "0000":
+    - text: Exchange for mon.
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The things that monsters drop when\nthey die."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Come back at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: night
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " once\nyou get some."
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Can I help you with anything else?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 0
+            field_4: 18
+            field_5: 9
+            field_6:
+              - 0
+              - 3
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "What will you exchange for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: mon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Your current balance is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 26
+            string: CurrentMamo
+            field_3: 0
+    - text: " mon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWhat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "monster gear "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "would you like\nto buy?"
+  "0002":
+    - text: Spend some mon!
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This doesn't smell like a monster."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI only deal in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster parts
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " here."
+  "0003":
+    - text: Never mind.
+  talk23:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        two:
+          type11:
+            field_1: 42
+            string: Shop_SelectItemName
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHow many are you willing to give me?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 27
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  talk24:
+    - text: "You want to exchange "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "of them?\nHow about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " mon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  "0005":
+    - text: "Actually, I like them."
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Do what you must...
+  "0006":
+    - text: OK.
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Thank you much!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'll add your new "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: mon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nto your balance."
+  "0007":
+    - text: Never mind.
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Understood...
+  "0008":
+    - text: Who are you?
+  "0010":
+    - text: I like them.
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Sorry, I'm sold out right now."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI'll make more soon..."
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Huh... "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: inventory
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is full."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nPlease come again once you're all sorted\nout."
+  "0009":
+    - text: Good-bye.
+  "0011":
+    - text: I hate them.
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Sorry, you don't have enough\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: mon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for that."
+  talk31:
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        two:
+          type11:
+            field_1: 42
+            string: Shop_SelectItemName
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThat will be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type16:
+            field_1: 44
+            string: Shop_SelectItemPrice
+            field_3: 0
+    - text: " mon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  "0012":
+    - text: I ADORE monsters!
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I see. So the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        two:
+          type11:
+            field_1: 42
+            string: Shop_SelectItemName
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI'll give it to you for a special price of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type16:
+            field_1: 44
+            string: Shop_SelectItemPrice
+            field_3: 0
+    - text: " mon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  "0013":
+    - text: A whole lot!
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ah, a classic.\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        two:
+          type11:
+            field_1: 42
+            string: Shop_SelectItemName
+            field_3: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "will cost\nyou "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type16:
+            field_1: 44
+            string: Shop_SelectItemPrice
+            field_3: 0
+    - text: " mon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: Is that OK?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  "0014":
+    - text: Quite a bit.
+  talk34:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        two:
+          type11:
+            field_1: 42
+            string: Shop_SelectItemName
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\nYou have a good eye!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThat'll run you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type16:
+            field_1: 44
+            string: Shop_SelectItemPrice
+            field_3: 0
+    - text: " mon"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Deal?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  "0015":
+    - text: Just a little.
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: Thank you much!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWould you like anything else?"
+  "0016":
+    - text: Exchange for mon.
+  talk300:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The giant sand beast... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "More commonly\nknown as the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Molduga
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nThey're giant monsters that live in the\nsands of the desert.\n\nAccording to my sources, there are only\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: four
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of them in Hyrule."
+  talk37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Dya... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: DYAAAAAAAH!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: You want to know about monsters?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI just LOOOOOVE talking about monsters!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Ooh. OOOOOOOH!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nLet's talk about the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: huge ones
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stone colossus
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: forest giant
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: giant sand beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Which monster\ndo you want to hear about?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 19
+            field_3: 20
+            field_4: 21
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  talk301:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Let's see how many "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Moldugas
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " \nyou've defeated..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Looks like you've\ntaken out "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type15:
+            field_1: 42
+            string: DefeatedSandwormNum
+            field_3: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: so far out of four.
+  "0018":
+    - text: About monsters...
+  "0020":
+    - text: The forest giant.
+  talk38:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, yeeeeah!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWhich monster do you want to talk\nabout?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 19
+            field_3: 20
+            field_4: 21
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  talk40:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: HOOOOOOOYAG!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk302:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: "*sniff sniff*\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you haven't killed any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Moldugas
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nyet? Here, let me give you a hint.\n\nI've noticed that they're "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "very sensitive to\nsound"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nIf you scare them from a distance with\na big noise,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " maybe you can stun\nthem long enough to take them out."
+  "0019":
+    - text: The stone colossus.
+  "0021":
+    - text: The giant sand beast.
+  talk39:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I just love the field of monster research\nso much that I decided to open a shop\nall about monsters!\nI call it..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n\nI travel all around Hyrule in search of\nrare and exciting monster parts. But I'm\nnot sure which village I should visit next.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Kakariko Village
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "or "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Village
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Rito Village "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nare also good options."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Hmm...\nI suppose I could go all the way to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " or "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lurelin Village
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nBut "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lake Akkala
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is much closer.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: RAWWWWWRGH!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'm so excited I can\nhardly contain myself!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I can't just sit around while there are\nmonsters to be studied!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm off!\n\nI'm sure we'll meet again in some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: village
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "during the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: night
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Fare thee well!"
+  talk41:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yes. I'm opening a monster shop called\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". But I'm still preparing\nfor my grand opening."
+  talk303:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You've done it! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "You've defeated all the"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Moldugas
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nOh, this scent! "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "It's as if a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Molduga
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwas standing right in front of me!"
+  talk304:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This is proof you have defeated every\nlast "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Molduga
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in Hyrule."
+  "0023":
+    - text: What is mon?
+  talk43:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "So... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You're really not into monsters?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 11
+            field_4:
+              - 0
+              - 2
+  talk305:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You're a giant-sand-beast slayer!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0024":
+    - text: Monster parts?
+  talk44:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Anyway...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Do you,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " uh..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nAre you into monsters?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 11
+            field_4:
+              - 0
+              - 2
+  "0025":
+    - text: Never mind.
+  talk45:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Although, it saddens me to know I truly\nam all alone in this world."
+  "0026":
+    - text: Monster shop?
+  talk46:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "How, uh...\nHow much do you like them?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 12
+            field_3: 13
+            field_4: 14
+            field_5: 15
+            field_6:
+              - 0
+              - 4
+  "0027":
+    - text: All of them!
+  talk47:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "I LOVE MONSTERS MORE THAN\nYOU DO!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0028":
+    - text: "I'll buy them all!"
+  talk48:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: I...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: uh...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Sorry!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI did it again."
+  talk50:
+    - text: "- Fang and Bone -\nCome see ol' Kilton for the most\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monstrous
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " deals in all of Hyrule! "
+  talk49:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Here's my business card..."
+  talk53:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "...\n\n\nHmm?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Oh.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It's just a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 8
+            field_3:
+              - 1
+              - 205
+  talk54:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I suppose you're here because you\nheard I was opening a monster shop,\nand you wanted to see it for yourself."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 26
+            field_3:
+              - 1
+              - 205
+  talk81B:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Thank you for converting your monster\nparts into "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: mon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nNow then, how can "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nmeet your monstrous needs today?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 0
+            field_4: 9
+            field_5:
+              - 0
+              - 2
+  talk57:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: going to need that card back.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIt's the only one I have."
+  talk60:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm currently after them myself, but\nthey're just so big!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I can't even get near\nthem...\nSo could I ask you to find them and,\nuh, harvest their materials? I'm talking\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "all "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "of them.\nThat way, I'll be able to analyze the scent\nof their fluids that will inevitably stick\nto your body during battle.\nThat will allow me to determine their\nhabits, behaviors, and overall qualities.\n\nI'm counting on you..."
+  talk59:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Ack!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Is it that time already?\nI need to get this show on the road!\n\nMay we meet again on another\nmonstrous "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: night
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk61:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "*sniff sniff*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAh, that scent..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nMost interesting."
+  talk200:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The forest giant... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Also known as the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hinox
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nThese sleepy, one-eyed giants spend\ntheir days in forests around the world.\n\nAccording to the latest count,\nthere are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "40"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of them in Hyrule."
+  talk62:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Good luck on your hunt.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm counting on you."
+  talk201:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So far you've defeated "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type15:
+            field_1: 48
+            string: DefeatedForestGiantNum
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of the 40\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hinoxes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk63:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "*sniff sniff*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThis scent...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This!\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: This is!
+  talk202:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: "*sniff sniff*\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you haven't killed a single "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hinox
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nyet? Goodness.\n\nHere, let me give you a hint: Hinoxes\nwear "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: necklaces
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " strung with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: weapons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthey've picked up.\nIf your arsenal is running low, try to\nsnatch some of their weapons during\nthe fight!"
+  talk64:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Tha-thank you so much!\n\n\nOh, yes! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Here, let me give you this."
+  talk203:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You've done it! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "You've defeated all the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hinoxes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Oh...you are FRAGRANT. "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "It's as if there"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nwas a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hinox
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " standing right in front of me."
+  talk65:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "As long as you have this...\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I'll always be with you!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have to suffer in silence \nanymore. I know how much it hurts you\nevery time you kill a monster.\nDestroying monsters for their materials\nis soul-crushing work, but it must be\ndone."
+  talk204:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This is proof you've defeated every last\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hinox
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "

@@ -1,0 +1,110 @@
+---
+entries:
+  TerrorExplosion_01:
+    - text: Waaah!
+  TerrorInsect_02:
+    - text: Waaah!
+  TerrorHorse_00:
+    - text: Careful!
+  TerrorExplosion_02:
+    - text: Ahhhh!
+  TerrorHorse_01:
+    - text: Hey!
+  TerrorBomb_00:
+    - text: Wh-what are you doing?
+  TerrorHorse_02:
+    - text: Look out!
+  TerrorBomb_01:
+    - text: Ungh!
+  TerrorBomb_02:
+    - text: "What's this?"
+  TerrorArrow_00:
+    - text: What are you doing?!
+  TerrorArrow_01:
+    - text: Stop that!
+  TerrorImpulse_00:
+    - text: Ooooof!
+  TerrorArrow_02:
+    - text: Give it your best shot!
+  TerrorImpulse_01:
+    - text: Waaah!
+  TerrorLightning_00:
+    - text: Yikes!
+  TerrorImpulse_02:
+    - text: Ahhhh!
+  TerrorLightning_01:
+    - text: Waaah!
+  TerrorLightning_02:
+    - text: Ahhhh!
+  TerrorAnimal_00:
+    - text: Come on!
+  TerrorGuardian_00:
+    - text: "It's a Guardian!"
+  TerrorAnimal_01:
+    - text: Bring it!
+  TerrorGuardian_01:
+    - text: This is bad!
+  TerrorAnimal_02:
+    - text: You pest!
+  TerrorGuardian_02:
+    - text: Gyaah!
+  NakedPlayer_00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "A lady shouldn't dress like that."
+  NakedPlayer_01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: Ugh...
+  NakedPlayer_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: You dare walk unclothed?
+  ClearTerrorEnemy_00:
+    - text: Haah...haah...
+  ClearTerrorEnemy_01:
+    - text: Somehow...I made it...
+  TerrorFire_00:
+    - text: Hot!
+  ClearTerrorEnemy_02:
+    - text: Phew...
+  TerrorFire_01:
+    - text: Hot! Hot!
+  TerrorFire_02:
+    - text: Yikes!
+  TerrorSword_00:
+    - text: You looking to fight?!
+  TerrorEnemy_00:
+    - text: Have at you!
+  TerrorSword_01:
+    - text: What are you doing?!
+  TerrorEnemy_01:
+    - text: Know your place!
+  TerrorSword_02:
+    - text: Bring it on!
+  TerrorEnemy_02:
+    - text: Come on!
+  ClearTerrorGuardian_00:
+    - text: Phew... Safe at last...
+  TerrorInsect_00:
+    - text: Get them away!
+  ClearTerrorGuardian_01:
+    - text: Haah...haah...
+  TerrorExplosion_00:
+    - text: Yikes!
+  TerrorInsect_01:
+    - text: Hey!
+  ClearTerrorGuardian_02:
+    - text: Somehow...I made it...

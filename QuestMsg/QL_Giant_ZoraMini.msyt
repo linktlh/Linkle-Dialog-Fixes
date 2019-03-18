@@ -1,0 +1,46 @@
+---
+entries:
+  QL_Giant_ZoraMini_Step1:
+    - text: "I successfully defeated the Hinox at \nRalis Pond.\n\nI need to report back to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Torfeau
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in\nZora's Domain."
+  QL_Giant_ZoraMini_Name:
+    - text: The Giant of Ralis Pond
+  QL_Giant_ZoraMini_Finish:
+    - text: "I defeated the Hinox at Ralis Pond and\nreported it to Torfeau, who praised me."
+  QL_Giant_ZoraMini_Desc:
+    - text: "Torfeau of Zora's Domain tasked me with\nhunting a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Hinox
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nThe giant in question is said to be at \n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Ralis Pond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."

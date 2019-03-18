@@ -1,0 +1,307 @@
+---
+entries:
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "Linkle!!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "You...heard all that, eh? "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "I'm afraid you\ncaught me in a moment of vulnerability."
+  TerrorArrow:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Don't point that at me!"
+  TerrorLightning:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: Shocking!
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "Ah, Linkle... I am sorry you had to see me\nin such a moment of weakness."
+  TerrorBomb:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: Whaaa! Is that—?!
+  NakedPlayer:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: Where are your clothes?
+  TerrorInsect:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Oh, just some bugs..."
+  TerrorFire:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: Danger! Fire!
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "How can we possibly appease\nDivine Beast Vah Ruta..."
+  TerrorExplosion:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: AAAAAHHHH!!
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Linkle! I must thank you!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "You somehow overcame the objections\nof the old geezers on our council,\nall to help save our home!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Yes, you are a treasure of a Hylian!\nTaking time out of your journey to come\nto our rain- and monster-ridden home!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "And here you activated those orbs with\nshock arrows, freed Ruta, and released\nmy sister from her lingering regret.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Linkle...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I simply can't thank you enough!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "Especially for following me to the end,\npushy and unreasonable as I am!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "Zora's Domain would still be in peril if\nnot for you. "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "You are welcome anytime,\nand we are ever at your service!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Have I mentioned how incredible\nyou are? And how thankful I am?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Because you are! And I am! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "Yes, you are\nthe greatest of Hylians and my most\ntreasured friend for all time!"
+  TerrorSword:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: "Hey! That's dangerous!"
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "If you ever find yourself in this part of\nthe world again, I implore you to come\nvisit us! We are always here for you.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Oh, and have I mentioned how\nincredible you are? And how\nthankful I am?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Because you are! And I am! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "Yes, you are\nthe greatest of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hylians "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and my most\ntreasured friend for all time!"
+  TerrorImpulse:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: "What's going on?"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: Mipha... Dear sister...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " Are you still\ntrapped inside the Divine Beast?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: Are you supporting Linkle in her fight?
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " \nIs there really nothing more I can do?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: I wish you were here to guide me...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\nI miss you terribly..."

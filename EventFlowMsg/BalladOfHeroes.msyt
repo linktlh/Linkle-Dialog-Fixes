@@ -1,0 +1,1050 @@
+---
+entries:
+  Npc_Musician_AoC_HeroXxxx_Demo610_HeroBallad_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...So? Did it move you?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "By asking around about the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Champions
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nof each region, I'm starting to piece\ntogether the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: key verses
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of the song."
+  Npc_Musician_AoC_Individual_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Would you like to hear "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "a verse about\nthe Champion"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " challenging the trial?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_Musician_AoC_HeroXxxx_Demo610_HeroBallad_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...So? Did it move you?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "By steeping myself in legends of the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Champions
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I'm beginning to form a\ndeeper understanding of them.\nThis will prove invaluable in writing\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: key verses
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of the song."
+  Npc_Musician_AoC_HeroXxxx_Demo610_Town_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are so accommodating.\n\n\nTheir "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "chief "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: guard
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " knew much about\nthe Gerudo Champion. They shared some\nwonderful stories with me."
+  Npc_Musician_AoC_Individual_021:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "How did you like it? Did it help you\nvisualize the Champion's bravery?"
+  Npc_Musician_AoC_HeroXxxx_Demo610_HeroBallad_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...So? Did it move you?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "By understanding the true natures of\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Champions
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I'm closer than ever\nto completing those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: key verses
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_Musician_AoC_HeroXxxx_Demo610_Town_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gorons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are unexpectedly chatty.\n\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Yunobo
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Bludo
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " told me some\nfascinating stories about the\nGoron Champion."
+  Npc_Musician_AoC_HeroXxxx_Demo610_First_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 8
+    - text: Hm?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " That thing on your waist..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "Oh, never mind. I suppose it's none of\nmy business, especially as this is our\nfirst meeting."
+  Npc_Musician_AoC_HeroXxxx_Demo610_HeroFirst_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "Well, never mind my musings."
+  Npc_Musician_AoC_HeroXxxx_Demo610_Town_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: king
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: prince
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nare so friendly.\n\nThey were kind enough to share some\nof their cherished memories of the\nZora Champion."
+  Npc_Musician_AoC_HeroXxxx_Demo612_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Perhaps meeting you here was\nno coincidence.\n\nThis is a perfect spot for you to get lost\nin your thoughts, as well as a perfect\nspot for me to write a song."
+  Npc_Musician_AoC_HeroXxxx_Demo610_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: What was that...flash of light?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nPerhaps it was my imagination\nplaying tricks on me."
+  Npc_Musician_AoC_HeroXxxx_Demo610_Town_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I returned to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Rito Village
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to visit\nmy hometown. While I was there...\n\nI was lucky enough to have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Teba
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and\nthe elder, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Kaneli
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", regale me with stories\nof the Rito "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Champion
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_Musician_AoC_HeroXxxx_Demo610_Relief_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "This "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monument
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I must admit\nit has taken me by surprise!\n\nMy teacher's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "unfinished song "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "mentions\nsuch "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monuments
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and now one has\nappeared before my eyes..."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 7
+            field_3:
+              - 1
+              - 205
+  Npc_Musician_AoC_One_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "I can't shake the feeling that we were\ndestined to meet here.\n\nIn any case, would you like to\nhear my song?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_Musician_AoC_HeroXxxx_Demo610_First_060:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "My teacher left this world without\nfinishing the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: key verses
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "I wish to weave the missing pieces\ntogether and finish the song.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "That's why I'm roaming the areas\nmentioned in the lyrics."
+  Npc_Musician_AoC_HeroXxxx_Demo610_Relief_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Look at that! There's one here too!\nOne of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monuments
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " mentioned\nin my teacher's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: unfinished song
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_Musician_AoC_HeroXxxx_Demo610_Relief_012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 23
+    - text: "Look! As expected, there's one here too!\nOne of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monuments
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " mentioned in\nmy teacher's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: unfinished song
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_Musician_AoC_HeroXxxx_Demo610_Relief_013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Look! I'm sure you already know, but it's\none of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monuments
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " mentioned in\nmy teacher's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: unfinished song
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_Musician_AoC_HeroXxxx_Demo610_First_030:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Should we ever meet at a location\nmentioned in an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient song
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nI would love to sing for you.\nOh... I almost forgot."
+  Npc_Musician_AoC_HeroXxxx_Demo612_040:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 24
+    - text: "Are you still adrift in thought?\n\n\nYou seem lost to the whims of your mind.\nOh... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Pardon me. I suppose it's none\nof my business."
+  Npc_Musician_AoC_HeroXxxx_Demo610_030:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "This "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stone monument
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has survived\nfor 10,000 years."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " What secrets does\nit hold..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  Npc_Musician_AoC_HeroXxxx_Demo612_Grow_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: Understand_01
+    - text: "I was struck by a realization...that the\nmissing parts of the song can only be\nfinished by my teacher's pupil. By me."
+  Npc_Musician_AoC_HeroXxxx_Demo612_Grow_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I feel much more confident that I can\ndo those missing lyrics justice."
+  "0000":
+    - text: "Yes, please!"
+  Npc_Musician_AoC_HeroXxxx_Demo612_Grow_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: Understand_00
+    - text: "The end result is not quite clear yet...\nbut I'm beginning to feel a stirring\nof inspiration about those verses."
+  "0001":
+    - text: Not now.
+  Npc_Musician_AoC_HeroXxxx_Demo612_Grow_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: Understand_00
+    - text: The missing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " verses"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of an ancient song...\nI think the perfect setting would be\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in the distant past."
+  Obj_BlowSword_010:
+    - text: Your weapon stash is full...
+  Npc_Musician_AoC_HeroXxxx_Demo612_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 36
+            string: QuestionNormal_01
+    - text: "Oh? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "My, my.\n\n\nFor some, the best part of traveling alone\nis the freedom to get lost in thought\nwith only the wind to distract you."
+  "0003":
+    - text: "You're a traveler?"
+  "0004":
+    - text: "Let's!"
+  Npc_Musician_AoC_One_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Oddly enough, I happen to know of an\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient song
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " about a brave Heroine..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\non this very plateau."
+  Npc_Musician_AoC_HeroXxxx_Demo610_First_050:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Yes. The song is mostly complete.\nHowever..."
+  Npc_Musician_AoC_HeroXxxx_Demo610_Relief_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "This "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monument
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I must admit\nit has taken me by surprise!\n\nMy teacher's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "unfinished song "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "mentions\nsuch "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monuments
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and now one has\nappeared before my eyes..."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 7
+            field_3:
+              - 1
+              - 205
+  Npc_Musician_AoC_One_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Much like this plateau,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " you're looking\na mite dreary."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Oh... I apologize. Perhaps it was not my\nplace to say as much."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I understand\nmore than most the burden of travel.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "As for me, I came to this spot to pursue\nan "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient song
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " about a hero at this\nvery plateau."
+  "0007":
+    - text: Unfinished song?
+  Npc_Musician_AoC_One_012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 11
+    - text: "Ah, we meet again!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Hm?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Not to be rude,\nbut you don't look so well."
+  Npc_Musician_AoC_HeroXxxx_Demo610_First_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "One thing is clear...we are both travelers.\nSo, fellow traveler, would you care to\nchat a bit?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 2
+  Npc_Musician_AoC_HeroXxxx_Demo612_030:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Well, well. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Though our aims are different,\nour feet took us to the same destination.\n\nI speak figuratively, of course. I travel\nby wing rather than by foot."
+  Npc_Musician_AoC_HeroXxxx_Demo610_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Did that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stone monument
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " just start\nglowing?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I suppose that proves\nI didn't imagine it the first time."
+  Npc_Musician_AoC_One_Near_01:
+    - text: "Rumble, rumble..."
+  Npc_Musician_AoC_One_Near_02:
+    - text: What a doleful sky...
+  Npc_Musician_AoC_One_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: Hm?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " How unexpected to see a traveler\non this solitary plateau."
+  Npc_Musician_AoC_HeroXxxx_Demo610_040:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: That light...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n\nIs it a reaction to someone nearby?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIs it me...or is it..."
+  Npc_Musician_AoC_HeroXxxx_Demo610_HeroBallad_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...So? Did the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: verse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " move you?\nIt was written in honor of the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Champion "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: challenging the trial.

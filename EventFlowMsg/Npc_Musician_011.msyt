@@ -1,0 +1,100 @@
+---
+entries:
+  TerrorHorse:
+    - text: Whoa!
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: We meet again!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Small kingdom!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Did you see the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "shrine "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "near this\nstable? I know quite a bit about the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shrines
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You see, my teacher was the court poet\nfor the Hyrulean royal family and also\na member of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah tribe
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nHe was well versed in ancient\ncivilizations and surveyed ruins in the\ncompany of the princess, it seems.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Those memories seemed to bring him\na great deal of joy when he would speak\nof them.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Anyway,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I should return to my craft."
+  TerrorArrow:
+    - text: Stop it!
+  TerrorFire:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorSword:
+    - text: Knock it off!
+  TerrorExplosion:
+    - text: WAAAAAA!

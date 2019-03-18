@@ -1,0 +1,437 @@
+---
+entries:
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: Are you a traveler?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWelcome to Lurelin Village.\n\nI'm Rozel."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm the head of this village."
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Anything else you'd like to know?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 4
+            field_4: 5
+            field_5: 6
+            field_6:
+              - 0
+              - 3
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "That's right. Cloyne runs a shop where\nyou can test your luck in his treasure-\nchest game.\nIt's fun to try every once in a while, but\ndefinitely don't go crazy with your\nsavings."
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's a shame that it's raining."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Feel free to ask me any questions you\nmay have about local things."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5: 5
+            field_6:
+              - 0
+              - 4
+  "0000":
+    - text: You mean Ralera?
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: Lurelin Village is a fishing village.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhen I was younger, I used to be a\nfisherman myself.\nThe fish here are fresh and delicious!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou should try some at least once."
+  "0001":
+    - text: "I've been there."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: What nice weather.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's a fine day to go\nout to sea."
+  "0002":
+    - text: About the village...
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: It rains pretty often around here.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou should definitely be careful if you're\nplanning on going out to sea."
+  "0003":
+    - text: About the ocean...
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: "If you walk east from the village and\nkeep going for a bit, you'll end up\nat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Palmorae Beach
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThere are some old "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ruins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " there."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " One of\nthe youths from the village, Garini, goes\nthere often to poke around."
+  "0004":
+    - text: Eventide Island?
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Garini visits the ruins often, even when\nit rains.\n\nIf you're interested, you should\ndefinitely go check them out."
+  "0005":
+    - text: Ruins?
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It isn't a large village, so take your time\nlooking around."
+  "0006":
+    - text: "That's it."
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: Lurelin Village is a fishing village.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhen I was younger, I used to be a\nfisherman myself.\nBut you can't go out fishing on a rainy\nday like this. It's just too dangerous.\n\nThere are some fisherman here who\namuse themselves with a treasure-\nchest game, too."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 7
+            field_3:
+              - 1
+              - 205
+  "0007":
+    - text: Treasure-chest game?
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: "There may still be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: treasure
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " submerged in\nthe ocean."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\nI bet you could see it if you looked into\nthe sea really hard..."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I have a daughter. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "She got married and\nwent to Hateno Village recently.\nI wonder if she's doing well."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Have you taken a liking to this village?
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Yes! Ralera!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nShe's doing well? That's good to hear."
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you're interested, you should go see\nthem.\n\nGarini should be able to tell you a lot\nmore about them."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "The large island in the sea to the east of\nthe village..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "is called "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Eventide Island
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nThere are some legends about that\nisland, so the village fishermen tend to\navoid it whenever possible."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 1
+            field_3:
+              - 1
+              - 205
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Anything else you'd like to know?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5: 6
+            field_6:
+              - 0
+              - 3
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: What?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You've been there?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThat's amazing."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "All right. If you think of anything else to\nask, come on back and talk to me."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "When you're on the island, you start\nhearing voices... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I don't know if it's\nreal or just a dream, though."
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Anything else you'd like to know?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 3
+            field_4: 5
+            field_5: 6
+            field_6:
+              - 0
+              - 3
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "The large island in the sea to the east of\nthe village..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "is called "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Eventide Island
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nThere are some legends about that\nisland, so the village fishermen tend to\navoid it whenever possible."
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Anything else you'd like to know?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5: 6
+            field_6:
+              - 0
+              - 3

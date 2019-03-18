@@ -1,0 +1,478 @@
+---
+entries:
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "...Oh?!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "You're the Hylian looking to help\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Prince Sidon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", aren't you?!"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 19
+    - text: "Sorry I didn't introduce myself sooner."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm Gruve.\n\nI used to help "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Prince Sidon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " with his\nsearch for a Hylian.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "For you to find him yourself is\na godsend!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Yes, it is!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: "However, while searching for a Hylian,\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Prince Sidon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " left me stranded on\na tower..."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "Oh! A Hylian! You are a Hylian,\naren't you?!"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Hi!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "It's me! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm the one "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Prince Sidon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " left at\nthe top of the tower! The name's Gruve!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "In the end, I wasn't able to join up with\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Prince Sidon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Instead, I worked up some fighting spirit\nand jumped into "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora River
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " from the top\nof the tower."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Then I came back here.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: I was...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "deeply moved seeing my\nreflection on the water's surface\nas I dove in... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Yes. Deeply moved.
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 2
+            field_3:
+              - 1
+              - 205
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "I don't expect you to understand this..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nbut one's diving form is their truest and\nmost beautiful form... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Yes, truly.\nSo lately, I've been spending my days\nscouting out diving spots.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "When you learn how to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: climb waterfalls
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nplease show me your beautiful form."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 16
+    - text: Do you need something?
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 3
+              - 0
+              - 4
+              - 0
+              - 5
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0002":
+    - text: Deeply moved?
+  "0003":
+    - text: Climb waterfalls?
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Equipped like a normal Hylian, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you can't\nexperience the joy of climbing waterfalls.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "But with the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Zora armor "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "that our\nprincesses are known to make..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWell, that's a completely different story."
+  "0004":
+    - text: Diving spot?
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 16
+    - text: "Is there anything else you'd like to ask?"
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 3
+              - 0
+              - 4
+              - 0
+              - 5
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0005":
+    - text: Good-bye.
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: How is your diving form coming along?
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Hey.
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: My favorite diving spot of late
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " is\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Shatterback Point
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " at the tip of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI can scarcely put it into words..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "the joy\nof your own reflection when diving into\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Reservoir Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " from there...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "However, a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " does reside on\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " If you go,\nbe prepared for the worst."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "I'm constantly finding more and more\ndiving spots to show off the beautiful\ndiving form.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "If you can climb waterfalls too,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'd like to\nchallenge you to dive from as many\ndifferent waterfalls as you can!"

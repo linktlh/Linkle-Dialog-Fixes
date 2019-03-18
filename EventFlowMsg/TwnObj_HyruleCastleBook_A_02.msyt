@@ -1,0 +1,131 @@
+---
+entries:
+  "0003":
+    - text: Previous page.
+  Diary_03:
+    - text: "I said something awful to her today...\n\n\nMy research was going nowhere. I was\nfeeling depressed, and I had told her\nrepeatedly not to accompany me.\nBut she did anyway, as she always does,\nand so I yelled at her without restraint.\n\nShe seemed confused by my anger. I feel\nterribly guilty...and that guilt only makes\nme more agitated than I was before."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 2
+  "0004":
+    - text: Stop reading.
+  Diary_04:
+    - text: "I am unsure how to put today's events\ninto words. Words so often evade me\nlately, and now more than ever.\nShe saved me. Without a thought for her\nown life, she protected me from the\nruthless blades of the Yiga Clan.\nThough I've been cold to her all this\ntime...taking my selfish and childish\nanger out on her at every turn...\nStill, she was there for me. I won't ever\nforget that. Tomorrow, I shall apologize\nfor all that has transpired between us.\nAnd then...I will try talking to her.\nTo Linkle. It's worth a shot."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 2
+  "0005":
+    - text: First page.
+  Diary_05:
+    - text: "Bit by bit, I've gotten Linkle to open up\nto me. It turns out she's quite a glutton.\nShe can't resist a delicious meal!\nWhen I finally got around to asking why\nshe's so quiet all the time, I could tell it\nwas difficult for her to say. But she did.\nWith so much at stake, and so many eyes\nupon her, she feels it necessary to stay\nstrong and to silently bear any burden.\nA feeling I know all too well... For her,\nit has caused her to stop outwardly\nexpressing her thoughts and feelings.\nI always believed her to be simply a\ngifted person who had never faced a\nday of hardship. How wrong I was...\nEveryone has struggles that go unseen\nby the world... I was so absorbed with\nmy own problems, I failed to see hers.\nI wish to talk with her more and to see\nwhat lies beneath those calm waters,\nto hear her speak freely and openly...\nAnd perhaps I, too, will be able to bare\nmy soul to her and share the demons\nthat have plagued me all these years."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 2
+  "0006":
+    - text: Last page.
+  Diary_06:
+    - text: "Father scolded me again today. He told\nme I am to have nothing more to do with\nresearching ancient technology.\nHe insisted that I focus instead on\ntraining that will help me awaken\nmy sealing magic.\nI was so frustrated and ashamed I could\nnot even speak. I've been training since\nI was a child, and yet...\nMother passed the year before my\ntraining was to begin. In losing her,\nI lost not just a mother, but a teacher.\nMother used to smile and tell me,\n\"Zelda, my love, all will be well in\nthe end. You can do anything.\"\nBut she was wrong. No matter how I try\nor how much time passes...the sealing\npower that is my birthright evades me.\nTomorrow I journey with Linkle to the\nSpring of Power to train. But this, too,\nwill end in failure. Such is my curse."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 2
+  Diary_07:
+    - text: "I had a dream last night... In a place\nconsumed by darkness, a lone woman\ngazed at me, haloed by blinding light.\nI sensed she was...not of this world.\nI don't know if she was a fairy or a\ngoddess, but she was beautiful.\nHer lips spoke urgently, but her voice\ndid not reach me. Would I have heard\nher if my power was awoken?\nOr was my dream simply a manifestation\nof my fears? I am sure I will know the\nanswer soon, whether I wish to or not..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 2
+  Diary_08:
+    - text: "I turned 17 today. That means this is the\nday I will finally be allowed to train at the\nSpring of Wisdom.\nWhen Linkle arrives, we will set out for\nMount Lanayru. The other Champions\nwill accompany us there.\nI have not seen my father since he last\nscolded me. Things are too strained\nnow... I will meet with him when I return.\n...\n\n\nActually...I've had a horrible feeling ever\nsince that weird dream. No one would\nbelieve a failure of a princess, but...\nRight now,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " for no particular reason,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I am\nfilled with a strange and terrible certainty\nthat something awful is about to happen."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 1
+              - 1
+  Diary_00:
+    - text: "Read Zelda's diary?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5
+            field_3: 6
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  "0001":
+    - text: "Don't read."
+  Diary_01:
+    - text: "After meeting with the Champions, I left\nto research the ancient technology, but\nnothing of note came of my research.\nThe return of Ganon looms—a dark force\ntaunting us from afar. I must learn all I\ncan about the relics so we can stop him.\nIf the fortune-teller's prophecy is to be\nbelieved, there isn't much time left...\n\nAh, but turning over these thoughts in\nmy head puts me ill at ease. I suppose\nI should turn in for the night.\nP.S. Tomorrow my father is assigning\nHER as my appointed knight..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 2
+  "0002":
+    - text: Next page.
+  Diary_02:
+    - text: "I set out for Goron City today to\nmake some adjustments to\nDivine Beast Vah Rudania.\nI still recall feeling her eyes on me as I\nwalked ahead. The feeling stayed with\nme so long, I grew anxious and weary.\nIt is the same feeling I've felt before in\nher company... And still, not a word\npasses her lips.\nI never know what she's thinking! It makes\nmy imagination run wild, guessing at\nwhat she is thinking but will not say.\nWhat does the girl chosen by the sword\nthat seals the darkness think of me?\nWill I ever truly know?\nThen, I suppose it's simple. A daughter\nof Hyrule's royal family yet unable to\nuse sealing magic... She must despise me."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 2

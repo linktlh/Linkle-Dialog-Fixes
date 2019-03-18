@@ -1,0 +1,589 @@
+---
+entries:
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I'm headin' to work!"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "Mmph... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Dig... Dig...
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "Dig faster... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Diiig...
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: Clear the site!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " If ya need me for\nanything, come back tomorrow!"
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Just go straight down this road to get\nthere. But as a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", ya better be\ncareful not to get burned!"
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This has nothin' to do with tourists!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "...Hey! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: You again?!
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 0
+              - 34
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 48
+              - 49
+              - 50
+              - 95
+              - 67
+              - 105
+              - 116
+              - 121
+              - 1
+              - 0
+              - 2
+              - 0
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  near00:
+    - text: "We're gonna dig 'em dry!"
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "I'm Dorill, head of the Goron Group\nMining Company!"
+  near01:
+    - text: Get serious!
+  near02:
+    - text: Put your backs into it!
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "We're diggin' this site out under direct\norders from the Boss of Goron City. \n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: No time to chat! Gotta dig!
+  near03:
+    - text: Dig!
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Gahahaha!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "It is! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "See, normally you can find better\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "ore "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "as you get closer to the summit.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "...But lately we can't get close enough,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nso we started diggin' here instead."
+  near04:
+    - text: "Let's go!"
+  "0000":
+    - text: "What's Goron City?"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "We're gonna rip the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ore
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nright outta this place!"
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Oh, it's you!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  near05:
+    - text: Clear out!
+  "0001":
+    - text: Who are you?
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "The more ya dig, the more ya earn!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nKeep on diggin'! DIG! DIG! DIG!"
+  near06:
+    - text: Zzz...
+  "0002":
+    - text: Looks tough.
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Everything we do is for the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boss
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\nand for Goron City too!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI want all that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ore
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! All of it!"
+  "0003":
+    - text: Take care.
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "My happiness is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boss
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s happiness!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAnd that means it's Goron City's\nhappiness too!\nDig, dig, and then dig some more!\nThen sell all that sweet, sweet "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ore
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 6
+    - text: "You need somethin' else?!"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 0
+              - 34
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 48
+              - 49
+              - 50
+              - 95
+              - 67
+              - 105
+              - 116
+              - 121
+              - 1
+              - 0
+              - 2
+              - 0
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "...Hmph!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " That has nothin' to do with you!"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 0
+              - 34
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 48
+              - 49
+              - 50
+              - 95
+              - 67
+              - 105
+              - 116
+              - 121
+              - 1
+              - 0
+              - 2
+              - 0
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Goron City is where us Gorons live. "
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "The reason Goron City is so prosperous\nis because of the work we do here.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "I actually wanna dig closer to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: summit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: lizard monster
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis in the way..."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "That's right!"
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "I'm gonna get a piece of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "ore "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "so bright,\nit'll keep me awake for days!"
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "The target for today is 1,000 pieces\nof "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ore
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! Don't settle for less!"
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "We've gotta make that number!"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "My salary's increased because I found\nsome good "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ore
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I'm gonna try to find some good "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ore
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\ntoday too!"

@@ -1,0 +1,260 @@
+---
+entries:
+  Demo039_0_Text007:
+    - text: "Good! You've obtained the map\nof the Divine Beast."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 67
+    - text: "\n\nYou will see several glowing points on \nyour map which represent the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "terminals "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "control "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: Ruta.
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 154
+    - text: "\nTake Ruta back by activating\nall of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 107
+    - text: "\n\nBe careful."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 23
+  Demo039_0_Text009:
+    - text: "You'll need to look closely at your map\nof the Divine Beast."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 96
+    - text: "\n\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "terminals "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "that will "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "activate "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Medoh\nare marked by those glowing points."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 108
+    - text: "\n\nYou'll need to activate all of the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to take back control."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 156
+    - text: "\n\nThink you're up to it?"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 36
+  Demo039_0_Text000:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: "Sheikah Slate authenticated.\nDistilling map of Divine Beast."
+  Demo039_0_Text001:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: Divine Beast controls have been enabled.
+  Demo039_0_Text004:
+    - text: "Good work getting the map of the\nDivine Beast! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 94
+    - text: "\n\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "terminals "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "control "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Naboris are\nnoted by a series of glowing points on\nyour map."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 137
+    - text: "\nTake Naboris back by activating all of\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 103
+    - text: "\n\nYou're ready for this."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 44
+  Demo039_0_Text011:
+    - text: "Nice job getting the map of the\nDivine Beast!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 98
+    - text: "\n\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "terminals "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "control "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Rudania are\nnoted by the glowing points on your\nmap."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 150
+    - text: "\nTo take back Rudania, you'll need to\nactivate all of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 134
+    - text: "\n\nYou got this, little lady!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 43

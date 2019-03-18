@@ -1,0 +1,100 @@
+---
+entries:
+  "0010":
+    - text: Deselect All
+  "0011":
+    - text: Leave Area
+  "0012":
+    - text: Map
+  "0013":
+    - text: Album
+  "0014":
+    - text: Hyrule Compendium
+  "0015":
+    - text: ？？？
+  "0016":
+    - text: Target with sensor
+  "0017":
+    - text: Target with sensor
+  "0018":
+    - text: Return to map
+  "0019":
+    - text: "Hero's Path Mode"
+  Pa_ScanningLine_00-Pa_Deco_00-T_DecoR_00:
+    - text: "\n\n\n\n\n\n\n\n\n\n\n\nab cdefg\n\n\n\nhijk lmnopqr\n\nstuv wxyz\n\nabc\n\nde\n\nfgh\n\n\n\n\n\nijk lm nopq\n\n\n\n"
+  Pa_ScanningLine_00-Pa_Deco_00-T_DecoR_01:
+    - text: "\n\n\n\n\n\n\n\n\n\n\n\n\n\nzyxw vuts\n\nrqpon mlk jihgfe\n\ndcbaz\n\nyxwv utsr\n\nq\n\npo\n\n\n\n\n\nnm lkji\n\n"
+  Pa_ScanningLine_00-T_DecoD_00:
+    - text: SHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESH
+  "0000":
+    - text: Runes
+  "0001":
+    - text: Select
+  "0036":
+    - text: Back/Forward
+  Pa_ScanningLine_00-T_DecoU_00:
+    - text: TESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATE
+  "0002":
+    - text: Back
+  "0003":
+    - text: Zoom
+  "0004":
+    - text: Rotate
+  "0039":
+    - text: Pause/Cancel
+  "0005":
+    - text: Move
+  "0006":
+    - text: Delete
+  "0007":
+    - text: Delete
+  "0008":
+    - text: Sheikah Sensor
+  Pa_ScanningLine_00-Pa_Deco_00-T_DecoL_00:
+    - text: "a\n\nb\n\nc de\n\nf\n\nghi j klmn\n\nopq rstuvw xy\n\nz\n\nab cd efg\n\n hi jklmn\n\nopq\n\nrstu vw\n\nxy\n\n\n\n\n\nzab\n\n"
+  "0009":
+    - text: Select All
+  "0020":
+    - control:
+        zero:
+          type1:
+            field_1: 2
+            field_2: 0
+    - text: Rune
+    - control:
+        zero:
+          type1:
+            field_1: 2
+            field_2: 65535
+  Pa_ScanningLine_00-Pa_Deco_00-T_DecoL_01:
+    - text: "\nz\n\nyxw vu\n\n \n\n \n\nt sr\n\n q pon\n\nml k\n\njih gfedcb azyx\n\nw\n\nvu ts\n\nr\n\n\n\n\n\nq\n\npo n\n"
+  "0021":
+    - control:
+        zero:
+          type1:
+            field_1: 2
+            field_2: 0
+    - text: Album
+    - control:
+        zero:
+          type1:
+            field_1: 2
+            field_2: 65535
+  "0022":
+    - control:
+        zero:
+          type1:
+            field_1: 2
+            field_2: 0
+    - text: Hyrule Compendium
+    - control:
+        zero:
+          type1:
+            field_1: 2
+            field_2: 65535
+  "0023":
+    - text: Play
+  "0025":
+    - text: Change Speed
+  "0040":
+    - text: Icon Display

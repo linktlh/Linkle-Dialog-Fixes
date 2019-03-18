@@ -1,0 +1,438 @@
+---
+entries:
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You...desire this helm?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You want this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Thunder Helm "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "that badly?\nI bet you do. This special helm still holds\nsome of Urbosa's power.\nBut no matter how much we may be\nindebted to you, I can't just give it away.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "And yet,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " you are setting off to carry\nthe fight to the enemy of Urbosa...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So if you truly desire it, then perhaps I\ncan lend it to you..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Thunder Helm
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " still holds some of\nUrbosa's power.\n\nIf you want to wield that power, then you\nmust address the concerns of my people\nand bring a resolute peace to our town.\nThen you will be acknowledged as a\nfriend of the Gerudo, and only then will I\nlend the helm to you."
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Halt! That is the treasure of the\nGerudo, the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Thunder Helm
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nYou may be held in high esteem, but this\ndoes not give you the freedom to lay\nyour hands on the pride of our people."
+  Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Such insolence! Even deeds as\nvalorous as yours do not earn you the\nright to speak so to the chief!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Becalm yourself, Buliara."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Hm hm hm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nLet it go, Buliara.\n\n\nBeing called by my name every once in a \nwhile isn't so bad."
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I see... And yet, despite the great debt\nwe owe you,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I cannot just give such a\nprecious thing to you.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "...But you ARE up against the enemy of\nLady Urbosa...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "And if you truly desire it, then perhaps\nI can lend it to you..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well then, let's see how serious you are.\nThis helm is a cultural treasure. To earn\nit, you must gain the trust of our people.\nI want you to address their concerns and\nbring a resolute peace to our town."
+  Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Lady Urbosa smiles upon us once more.\nI must protect our fragile peace."
+  Near01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: Hm hm hm...
+  "0000":
+    - text: Yes! Lend it to me!
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Thunder Helm "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is our cultural\ntreasure...\n\nIf you want to lay hands on it, you must\nshow us you are serious and come back."
+  Talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Within those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "treasure chests "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "are\nprecious armaments once used by\nLady Urbosa herself."
+  "0001":
+    - text: Never mind...
+  Talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "They may pale in comparison to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Thunder Helm
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but they are very\nvaluable and not easy to come by.\nSince you were a friend to Lady Urbosa,\nit would be best for you to have them.\n\nDo not hesitate—take them in\nyour hands."
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "When I wore the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Thunder Helm "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and\nfought along your side, I thought I heard\na name called out on the wind."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Riju..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Heh... I hadn't been called by that name\nin a while. "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That strong, warm voice...\nIt must have belonged to Urbosa..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  "0002":
+    - text: I want it!
+  Talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Lady Urbosa smiles upon us once more.\nI must protect our fragile peace and the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Thunder Helm
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " that rests here."
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I have heard of your recent actions.\nYou have returned smiles to the faces of\nmy people...\nOn behalf of all Gerudo, I must offer you\nmy heartfelt thanks.\n\nSarqso."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nYou are, from this moment on, a true\nfriend of the Gerudo!\n\nAnd if it can help a true friend in need,\nwe will gladly lend you this sacred\ntreasure."
+  "0003":
+    - text: "I don't need it."
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I know that you, more than any other,\nwill be able to use this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Thunder Helm "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to\nits fullest potential...\nI believe you can unlock the power of\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Urbosa
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " that lies within."
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "We already know that you are powerful.\nBut you can't solve all of my people's\nproblems with power alone."
+  "0004":
+    - text: Riju...
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Then come no closer!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0005":
+    - text: Good-bye.

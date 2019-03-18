@@ -1,0 +1,233 @@
+---
+entries:
+  Demo646_0_Text000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Hm? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Ah, it's you."
+  Demo646_0_Text007:
+    - text: "If you would, please listen to this\nspecial song...\n\nThe Champions' Ballad..."
+  Demo646_0_Text001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "I can't put my feather on it, but I get the\nfeeling you're even more accomplished\nthan you were when last we met.\nI happen to have the perfect song for\nsomeone as esteemed as you.\nI would love to sing it for you."
+  Demo646_0_Text002:
+    - text: "My teacher's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: unfinished song
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\nthe one I told you about...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I finally completed the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: key verses
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Demo646_0_Text011:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 55
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "\n\n\n"
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 60
+    - text: Linkle...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "\n\n\n"
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 75
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Linkle...\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 275
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "I have watched your journey. Every step.\nYou have overcome every challenge with\ngreat courage.\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 85
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "With the power that you have attained...\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 255
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "I am certain you can defeat\nCalamity Ganon."
+  Demo646_0_Text003:
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: Understand_01
+    - text: "After this ceremony, they would all\nforever be known as Champions.\n\nMy teacher always advised me to write\nsongs that transport the listener to the\nmoment in time you're singing of.\n"
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: TalkPositive_01
+    - text: "Now...I finally feel I understand what he\nmeant...and the true power of music."
+  Demo646_0_Text012:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 25
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: Truly...
+  Demo646_0_Text004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "By the way, I found this when I was\nlooking through my teacher's notes.\n\nI was thinking...you should be the one\nto keep it.\n\n"
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: Understand_01
+    - text: "Your courageous heart reminds me of the\nindomitable spirit of the Champions.\nI know you'll treasure it."
+  Demo646_0_Text005:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 90
+    - text: "A final thought...\n\n\n"
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 150
+    - text: "May the souls of the Champions who\nwatch over Hyrule rest in peace."
+  Demo646_0_Text006:
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: TalkPositive_01
+    - text: "This lofty location is the perfect stage\nto sing this special song.\n\nIt takes place 100 years ago...\nat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nYes, the very castle you can still see\nover yonder. It's about the magnificent\ninauguration of the chosen Champions."

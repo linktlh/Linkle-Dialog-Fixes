@@ -1,0 +1,110 @@
+---
+entries:
+  TerrorExplosion_01:
+    - text: Waaah!
+  TerrorInsect_02:
+    - text: Whoa!
+  TerrorHorse_00:
+    - text: Whoaaa!
+  TerrorExplosion_02:
+    - text: Whooa!
+  TerrorHorse_01:
+    - text: Be careful!
+  TerrorBomb_00:
+    - text: What IS that?
+  TerrorHorse_02:
+    - text: Watch out!
+  TerrorBomb_01:
+    - text: Ungh!
+  TerrorBomb_02:
+    - text: "What's this?"
+  TerrorArrow_00:
+    - text: What are you doing?!
+  TerrorArrow_01:
+    - text: "Don't attack ME!"
+  TerrorImpulse_00:
+    - text: Urghh!
+  TerrorArrow_02:
+    - text: Take your best shot!
+  TerrorImpulse_01:
+    - text: Uwahh!
+  TerrorLightning_00:
+    - text: Yikes!
+  TerrorImpulse_02:
+    - text: Whoa!
+  TerrorLightning_01:
+    - text: Waaah!
+  TerrorLightning_02:
+    - text: Whooa!
+  TerrorAnimal_00:
+    - text: "Let's go, you filth!"
+  TerrorGuardian_00:
+    - text: Run awaaay!
+  TerrorAnimal_01:
+    - text: Bring it!
+  TerrorGuardian_01:
+    - text: "It's a Guardian!"
+  TerrorAnimal_02:
+    - text: "Get out of here, pest!"
+  TerrorGuardian_02:
+    - text: Yikes!
+  NakedPlayer_00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "Uh-oh, no clothes..."
+  NakedPlayer_01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: What is up with this girl...
+  NakedPlayer_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: You OK? A little cold?
+  ClearTerrorEnemy_00:
+    - text: "Haah, haah..."
+  ClearTerrorEnemy_01:
+    - text: "I'm fine..."
+  TerrorFire_00:
+    - text: Hot!
+  ClearTerrorEnemy_02:
+    - text: Phew...
+  TerrorFire_01:
+    - text: Hot! Hot!
+  TerrorFire_02:
+    - text: Whooa!
+  TerrorSword_00:
+    - text: You want to fight?!
+  TerrorEnemy_00:
+    - text: Come get some!
+  TerrorSword_01:
+    - text: What are you doing?!
+  TerrorEnemy_01:
+    - text: "I'll take you down!"
+  TerrorSword_02:
+    - text: "Don't cross me!"
+  TerrorEnemy_02:
+    - text: "Let's go, you filth!"
+  ClearTerrorGuardian_00:
+    - text: "Phew... I'm saved..."
+  TerrorInsect_00:
+    - text: Really?!
+  ClearTerrorGuardian_01:
+    - text: "Haah, haah..."
+  TerrorExplosion_00:
+    - text: Yikes!
+  TerrorInsect_01:
+    - text: "Oh, no! Oh, no!"
+  ClearTerrorGuardian_02:
+    - text: "I'm OK..."

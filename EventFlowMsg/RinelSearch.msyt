@@ -1,0 +1,1139 @@
+---
+entries:
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Good morning.
+  "0012":
+    - text: Yes.
+  "0013":
+    - text: No.
+  "0014":
+    - text: Why do you ask?
+  "0015":
+    - text: Tell me.
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: "You have probably already heard, but up\non "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Ploymus Mountain "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "there lives a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThis creature is half man, half beast.\nIn the past, a number of Zora from\nthe domain "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "have fallen prey to this\nred-maned "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "It is not to be underestimated.\nPlease be careful."
+  "0016":
+    - text: I have your picture.
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Sorry, but I'm on my way somewhere..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nat least I hope I am."
+  "0017":
+    - text: "I still haven't."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I'm sorry. I know that was a bit sudden."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAllow me to elaborate."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "That peak over there is known as\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nOn top of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Ploymus Mountain "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is a brutal,\nred-maned monster "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "called a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nIt's so very important that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: I see one
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nAny "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Lynel "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "with a red mane will do.\nIt doesn't have to be that specific one.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Does that make more sense?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "That's good to hear."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I was a little worried\nabout what to do."
+  near01:
+    - text: Hmm...
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Really?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "still don't get it?!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nOK...I will try explaining it like\nI would to a child."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Does baby see dat really big rock over\ndere?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Dat's called "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nYes it is!\nA big, scawy monster with red hair lives\nthere. It's called a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and I really,\nREALLY want to see what one looks like!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "But they're NOT"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " VERY"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " NICE"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: ", so"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " I don't\nwant you to bring him down here"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nbecause he might be mean to us!\nMaybe you could draw me a pretty\npicture of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: what a Lynel looks like
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\ninstead? Any red-maned "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " at all?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "*ahem* There... Do you understand now?"
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "See, there's this fool in the domain who\ngoads people into jumping off of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Shatterback Point "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "on "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIt's an incredibly dangerous jump, and\nthis guy pressures people into jumping\noff by questioning their courage.\nHe's a real bottom-feeder. If this keeps\nup, someone is surely going to wind up\nhorribly injured!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I need a picture of a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Lynel "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to show\neveryone how scary they are. That way,\nmaybe people will stop going up there.\nDoes that answer your question, Linkle?"
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "Thank you! I'll tell the children of the\ndomain about this. Maybe that will\nscare them away from the mountain."
+  "0000":
+    - text: Understood!
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: "These "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora greaves
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " were once made by\nskilled craftsmen by order of an ancient\nZora king. Now they're fairly common.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "As you may know, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Reservoir Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwas created in a collaboration between\nHylians and the Zora.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "After "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Reservoir Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " was finished,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nwe made Zora greaves as a token of\nfriendship for Hylians who came to visit.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "But over time, the number of Hylians\nvisiting the domain dwindled,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and my\nfather had to close his armor shop.\nThese Zora greaves here were the last\npair left in the stock room when he\nclosed up shop.\nWearing these, even a Hylian"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " can swim\nas well as a Zora.\n\nThat said, these would be wasted on me."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThey are only useful for a Hylian like you.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Please take good care of them!
+  "0001":
+    - text: Huh?
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Well, that's what I was thinking..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBut it looks like your pouch is\ntoo full, Linkle.\nCome back once you free up some space\nin there!"
+  "0002":
+    - text: "I've got it."
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "Linkle! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Thank you so much for helping me\nout with that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " mission!"
+  "0003":
+    - text: "I still don't get it."
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Oh, right! Now for your reward..."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Hello.
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Linkle...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I am sorry to ask this of you\nwhen you are busy dealing with the\nDivine Beast...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "But I am afraid this is a task that only\nyou can accomplish!"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Good evening.
+  talk36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: Linkle...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The Divine Beast has been\nappeased, but I fear there is still\nsomething that threatens the domain..."
+  "0006":
+    - text: "I'll be fine."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Oh!
+  talk37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I suppose it was wrong of me\nto ask this of you.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: My apologies.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Please don't concern\nyourself with my troubles."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: You are Linkle...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: right?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 14
+            field_3: 13
+            field_4:
+              - 0
+              - 1
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Prince Sidon ran off through the\neastern gate. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "He was shouting\nsomething like..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "\"I'm off to stop the Divine Beast!\nLinkle the Hylian is coming with me!\"\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "I assume that means you're going\nup "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " in search of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 12
+            field_3: 13
+            field_4:
+              - 0
+              - 1
+  talk39:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "By the way, Linkle..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " How did you get\nyour hands on that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora armor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 20
+    - text: "I thought Lady Mipha was saving that\nfor the man she... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: OH.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: Oh.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " My mistake."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If so, I have a request that is...\nsomewhat related."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "There's a red-maned monster called a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "that lives on "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I REALLY need a picture of a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIt can be a picture of any red-maned\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Not just the one on the mountain.\nSo what do you say? Can you get me"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " \na picture of a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Linkle... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You are on your way to climb\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", correct?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 12
+            field_3: 13
+            field_4:
+              - 0
+              - 1
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: I am glad that was settled so quickly.
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "I'll leave the details to you."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Just bring me\na"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " picture of a Lynel "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "so I can describe\nthem in terrible detail. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Thank you!
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 19
+    - text: "I may have failed to mention how to get\nup on "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 15
+            field_3: 6
+            field_4:
+              - 0
+              - 1
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "So you'll show me what a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " looks\nlike?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Thank you in advance!"
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The waterfall will come in handy when\ntrying to climb "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ploymus Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nJust put on some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora armor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "With that,\neven a Hylian can swim up the waterfall\nlike it's nothing."
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Oh, but what am I saying? "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora armor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis a sacred gift given by a Zora princess\nto her future husband.\nPretty tough to come across otherwise."
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 12
+    - text: "Don't tell me "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you just happen to have \naccess to sacred "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora armor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!\n\nNo..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "that would be impossible.\n\n\nToo bad! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "If you had that armor, you'd be\nable to swim straight up waterfalls!"
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Linkle!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " How is that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Lynel "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "mission\ncoming along?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 16
+            field_3: 17
+            field_4:
+              - 0
+              - 1
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "Oh, wow! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Please show me!

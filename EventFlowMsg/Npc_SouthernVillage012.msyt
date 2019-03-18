@@ -1,0 +1,229 @@
+---
+entries:
+  talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: What a weirdo.
+  "0001":
+    - text: Desert?
+  "0002":
+    - text: I like rain!
+  "0003":
+    - text: "Where's home?"
+  talk_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Mmm, the weather here is nice and\nwarm. It's not at all like that blazing\nheat in the desert!\nAre you here on vacation?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta."
+  talk_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq."
+  talk_01:
+    - text: Zzz...
+  talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba."
+  talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You see that island over there? That's\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Eventide Island
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I came all the way here\nso that I could go there."
+  talk_13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The isle far off the shore to the east is\ncalled "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Eventide Island
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nIt was tales of that island that brought\nme all the way out here."
+  talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "If only I had some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: wings
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+  talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "However, it's actually hard to get there\nby sea."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It feels like you'd need to grow\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: wings
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to go there..."
+  talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Oof... Rain is the worst.\nIt really makes me miss home."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  Near00:
+    - text: So far...
+  talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: I see. As for me...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+  Near01:
+    - text: "It's starting to rain..."
+  talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: "I came here from Gerudo Town.\nIt's a place surrounded by an expansive\ndesert."
+  Near02:
+    - text: Urmm...
+  talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I grew up in Gerudo Town.\nIt's completely surrounded by a desert."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIt never rains in the desert.\nI thought it was neat at first, but now I'm\npretty sick of the frequent rain."
+  "0000":
+    - text: I am.

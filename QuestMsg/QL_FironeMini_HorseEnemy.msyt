@@ -1,0 +1,58 @@
+---
+entries:
+  QL_FironeMini_HorseEnemy_Desc:
+    - text: "Faron Grasslands is known for its horses.\n\nHowever, a gang of heathens has taken over\nthe area lately. This has caused Perosa and the\nother residents some strife.\n\nIf someone were willing to take on this group of\nhoodlums, it would definitely cheer up Perosa."
+  QL_FironeMini_HorseEnemy_Name:
+    - text: "The Horseback Hoodlums "
+  QL_FironeMini_HorseEnemy_Finish:
+    - text: "I defeated all the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: gang
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "members "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "causing\ntrouble in the grasslands!\n\nPerosa was so happy with the news, she gave\nme an endura carrot as a reward for my\nhard work.\n\nIt's said that horses are quite fond of those..."
+  QL_FironeMini_HorseEnemy_Exterminate:
+    - text: "I defeated all the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: gang
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "members "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "causing\ntrouble in the grasslands!\n\nPerosa will surely be happy to hear the news!"

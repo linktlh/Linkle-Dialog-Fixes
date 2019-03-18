@@ -1,0 +1,98 @@
+---
+entries:
+  QL_TreasureHunt_touzoku03_Name:
+    - text: "EX Treasure: Fairy Clothes"
+  QL_TreasureHunt_touzoku03_Finish:
+    - text: "\"The green garments of the man who wished to\nbe a fairy are hidden in the ruins of Hyrule Field.\nFind these pieces at the ruins where trade\nflourished...at the ruins where sinners were\nimprisoned...and at the village ruins next to\nfarmland where many people once gathered.\"\n\nI found the treasure that was hidden\nat Exchange Ruins, Castle Town Prison,\nand Mabe Village Ruins. I obtained\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Tingle's Outfit"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  QL_TreasureHunt_touzoku03_Step01:
+    - text: "\"The green garments of the man who wished to\nbe a fairy are hidden "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: in the ruins of Hyrule Field
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nFind these pieces "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at the ruins where trade\nflourished"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at the ruins where sinners were\nimprisoned"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "at the village ruins next to\nfarmland where many people once gathered"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\"\n\nMisko's EX Journal gives the location\nof the fairy's green garments.\nGarments still hidden: "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type2:
+            field_1: 74
+            string: TreasureHunt_touzoku03_RemainingBox
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  QL_TreasureHunt_touzoku03_Desc:
+    - text: "The royal family of Hyrule collected historically\nsignificant outfits, but they were stolen by a\nbandit named Misko. Among the items stolen\nwere a fairy's green garments.\n\nThere's a journal that places the locations of\nthe treasure somewhere in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Outpost Ruins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."

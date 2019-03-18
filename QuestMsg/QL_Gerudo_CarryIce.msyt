@@ -1,0 +1,38 @@
+---
+entries:
+  QL_Gerudo_CarryIce_Desc:
+    - text: "A Gerudo named Pokki has collapsed in front\nof the ancient shrine. I'll have to find a way\nto revive her if I want to get inside. She was\nbarely coherent, but it sounded like she was\nmuttering about wanting to drink something\ncalled "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Noble Pursuit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  QL_Gerudo_CarryIce_Gerudo_CarryIce_Get:
+    - text: "I got Anche to give me some ice!\n\nNow I have to carry the ice back to Furosa,\nwho waits at the exit of the ruins north of town.\nWith the blazing heat of the desert, it'll be a \nchallenge to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: get back without the ice melting
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  QL_Gerudo_CarryIce_Gerudo_CarryIce_Delivered:
+    - text: "I delivered the ice to the owner of\nthe canteen.\n\nShe's now able to make ice-cold Noble Pursuits.\nShe's asked that I go back to Pokki and let\nher know that a drink is waiting for her.\nPokki had collapsed in front of the shrine."
+  QL_Gerudo_CarryIce_Name:
+    - text: The Perfect Drink
+  QL_Gerudo_CarryIce_Gerudo_CarryIce_bar:
+    - text: "Noble Pursuit is a famous drink from the\nGerudo canteen. Unfortunately, it can't be\nmade right now because they're all out of ice.\n\nI'll need to go to the icehouse north of\nGerudo Town and ask Anche to give me some\nice. I can only get Anche's help while it's\nbright out, though."
+  QL_Gerudo_CarryIce_Gerudo_CarryIce_Finished:
+    - text: "When I told Pokki about the ice-cold Noble\nPursuit, she flew off in the direction of the\nGerudo canteen.\n\nI can enter the shrine anytime I want."

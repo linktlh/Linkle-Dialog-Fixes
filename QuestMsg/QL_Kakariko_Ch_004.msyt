@@ -1,0 +1,20 @@
+---
+entries:
+  QL_Kakariko_Ch_004_Finish:
+    - text: "Kakariko Village is famous for its fireflies.\nWatching their faint glow in the night air is\na bit like gazing at the night sky.\n\nLasli, the clothes-shop barker, is a huge firefly\nfan. Now that she can see her favorite sight\nfrom the comfort of home, she's happy again."
+  QL_Kakariko_Ch_004_Name:
+    - text: "By Firefly's Light"
+  QL_Kakariko_Ch_004_Desc:
+    - text: "Kakariko Village is famous for its fireflies.\nWatching their faint glow in the night air is\na bit like gazing at the night sky.\n\nLasli, the clothes-shop barker, is a huge firefly\nfan. But she's under strict orders from her\ngrandmother not to walk outside late at night.\n\n\""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "If only the fireflies came to play here so I could\nstill see them..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\" Can I make Lasli's wish\ncome true?"

@@ -1,0 +1,337 @@
+---
+entries:
+  Talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "We're after nothing less than the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "treasure of Misko, the Great Bandit"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nFinding it would mean incredible riches...\nI'm not about to give this information\naway for free. I'm no fool!"
+  near00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Hrm...
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: Heh.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Good deal."
+  near01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I bet it's over there!"
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - text: "Well, I've got nothing to say to some\nbum without even two rupees to rub\ntogether."
+  Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Way to go, Dak. You did it!"
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: Prissen! Hang on!
+  Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - text: "Misko hid the location of the treasure in\nsome kind of strange secret code.\n\nI heard this from a former dog walker of\none of Misko's underling's descendant's\nneighbors. As solid a lead as any."
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I've got the scoop on Misko's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: treasure
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nand it's great! Listen up, Dak..."
+  Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "Just knowing someone with good intel\nlike that? Exactly what I'd expect from\nyou, Dak!"
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Prissen! You're going to give it all away!"
+  Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 7
+    - text: "But this riddle has even I, Domidak,\nthe premier treasure hunter,\nscratching my head.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So that you can tell how challenging my\nwork is, "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I'll tell it to you. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "You'll never\nsolve it, though."
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Sorry, Dak... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I got carried away.
+  Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The little twin steps over the little river.\nMy cave rests above that river's source."
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - text: "Anyway, we're busy here, lady.\nIf you need something, take it up\nwith someone else."
+  "0000":
+    - text: "So... Misko's treasure?"
+  Talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 4
+    - text: "It'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 100 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to learn what\nwe know.\n\nTruth is, it'd be a steal to get this\nexclusive scoop for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "1,000 rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nSo what do you say?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "Hey, buddy! What's your problem?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You\naren't being incredibly rude and listening\nto our conversation, are you?"
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - text: "You again? Pay no mind to my little bro's\nchatter from before. He's got a penchant\nfor running his mouth with crazy talk."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0001":
+    - text: I...see.
+  Talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - text: "We're treasure hunters, on the trail of\nour latest score... The"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " treasure of the\ngreat bandit Misko"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's as good as ours!"
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 15
+    - text: "Ahhh shoot. Welp. Can't say I didn't try\nto throw him off..."
+  "0002":
+    - text: Deal!
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - text: "Anyway. Misko's treasure—not that we\nwere talking about such a thing—is only\nfor the BEST of treasure hunters. \nThat probably rules you out, bub.\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "The fewer people after it, the better.\nAnd we've still got the scoop!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0003":
+    - text: No way!
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Hey, Dak... Why don't we just tell her?\nMaybe she'll leave us alone if we do.\n\nI mean, if we can't figure this riddle out,\nthere's no way someone like her will be\nable to."
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "...That's a good point.\n\n"
+  Talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "That's the keen sense of the strongest\ntreasure hunter at work! No gold left\nbehind—not by Domidak!\nYou're great, Dak!"

@@ -1,0 +1,61 @@
+---
+entries:
+  "0003":
+    - text: Stop reading.
+  talk04:
+    - text: "The Sheikah Sensor + is a rune that\nexpands the features of the normal\nSheikah Sensor.\nIt is able to detect any object that\nis listed in the Hyrule Compendium.\nHere's how it works...\n1. Open the Hyrule Compendium by\nselecting Map→Sheikah Sensor→\nHyrule Compendium.\n2. Select a picture from the\nHyrule Compendium.\n\n3. Select \"Target with sensor.\"\n\n\n4. Select \"Target This.\"\n\n\nDo this and the Sheikah Sensor + will\nuse a series of sounds to lead you to\nthe object you want to detect.\nTo detect shrines again, select Map→\nSheikah Sensor→Shrine.\n\nTo stop detecting altogether, just select\nMap→Sheikah Sensor→OFF."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 2
+            field_3:
+              - 1
+              - 205
+  talk07:
+    - text: "About the Sheikah Sensor\nAuthor: Symin"
+  talk08:
+    - text: "To stop searching for your object of\nchoice, set the Sheikah Sensor on\nyour map to OFF."
+  talk09:
+    - text: "To stop searching for your object of\nchoice, set the Sheikah Sensor on\nyour map to OFF."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 2
+            field_3:
+              - 1
+              - 205
+  talk00:
+    - text: "Sheikah Sensor Notes\nAuthor: Symin"
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 1
+              - 0
+              - 0
+              - 0
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0000":
+    - text: Sheikah Sensor.
+  talk01:
+    - text: About the Sheikah Sensor +.
+  "0001":
+    - text: Sheikah Sensor +.
+  talk02:
+    - text: About the Sheikah Sensor.
+  "0002":
+    - text: First page.
+  talk03:
+    - text: "The Sheikah Sensor is one of the basic\nrunes found on the Sheikah Slate.\n\nIf it senses an ancient shrine containing\na heroine trial nearby, it will lead you there\nby emitting a series of sounds.\nThe interval between sounds shortens\nthe closer you get to a shrine."

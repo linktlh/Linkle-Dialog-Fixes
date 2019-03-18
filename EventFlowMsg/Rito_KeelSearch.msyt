@@ -1,0 +1,225 @@
+---
+entries:
+  Npc_HighMountain036_F_103:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, I should get to cooking. Kheel is\none of five daughters, which means five\nmouths to feed. Dinner won't make itself!"
+  Npc_HighMountain036_R_001_2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 16
+            string: Ease_00
+    - text: "I can't find Kheel anywhere!\nWhere could she be?"
+  Npc_HighMountain036_F_Near_Rock:
+    - text: My goodness...
+  Npc_HighMountain036_R_Near:
+    - text: Where did you go?!
+  Npc_HighMountain036_F_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 20
+    - text: "You found Kheel?!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "So she's at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " after all.\nPhew... She really had me worried!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Thank you for letting me know.\nPlease, take this for your trouble."
+  Npc_HighMountain036_S01_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I can't find Kheel anywhere!\nCould she have gone to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's\nNest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to practice her singing?"
+  Npc_HighMountain036_F_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I feel much better now that I know where\nshe is. Thank you."
+  Npc_HighMountain036_S01_002:
+    - text: "But that's so far away. Could she\nhave made it there on her own?\nOh, I'm so worried..."
+  Npc_HighMountain036_R_001:
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - text: "Kheel!!\nWhere are you?!"
+  Npc_HighMountain036_F_Near:
+    - text: Kheel!
+  Npc_HighMountain036_R_002:
+    - text: "But that's so far away. Could she\nhave made it there on her own?\nOh, I'm so worried..."
+  Npc_HighMountain036_R_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Maybe she went to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to\npractice her singing..."
+  Npc_HighMountain036_F_101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You found Kheel?!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "So she was at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " after all.\nPhew... She really had me worried!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Thank you for letting me know.\nPlease, take this for your trouble."
+  Npc_HighMountain036_F_102:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Thank you for finding Kheel. I'm glad she\nwas just at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "as I thought.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "She thinks she can do whatever she\nwants just because "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has\nbeen appeased.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But at least she got to practice singing\nwith her sisters. It's only a small token\nof my gratitude, but please, take this."
+  Npc_HighMountain036_R_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hmm?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Oh, you must be the one Kheel told\nme about. Thanks for helping her out.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The girls were able to practice their\nsinging thanks to you.\nPlease, take this. As a thank-you."
+  Npc_HighMountain036_R_Near_01:
+    - text: My goodness...

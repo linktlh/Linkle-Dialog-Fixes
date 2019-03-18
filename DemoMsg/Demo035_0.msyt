@@ -1,0 +1,1151 @@
+---
+entries:
+  talk80:
+    - text: "What's this?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "You haven't received even one more\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Heart Container "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "or "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Stamina Vessel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Such a pity... I was eager to help you\nwith a minor "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: transaction
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " But not if you\nhave nothing to trade.\nConsult a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Goddess Statue "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to improve\nyourself,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and then return here to pray."
+  talk82:
+    - text: Fa ha ha...
+  talk84:
+    - text: Fa ha ha...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Did you think I'd\ndeceived you?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Perish the thought. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I hope that ours\nwill be a long and profitable relationship.\nSo which will it be?"
+  talk85:
+    - text: "As I may have mentioned once or twice,\nI'm a dealer in life and power. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I can\nprovide a valuable service to you."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I take "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Heart Containers "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "or "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Stamina\nVessels "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: from you...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "and then, for a price,\nreturn whichever of the two you like."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 18
+            field_3: 19
+            field_4: 20
+            field_5:
+              - 0
+              - 2
+  talk86:
+    - text: "Which type of essence would you like\nin return?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 18
+            field_3: 19
+            field_4: 20
+            field_5:
+              - 0
+              - 2
+  talk87:
+    - text: "A wise choice. Now, remain still."
+  talk88:
+    - text: "You look skeptical. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Not to worry.
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: Money and life are all as one to me.
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If you're ready to begin, then first you\nmust sell me either type of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "essence "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 100 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIf you want to buy an essence back,\nthe price rises to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 120 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Before you cry foul, know that you may\nchoose which one I return to you:"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Heart Container "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "or a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Stamina Vessel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI'm eager to help tamper with your\nessence anytime you want to return\nand pray here."
+  talk89:
+    - text: "Now then, shall we strike a bargain?"
+  talk40:
+    - text: "I don't see how you can increase your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Stamina Vessels "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: any further.
+  talk65:
+    - text: My touch is as subtle as ever...
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Note how I took that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: essence
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " from you"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwithout leaving a mark."
+  talk41:
+    - text: "Careful... Give away any more of your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Heart Containers
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and it could have a\nfatal effect on your health."
+  talk42:
+    - text: "Have a care... Give me any more of your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stamina Vessels
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and you may not have\nthe strength to stand."
+  talk43:
+    - text: "No, no... I'm afraid you already have all\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Heart Containers "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: you possibly can.
+  talk68:
+    - text: "Which type of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "essence "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "will you surrender\nto me?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 4
+            field_3: 5
+            field_4: 9
+            field_5:
+              - 0
+              - 2
+  talk44:
+    - text: "No, no... I'm afraid you already have all\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Stamina Vessels "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: you possibly can.
+  talk69:
+    - text: "Which type of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "essence "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: shall I grant you?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 4
+            field_3: 5
+            field_4: 9
+            field_5:
+              - 0
+              - 2
+  "0010":
+    - text: A different container.
+  talk20:
+    - text: "The price to return a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Heart Container
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to\nyou will be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 120 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 11
+            field_3: 12
+            field_4:
+              - 0
+              - 1
+  talk45:
+    - text: Then the bargain is struck!
+  "0011":
+    - text: Yes.
+  talk21:
+    - text: "I'll gladly pay you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 100 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for one\nof your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Heart Containers
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Is that what\nyou want?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 11
+            field_3: 12
+            field_4:
+              - 0
+              - 1
+  "0012":
+    - text: No.
+  talk22:
+    - text: "The price to return a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stamina Vessel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to\nyou will be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 120 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 11
+            field_3: 12
+            field_4:
+              - 0
+              - 1
+  talk47:
+    - text: "I'm currently without any of your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: essences
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Are you in the mood to sell?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 11
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  "0013":
+    - text: Tell me more...
+  talk23:
+    - text: "I'll gladly pay you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 100 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for one\nof your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stamina Vessels
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Is that what\nyou want?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 11
+            field_3: 12
+            field_4:
+              - 0
+              - 1
+  "0015":
+    - text: Good-bye.
+  talk01:
+    - text: "What's the worst that could happen?"
+  talk26:
+    - text: "I have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 50
+            string: NpcDemonStatue_UtuwaSum
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "essences "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "so far.\nWhat now, hmmmm?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 26
+            field_3: 27
+            field_4: 9
+            field_5:
+              - 0
+              - 2
+  "0017":
+    - text: Give it back.
+  "0018":
+    - text: Give me a heart.
+  "0019":
+    - text: Give me stamina.
+  talk04:
+    - text: "Very interesting choice... Just don't\ncome crying to me later."
+  talk05:
+    - text: "I know from swindles, girl, and I can\nplainly tell that you don't have the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 120 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " required."
+  talk52:
+    - text: "Ahhhh... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "So there are some who still\npay me homage."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 25
+            field_3:
+              - 1
+              - 205
+  talk77:
+    - text: "A dealer in life and power...\nThat was me, once."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Alas, my life-for-money bargains didn't\nsit well with the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Goddess Hylia
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "She trapped me in this stone statue\nlong, long ago."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "The villagers here call me the Horned\nStatue"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and don't even bother to wipe\naway the bird droppings.\nOne would think years upon years of\nsuch treatment would have made me\nmend my ways...\nOne would think wrongly."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I have only been biding my time for the\nmoment someone who can hear me\nappears. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Someone such as you.\nBut I've said enough."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk53:
+    - text: "You don't say... You can hear my voice?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 11
+            field_3: 12
+            field_4:
+              - 0
+              - 2
+  talk78:
+    - text: "Then stay that way. No further action on\nyour part is required."
+  talk54:
+    - text: "Now, that is a surprise."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "What were you praying for? Long life? \nWealth, like so many of your kind?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Whichever it was, you came to the\nright place."
+  "0020":
+    - text: "I'm all right for now."
+  talk31:
+    - text: "Come to tamper with your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: essence
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", yes?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 13
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  talk32:
+    - text: "No, eh? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Fa ha ha... If you say so.
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Just know that I'm willing to strike a\nbargain with anyone who can hear\nmy voice."
+  talk57:
+    - text: "You came to pray, then... You want what\neveryone wants. Long life and wealth."
+  talk33:
+    - text: "I still have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        two:
+          type14:
+            field_1: 50
+            string: NpcDemonStatue_UtuwaSum
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: essences
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nShall I return another "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Heart Container
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nto you?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 10
+            field_4: 15
+            field_5:
+              - 0
+              - 2
+  talk58:
+    - text: "What's wrong, then? Have your prayers\ngone unanswered?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 17
+            field_3: 24
+            field_4:
+              - 0
+              - 1
+  "0024":
+    - text: Ugh...
+  talk34:
+    - text: "I wouldn't object if you wanted to give\nme more "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Heart Containers
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 10
+            field_4: 15
+            field_5:
+              - 0
+              - 2
+  talk59:
+    - text: Hmm...
+  "0000":
+    - text: "Yes, please."
+  "0025":
+    - text: You can talk?!
+  talk35:
+    - text: "I still have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        two:
+          type14:
+            field_1: 50
+            string: NpcDemonStatue_UtuwaSum
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: essences
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nShall I return another "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stamina Vessel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nto you?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 10
+            field_4: 15
+            field_5:
+              - 0
+              - 2
+  "0001":
+    - text: "Thanks, but no."
+  "0026":
+    - text: Have another one.
+  talk36:
+    - text: "I wouldn't object if you wanted to give\nme more "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stamina Vessels
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 10
+            field_4: 15
+            field_5:
+              - 0
+              - 2
+  "0027":
+    - text: I want one back.
+  talk37:
+    - text: "I don't see how you can reduce your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Heart Containers "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: any further.
+  "0003":
+    - text: Never mind.
+  talk38:
+    - text: "I don't see how you can reduce your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Stamina Vessels "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: any further.
+  near00:
+    - text: "..."
+  "0004":
+    - text: Heart Container.
+  talk39:
+    - text: "I don't see how you can increase your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Heart Containers "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: any further.
+  "0005":
+    - text: Stamina Vessel.
+  talk16:
+    - text: Then...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " What are you still doing here?"
+  talk17:
+    - text: You...
+  talk18:
+    - text: "It's simple. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'll give you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "100 rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to\ntake one of your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Heart Containers "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "or a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stamina Vessel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " off your hands.\nYou can have one back for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 120 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAnd if it's not the same one you gave\nme, why, I won't tell a soul.\nExchanging a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Heart Container
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stamina Vessel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", or vice versa, for only\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "20 rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "sounds good, doesn't it?\nYou must be salivating at the idea, so\nlet's go ahead and strike our bargain."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 13
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  "0009":
+    - text: "I've had enough."

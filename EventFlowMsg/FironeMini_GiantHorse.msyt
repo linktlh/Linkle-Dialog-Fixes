@@ -1,0 +1,425 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: Well? What do you say?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Are you willing\nto help us investigate these stories of a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: giant horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Sorry, but can I take a good look\nat that horse?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 4
+            field_3:
+              - 1
+              - 205
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Thanks, I'll be right back."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "This is to thank you for helping with our\ninvestigation!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The really big horse in this region is\nlikely part of a rare, local species.\n\nHowever, with all the monsters roaming\naround, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "we simply can't go any farther."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nTo be so close to discovery..."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 3
+            field_3:
+              - 1
+              - 205
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Hrmmm.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " This is impressive."
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 60
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Wow. With this much info, I can feel my\nspirit for discovery murmuring in\ncontentment.\nIt's definitely different, seeing something\nwith your own eyes rather than just\nreading about it. Thank you!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 0
+    - text: "To think that there is actually a horse\nthis big out there. How surprising!"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Ah, you're a lifesaver!"
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "Ah, hmm."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Quite interesting."
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 90
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "I see. Well... Oh, well, then..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n\nIf you change your mind, come back and\ntalk to me again!"
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "How's it going?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Have you made progress\nin studying the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: giant horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "They say that the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: giant horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " lives\naround the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Taobab Grassland
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... That'd\nbe northwest of here."
+  Near00:
+    - text: So...big...
+  Near01:
+    - text: Zzz...
+  Near02:
+    - text: Ohhh...
+  "0000":
+    - text: Leave it to me.
+  Near03:
+    - text: Hey there!
+  "0001":
+    - text: "I'm not interested."
+  "0002":
+    - text: Giant horse?
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Do you think you could catch it and\nbring it back here?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Don't stress out\nover the request, though!"
+  "0003":
+    - text: Monsters?
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: What do you want at this hour?
+  "0004":
+    - text: Go ahead.
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's gotten really late."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Why not rest for\nthe night, hmm?"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Hey there!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It's not every day that I see\nsomeone all the way out here!\n\nWe're doing an ecological study on the\nwild animals in the area.\n\nWe'd heard that there was a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: giant horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nliving in this region."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Apparently it\ncan't be found anywhere else...\nThat was all we needed to hear!\nWe headed this way to investigate\nright away!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 2
+            field_3:
+              - 1
+              - 205
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "That's right..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " There was even a monster\nthat looked quite a lot like a horse...\n\nI approached it, thinking at first that it\nwas the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: giant horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " we've been looking\nfor,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " but... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Oh, it was terrible...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Just from looking at you, I'd guess that\nyou're an adventurer, right?\nYou certainly look strong.\nHrm..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Hey, how would you like to go and\ncatch a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: giant horse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for us?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: That horse...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's huge..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\nI've never seen one that big! That is\ndefinitely an endemic species!"
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Hey,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " we're out here doing an\necological study on the wildlife of\nthis area.\nSpecifically, we're here to look into\nreports of a giant horse.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: And you brought it right to us!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Thanks\nto you, we were able to meet the giant\nhorse without having to search!"

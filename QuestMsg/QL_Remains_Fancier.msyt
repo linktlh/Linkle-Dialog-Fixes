@@ -1,0 +1,34 @@
+---
+entries:
+  QL_Remains_Fancier_Name:
+    - text: Guardian Slideshow
+  QL_Remains_Fancier_Step1:
+    - text: "Loone, lover of all things ancient, relinquished\nher orb once I showed her pictures of the\nthree types of Guardians.\n\nI've decided to go place it in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: pedestal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  QL_Remains_Fancier_Desc:
+    - text: "Loone, lover of all things ancient, can't bear to\npart with her precious orb, Roscoe. Although,\nif I could somehow show her images of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: three types of Guardians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", she may change\nher tune.\n\nI'll figure out some way to safely show her what\nthe different Guardians look like. The three \ninclude small Guardians, flying Guardians, \nand Guardians that walk around."
+  QL_Remains_Fancier_Finish:
+    - text: "Loone, lover of all things ancient, relinquished\nher orb once I showed her pictures of the\nthree types of Guardians.\n\nWhen I placed the orb into the pedestal,\nan ancient shrine appeared!"

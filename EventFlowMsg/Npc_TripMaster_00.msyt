@@ -1,0 +1,2070 @@
+---
+entries:
+  talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Huh?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nCould that be?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "Th-that's an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: energetic rhino beetle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nIt's a rare beetle you almost never see!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "P-p-please! Would you please consider\ngiving your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: energetic rhino beetle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nto Beedle?!"
+  Com_Talk_05b:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Don't hesitate to sell me things!"
+  Com_Talk_05c:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "I'll take anything off your hands!"
+  Com_Talk_05d:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Sell me anything you've got!"
+  TerrorArrow:
+    - text: Please stop!
+  TerrorImpulse:
+    - text: Ohh!
+  Com_Talk_30:
+    - text: "All right, how many would you like\nto buy?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5500
+            field_3: 5507
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  TerrorGuardian:
+    - text: Hyeeeeeeehh!
+  Com_Talk_31:
+    - text: "I think "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " of those will run\nyou "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Does that work?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  talk_30:
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1061997773
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 3
+    - text: "Oh, hiiiiiiiiii!\nI am still so thankful for and excited\nabout that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "beetle "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: you gave me earlier!
+  Com_Talk_32:
+    - text: "Just one, then? That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: "\nrupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", please."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  talk_31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "If you find another, please come again\ntomorrow! I'm just going to concentrate\nall my love on this little lady for today..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  Com_Talk_33:
+    - text: "Just one, then? How does "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: "\nrupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " sound?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_talk_20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: I want you to have this!
+  talk_32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Yahoo! "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Beedle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is so excited!\nYou're such a sweetheart!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "I'll add this bad boy to my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: beetle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\ncollection! Yaaaaaaaaaaaaaay!"
+  Com_Talk_34:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: All of them?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWell, "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " of them will be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". \nHow does that sound?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  TerrorSword:
+    - text: Oww!
+  TerrorHorse:
+    - text: Whoa!
+  talk_33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomBigHappy
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Yaaaay! I'm so happy right now!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "This is a really hard beetle to find!\nThis is a good omen for sure."
+  Com_Talk_35:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "So that's "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: "? Which is all of them!\nThat'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nHow does that sound?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  ClearTerrorGuardian:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: That was scary...
+  talk_34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Will you trade it to me for a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: vegetable omelet
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1000
+            field_3: 1001
+            field_4:
+              - 0
+              - 1
+  Com_Talk_36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Sold out for today!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Thank you for\nbuying so much, and thank you for\nyour business!"
+  talk_35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "You'd get something in return, of course!\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "How about I give you this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: mighty elixir
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1000
+            field_3: 1001
+            field_4:
+              - 0
+              - 1
+  Com_Talk_37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Thanks to you, I'm sold out for today!\nBut that's a good thing!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Would you like to look at the items \nI'm planning to have stocked?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  talk_36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Thanks for the business!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nDid you need anything else?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Com_Talk_11b:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Thank you for your business!
+  talk_37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "The name's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Beedle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but you can call\nme—"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Actually,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " let's just stick with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Beedle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nBut even if you forget my face, you can\nremember me by my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: beetle-shaped
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nbackpack!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: "Despite these dangerous times, you'll\nfind me traveling all over Hyrule to fulfill\nyour shopping needs.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I stock many special bugs and must-have\nitems for travelers, and I always charge\na fair price..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "or my name's not "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Beedle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I also buy all sorts of things, if you're in\nneed of rupees. "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Gemstones "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in particular\nfetch a high price!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomUrge
+    - text: How can I help you today?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Com_Talk_11c:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Thank you very much!
+  Com_Talk_11d:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Thanks again for your business!
+  TerrorExplosion:
+    - text: Haaaaeeeeee!
+  ClearTerrorEnemy:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: Phew...
+  talk_20:
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1061997773
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 20
+    - text: "Yeah, yeah! So DO you want to give\nBeedle that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bladed rhino beetle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+  talk_21:
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1061997773
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "AHHHH! So DO you want to give "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Beedle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rugged rhino beetle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+  talk_22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Not for free, mind you! How about I trade\nyou a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "hearty elixir "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for it?\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "You know, the elixir you get when you\nmix a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "hearty lizard "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "with some monster\nparts?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1000
+            field_3: 1001
+            field_4:
+              - 0
+              - 1
+  TerrorEnemy:
+    - text: Eeeeeeeeek!
+  talk_23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I just can't leave here without that\nbeetle! I'll trade you a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: energizing elixir
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfor it!\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Just mix a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bright-eyed crab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " with some\nmonster parts, and you've got yourself a\nnice little elixir!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1000
+            field_3: 1001
+            field_4:
+              - 0
+              - 1
+  Near:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: Come on oooooover!
+  talk_24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "And if you're on the fence, I've got just\nthe thing for you—a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fairy tonic
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Just heat up a little bit of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "fairy "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "dust, and\nBAM—you've got yourself something\nreally special!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1000
+            field_3: 1001
+            field_4:
+              - 0
+              - 1
+  Com_Talk_02b:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Thank you for your business!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nDid you want to sell me anything else?"
+  talk_25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Anyway, back to business..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  Com_Talk_02c:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Thank you very much!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nDid you have anything else?"
+  talk_26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "Oh! It's you again."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Was there something\nyou forgot to buy?"
+  Com_Talk_02d:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Thank you for your business!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nDid you have anything else?"
+  TerrorBomb:
+    - text: WHOA NOW!
+  talk_27:
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1061997773
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 20
+    - text: "You know, I was just thinking about yo—"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  talk_28:
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1061997773
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Ohh! Thanks for coming to see me.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  Com_Talk_10:
+    - text: You want to buy that?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  Com_talk_17:
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1061997773
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Hey! You're a great customer, and since\ntoday is Customer Appreciation Day..."
+  talk_29:
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1061997773
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Hey! How are you feeling toda—
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  Com_Talk_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Thank you for your constant patronage!
+  Com_talk_18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "This even works on those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Guardian "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthings. It's amazing!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "I hear it works best if you hit the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Guardians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in the eye with it. This old guy\nnamed "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Robbie "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "gave it to me.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "To find him, go waaay north past\nZora's Domain, all the way to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Akkala Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nOld Robbie makes a bunch of other\nweird weapons and clothes and stuff.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "I guess he's what you'd call a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "mad\nscientist"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " which is kind of cool..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nbut also terrifying.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you want strong weapons and stuff,\nyou should go see him."
+  TerrorLightning:
+    - text: AHHH!
+  talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I would certainly offer you something as\nthanks! How about a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: hasty elixir
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Yep, just take a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "hot-footed frog "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and mix\nit with some monster parts, and BAM—\nyou've got yourself a mighty-fine elixir!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1000
+            field_3: 1001
+            field_4:
+              - 0
+              - 1
+  Com_Talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I'm sure I have something you'll find\nuseful! Please have a good look!"
+  Com_talk_19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "Oh! You've met Robbie too?\nHe must be pretty popular."
+  talk_11:
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1061997773
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Hey! Welco...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  Com_Talk_13:
+    - text: "I'll take it. How many would you like\nto sell me?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5500
+            field_3: 5508
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomBadThink
+    - text: "Oh. And here I thought I knew what\nkind of person you were...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "No, it's fine.\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Beedle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " just isn't a very good judge of\ncharacter, apparently..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  Com_Talk_14:
+    - text: "I think "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " of those would be worth\nabout "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Is that OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  talk_13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Whooooooa! Thank you so much!\nYou're even more awesome than I\nthought you were!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "I will cherish this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "beetle "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "you have given\nme for the rest of my days."
+  Com_Talk_15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "I'm afraid I can't buy that.\nWish I could, but them's the rules."
+  talk_14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Oh, no..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "inventory "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is full.\nIt's a real shame, but I guess we'll have\nto give up on this for now..."
+  Com_Talk_16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "Maybe you should take those clothes off\nbefore you try to sell them."
+  talk_15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: Really? But this is such a good deal...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nand that beetle really wants to be with\nme.\nI just don't understand your thought\nprocess here...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomBadThink
+    - text: "Maybe I'll sneak into his inventory and replace it\nwith a common beetle while he's not looking.\nHe won't know the difference... \nNo, I'll hire someone to do it for me.\nNo need to get my hands dirty..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomBadThink
+    - text: Hehehehehe...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Oh, you're still here? I thought you left."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Uh, well let me know if you change your\nmind!"
+  talk_16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomBigHappy
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Wooooooooow!\nThank you so much!!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "You just don't see these very often!\nThis has to be a sign..."
+  "0000":
+    - text: What have you got?
+  "5500":
+    - text: OK.
+  talk_17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomUrge
+    - text: "What are you looking for?\nOr are you selling?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  "0001":
+    - text: "Look what I've got."
+  "5501":
+    - text: On second thought...
+  TerrorAnimal:
+    - text: Get back!
+  talk_18:
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1061997773
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Hey! Thanks again for giving me that\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "beetle "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: earlier!
+  Com_Talk_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: What would you like to sell?
+  "0002":
+    - text: Good-bye.
+  "5502":
+    - text: Buy.
+  talk_19:
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1061997773
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 20
+    - text: "Ohhhhhh! So maybe you DO want to give\nBeedle that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: energetic rhino beetle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+  Com_Talk_01:
+    - text: "How does "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: sound?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  "5503":
+    - text: Never mind.
+  talk_00:
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1061997773
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Hey! I don't believe I've made your\nacquaintance!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  Com_Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Thank you very much! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Is there anything \nelse you would like to sell?"
+  TerrorInsect:
+    - text: NOT BEES! AHHHH!
+  talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Oh! That's too bad..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHope to see you around."
+  talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Thank you very much!\nHope to see you again soon!"
+  Com_Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: "Oh, no, no..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " That's too bad."
+  talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "Oh, hiiiiiiiiiiiiii!\nWe meet again!"
+  Com_Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "I'll buy aaaaaaanything!"
+  "5507":
+    - text: "I'll take 'em all!"
+  talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "Hey! It's you again.\nOl'"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " Beedle"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s glad to see you!"
+  Com_Talk_06:
+    - text: "Buy whatever you want! I recommend\neeeeeeverything!"
+  "5508":
+    - text: All of them.
+  talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: Oh! You appear to have a
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bladed rhino beetle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "Beedle loves "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bladed rhino beetles
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nWould you consider giving it to me?"
+  Com_Talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: Oh! So sorry.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nFresh out of that."
+  talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Wow! You have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rugged rhino beetle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nin your inventory!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "Beedle just loooooooooves\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rugged rhino beetles
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! Can I take\nit off your hands?"
+  Com_Talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 14
+    - text: "Oh! You don't have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThat's embarrassing."
+  talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "I'll give you something in return, of\ncourse. How does a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tough Elixir
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " sound?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1000
+            field_3: 1001
+            field_4:
+              - 0
+              - 1
+  Com_Talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 16
+    - text: "Oh! Your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "inventory "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: appears to be full.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nPlease make some room in your\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: inventory
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and come back."
+  "1000":
+    - text: "It's a deal!"
+  talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "You'd get something in return, of course!\nHow about I trade you for this\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: meat and rice bowl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1000
+            field_3: 1001
+            field_4:
+              - 0
+              - 1
+  "1001":
+    - text: "Sorry, but no."
+  TerrorFire:
+    - text: "I don't like fire!"

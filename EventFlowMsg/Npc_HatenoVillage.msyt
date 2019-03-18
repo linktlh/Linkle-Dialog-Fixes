@@ -1,0 +1,618 @@
+---
+entries:
+  near02:
+    - text: ♪～～♪
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Mornin'!"
+  near03:
+    - text: Whew!
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Hullo!
+  near04:
+    - text: Whoa...
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Evenin'!"
+  "0000":
+    - text: Indeed.
+  "0001":
+    - text: Not really...
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Don't think the rain's gonna let up\nanytime soon."
+  "0002":
+    - text: "...Ancient Tech Lab?"
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Why don't we chat somewhere nicer?"
+  "0003":
+    - text: The Great Calamity?
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: Anything else you wanna ask?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 2
+              - 34
+              - 72
+              - 97
+              - 116
+              - 101
+              - 110
+              - 111
+              - 78
+              - 80
+              - 67
+              - 48
+              - 48
+              - 48
+              - 95
+              - 76
+              - 97
+              - 98
+              - 111
+              - 3
+              - 0
+              - 4
+              - 0
+              - 5
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0004":
+    - text: Hateno Village?
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Zzz... Zzz...
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Seems at least one member of the\nSheikah tribe has lived up there since\nthe time of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThey call what goes on up there\nresearch,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but I don't know what kind.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Those folks up there should get out\nmore, y'know? It's not healthy to stay\ncooped up all day!"
+  "0005":
+    - text: Good-bye.
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "If you're looking for the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nit's atop the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: small hill
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to the east."
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: Can I help you with anything?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 2
+              - 34
+              - 72
+              - 97
+              - 116
+              - 101
+              - 110
+              - 111
+              - 78
+              - 80
+              - 67
+              - 48
+              - 48
+              - 48
+              - 95
+              - 76
+              - 97
+              - 98
+              - 111
+              - 3
+              - 0
+              - 4
+              - 0
+              - 5
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 19
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I haven't seen that\nin quite a while! "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: How is Purah?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\nWe haven't seen her lately, so we've all\nbeen a little worried about her."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Yes, yes. Good-bye."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "It's been a while since I saw Purah"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\ncarrying around that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "It's hard to even talk about the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". It was a disastrous event\nthat took place 100 years ago.\nVillages everywhere were burned. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Many\nlives were lost...\n\nThat was all before I was born, of course."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThe elders here would know more."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Oh, are you an adventurer? I am the\nhead of Hateno Village. Call me Reede.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Isn't this a peaceful place we have here,\ndon't you think?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Hateno Village barely survived the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". The village was later\nrebuilt by "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hylian "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "hands.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Now many people live here in peace\namongst the shops."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's nice to see\ntravelers stop by now and then as well."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Yes...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " We're finally feeling a bit of \nrecovery from the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk16:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: Hateno Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? Oh, sure!\nThat's the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "building up on the top\nof that hill"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "A person from the Sheikah tribe lives up\nthere. You never know what they're\ndiving into.\nThey rarely come out lately, now that I\nthink about it. They must be really\nbusy lately..."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "Haha! This village looks like an urban\ncenter to you, eh?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Well, Hateno Village has definitely grown\nin size recently now that we're\nrecovering from the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Oh, the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I haven't seen that\nin quite a while.\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "How was the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " We haven't\nseen the lab folks in a bit, so some\nof us were getting a little worried..."
+  near00:
+    - text: Zzz...
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Our village is pleasant, peaceful, and has\nplenty of food to go around!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Please stay\nas long as you'd like."
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "It's been a while since I saw the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " carrying around that\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  near01:
+    - text: "Ho, ho..."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Yes, yes..."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Yup. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Rainin'."

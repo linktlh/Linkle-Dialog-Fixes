@@ -1,0 +1,678 @@
+---
+entries:
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: Farewell.
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "Ahhh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Mmm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Prince Sidon...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nJust thinking of you turns me\nto mush...\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "On the other hand, if that pack of geezers shows\nup again, I swear..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Oh! I'm sorry...\n\n\n*ahem* Anyway... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Prince Sidon is a man\nwith magnificent ideas.\n\nOh, I know! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Why don't you go and have\na chat with Prince Sidon? Yes, do!"
+  "0000":
+    - text: Yes.
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "That's just what I'd expect from our\nPrince Sidon! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "His renown has even\nreached you, Hylian."
+  "0001":
+    - text: No.
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: Oh. I see...
+  "0002":
+    - text: Prince Sidon?
+  talk13:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "You're..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: in my way...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  "0003":
+    - text: Pack of geezers?
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Do you have any more questions?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 5
+              - 42
+              - 78
+              - 112
+              - 99
+              - 95
+              - 90
+              - 111
+              - 114
+              - 97
+              - 48
+              - 50
+              - 56
+              - 95
+              - 84
+              - 97
+              - 108
+              - 107
+              - 82
+              - 101
+              - 108
+              - 105
+              - 99
+              - 2
+              - 0
+              - 3
+              - 0
+              - 4
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0004":
+    - text: Good-bye.
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 18
+    - text: "He has shiny, glorious fangs..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nand smooth, shimmering skin...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 18
+    - text: "Just imagining Prince Sidon's fine form..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI just... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "*siiiigh*"
+  "0005":
+    - text: Ruta?
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "The Zora elders intend for our people to\nstop "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "without any outside help.\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Even though touching "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for an\nextended period of time"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " is impossible for us..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\nPrince Sidon, on the other hand, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "had the\nidea that we could ask an outsider to\nshoot the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for us!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "That's our Prince Sidon for you..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHe has such bold ideas!"
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "By "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I mean "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Reservoir Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Good morning.
+  near00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 25
+    - text: "♪Prince Sidon...♪ "
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Good day.
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "He's the culprit. The one who's making\nit rain and causing all this trouble.\n\nPrince Sidon needs "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nto stop "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That much he knows\nfor sure.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "But we Zora can only hold "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfor a very limited time before..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you know.\nLet's just say it's very dangerous for us.\nHowever, if a Hylian like you were to help\nus out, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I know Prince Sidon would be\nvery grateful!"
+  near01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 25
+    - text: Amazing!
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Good evening.
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Yes?
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Speaking of which... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "The bad weather\nseems to have calmed down a bit lately.\n\nIs it possible..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "that Prince Sidon finally\nappeased "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Yes, I've heard all about it."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou're an amazing girl, aren't you?\n\nYes, you are. You saved us all."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThank you."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Do you need something?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 5
+              - 42
+              - 78
+              - 112
+              - 99
+              - 95
+              - 90
+              - 111
+              - 114
+              - 97
+              - 48
+              - 50
+              - 56
+              - 95
+              - 84
+              - 97
+              - 108
+              - 107
+              - 82
+              - 101
+              - 108
+              - 105
+              - 99
+              - 2
+              - 0
+              - 3
+              - 0
+              - 4
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Thank you for saving the domain!
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: "Hm? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You don't have any fins..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAre you a Hylian?"
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Now Lady Mipha's spirit can finally rest\nin peace."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Are you?!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I feel like we may or may not have\nmet before..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zora River
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "So the Hylian chosen by Prince\nSidon..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That's you, isn't it?"
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I am the president of Prince Sidon's\nfan club. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "My name is Tula.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Do you...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: know Prince Sidon?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1

@@ -1,0 +1,682 @@
+---
+entries:
+  "5503":
+    - text: Never mind.
+  Com_Talk_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: What do you wanna sell?
+  "5508":
+    - text: All of them.
+  Com_Talk_01:
+    - text: "Does "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " sound OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: I want to buy.
+  Com_Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Thanks, sister!"
+  "0001":
+    - text: I want to sell.
+  "0002":
+    - text: What is this place?
+  Com_Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ah, OK. That's too bad."
+  "0003":
+    - text: Good-bye.
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You have the privilege of standing in\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ripped and Shredded
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", my armor shop."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHow can I help ya?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  Com_Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "What are ya sellin'?"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Out late, I see."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Lucky for you,\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Ripped and Shredded "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is open\nfor business 24 hours a day!"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  Com_Talk_05b:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Anything else you wanna sell?
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Stop by again!
+  Com_Talk_05c:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Wanna sell anything else?
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Of course ya do! If ya gear up here,\nyou'll be set to stay cool at places\neven hotter than Goron City."
+  Com_Talk_05d:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Anything else?
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: Hurry up and buy some gear!
+  Com_Talk_60:
+    - text: "How does "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type16:
+            field_1: 44
+            string: Shop_SelectItemPrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " sound?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 42
+    - text: "You can say good-bye all ya want,\nbut you'll still need to change\nyour gear! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Go on, make it snappy!"
+  Com_Talk_61:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Aww, that's too bad."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "As you can see, this here is my\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: armor shop
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "This doesn't seem like a good time\nto talk..."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Do ya need anything else?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - text: "Hey, you! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "You're gonna get burned up\nif ya go outside like that! Hurry up and\nchange your clothes!"
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Funny thing is, Gorons normally don't\nwear anything at all. We started sellin'\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "flame-resistant armor "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for the tourists.\nI recommend the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flamebreaker boots
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nover all else. They're made using\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "gems "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "mined from this very soil.\nAs you'd expect, they have great "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "flame\nresistance"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Give 'em a try! They're the\nenvy of famous warriors the world over!"
+  Com_Talk_02b:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You done sellin'?"
+  Com_Talk_02c:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Ah. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Thank you.
+  Com_Talk_02d:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Thanks, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: little lady.
+  Com_Talk_13:
+    - text: How many?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5500
+            field_3: 5508
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  Com_Talk_14:
+    - text: "I can offer you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "Oh... We're actually all sold out!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWe'll have to get more stock from\nold man Rohan."
+  Com_Talk_15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Sorry, but I'm not interested in those."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Thanks for your business, sister!"
+  Com_Talk_16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "...I'm not gonna buy the clothes that\nyou're wearin'. For obvious reasons."
+  Com_Talk_33:
+    - text: "Just the one, right?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll give you\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: for it!
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Thank you, sister!"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "Hey! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "You can't be so casual about stuff\nlike that!"
+  Com_Talk_35:
+    - text: "So all of 'em?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'll buy those off ya for\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "With what you're wearin' right now...\nyou should really give up on goin'\nanywhere hotter than Goron City.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Places that hot are forbidden to anyone\nwho isn't a Goron anyhow."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Just glancing at your gear, ya seem\nto be well equipped to go anywhere—\neven "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Death Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nBut even so, that's no place for a tourist."
+  near00:
+    - text: Come on in.
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "But ya did a great job fireproofing!\nLike that, you could even make it to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Death Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", or anywhere really."
+  "5500":
+    - text: OK.
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "Hey! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "You can't go out dressed like that!\n\n\nIf ya don't hurry and change your gear,\nyou're gonna pass out from the heat!"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "5501":
+    - text: Never mind.
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "Got it. Let's make this quick!"

@@ -1,0 +1,76 @@
+---
+entries:
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Colorful leaves gently falling...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " A fort that\nfell to the Great Calamity..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Unspeakable\nsorrow surrounds this landscape."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I know I've seen that spring and\nthat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Goddess Statue
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " before...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "There was a place like this at the\nruins in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: North Akkala Valley
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nto the west of here."
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "It's pretty much directly west of here.\nI'm certain you'll be able to find it\nwithout any trouble."

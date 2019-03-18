@@ -1,0 +1,645 @@
+---
+entries:
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: I see. Nice to meet a fellow admirer.
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: Oh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You're not?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWell, never mind."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I always liked the simple nature of this\nvillage.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: "Although, I'm starting to regret choosing\nit as my honeymoon destination...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "It's really cold here and there's not much\nto do, so my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "wife "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is complaining nonstop.\nShe won't even talk to me right now."
+  talk30:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: U-urgh...
+  "0000":
+    - text: Yes.
+  "0001":
+    - text: No.
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Can you sell me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: a piece
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Can you sell me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "five "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: of those?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  "0003":
+    - text: "OK, sure."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Can you sell me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "10 "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: of those?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  "0004":
+    - text: No way.
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Sure, see you around."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Can you sell me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "30 "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: of those?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: Hey.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You sure look energetic.\nAren't you cold?"
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Can you sell me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "50 "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: of those?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Can you sell me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "100 "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: of those?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hey there.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Mornin'..."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 34
+    - text: "*yawn*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHowdy."
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I still need to make more "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: baked apples
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to\nkeep my wife happy, so please bring me\nmore "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hey there.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Good day..."
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "I need to make some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "baked apples "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to\nkeep my wife happy...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "But I don't have any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "flint "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: to start a fire...
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hey there.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Good evenin'..."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I'm here on my honeymoon. My "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "wife "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is\ngiving me the silent treatment. She hates\nit here."
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: A-
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: all right!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Now I can make some\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: baked apples
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Great...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " And now it's raining..."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Oh, man."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " If this doesn't work, she's\ngoing to divorce me for sure!"
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Bring me a few, and I'll reimburse you."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThanks, friend."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: "That unmistakable, slightly acrid scent..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nYou have some"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "flint "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "on you, don't you?"
+  near00:
+    - text: Urgh...
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Th-
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: thanks!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " As promised, here's your\npayment."
+  near01:
+    - text: "*sigh*"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: So are you staying in Rito Village too?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Thanks for selling me some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\nI'll bake some more apples,"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "so keep\nbringing me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: She...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "has a weird obsession with\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: baked apples
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I fear that's the only thing keeping her\nfrom filing for divorce."

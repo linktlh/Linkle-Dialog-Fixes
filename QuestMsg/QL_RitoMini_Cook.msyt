@@ -1,0 +1,44 @@
+---
+entries:
+  QL_RitoMini_Cook_Finish:
+    - text: "I gave Juney, currently honeymooning in\nRito Village, a baked apple. She was so\ngrateful that she paid me a few rupees for\nthe service.\n\nJuney told me that she'll never turn down\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: baked apple
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". If I gather any more, I\nshould bring them directly to her!"
+  QL_RitoMini_Cook_Name:
+    - text: The Apple of My Eye
+  QL_RitoMini_Cook_Desc:
+    - text: "Juney, currently in Rito Village on her\nhoneymoon, is about to blow her stack\nif she can't find what she's looking for.\n\nDistracting her from her troubles with\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: baked apple
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", her favorite snack,\nis one way to lighten the mood.\n\nBringing Juney a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: baked apple
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " could possibly\nsave her marriage!"

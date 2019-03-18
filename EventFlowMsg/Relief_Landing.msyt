@@ -1,0 +1,132 @@
+---
+entries:
+  Npc_Musician_015_R_008:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 285
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1053609165
+    - text: "On wings of cloth and wood entwined,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThey land on the altar to open the way."
+  Npc_Musician_015_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Ah, so the \""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: wings of cloth and wood
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\"\nreferred to a paraglider. Of course.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "The way you soared on the wind made it\nlook as though you truly had wings."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I feel the stirrings of a new song about\nyour deeds here...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Take care, and may the light illuminate\nyour path."
+  Npc_Musician_015_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I was sure that I would be alone\nin so remote a place. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Pardon me for\nnot greeting you sooner."
+  Npc_Musician_015_R_004:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 180
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1053609165
+    - text: "Who breaks the rocks that serve to bind,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " \nAbove the tempestuous bay."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  Npc_Musician_015_R_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "The \"tempestuous bay\" from the song\ncould be this very bay."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But what sort of\nwings are made of cloth and wood?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "It's a juicy riddle, but one I may never\npuzzle out.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Take care, and may the light\nilluminate your path."
+  Npc_Musician_015_Near:
+    - text: Tempestuous wind...

@@ -1,0 +1,428 @@
+---
+entries:
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "Well, we're going to bed."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nCome back tomorrow."
+  "0001":
+    - text: "Why don't you do it?"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Good stuff.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\nRemember, it's called "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Aris Beach
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "monsters "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "have set up shop there.\n\nStay sharp."
+  "0002":
+    - text: "I've already done it."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Believe me, I'd love to...but I have a\nfamily to look after. I can't be risking my\nlife.\nIf I had it my way, I'd be out there\nskewering those monsters with this\nharpoon."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "What are you waiting for?\nGo take back "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Aris Beach
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\nMaybe the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "monsters "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "will have their\nguard down in this rain.\n"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: You a traveler?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm a fisherman of this village, but we're\nin a bit of a bind lately.\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Monsters "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "have taken over the best\nfishing spots.\n\nYou used to be able to pull in a good\nhaul at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Aris Beach
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but these days you'd\nbe lucky to leave there with your life."
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You look pretty tough.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThink you could go take care of them?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: So
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " how about it?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\nYou going to deal with the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "monsters "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthat took over "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Aris Beach
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I can't believe it!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You took care of the\nmonsters at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Aris Beach
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It's been so long\nsince I've had a fish from those waters!\nThanks, mate. I suppose I should give\nyou this to show my appreciation."
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: So...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " How about it?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\nYou going to deal with the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: monsters
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nthat took over "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Aris Beach
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 2
+            field_3:
+              - 1
+              - 205
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "What are you waiting for?\nThe monsters are at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Aris Beach
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nTake back my fishing spot!"
+  Near00:
+    - text: "I'm going to sleep."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You look pretty tough.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThink you could go take care of them?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 2
+            field_3:
+              - 1
+              - 205
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Heyyyyy! You took care of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: monsters
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Aris Beach
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It's been too long since\nI've had a fish from those waters!\nThanks, mate. I suppose I should give\nyou this to show my appreciation."
+  Near01:
+    - text: Mmmm nuuuhhh...
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Come back whenever you'd like!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'll share the day's haul with you."
+  Near02:
+    - text: Phew...
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Mmmgh myah...
+  Near03:
+    - text: More rain...
+  "0000":
+    - text: Consider it done.

@@ -1,0 +1,51 @@
+---
+entries:
+  "0000":
+    - text: Read.
+  "0001":
+    - text: "Don't read."
+  Book00:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: "Traysi here! No matter where I go,\nmy love for rumors inevitably follows...\n\nDon't you make it a point to dig up\nrumors while traveling? In any case,\ntoday's topic of discussion is...\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: The Dream of Teleportation!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nApparently, there was once an ancient\nmedallion that could instantly teleport\nyou to wherever you placed it...\nWhat's more, this wondrous item\nmay still be somewhere out there,\njust waiting to be scooped up!\nI must say, it sounds like the perfect\nitem for travelers, adventurers,\nand rumor-lovers alike!\nI hear the treasure chest containing\nthis tool is located "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "beneath a labyrinth\nin northeast Akkala"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIs it true, or just a beautiful dream?\nI'll let you decide that for yourself,\ndear reader.\nTraysi's Recommendation: ★★★★★"
+  BookFirst:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: "Super Rumor Mill EX: Volume 2"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1

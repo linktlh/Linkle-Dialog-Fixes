@@ -1,0 +1,60 @@
+---
+entries:
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "They say the castle was destroyed\n100 years ago. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Somehow it looks\neven more majestic in ruins..."
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: That forest...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I get the feeling I've seen\nit before.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I can't say for certain, "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "but I believe\nthis may depict the forest just south\nof here.\nNo... Wait... Maybe it's the forest on the\nother side of the river, northeast of\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Bottomless Swamp
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "I went for a stroll around there recently,\nand I feel like I may have seen a view\nlike that."

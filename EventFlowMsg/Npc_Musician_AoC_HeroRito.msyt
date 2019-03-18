@@ -1,0 +1,63 @@
+---
+entries:
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hmm... It seems the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Rito
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Champion
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwas not one to share his feelings."
+  TerrorFire:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: Yikes!
+  TerrorExplosion:
+    - text: WAAAH!
+  TerrorSword:
+    - text: Stop this madness!
+  TerrorArrow:
+    - text: "Please don't do that!"
+  TerrorHorse:
+    - text: Whoa there!
+  Challenge000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Ah, we meet again!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI trust you're doing well?"

@@ -1,0 +1,1203 @@
+---
+entries:
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: Just between you and me...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "my idea of an\nadventure is more like just wandering\naround for a bit."
+  RetMSG_Kyu_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I dream of solving the riddle of Rito\nVillage, west beyond the snow, but my\nadventuring bucket list is long enough.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Heigh-ho, Dauntless, my noble steed!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " \nOnward to parts unknown!"
+  Thanks00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Here, take this."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou've earned it."
+  RetMSG_Kyu_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I long for adventure as a weary traveler\nlongs for a warm bed. Right now, I'm in\npursuit of the legend of the dragon!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Heigh-ho, Dauntless, my noble steed!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBoundless adventure awaits!"
+  RetMSG_Kyu_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "My name is Nazbi, treasure hunter and\nadventurer extraordinaire!\n\nI dream of solving the riddle of Rito\nVillage, west beyond the snow fields.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Then again, my adventuring bucket list is\nlong enough. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Heigh-ho, Dauntless, my\nnoble steed!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Onward to parts unknown!"
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "This is my chance to say something\nreally heroic and memorable!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nSomething like...\nA phrase that would be recorded in\na book of inspirational quotes!"
+  MSG_Kyu_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: "I've conquered many an adventure in my\ntime, but overcoming this cold has\nproven ever an insurmountable feat.\nThe road to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Snowfield Stable "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is just\nplain freezing!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 18
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Heigh-ho, Dauntless..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Heigh...cooooold..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  RetMSG_Kyu_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "My name is Nazbi, treasure hunter and\nadventurer extraordinaire!\n\nThere's a person at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Upland Lindor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " who\nchallenges travelers to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: footraces
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Give it\na shot if you think you're quick enough.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 4
+    - text: "Why don't I give it a shot?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Because a\nrenowned adventurer such as myself\nis far too busy adventuring!\n..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "OK, you got me."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "After riding Dauntless\nhere for so long, I can only run a few\nsteps before I'm totally winded.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Speaking of...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Heigh-ho, Dauntless!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWe're off to..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: somewhere!
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Monsters aren't the only things I fight."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm currently battling one of my oldest\nand toughest foes..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " The sleepies."
+  RetMSG_Kyu_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Though, I am rather curious about the\nperson at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Upland Lindor "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "who challenges\ntravelers to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: footraces
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Anyway, heigh-ho, Dauntless!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWe're off to..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: somewhere!
+  RetMSG_Kyu_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "My name is Nazbi, treasure hunter and\nadventurer extraordinaire!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: " Ahh, what a\nwonderful title to claim.\nWhy, I just may introduce myself again!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nMy name is Nazbi— What's that?"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: " You\nreally think once was enough?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Well, in that case, allow me to simply\noffer a fellow adventurer some top-tier\ntreasure-hunter info.\nRumors speak of a \"forest where the\nmaster lives\" somewhere to the south\nof here.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Now, heigh-ho, Dauntless, my noble\nsteed!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Run like there's no tomorrow!"
+  RetMSG_Kyu_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "My name is Nazbi, treasure hunter and\nadventurer extraordinaire!\n\nThe road to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Serenne Stable "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is wrought\nwith danger, but I shall gallop onward\nuntil I find the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "dragon's road"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nAs long as my noble steed, Dauntless,\nis strong, I, Nazbi, treasure hunter and\nadventurer extraordinaire, shan't relent!\nThank you, my noble Dauntless!\nWe are equal partners even though\nyou do all the work!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: " Now, heigh-ho!"
+  RetMSG_Kyu_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "My name is Nazbi, treasure hunter and\nadventurer extraordinaire!\n\nI long for adventure as a weary traveler\nlongs for a warm bed. Right now, I'm in\npursuit of the legend of the dragon!\nIt's a pursuit that has kept me quite\nbusy, so if you'll excuse me..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Adventure awaits! Heigh-ho, Dauntless!"
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "A bold adventurer such as myself would\nhave been fine on his own, but from one\ntraveler to another..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Thank you."
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "I just wasn't in a fighting mood is all."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThanks for taking that off my plate."
+  MSG_Kyu_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "They say the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "dragon's road"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is not too far\nfrom "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tanagar Canyon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". It's my duty as an\nadventurer extraordinaire to find it!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Heigh-ho, Dauntless!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " We mustn't let\nadventure's call go unanswered!"
+  Rest_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 34
+    - text: "Resting? An adventurer such as myself\nhas no time for that! I'm merely mentally\norganizing info about the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "dragon's road"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "But before that, I must conquer my\noldest foe..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " The sleepies."
+  Rest_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: "Oh, why must it rain so heavy upon my\nadventuring soul..."
+  Rest_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "The only recourse in the rain is to keep\ndry until it passes."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But when, oh when,\nwill the rain cease?"
+  Near00:
+    - text: "The dragon's road is..."
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Mark my words, nothing will end your\njourney as swiftly as an untimely demise!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I suppose that makes it sound like it was\nI who rescued you, instead of the other\nway around."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Well, thanks for your help."
+  Near01:
+    - text: "Is this the dragon's road?"
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "You need to recognize the fine line\nbetween bravery and recklessness!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Sorry, how very untoward of one who\nwas just rescued."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Thank you for coming\nto my aid."
+  Near02:
+    - text: Where could it be?
+  MSG_Kyu_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "When it gets this cold,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " *clack-chatter*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I\njust can't stop my"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " *chatter-chatter*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " teeth\nfrom chattering.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: Heigh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "*clack-clack*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " ho, Dauntless!"
+  Near03:
+    - text: Shake off the sleepies...
+  RetMSG_Kyu_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I don't have the exact details, but rumors\ntell of a \"forest where the master lives\"\nto the south of here.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Now, heigh-ho, Dauntless, my noble\nsteed!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Run like there's no tomorrow!"
+  Near04:
+    - text: "It's really coming down."
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 31
+    - text: "If that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Guardian "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "spots us, it's curtains\nfor us."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Exit, stage left!"
+  MSG_Kyu_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "My name is Nazbi, treasure hunter and\nadventurer extraordinaire!\n\nMy never-ending pursuit of treasure and\nadventure has led me to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hilltop High\nRoad "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in search of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "dragon's road"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThey say it's not too far from\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tanagar Canyon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Heigh-ho, Dauntless, my trusty steed!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " \nAdventure is calling..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAnd only we can answer!"
+  MSG_Kyu_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Could it be that this very "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hilltop High\nRoad "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is the selfsame "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "dragon's road"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Heigh-ho, Dauntless! A new mystery\nawaits!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " And where there's mystery..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nthere's adventure!"
+  MSG_Kyu_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "My name is Nazbi, treasure hunter and\nadventurer extraordinaire!\n\nI'm traveling "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hilltop High Road "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in search\nof the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "dragon's road"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". They say it's not\nfar from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tanagar Canyon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nHmm, now that I think about it...\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hilltop High Road "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is long and\nwinding, very much like a dragon itself!\nI'm sure it's just a coincidence."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Heigh-ho, Dauntless, my trusty steed!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAdventure beckons!"
+  MSG_Kyu_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "My name is Nazbi, treasure hu...*huff*\nhunter..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: adventurer...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: extraordinaire...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n*huff* Pardon me..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Just..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "out of breath...\nBold adventurer, I *huff*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " may be but a\nmere *huff*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " mortal who longs for rest\n'ere long... *huff..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "huff* Ugh...\nI'll find my solace at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Serenne Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand continue toward "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Snowfield Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nonce I am rested well."
+  MSG_Kyu_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "My name is Nazbi, treasure hunter and\nadventurer extraordinaire!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Adventure\nlurks around every corner! Heigh-ho!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I hoped getting myself worked up like that would\nwarm me up, but..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "the road to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Snowfield Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis just too cold!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Brrrrr...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Heigh-ho, Dauntless, my noble steed!\nThis chill is but another obstacle that\nstands in the way of our adventure!"
+  MSG_Kyu_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "My name is Nazbi, treasure *clack-clack*\nhunter and *chatter-chatter* adventurer"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nextraordinaire!\nThis cold..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " *chatter-clack*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I can't stop\nmy *clack-clack*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " teeth from chattering...\n\nMy search for the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "dragon's road "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has\nfrozen over."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " *chatter-clack*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " All I can\ndo is wait out the cold right here.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "Heigh-ho, Dauntless, my"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " *clack-clack*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\ncold-yet-noble steed!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " *clack-chatter*"
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "All's well that ends well, as long as\neveryone is alive and well!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Huh? That makes it sound like all I did\nwas sit back and watch?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " What an astute\nobservation!"
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I guess we shouldn't have\nunderestimated Hylians!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "...Is what I'd say if I were those sorry\nmonsters you just sent packing."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThank you for saving me."
+  RetMSG_Kyu_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The road to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Serenne Stable "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is wrought\nwith danger, but we shall gallop onward\nuntil we find the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "dragon's road"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nOnward, my noble steed, Dauntless!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Heigh-ho until dawn!
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Oh, my beloved Dauntless..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nMy dear horse is every bit an\nadventurer as I!"
+  MSG_Kyu_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "Slumber awaits me at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Serenne Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nand then it's on to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Snowfield Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Heigh-*huff*, Dauntless, my noble steed!"

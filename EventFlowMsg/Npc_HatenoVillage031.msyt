@@ -1,0 +1,929 @@
+---
+entries:
+  near03:
+    - text: Yah!
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "For the first time since then, we're finally\ngetting back on our feet."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 11
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "You're pretty studly, aren't you?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  near04:
+    - text: Hahhhh...
+  talk37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You'd be a great hire for our company..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWhat's your name?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 21
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk38:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Well, too bad. Can't hire you."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk39:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "'Cause your name doesn't end in \""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: son
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\""
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 22
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: What are you doing?
+  "0001":
+    - text: Who are you?
+  "0002":
+    - text: Bye.
+  "0003":
+    - text: Why?
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Hey.
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  "0004":
+    - text: "I'll buy this place!"
+  "0021":
+    - text: "I'm Linkle."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: Yeah?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  "0005":
+    - text: That sounds tough.
+  "0022":
+    - text: Son?
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hahhh...
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  "0006":
+    - text: Why?
+  "0023":
+    - text: "That's too bad."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "...Hahhh..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: So best of luck to both of us.
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 12
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  "0007":
+    - text: Why?
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", huh?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 12
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Yeah.
+  "0008":
+    - text: Oh.
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Taking a break.
+  "0009":
+    - text: Yes.
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Farewell then.
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: By the way...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Did you"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " buy that house?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk40:
+    - text: "The boss, Bolson, has a strict hiring\nrule: "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "need a name ending in \"son"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "\""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nNo exceptions."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 23
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Oh.
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Impressive. You're just a kitten."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk41:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "\"Builds team unity,\" he says.\n\n\nAnyway...\n\n\nYou got some stuff to do, right?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nShould get going, then."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hello.
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Don't worry about it."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Anyway..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 13
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk42:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "No time like the present, right?\nI should be getting on my way...\n\nIf you'd like, you should come to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Akkala region
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and say hello.\n\nWell... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Take care of yourself.
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm in the middle of moving here."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " \nCome talk when the work dies down."
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Looks like I've gotta head out and leave\nthis place soon."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk43:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm off to my usual night spot."
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I've been transferred."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 14
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk44:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm on lookout."
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Mighta heard, but Bolson Construction\nis planning to expand big-time."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 15
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk45:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: How goes it?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " How's the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: boss
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\nDoing well, I hope?"
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yeah, big expansion."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 16
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk46:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Pretty sure that belongs to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nBetter hurry up and take it back there."
+  "0010":
+    - text: Uh...come again?
+  "0011":
+    - text: Good.
+  "0012":
+    - text: Yeah.
+  "0013":
+    - text: What?
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm a carpenter for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Bolson Construction
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Name's Hudson."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  "0014":
+    - text: Transferred...
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm knocking this place down."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5: 2
+            field_6:
+              - 0
+              - 3
+  "0015":
+    - text: "That's great!"
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That's right. It's tough."
+  "0016":
+    - text: Where will you go?
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "'Cause no one's living here."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Zora's Domain is north of here."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWe're going north of that, though.\nAn area called the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Akkala region
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 17
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  "0017":
+    - text: "That's pretty far."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Can't help you. Ask the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: boss
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Yeah...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: well.
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 18
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  "0018":
+    - text: Good luck!
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: The owner of this house took off.
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 7
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: OK then.
+  near00:
+    - text: Yo!
+  "0019":
+    - text: Right.
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Don't know."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Maybe skipped town without\npaying the bills?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  near01:
+    - text: Ho!
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Answered all your questions?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: By the way...
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 13
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  near02:
+    - text: Hmph!
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Good.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " A lot has happened since the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Tough to keep track of\nit all."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 19
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Are you gonna buy that house?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 12
+            field_3: 2
+            field_4:
+              - 0
+              - 1

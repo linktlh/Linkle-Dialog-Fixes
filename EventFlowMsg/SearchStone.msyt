@@ -1,0 +1,926 @@
+---
+entries:
+  Npc_SouthernVillage014_R_006:
+    - text: "This stone monument was once much\nlarger, but it broke apart during an\nearthquake a while back."
+  Npc_SouthernVillage014_R_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you really want to help, help me find\nthe missing fragments, will you? They'll\nbe scattered all around.\nI think the fragments had the same kind\nof script carved into them..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\nIf you find a fragment, please draw a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: picture
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of it and bring it to me.\n\nI'll be here finishing my examination of\nthis stone monument!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Oh, right."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "And the words on the stone monument\nglow with an eerie light at night..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\nThat should make them easier to find."
+  Npc_SouthernVillage014_S1_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "...No luck?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "It may be possible that the ocean carried\na fragment all the way to Cape Cresia or\nSoka Point."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
+  Npc_SouthernVillage014_R_008:
+    - text: "Ah, it's you. Did you need something?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_SouthernVillage014_R_009:
+    - text: "This place has a very...spiritual aura to it.\nDo you feel it?"
+  Npc_SouthernVillage014_S1_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Wow!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Thanks to you, I've deciphered the\nentire passage!"
+  Npc_SouthernVillage014_S1_012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "\"When the two find their place and kneel\nin reverence, the shrine will reveal\nitself.\"\n."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: Ah!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: I...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "haven't the foggiest what that's\nsupposed to mean."
+  Npc_SouthernVillage014_S1_013:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 19
+              - 205
+    - text: Huh?!
+  Npc_SouthernVillage014_S1_001:
+    - text: "Did you find any fragments of the\nstone monument?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Npc_SouthernVillage014_F_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "\"When the two find their place and kneel\nin reverence, the shrine will reveal\nitself.\"\n...Ah!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "haven't the foggiest what that's\nsupposed to mean."
+  Npc_SouthernVillage014_S1_014:
+    - text: "...Is that it?!"
+  "0000":
+    - text: What are you doing?
+  Npc_SouthernVillage014_S1_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 12
+    - text: "Yeah, they're kind of hard to spot..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "But the letters on the stone glow with an\neerie light at night..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You might want to try searching for them\nafter the sun's gone down.\n\nIf you find a fragment, please draw a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: picture
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of it and show it to me."
+  Npc_SouthernVillage014_S1_015:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: So you found some fragments!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Sorry, but could you draw a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: picture
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " so I\ncan see what was engraved on the\nfragments?"
+  "0001":
+    - text: "I don't need anything."
+  Npc_SouthernVillage014_S1_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Excellent. Thanks to you, I've got a good\nshot at deciphering the entire monument.\n\nGive me a second to see if I can put this\nall together..."
+  Npc_SouthernVillage014_S1_016:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Amazing! Show me the next one!
+  "0002":
+    - text: Can I help?
+  Npc_SouthernVillage014_S1_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Some of the fragments must still be missing.
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, keep looking."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I suppose the waves may have washed some away\nor pulled them underwater..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
+  Npc_SouthernVillage014_S1_017:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 9
+    - text: "Perfect! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: You have more?!
+  Npc_SouthernVillage014_R_Near_001:
+    - text: Hmm...
+  "0003":
+    - text: Good-bye.
+  Npc_SouthernVillage014_S1_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Some of the fragments must still be missing...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, keep looking."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I imagine a fragment may have rolled down to the\nbeach nearby."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
+  Npc_SouthernVillage014_S1_018:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "No new findings?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I suppose one may have rolled away to the nearby\nbeach..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
+  "0004":
+    - text: I sure did.
+  Npc_SouthernVillage014_S1_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I didn't expect any of the fragments to be washed\nTHAT far away. But some of the fragments must still\nbe missing..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, keep looking."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I imagine a fragment may have rolled down to the\nbeach nearby."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
+  Npc_SouthernVillage014_S1_019:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "...No luck?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I suppose the waves could have carried some away\nor pulled them underwater..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
+  "0005":
+    - text: Still looking.
+  Npc_SouthernVillage014_S1_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Some of the fragments must still be missing...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, keep looking."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I wonder if the currents are strong enough to have\ncarried a fragment all the way to Cape Cresia\nor Soka Point..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
+  Npc_SouthernVillage014_R_010:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "I recently realized that there is writing\nengraved on this stone monument...\n\nSo now I'm trying to figure out what\nexactly is written here."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Npc_SouthernVillage014_R_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "One of them should be right around\nhere."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Please find that first!"
+  Npc_SouthernVillage014_S1_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Some of the fragments must still be missing...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, keep looking."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I imagine a fragment may have rolled down to the\nbeach nearby."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
+  Npc_SouthernVillage014_S1_009:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Some of the fragments must still be missing.
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, keep looking."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I suppose the waves may have washed some of\nthem away or pulled them underwater..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nThe letters on the stone glow with an\neerie light at night, so you might want\nto try looking then."
+  Npc_SouthernVillage014_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: Hmmm...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Npc_SouthernVillage014_R_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: Ahhh!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Sorry about that. I was in the zone.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nDid you need something?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_SouthernVillage014_R_003:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "I was just examining this stone\nmonument."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Npc_SouthernVillage014_R_004:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Typical...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_SouthernVillage014_R_005:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 23
+              - 205
+    - text: "Ah, so you're the curious type, too."

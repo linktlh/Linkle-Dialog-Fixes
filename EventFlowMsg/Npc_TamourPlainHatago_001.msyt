@@ -1,0 +1,576 @@
+---
+entries:
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 42
+    - text: No...
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 0
+    - text: "That outfit... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Please don't."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 20
+    - text: "Argh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Please...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "get off that horse!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "*ahem* "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm sorry."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm just worried you'll\nscare the sheep."
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I wonder if it's gonna rain all day..."
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: This rain... My poor sheep...
+  "0000":
+    - text: Yes.
+  talk20:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "*inhale* "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "*exhale*"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Hi. I'm Kaifa.\n\n\nI'm the eldest daughter."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAnd..."
+  "0002":
+    - text: What is this place?
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "I'm..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm sorry."
+  "0003":
+    - text: Who are you?
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Be careful out there.
+  "0004":
+    - text: Nothing...
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "You'll scare the sheep,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so please stop\nriding your horse around here!"
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "We should probably do that, too..."
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "It seems the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Akkala Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " up north"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nis hiring soldiers for protection because\nof the rumors about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Kilton
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0006":
+    - text: Someone suspicious?
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Do you need something?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 6
+            field_4: 3
+            field_5: 4
+            field_6:
+              - 0
+              - 3
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Other than Father, it's just women here."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI don't feel as secure as I'd like to..."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Good morning.
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Again...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Do you need anything else?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 6
+            field_4: 3
+            field_5: 4
+            field_6:
+              - 0
+              - 3
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Good day.
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: Bye.
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "There's a rumor that a suspicious person\nnamed "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Kilton
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " appears at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Skull Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\njust north of here."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Good evening.
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "Me?!\n\n\nYou can't just ask me out of the blue\nlike that..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm not mentally prepared\nfor this!"
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Lately a suspicious person named\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Kilton
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " has been showing up in\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: various regions across the land
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 19
+    - text: Ah...
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: South Akkala Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "What depressing weather we're having,\nand so early in the day..."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: Umm...
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "People usually say stuff like,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\"Isn't this more of a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sheep stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthan a horse stable?\"\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "I may be bad at raising horses,\nbut I can't help the fact that we've\nhad a lot of sheep births here!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "Who cares anyway? What's so wrong\nabout that?!\n\n...\n\n\n...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 19
+    - text: "*ahem* "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm sorry.\n\n\nIt seems I've done it again..."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "You're a customer..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: right?
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I really don't care if you start calling this\nplace the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Akkala Sheep Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Really.\nSee. If. I. Care."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "OK, good."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "They say he's the owner of something\ncalled the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It only\nappears at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: night
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", or so they say."

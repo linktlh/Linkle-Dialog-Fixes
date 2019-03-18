@@ -1,0 +1,60 @@
+---
+entries:
+  TerrorArrow:
+    - text: "What's your problem?!"
+  Challenge000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: Excuse me.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI fear I may have gotten carried away.\nNostalgia will do that to a person."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  TerrorFire:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorSword:
+    - text: Knock it off!
+  TerrorExplosion:
+    - text: WHOOOOA!
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "That was...stupendous. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I suppose I\nshould have expected nothing less."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: No doubt I shall see you again.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nMay the light illuminate your path."

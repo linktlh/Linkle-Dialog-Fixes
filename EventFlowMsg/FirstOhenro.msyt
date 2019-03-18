@@ -1,0 +1,626 @@
+---
+entries:
+  Npc_Kokiri009_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Waaaah?!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "What are you doing, sneaking up on me\nlike that? You scared me!\n\nLeave me be, OK? I'm gonna do the"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " trial"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nall on my own! I've made up my mind!"
+  Npc_Kokiri001_S1_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh! How's the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: trial
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\nRemember not to get caught by Oaki!"
+  Npc_Kokiri009_S1_Near006_01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Oooh, pretty flowers!"
+  Npc_Kokiri009_S1_Near008:
+    - text: AHH! A ghost!
+  Npc_Kokiri001_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh! You! You're Ms. Hero, right?\nYou're gonna do the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Korok Trial
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nyes, yes?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_Kokiri009_R_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Hogeez!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: I... I told you to stop scaring me!
+  Npc_Kokiri001_S1_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Oooh, Oaki saw you, huh?\nOaki can get a little nervous or antsy\nsometimes, that's for sure...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Luckily, Oaki is planning on going to do\nthe trial again,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so you've got another\nchance to stealthily follow.\nThat's OK, right? It's OK? Good!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm counting on you!"
+  Npc_Kokiri009_S1_Near006_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 1
+              - 205
+    - text: Halfway there!
+  Npc_Kokiri009_S1_Near009:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: Oh. It was just a shadow...
+  Npc_Kokiri001_R_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: I knew it!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'd like to ask you a favor, then!"
+  Npc_Kokiri001_S1_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ahh, are you OK? It seems like you got\nturned around and lost in the woods.\n\nI was actually a bit surprised when Oaki\nbrought you back!\n\nAnyway, Oaki is going to head out alone\nagain. I was thinking you could try\nfollowing one more time...\nThat's OK, right? It's OK? Good!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm counting on you!"
+  Npc_Kokiri001_R_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "My little Oaki just now set off to do the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Korok Trial
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\nNormally I'd go along, too, but Oaki\ninsisted on going alone. I let Oaki go,\nbut...well, I'm just getting worried!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: "Could you please follow Oaki without\nbeing seen? I want to be sure nothing\nbad happens..."
+  Npc_Kokiri009_S1_Near010_01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 40
+              - 205
+    - text: "This isn't so bad..."
+  Npc_Kokiri001_S1_004:
+    - text: "Oh! How goes the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: trial
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Npc_Kokiri001_R_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh! I was wrong?\nSo, so sorry."
+  Npc_Kokiri001_R_Near:
+    - text: Going alone? I dunno...
+  Npc_Kokiri009_S1_Near010_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "I'm not scared one bit."
+  Npc_Kokiri001_S1_005:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: What?! You lost sight of him?!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Oaki might have gotten lost...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'll be\nright back. I've got to go check on him!"
+  Npc_Kokiri001_R_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, the girl from before!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nDid you change your mind? Do you\nwant to do the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Korok Trial "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: after all?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Npc_Kokiri001_S1_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 18
+    - text: "*sigh*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " The sound of the wind had him so\nscared, he couldn't move a muscle."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nPoor kid...\nOaki's talking about trying again,\nthough... I'd be really happy if you could\ngo with him again, too!\nThat's OK, right?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I knew it would be."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThank you so much!"
+  Npc_Kokiri001_R_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yay, that's neat to hear! And since you're\ngoing to, I'd also like to ask you a favor!"
+  Npc_Kokiri001_S1_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Make sure Oaki doesn't see you"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", OK?"
+  Npc_Kokiri001_R_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, I was wrong again!\nSorry, sorry!"
+  Npc_Kokiri009_S1_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: KYAAH! A ghost!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "...Wait, you're not a ghost!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWere you following me? I said I could do\nthis by myself!\nUgh, and now I'm not by myself...\nI'll have to do it all over again."
+  "0000":
+    - text: Sure.
+  "0001":
+    - text: Not right now.
+  "0002":
+    - text: "I'll do it."
+  Npc_Kokiri009_R_Near:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "I'm not scared. I'm not..."
+  "0003":
+    - text: "I still don't want to."
+  Npc_Kokiri009_S1_Near011:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 30
+              - 205
+    - text: "OK... I'm a little bit scared."
+  "0004":
+    - text: "Good, so far."
+  Npc_Kokiri009_S1_Near012:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - text: "I'm almost there!"
+  "0005":
+    - text: I lost sight of him...
+  Npc_Kokiri009_S1_Near013:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Aha! There's the shrine!"
+  Npc_Kokiri009_F1_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Yay! I made it! I finished\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: trial
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_Kokiri009_S1_Near001:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: The trial is this way...right?
+  Npc_Kokiri009_S1_Near014:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Woo! I've finally made it!"
+  Npc_Kokiri009_F1_002:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Wha? Who's there?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHey!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Are you that hero girl?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou know—Ms. Hero?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Guess what, Ms. Hero!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI did the trial all by myself!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAren't I brave?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 19
+    - text: "Oh, yeah! You're probably here for the\nshrine.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "The Great Deku Tree said that the monk's\nblessing is waiting in the shrine ahead!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWhy don't you go take a look?"
+  Npc_Kokiri009_S1_Near002:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 18
+              - 205
+    - text: What was that?
+  Npc_Kokiri009_S1_Near003:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 40
+              - 205
+    - text: Everything is A-OK!
+  Npc_Kokiri009_S1_Near004:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: I remember this tree!
+  Npc_Kokiri009_S1_Near005:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - text: This is the right way...
+  Npc_Kokiri009_S1_Near007:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 42
+              - 205
+    - text: Is... Is someone there?

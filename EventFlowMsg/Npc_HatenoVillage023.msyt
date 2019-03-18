@@ -1,0 +1,637 @@
+---
+entries:
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "I've got an early mornin' again tomorrow,\nso I'm gonna just head home now..."
+  talk08:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "*mumble*..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk09:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Zzz... Zzz...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0000":
+    - text: "That's right."
+  "0001":
+    - text: No.
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "And now how could an old lady like me\nhelp you out there?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5: 2
+            field_6:
+              - 0
+              - 3
+  "0002":
+    - text: Good-bye.
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", yes...\n\n\nI didn't come along until everything was\nalready over..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I was born during the\nAge of Burning Fields.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "By the time I was old enough to be aware\nof it, the plants around Hateno Village\nwere budding..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " We were self-sufficient.\nEven so, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Castle\nTown"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " remain a home ground for the\nforces of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to this very day...\nThose who are older than I might know\nmore about it..."
+  "0003":
+    - text: Peaceful?
+  talk22:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Hyrule Castle "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "was the governing center\nof Hyrule, home to the king and the\nbeautiful princess.\nBrave souls from nearby villages would\nall set their sights there, do great deeds,\nand return home draped in glory.\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", once strong and proud,\nwas corrupted by the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "and it's\nstill in that state today."
+  "0004":
+    - text: The Calamity?
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "They say that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Castle Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " was once a\ncenter both for commerce and\nknowledge. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "That reminds me...\nDo you have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: map
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n\nYou should be able to see the ruins of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Castle Town "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in the center of your map.\n\nJust looking at those ruins now...it really\ngives you an idea of the destruction\nthat went on there."
+  "0005":
+    - text: Hyrule Castle?
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: Are you some sorta traveler?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 3
+    - text: "Oh, how unusual.\n\n\nThat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "blue flame "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "undoubtedly belongs to\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  "0006":
+    - text: Castle Town?
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yes, good-bye."
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "...Which reminds me,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I haven't seen the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "director "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "around here lately. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I hope\neverything's all right..."
+  "0007":
+    - text: Er...
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 3
+    - text: "Oh, my, how unusual...\n\n\nI thought that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " was only ever\nwielded by Purah..."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Oh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You must have moved here pretty\nrecently then, hm?"
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Unfortunate weather we're having today,\nisn't it?"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "...Which reminds me, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I haven't seen\nPurah around here lately.\n\nI hope she's all right..."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "Well, I'll be..."
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "Huh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: You need that?
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 7
+            field_3:
+              - 1
+              - 205
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yes, good mornin' indeed."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The village has grown to be quite a lively\nplace. I suppose that's on account of\nthings bein' so peaceful in general. "
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Take it.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'll explain to the villagers.\nYou eat your fill."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yes, good day, indeed."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, dear. You must be in a hurry..."
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Did you wanna hear about anything else?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5: 2
+            field_6:
+              - 0
+              - 3
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yes, good evenin', indeed."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Oh, yes... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "When I was a child, this\nwhole region wasn't in a state fit to be\nsown, much less harvested.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Castle Town "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "had\nbeen destroyed, and all the lovely folks\nthere fell victim to...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Well...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "back in bygone days, we called it\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nBut words often fall meaningless when\nwe try to describe tragic events of\na certain magnitude..."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Now then... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I suppose I should start\ngetting ready for bed."
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yes, yes, you are a traveler, are you not?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "It's time for everyone to head home."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yes, yes..."

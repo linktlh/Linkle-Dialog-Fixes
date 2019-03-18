@@ -1,0 +1,18 @@
+---
+entries:
+  Relic_Contact_001:
+    - text: "The Divine Beast is taking aim at\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in Hyrule Castle...\nIt's too dangerous to go near."
+  Ichigeki_Escape_Air_001:
+    - text: A voice calls to you...

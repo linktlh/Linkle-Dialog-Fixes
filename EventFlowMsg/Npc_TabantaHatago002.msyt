@@ -1,0 +1,97 @@
+---
+entries:
+  talk_0001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Ugh, why do some people equate the\nunnecessary pursuit of power with\nsome childish dream of adventure?\nThat sword may be good for slaying\nmonsters, sure, but it's not like a\nsword alone makes a heroine. Ya know?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: I love adventure...
+  talk_0002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Huh?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Oh, I guess you did venture all the\nway out to a stable in the mountains,\ndidn't you..."
+  "0001":
+    - text: I guess.
+  talk_0003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: sword that seals the darkness
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nor whatever it's called really exists...\n\nI hope a kind swordsman like you will be\nthe one to wield it."
+  talk_5000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I overheard what you and Danton were\ntalking about.\n\nI can't do much to help, but...I'll keep\nthis stable clean and tidy, so please\ncome rest here when you need to."
+  talk_1000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I've got to clean while it's still dark...\nMust clean..."
+  talk_2000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Welcome to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Snowfield Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If you're planning to head deeper into\nthe snow, I recommend resting in one\nof our soft beds first."

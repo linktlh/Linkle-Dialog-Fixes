@@ -1,0 +1,133 @@
+---
+entries:
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "You'll get wet standing around outside."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nPlease, use the stable for shelter."
+  Near01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 1
+              - 205
+    - text: Dinnertime!
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 18
+    - text: "Can't use the cooking pot in this rain..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWhy not stay the night?"
+  Near02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: Eat up now.
+  Near_Sleep00:
+    - text: Zzz... Zzz...
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 18
+    - text: Huh?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It's late. We can talk later."
+  Near_Sleep01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 32
+              - 205
+    - text: I overslept...
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Veggies are good for you, and they're\nvery yummy."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Mmm..."
+  Near_RunRain00:
+    - text: "Don't want to..."
+  Near_RunRain01:
+    - text: "Rain, hm..."
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Would you like to use the cooking pot?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: Cooking pot?
+  "0001":
+    - text: "I'll pass."
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "We don't serve food at the stable."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nPlease, use this cooking pot."
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Talk to our master Embry if you have\nneeds, "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "and ask the apprentice Trott if\nyou need directions."
+  Near00:
+    - text: All right now...

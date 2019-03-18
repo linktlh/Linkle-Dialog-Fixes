@@ -1,0 +1,185 @@
+---
+entries:
+  "0003":
+    - text: Next page.
+  "0004":
+    - text: Previous page.
+  Obj_DiaryIceVillage011_A_01_030:
+    - text: "I've left a few things behind on the\nmountain trails and at the base of the\nflags planted.\nIf you're in trouble, spot a flag and head\ntoward it. Hopefully these items will be\nof use to you!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  "0005":
+    - text: Stop reading.
+  Obj_DiaryIceVillage011_A_01_060:
+    - text: "Selmie, thanks for the food that was left\nhere. It seriously saved my life. I'll be\nsure to leave some for the next person.\nTo whoever is reading this, please take\nas much of the food as you need."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 1
+              - 1
+  Obj_DiaryIceVillage011_A_01_010:
+    - text: "Whether you've come to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hebra Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nto shield surf the slopes, hunt treasure,\nor just take a walk, you must remember...\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: This. Mountain. Will. Kill. You!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "The accident rate on this mountain is too\nhigh to measure!\n\nAnd before anything else, you must\ndress appropriately for the weather here,\nnot like you're heading to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Field
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  Obj_DiaryIceVillage011_A_01_040:
+    - text: Someone else has added notes...
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  DiaryFirst:
+    - text: "Evacuation Hut Notes\nBy Selmie, The Duchess of Downhill"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  "0000":
+    - text: First page.
+  Obj_DiaryIceVillage011_A_01_020:
+    - text: "Despite the dangers, though, this snowy\npeak really is extremely beautiful.\nAnd it's an ideal spot for shield surfing.\nI want as many people as possible to\nenjoy shield surfing, so I'll leave behind\nthis manual for survival on the mountain.\nI hope that it can help people enjoy\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hebra Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  "0001":
+    - text: Final entry.
+  Obj_DiaryIceVillage011_A_01_050:
+    - text: "Selmie! Baby! I think I'm a better shield\nsurfer! If I prove it, can we get married?\n"
+    - control:
+        one:
+          type7:
+            field_1: 2
+            field_2:
+              - 27
+              - 205
+    - text: This total loser will never win!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I didn't know what love was until I saw Selmie\nsliding down the slopes... I can't believe you\nretired... Where did you go?"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\nSelmie, thank you for leaving the food!\nI'll make good use of it here in the hut!\n\nI saw some kid north of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Coldsnap Hollow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nHe looked like he was pretty great at\nshield surfing!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  "0002":
+    - text: "Don't read."

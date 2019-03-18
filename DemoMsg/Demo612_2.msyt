@@ -1,0 +1,222 @@
+---
+entries:
+  Npc_Musician_AoC_HeroZora_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Ah! Wandering around here and listening\nto anecdotes about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Champion Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nhas truly invigorated me.\n"
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: TalkPositive_01
+    - text: "In fact, it has inspired me to honor\nher in my own way, separate from\nmy teacher's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: unfinished song
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "That is why I felt inclined to roost here,\nnear the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nwhich "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " herself mastered."
+  Npc_Musician_AoC_HeroZora_100:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 330
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1048576000
+    - text: "♪Recall the Champion "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s wrath,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 85
+    - text: "\nbefore she walked "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: her chosen path.♪
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 350
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1048576000
+    - text: ♪
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s kindness "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "was known to all,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 90
+    - text: "\nwhich is why the princess "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: came to call.♪
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Npc_Musician_AoC_HeroZora_500:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: Understand_01
+    - text: "Hmm... Though she was known for her\nkindness, it seems the Zora princess\ncould be quite strict when necessary."
+  Npc_Musician_AoC_HeroZora_001:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 110
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 28
+            string: Understand_01
+    - text: "I've written a song...to try and capture\nthe essence of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Champion Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  Npc_Musician_AoC_HeroZora_501:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So? What do you think of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Champion Mipha's Song"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\nBy writing a song that captures the\ndetermination of Champion Mipha, I feel\ncloser than ever to my dear teacher."

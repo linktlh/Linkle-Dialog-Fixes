@@ -1,0 +1,20 @@
+---
+entries:
+  QL_Shadow_Sign_Finish:
+    - text: "\"As light shines from the northwest skies,\nFrom the tower's shadow an arrow flies.\nPierce heaven's light to reveal the prize.\"\n\nWhen the light was in the northwest, I saw\nGerudo Tower cast a shadow upon a pedestal.\nAfter firing an arrow toward the light from the top\nof that pedestal, a shrine appeared!"
+  QL_Shadow_Sign_Name:
+    - text: Sign of the Shadow
+  QL_Shadow_Sign_Desc:
+    - text: "\"As light shines from the northwest skies,\nFrom the tower's shadow an arrow flies.\nPierce heaven's light to reveal the prize.\"\n\nSolving the riddle of the ancient song that\nKass sang for me at Gerudo Tower is likely\nto reveal a"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " shrine"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."

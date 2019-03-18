@@ -1,0 +1,271 @@
+---
+entries:
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "There aren't many heroes in the world\nlike you anymore. I think Sorelia and I\ncan part with this as a thank-you gift."
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: "You saved not just me but my wife, as\nwell. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "We can't spare much, but we owe\nyou this, at least."
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: "Is my wife safe, as well? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Oh, thank\nheavens. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I don't know how I'd go on\nliving without her."
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 44
+    - text: "Sorelia! Run, quickly!"
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "I can't stand constantly being driven\noff this way!"
+  Near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: "I'm saved..."
+  Near01:
+    - text: Sorelia...
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You've done what neither my wife nor\nI could have, and we're alive as a result.\nThank you."
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 43
+    - text: "Heavens... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: That was a narrow escape.
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Do you wander Hyrule keeping everyone\nsafe? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You're doing good work. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Here,\nthis is to show my appreciation."
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 43
+    - text: "Curse my weakness for letting that thing\nget the better of me..."
+  After00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "We've traveled for months in search of\na flower called the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: silent princess
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Legend has it that if you swear your love\nbefore its freshly plucked blossom, you\nand your partner will live a charmed life.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Alas, all our searching so far has been\nfor naught."
+  Meeting00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I wanted to find a still-living\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: silent princess
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", which we know\nonly through the tales."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I intended to set out on my own, but\nSorelia would have none of it and\ninsisted on coming along.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "I felt confident enough in my skill with\na blade to protect myself, but I need to\nreconsider that to keep my beloved safe."
+  Meeting02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I'm happy just to be together with you."
+  Meeting03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Sorelia... I won't allow any misfortune to\nbefall you! I swear it!"
+  PairFailed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 44
+    - text: Sorelia... Please be all right...
+  PairAtacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Sorelia! Stand fast! I'm coming to\nsave you!"
+  PairFailed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 44
+    - text: "No... This can't be happening!"
+  PairAtacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 44
+    - text: "Please help my wife! She's still in danger\nfrom those monsters!"
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "I suppose no place in Hyrule is safe\nanymore."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Not even the settlements."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "All the more reason for me to redouble\nmy training in order to help my beloved\nSorelia!"
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "It's a miracle that you stepped in to\nsave us. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Let me do this much for you.
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Run away! The Guardian is coming!

@@ -1,0 +1,732 @@
+---
+entries:
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: Oof...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Curse those monsters!"
+  RetMSG_Gerud_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "You're talking to none other than Calisa,\nlegendary treasure hunter. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Right now I\nhave my eye on the voe at this stable.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Calling any of these runts a treasure is\na stretch, though. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "When will the voe who\ncan steal my heart arrive?"
+  MSG_Gerud_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "They say there's buried chests in these\nsands. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I aim to dig them up and find out\nwhat's inside."
+  RetMSG_Gerud_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "When I get bored of treasure hunting,\nI come to this stable to check out\nthe voe.\nI'm looking for the voe who'll steal my\nheart for good..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "but it sure isn't any\nof these."
+  MSG_Gerud_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The whole town's been buzzing about\nthat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Yiga Clan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  RetMSG_Gerud_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "They say that buried in those sands\nsomewhere is a great treasure."
+  Thanks00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Here. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "If you want it, it's yours."
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 32
+    - text: "I should have stomped all over such a\nweak monster. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Where did I go wrong?
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 32
+    - text: "If I was just a few years younger, that\nmonster would rue the day it met me."
+  MSG_Gerud_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "I'm a legendary treasure hunter. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Been at\nit for 20 years..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The whole town's buzzing about that\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Yiga Clan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You heard of 'em?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If you ask me, treasure hunters are a few\ncuts above common bandits... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "But in an\nodd sense, they're my competition."
+  MSG_Gerud_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "You're looking at Calisa, legendary\ntreasure hunter. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "The treasure I'm\nafter these days is voe.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I think your word for voe is...\"man\"?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThat sounds right. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I'm after the roughest,\ntoughest voe this world has to offer!"
+  MSG_Gerud_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "If you're searching for Calisa, legendary\ntreasure hunter, then your search is over."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou're looking at her!\nI've been in the game for over 20 years."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "When I set my sights on a treasure, you\ncan be sure that I'll claim it."
+  MSG_Gerud_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I look at the voe at this stable with a\ntreasure hunter's eye. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Not much value\nin these runts, sad to say."
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: Are the monsters gone now?
+  MSG_Gerud_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "You're in the presence of the legendary\ntreasure hunter Calisa. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm chasing down\nrumors of treasure chests in the desert.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "No idea if people buried them or if the\nsands claimed them..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I care more about\ndigging them up and opening them!"
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "That could've been bad, huh? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Once was\nenough for me!"
+  MSG_Gerud_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "I'm Calisa, legendary treasure hunter."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nRight now I've got my eye on the voe\nat this stable.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I wouldn't rate any of them as treasure,\nthough... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Except maybe you.
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta!"
+  MSG_Gerud_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "The main treasure I'm after right now\nis a big, strapping voe."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I think your word for voe is...\"man\"?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nAnd not just any voe. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "The roughest,\ntoughest voe I can find!"
+  Rest_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Have you heard of Calisa, legendary\ntreasure hunter?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If not, let me inform you that you have\nthe honor of looking upon her."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I've traveled to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Kara Kara Bazaar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Canyon Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and beyond in\nsearch of desert treasures."
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq."
+  RetMSG_Gerud_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If only we had "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: sand seals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", then we\nwouldn't need to think twice about\ntraveling across these sands."
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba!"
+  Near00:
+    - text: "Where's that treasure..."
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "I don't know how, but I made it!"
+  Near01:
+    - text: Leviathan bones...
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 18
+    - text: You OK?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " No broken bones or anything?"
+  Near02:
+    - text: "In the desert, though?"
+  Near03:
+    - text: If only I had a sand seal...
+  MSG_Gerud_0100_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Now that they cracked the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Yiga Clan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\ncase, I can hunt for voe—I mean\ntreasure—without worrying about it."
+  MSG_Gerud_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I never rest until I get my hands on the\ntreasure I'm after. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I've been at this job\nfor 20 years, after all!"
+  RetMSG_Gerud_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Few travelers have seen the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "leviathan\nbones"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but keep an eye out in the desert\nand you might just get lucky!"
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Sa'oten! Why are there so many\nmonsters all over the place?!"
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "*pant pant*... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "How do I get into these\nscrapes?"
+  RetMSG_Gerud_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Any treasure, or any voe, I get my hands\non is mine forever. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Heh heh.
+  MSG_Gerud_0100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "I'm a legendary treasure hunter, and \nyou caught me in a good mood."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "They finally cracked the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Yiga Clan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " case!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nNow I can hunt for voe—I mean\ntreasure—without worrying about it."
+  RetMSG_Gerud_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: My name is Ca
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: li
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "sa! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Legendary treasure\nhunter!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "And when I find a voe who meets\nmy standards..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'll lock him in my vault,\nheh heh."
+  RetMSG_Gerud_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "A runt like you wants to cross the \ndesert? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You have a Gerudo's daring,\nlittle one!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I like that, so I'll share a secret with you."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBuried in those sands somewhere is a\ngreat treasure."
+  RetMSG_Gerud_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Crossing the desert on foot would be\nhard even for me. With a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: sand seal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nthough, it's another story.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You have a sand seal and a shield,\nthey do all the work for you!"
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "I'm—"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm alive! Praise the gods!"
+  RetMSG_Gerud_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "How do you wring such strength, such\nendurance, out of that runty body?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Very few have ever seen the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "leviathan\nbones"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but keep an eye out in the desert\nand you might just get lucky!"

@@ -1,0 +1,330 @@
+---
+entries:
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Did you get wet out in the rain?
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Only Stalkoblins have reason to be up\nthis late, traveler."
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Thanks for stopping by.
+  "0002":
+    - text: Until morning.
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "This is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Swallow's Roost"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", Rito Village's\npremiere—and only—inn."
+  "0003":
+    - text: Until noon.
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: All right. I will wake you come morning.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nSweet dreams."
+  "0004":
+    - text: Until night.
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: All right. I will wake you up at noon.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nPleasant dreams."
+  "0005":
+    - text: "Actually, never mind."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: All right. I will wake you come nighttime.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nRest up until then."
+  "0006":
+    - text: Standard bed.
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Good morning!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Did you sleep well on the\nRito-down bed?"
+  "0007":
+    - text: Rito-down bed.
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "A standard bed will run you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nA Rito-down bed will cost you\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 80 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 6
+            field_3: 7
+            field_4: 8
+            field_5: 5
+            field_6:
+              - 0
+              - 3
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: How was the Rito-down bed?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nFeeling fully rested?"
+  near00:
+    - text: Welcome!
+  "0008":
+    - text: Rito-down bed?
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: All right.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nStop by again whenever you are feeling\ntired."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Night has already fallen,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " though I do not\nblame you for sleeping in.\nThat Rito-down bed is hard to beat."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 8
+    - text: Hmm?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Looks like you are short on\nrupees.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Come back after you save up.
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: How late would you like to sleep?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5: 5
+            field_6:
+              - 0
+              - 3
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The Rito-down bed is made using only\ngenuine Rito feathers.\n\nI will warn you—"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "sleep a night on this\nbed,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " and you will never want to sleep on\na stable bed ever again!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Should you not wake up full of energy in\nthe morning,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'll eat my own tailfeathers!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nGUARANTEED!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: All right. Take care.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Good morning.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Hope you slept well."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Hello.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " The sun has been up for quite\nsome time."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Did you sleep well?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou must have a reason to get up in the\nmiddle of the night like this..."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It must have been tough braving this\nweather."

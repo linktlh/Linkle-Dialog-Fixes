@@ -1,0 +1,100 @@
+---
+entries:
+  Appear05:
+    - text: Do you understand?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Where two lines\nconnecting the shrines would cross..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThere..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: I will...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: be waiting...
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 60
+  Appear01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "With this, you have now acquired all of\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Spirit Orbs "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "from the shrines on\nthis plateau."
+  Appear02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho! Extraordinary!
+  Appear03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "That means...it is finally time.\n\n\nLinkle, it is finally time for me to\ntell you everything. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: But first...
+  Appear04:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - text: "Imagine an X on your map, with the four\nshrines as the end points. Find the spot\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: where those lines intersect
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI shall wait for you there."

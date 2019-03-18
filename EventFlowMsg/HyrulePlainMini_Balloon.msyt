@@ -1,0 +1,519 @@
+---
+entries:
+  Talk_0006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "The weather's so bad you can't even\nsee the sky!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Hey, listen to me, miss!"
+  Talk_0007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: Thank you!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Now put some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: balloons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "onto\na barrel"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: and make it float up high!
+  Talk_0009:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You brought me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: balloons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: in this rain?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhat a nice girl!"
+  Talk_0010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Yaaaaay!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You brought me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: balloons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "What a girl!\n\nYou should tie those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: balloons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on to that\nbarrel and make it soar into the sky!"
+  "0000":
+    - text: Leave it to me.
+  "0001":
+    - text: No.
+  Talk_0012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "I want to visit the land in the sky by\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: balloon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Then, I'm going to ride a really\nbig bird. Yep, that's my dream!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Thank you, miss!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " This is a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: treasure
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfrom the sky! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Here, take it!"
+  Talk_0000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Zzz...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: zzz...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Balloons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... Floaty, floaty..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nZzz..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: zzz...
+  Talk_0013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Floaty!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Balloons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " soaring high in the sky!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nFly up and away to the land in the\nclouds!"
+  Talk_0001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You brought me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: balloons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " even though\nthe weather is bad?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\nI wonder if the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "balloons "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "will break\nthrough the clouds and soar in the\nclear skies."
+  Talk_0014:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Aww... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "You've popped the"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " balloon "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "of my\ndreams."
+  Talk_0002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "Good kid,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " good kid!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Goes to bed early!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt's already sleepy time."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\nSee you tomorrow!"
+  Talk_0003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: Good kid!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Good kid!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Gets up early!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI have a favor to ask you! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Come with me!
+  Near_00:
+    - text: Balloons. Floaty balloons.
+  Talk_0004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "I sometimes see it in my dreams. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nDo you think that a long time ago people\nused to live in the sky?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I think so..."
+  Near_01:
+    - text: In the sky...
+  Talk_0005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Hey, Miss!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Just once in my life, I want\nto see "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: balloons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " float right up into the\nsky!\nIf you'll help me realize my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: balloon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\ndream,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'll give you a treasure I got\nfrom the sky as thanks!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_0018:
+    - text: The barrel is quite heavy!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " If you don't\nhave at least a few "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: balloons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", it might be\nhard to make it soar into the sky..."

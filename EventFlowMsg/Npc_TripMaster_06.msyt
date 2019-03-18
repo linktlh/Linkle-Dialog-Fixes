@@ -1,0 +1,69 @@
+---
+entries:
+  talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 20
+    - text: Oooooooooh! We meet again!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "We must have been married in our past\nlives!"
+  TerrorArrow:
+    - text: Please stop!
+  TerrorLightning:
+    - text: AHHH!
+  TerrorBomb:
+    - text: WHOA NOW!
+  TerrorGuardian:
+    - text: Hyeeeeeeehh!
+  TerrorHorse:
+    - text: Whoa!
+  ClearTerrorEnemy:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: Phew...
+  TerrorInsect:
+    - text: NOT BEES! AHHHH!
+  TerrorFire:
+    - text: "I don't like fire!"
+  TerrorExplosion:
+    - text: Haaaaeeeeee!
+  TerrorEnemy:
+    - text: Eeeeeeeeek!
+  TerrorSword:
+    - text: Owww!
+  TerrorAnimal:
+    - text: Get back!
+  ClearTerrorGuardian:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: That was scary...
+  Near:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: Good goods here!
+  TerrorImpulse:
+    - text: Ohhh!

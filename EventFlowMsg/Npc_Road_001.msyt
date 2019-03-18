@@ -1,0 +1,1417 @@
+---
+entries:
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Owww... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Even I can't handle a monster\nattack of such ferocity by myself!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIf only you'd fought beside me..."
+  Com_Talk_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "For starters, why don't you show me\nwhat you have?"
+  MSG_Bado_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm on patrol, keeping the watch!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nMonsters abound, so watch yourself!"
+  Com_Talk_01:
+    - text: You want to sell that?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHow does "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: for it sound?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: My thanks!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Is there anything else you\nwant to sell?"
+  RetMSG_Bado_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "They say legendary weapons sleep in the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: remains of Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but it's far too\ndangerous, so don't be tempted!"
+  Com_Talk_04:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - text: Oh...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Very well."
+  Com_Talk_10:
+    - text: You want to buy that?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  Com_Talk_05:
+    - text: "I'll buy anything!"
+  Com_Talk_11:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Naught to fear if you have the right gear!\n"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "That's an excellent purchase."
+  Com_Talk_06:
+    - text: Anything catch your eye?
+  Com_Talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: I apologize for only having arrows.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBut arrows are something that you can\nnever have too many of, am I right?"
+  Com_Talk_02b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "Very well, thanks!"
+  Com_Talk_07:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "Sorry, I'm out of that right now."
+  Com_Talk_13:
+    - text: "Willing to part with it, huh?\nHow many are you selling? "
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5500
+            field_3: 5508
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  Com_Talk_02c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: My thanks!
+  Com_Talk_08:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "You don't have enough rupees."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " \nSo I'd advise stopping shopping."
+  Com_Talk_20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "I'm amazed you're out adventuring in\nthis weather."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " To reward your fortitude,\nI'll throw in extra arrows today!"
+  Com_Talk_14:
+    - text: "OK, "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " of them. Got it.\nHow does "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " sound?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_02d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: Thanks!
+  Com_Talk_09:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "You don't have enough room, I'm afraid."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou should sell or toss some stuff."
+  Com_Talk_15:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "I can't buy that from you."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Sorry..."
+  Thanks00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Well...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I guess a token of my gratitude\nwould be appropriate."
+  Com_Talk_16:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "Now that's just weird. I'm not buying\nyour gear while you're still wearing it."
+  MSG_Bado_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Normally, few animals make their home\naround Satori Mountain, just ahead...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "But they say an appearance by the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lord of the Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " calls to the souls\nof the animals and makes them gather."
+  Com_Talk_30:
+    - text: "OK, "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " of them. Got it.\nHow does "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " sound?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  Com_Talk_31:
+    - text: "Got your eye on that, huh?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHow many do you need?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5502
+            field_3: 5507
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "So it's to be violence, then. Very well."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " \nA watchman of my caliber won't fall to \nthe likes of these louts."
+  Com_Talk_33:
+    - text: Just one?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Curse your dark hearts, monsters!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " \nYou think me an easy mark?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI am a watchman, and I do not flee!"
+  Com_Talk_34:
+    - text: All my stock?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That's a total of "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: ",\nso it'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  MSG_Bado_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "A long time ago, there used to be an\narena for combat nearby,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but it's fallen\nto ruin and is a home for foul monsters."
+  Com_Talk_35:
+    - text: "So, "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " of them?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " All right, then.\nI'll buy them for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_36:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "And that's the last of those."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThanks for your largesse!"
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: You handle yourself rather well.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYou're not quite as adept as a seasoned\nwatchman like me, but really, who is?"
+  Com_Talk_05b:
+    - text: "There's nothing I won't buy!"
+  Com_Talk_11b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: Use it well!
+  Com_Talk_37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "I'm all out of arrows for today."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWant to see the arrows I'm planning to\nrestock later?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  RetMSG_Bado_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you want to keep traveling, you'd best\nprepare weapons and equipment"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so\nyou can defend yourself!"
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Say, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: on an entirely different topic...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI've recently begun selling adventuring\ngear as I travel."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nDoing work as a watchman certainly\nfills my soul, but not my pockets..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "I was just taking an observer role to see\nhow the situation would play out,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " but\nyou seem to have handled it fairly well."
+  Com_Talk_05c:
+    - text: Care to sell something?
+  Com_Talk_11c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "I know you'll make good use of it!"
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Need anything else?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Com_Talk_05d:
+    - text: Anything you wish to sell?
+  Com_Talk_11d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "You're an exceptional shopper."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nOr maybe I'm an exceptional seller?"
+  Rest_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "You're not a watchman like me, are you?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nYet I fear we both have the stink of long\ntravel upon us. We are fragrant."
+  RetMSG_Bado_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Monsters of great strength lie in wait on\nthe road to the desert."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If you insist on\ngoing, you'll have to protect yourself."
+  Rest_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Rain obstructs one's view and steals\none's concentration."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If you aren't familiar\nwith the area, it's dangerous to wander!"
+  Talk01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: You can really never be too prepared.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIf you need proper gear for adventuring, \nyou've come to the right fellow!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  "5500":
+    - text: Yes.
+  MSG_Bado_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "...Who, me?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " What am I doing, you ask?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm on patrol, keeping the watch!\nI am a watchman!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThis southwest corner of Hyrule Field is\nawash in monsters and suspicious types, "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nso you've got to tread carefully!"
+  Rest_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Rain obstructs one's view and steals\none's concentration."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Why don't you take\nshelter from the rain here, too?"
+  Com_Talk_56:
+    - text: Just one?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThat OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  "5501":
+    - text: No.
+  MSG_Bado_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "A long time ago, there used to be an\narena for combat nearby,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but it's fallen\nto ruin and is a home for foul monsters.\nI suppose you could say"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " it still IS an\narena for combat, but more the life-or-\ndeath-against-monsters variety."
+  "0000":
+    - text: "Maybe I'll buy."
+  "5502":
+    - text: "I'll buy, sure."
+  MSG_Bado_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Say...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Have you heard tell of the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lord of the Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\nThey say he appears on Satori Mountain,\nnorthwest of here..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "but what is he?\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lord of the Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  RetMSG_Bado_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Hey, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "it's dangerous to travel alone!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nMonsters of great strength haunt the\nway to the desert.\nIf you insist on going, make sure you\nhave proper weapons equipped"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so you\ncan protect yourself."
+  "0001":
+    - text: "Maybe I'll sell."
+  "5503":
+    - text: Never mind.
+  MSG_Bado_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "They say the north side of the stable is\nrelatively safe,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but even so, I won't shirk\nmy patrol duties! I am a watchman!"
+  RetMSG_Bado_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "On the other side of those rocky\nmountains to the east"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " are the ancient\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Coliseum Ruins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "It's a fell place, teeming with monsters."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nOnly scavengers hunting for weapons\ndare to go near the ruins."
+  "0002":
+    - text: Good-bye.
+  Near00:
+    - text: "Now, back to my patrol..."
+  MSG_Bado_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lord of the Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is said to\nmake Satori Mountain its home... \nThat's just ahead, before Hyrule Ridge.\nAnimals rarely appear there, but..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "they\nsay if this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: lord
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " appears, the animals will\nheed its call and gather.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: But just what in the world could it be?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhat is this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: lord
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " creature?!"
+  RetMSG_Bado_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You can see the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: remains of Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfrom the cliff in front of the stable, right?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThey say legendary weapons sleep there.\nAnd not just one or two, either..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut do not be tempted!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It's far too\ndangerous to approach, so stay away!"
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Let's..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Let's just keep this \"rescue\"\nbetween us, shall we? Yes, let's do.\n"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I am a watchman, after all..."
+  Near01:
+    - text: A watchman watches...
+  RetMSG_Bado_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Ever since that earthquake when the\ntowers appeared,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " doesn't it seem like\nmonsters roam in greater numbers?\nIf you want to keep traveling, you'd do\nwell to load up on weapons and gear"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so\nyou can defend yourself!"
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "It's..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's not as though I've started\nfearing monsters or anything like that."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI am a watchman!"
+  Near02:
+    - text: Sunset pretty soon...
+  RetMSG_Bado_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "You want to go to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Rito Village
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", right?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThen just follow the road north."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHead for the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha Frontier
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nBut...if you don't want to run into any\nGuardians,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " it may be wiser to take a\ndetour to the east!"
+  Near03:
+    - text: "Ugh, night patrol..."
+  "5507":
+    - text: "I'll take 'em all!"
+  MSG_Bado_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Have you heard of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Lord of the\nMountain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's said that he appears on \nSatori Mountain, northwest of here."
+  Near04:
+    - text: RAIN!
+  "5508":
+    - text: All of them.
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 22
+    - text: "Go! Run! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Guardian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is coming!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " \nWe don't stand a chance against the\nlikes of that thing!"
+  RetMSG_Bado_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you want to go to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Rito Village
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", follow\nthe road north."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Cutting through the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha Frontier
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is the fastest route.\nBut there are a bunch of Guardians in\nthat area,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so it may be wiser to take a\ndetour to the east!"
+  RetMSG_Bado_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The ancient "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Coliseum Ruins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on the\nother side of those rocky mountains to\nthe east are alive with fell monsters."
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: In
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: explicable...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Though I nearly fell, I am\na watchman!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " And though you saved me\ntoday, I shall save you tomorrow! Maybe."
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: I...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I am a watchman! But..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "perhaps even\nwatchmen need watchers to watch over\nthem now and then..."
+  MSG_Bado_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "They say it's relatively safe, but I won't\nshirk my patrol duties!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I always watch!\nThat's what it means to be a watchman!"
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "OK! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Farewell!
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I may be a seasoned watchman, but no\none could have handled that alone!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI wish you had arrived sooner..."

@@ -1,0 +1,60 @@
+---
+entries:
+  QL_HatenoMini_LoveInsects_Desc:
+    - text: "A friend of Manny's wants more than anything\nto catch the eye of Prima, owner of the\nTon Pu Inn.\n\nAll I have to do is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ask
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " Prima what she\nloves most."
+  QL_HatenoMini_LoveInsects_Answer:
+    - text: "Prima said her dream is to have a collection of\n100 "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: restless crickets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nI should break the news to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Manny
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  QL_HatenoMini_LoveInsects_Name:
+    - text: A Gift for My Beloved
+  QL_HatenoMini_LoveInsects_Report:
+    - text: "Upon learning that Prima's dream is to have\na collection of 100 restless crickets,\nManny enlisted my help as a bug catcher.\n\nI'll start by collecting "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 10 restless crickets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and\nbringing them to Manny."
+  QL_HatenoMini_LoveInsects_Finish:
+    - text: "I delivered the 10 restless crickets to\nManny and received a reward.\n\nHe confessed that he was the one who wanted\nto catch Prima's eye. His plan now is to find the\nother 90 restless crickets on his own and\npresent them to Prima when he asks her out\non a date.\n\nIt seems I'm off the hook..."

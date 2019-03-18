@@ -1,0 +1,37 @@
+---
+entries:
+  Demo210_0_Text004:
+    - text: "As ever, I shall watch over your journey\nfrom here..."
+  Demo210_0_Text000:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: Ah. So you have finally returned.
+  Demo210_0_Text005:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Think_01
+    - text: The princess...
+  Demo210_0_Text001:
+    - text: "Your mind, body, and soul are now\nready to wield the Master Sword\nat its full potential."
+  Demo210_0_Text006:
+    - text: "I am certain Hyrule's princess is pleased\nwith your accomplishment as well..."
+  Demo210_0_Text002:
+    - control:
+        four:
+          type2:
+            field_1: 20
+            string: LaughL_01
+    - text: You never fail to impress!
+  Demo210_0_Text003:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Happy_00
+    - text: "Now you are truly one with that sword\nof yours. I must say, its sacred glow\nsuits you well."

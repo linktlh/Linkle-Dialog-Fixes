@@ -1,0 +1,24 @@
+---
+entries:
+  Npc_kokiri002_Talk000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "*yawn*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: You already solved all of the riddles...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI admit defeat..."

@@ -1,0 +1,796 @@
+---
+entries:
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Urgh... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: That monster...
+  MSG_Orud_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I came from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Desert
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", far to the\nsouthwest, on a journey to hunt for voe."
+  RetMSG_Orud_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Once I've found the voe I was born to be\nwith, I can get on with the rest of my life."
+  Thanks00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Hey... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "It would be rude of me not to\nthank you for your help. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: So thanks.
+  MSG_Orud_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The molten rocks raining down from the\nvolcano make the road from this stable\nto "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Goron City "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: a dangerous trek.
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Don't get careless."
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Those monsters...
+  MSG_Orud_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I run into voe from all sorts of races on\nthe road. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It's so thrilling to see how the\nrest of the world lives."
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: All clear?
+  MSG_Orud_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm Karsh of the Gerudo. Remember\nthat name! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I came to Eldin from the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Desert
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", far to the southwest.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I'm traveling in search of voe, but I\nhaven't found any good ones so far."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nUntil just now, heh heh."
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "I'm so tired of dealing with these\nmonsters every day."
+  MSG_Orud_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm Karsh of the Gerudo. Remember\nthat name!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I run into voe from all sorts of races\non the road. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I like the Gorons a lot. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I\nwish my hide was as tough as theirs!"
+  MSG_Orud_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm Karsh of the Gerudo. Remember\nthat name!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Only vai are allowed in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nOur laws are very strict about that."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "So the only way for us to meet strong\nvoe is to go on a journey outside the\ntown walls, like I'm doing now!"
+  RetMSG_Orud_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "I'm Karsh of the Gerudo. Remember\nthat name!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I'd love to meet a voe brave-hearted\nenough to walk the road between the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Woodland Stable "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Foothill Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I don't know if a voe like that exists,\nbut if he does, I'd be proud to walk at\nhis side. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Just the two of us...
+  RetMSG_Orud_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I can't count how many times I stopped\nmonsters from invading "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwith a single, well-placed arrow."
+  MSG_Orud_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm Karsh of the Gerudo. Remember\nthat name!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "If you go north of here to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Goron City
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nthere's a place called Goron Hot Springs \nthat's supposed to be good for your skin.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "And you'll need to take good care of\nyour skin, too, after the monsters on\nthe way tear it to ribbons!"
+  RetMSG_Orud_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm Karsh of the Gerudo. Remember\nthat name!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "It's been quite a while since I left home\nto go on this journey, but my passion\nhasn't gone down one bit.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "You know who else has endurance like\nthat? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "The Gorons. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Maybe one of them\nwould be a match for me..."
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta!"
+  MSG_Orud_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm Karsh of the Gerudo. Remember\nthat name!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "The molten rocks raining down from the\nvolcano make the road from this stable\nto "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Goron City "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "a dangerous trek.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "I'm thinking of challenging prospective\nvoe I meet to walk that road. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It's one way\nto weed out the cowards!"
+  RetMSG_Orud_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm Karsh of the Gerudo. Remember\nthat name!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "All I want is to find the voe I was born\nto be with. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It doesn't matter to me which\nrace he is.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I wouldn't turn down a voe because his\nskin was orange or his neck had gills."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThis is true love we're talking about!"
+  Rest_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "My home is in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Desert
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to the\nsouthwest of here."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " And I'm not going\nback until I've found myself a voe."
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq."
+  RetMSG_Orud_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm Karsh of the Gerudo. Remember\nthat name!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I'm just a traveler now, but there was a\ntime when I was a master archer in the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " guard.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I can't count how many times I stopped\nmonsters from invading the town with\na single, well-placed arrow."
+  Rest_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "The heat in this place is awful—even\nworse than the desert's—but at least\nit's a dry heat."
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba!"
+  RetMSG_Orud_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm Karsh of the Gerudo. Remember\nthat name!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "The only thing I wish I'd brought on my\njourney are some clothes that can\nwithstand the burning heat.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "I hear it's unbearable on the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "roads\naround the volcano"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Even worse than\nthe desert air, if that's possible!"
+  Rest_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Water should never fall from the sky!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut I admit, it's a nice excuse to strike\nup a conversation with people."
+  RetMSG_Orud_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I'd love to meet a voe brave-hearted\nenough to walk the road between the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Woodland Stable "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Foothill Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Near00:
+    - text: Where are the good voe?
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "That's the way! Never give an inch!"
+  Near01:
+    - text: Making good time...
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "They have to come at me harder than\nthat to impress me."
+  Near02:
+    - text: Where are the good voe?
+  Near03:
+    - text: Making good time...
+  Near04:
+    - text: I hate this sky water...
+  MSG_Orud_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Only vai are allowed in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", so\nI'm on a journey outside the town walls\nto meet a strong voe."
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 31
+    - text: "Oh, no. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm not tangling with a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Guardian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nTime to move!"
+  RetMSG_Orud_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "I hear the heat on the roads around the\nvolcano is unbearable. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I wish I'd thought\nto bring some cooler clothes..."
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 32
+    - text: "Sa'oten... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That was... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "*ahem* "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That was\nnothing. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm fine."
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "I really thought the sands of my life had\nrun out... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Sarqso!
+  RetMSG_Orud_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: You know who has a lot of endurance?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThe Gorons. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Maybe one of them could\nbe a match for me..."
+  MSG_Orud_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "Goron Hot Springs in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Goron City "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to the\nnorth is supposed to be good for your\nskin, but it's a dangerous trip to make."
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 12
+    - text: "I shame the Gerudo with a performance\nlike that."

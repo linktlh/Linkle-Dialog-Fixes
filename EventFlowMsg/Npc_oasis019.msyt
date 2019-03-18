@@ -1,0 +1,136 @@
+---
+entries:
+  Npc_oasis019_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq!"
+  Npc_oasis019_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta!"
+  Npc_oasis019_009:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba!"
+  Npc_oasis019_Near01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - text: Welcome to Hotel Oasis!
+  Npc_oasis019_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "If you're exhausted from your travels,\nplease consider Hotel Oasis!\n\nNot just a place to rest your head, Hotel\nOasis is home to the fantastic..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: spa plan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nStep inside and speak with Romah for\nmore information!"
+  Npc_oasis019_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "Are you exhausted from your travels,\nma'am? Please consider Hotel Oasis!\n\nI recommend checking out our unique..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: spa plan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! Ranked number one in ways to\nfeel relaxed and beautiful!\nRelax your body and mind at Hotel Oasis!"
+  Npc_oasis019_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "Stop right where you are! Staying up late\nis bad for your skin, ma'am!\n\nI suggest you step inside and ask about\nour "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: spa plan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", known by vai the world\nover!\nIt will heal your mind and body better\nthan anything else!"
+  Npc_oasis019_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 28
+              - 205
+    - text: Vasaaq!

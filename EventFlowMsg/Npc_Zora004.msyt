@@ -1,0 +1,124 @@
+---
+entries:
+  TerrorArrow:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: S-stop that!
+  TerrorLightning:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: Argghhh!
+  near00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: As expected...
+  TerrorBomb:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: What are you doing?
+  NakedPlayer:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 13
+    - text: "You're...unclothed..."
+  TerrorInsect:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: BUG!!!
+  TerrorFire:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: Fire! Fire!
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Oh! Linkle!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " It would seem I misunderstood\nHylians before...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "You don't have any fins or gills, yet you\nstill managed to stop the Divine Beast...\n\nI should have expected as much from\nLady Mipha's beloved. Well done."
+  TerrorExplosion:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: What are you DOING?!
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 17
+    - text: Divine Beast Vah Ruta...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBehold the havoc it wreaked..."
+  TerrorSword:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: "Hey, that's dangerous!"
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "I hope you can find it in your heart to\nforgive an incompetent fool such as me!"
+  TerrorImpulse:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: What are you doing?

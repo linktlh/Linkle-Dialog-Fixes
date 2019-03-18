@@ -1,0 +1,319 @@
+---
+entries:
+  "0001":
+    - text: Good-bye.
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "These monsters don't stand a chance\nagainst me!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "If...I mean, WHEN I beat them, I'll be\nrewarded with valuable weapons and\ntreasure!"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "These monsters don't stand a chance\nagainst me.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "See, what I'll do is keep my eye on my\nopponent and never look away while\nfighting."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Yep, that's my plan..."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "Mmm...zzz...\nTake that, monsters...\n"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Zzz...\nGive me the weapons...\nTreasure..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nZzz...\nJust...can't...blink..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nZzzz..."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "Those arena monsters...don't stand a \nchance..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Zzz...\n\nIf I beat them...I get weapons and\ntreasure!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Zzzz..."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "I can't stop trembling. I thought I was\nready for this."
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "Those arena monsters...don't stand a\nchance..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Zzzz...\n\nAs long as I don't blink..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Zzzz..."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "I can't stop trembling. Maybe it's\nthe rain."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 3
+    - text: Huh?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Do you know how strong I am?!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "UWAAAAH! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Don't pop out of nowhere\nand scare me like that!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "If you've got nothing else to do, why not\ngo in there and scout it out for me.\n\nAnd if you happen to slay a few of the\nmonsters while you're in there just to\nthin them out a bit, I won't mind."
+  Near00:
+    - text: "..."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: UWAAAH!
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: "Well I'll be!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You've already defeated the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lynel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: I mean...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I was going to do it myself, but\nseeing as you saved me the trouble,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nlet me reward you for your efforts."
+  Near01:
+    - text: Zzz... Zzz...
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Me? I'm going into this arena to slay\nsome monsters!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "If I emerge victorious, I'll get treasure\nand weapons beyond my wildest\ndaydreams!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "OK... I just need to keep my eye on my\nopponent. As long as I don't blink, this\none's in the bag."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Yeah, I got this."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I can take it from here, so you're free to\ngo.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Later on!
+  "0000":
+    - text: What are you doing?
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 0
+    - text: "Wait! I'm about to fight monsters in this\narena!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "You should stay and watch!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "And if you, uh, happen to take out a few\nof the monsters for me, I won't be mad."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Zzz...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " All weapons and treasure...\nbelong to me..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Zzz."

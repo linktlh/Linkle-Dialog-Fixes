@@ -1,0 +1,71 @@
+---
+entries:
+  TerrorHorse:
+    - text: Whoa!
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Ah, we meet yet again!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHow are you holding up?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "In case you were wondering about the\nsong I perform at the stables,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " there are\nmany theories about its origin."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But according to my teacher, it was a\nsong performed by the ancient hero\nto call to their horse companion.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "If you ever feel like hearing it, feel free\nto drop by."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\nAnyway, time to get back to it..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  TerrorArrow:
+    - text: Stop it!
+  TerrorFire:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorSword:
+    - text: Knock it off!
+  TerrorExplosion:
+    - text: WAAAAAA!

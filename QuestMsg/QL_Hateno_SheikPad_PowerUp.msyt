@@ -1,0 +1,82 @@
+---
+entries:
+  QL_Hateno_SheikPad_PowerUp_Name:
+    - text: Slated for Upgrades
+  QL_Hateno_SheikPad_PowerUp_Finish:
+    - text: "Purah powered up my Sheikah Sensor,\nRemote Bombs, and Stasis!\n\nPurah claims that she's now pushed my\nrunes as far as they can go."
+  QL_Hateno_SheikPad_PowerUp_Desc:
+    - text: "Purah has offered to help me out in exchange\nfor some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ancient components
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nJust what are these ancient components?\nAnd who is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Robbie
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? I'll have to ask Purah\nfor the answers."
+  QL_Hateno_SheikPad_PowerUp_Explain:
+    - text: "If I provide Purah with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ancient components
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nshe can use them to strengthen my runes.\n\nThe Sheikah Sensor takes "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "three \nancient screws"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", Remote Bombs\nrequire "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: three ancient shafts
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and\nStasis needs "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: three ancient cores
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."

@@ -1,0 +1,47 @@
+---
+entries:
+  Demo705_0_Text000:
+    - text: "Hey, little lady! Long time no see."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 93
+    - text: "\n\n\nI always knew you'd come back. Y'know,\nI never stopped believing in you!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 147
+    - text: "\n\nYou're here to take control of ol'\nRudania back from Ganon, eh?"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 103
+  Demo705_0_Text001:
+    - text: "You can grab the info from the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Guidance Stone "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "over there. Now get\na move on!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 156
+  Demo705_0_Text002:
+    - text: "You're gonna need a map that shows the\nguts of this place."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 98

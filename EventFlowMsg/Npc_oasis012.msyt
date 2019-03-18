@@ -1,0 +1,337 @@
+---
+entries:
+  Npc_oasis012_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm sorry, but the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Jewelers
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " isn't\nopen right now...\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "With that beast causing a ruckus and\nthe guards in an uproar over some kind\nof theft, things have been pretty crazy.\nAnd on top of it all, my shop...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "The village is facing quite a few\nproblems lately."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " *sigh*"
+  Npc_oasis012_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I heard you brought some flint for us,\nlittle vai.\n\nYou're a lifesaver!\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "How about...I tell you one of the owner's secrets\nas my way of saying sarqso?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_oasis012_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 28
+              - 205
+    - text: Vasaaq.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Npc_oasis012_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: I heard the owner...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nsleeps wearing nothing..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nbut accessories...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I wonder if she gets cold...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_oasis012_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm sorry, but the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Jewelers
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " isn't\nopen right now...\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naboris
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has calmed down, and the whole\nthing with the thieves has resolved...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: But my shop...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWhat to do, what to do."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " *sigh*"
+  Npc_oasis012_Near01:
+    - text: "*sigh*"
+  Npc_oasis012_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "The owner's name is actually an alias. Her real\nname is Jewel.\n\nIt's a little too coincidental for a jeweler to be\nnamed Jewel, so she was embarrassed.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I think it's a fine name, personally..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_oasis012_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "The owner claims that she's not doing anything\nspecial with her looks, but she actually visits\nHotel Oasis once a week.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's always good to remember..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If someone says\nthey don't do anything at all to maintain their\nlooks, it's probably not quite true."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0000":
+    - text: Tell me!
+  Npc_oasis012_007:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Apparently she and the teacher of the relationship\nclass, Ashai, were embroiled in a tragic love\ntriangle...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "They're both still single, so I guess we know how\nthat went..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0001":
+    - text: Good-bye.
+  Npc_oasis012_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "This shop owes you everything, young\nvai. Your requests fill us with a greater\nsense of purpose than normal!\nIf you see an accessory you like, please\nfeel free to pick it up and look at it."
+  Npc_oasis012_009:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm sorry, but the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Jewelers
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " isn't\nopen right now...\n\nThe big theft seems to have been solved,\nbut "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naboris
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is out there causing a\nruckus, so it's dangerous to travel.\nAnd on top of it all, my shop...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "The village is facing quite a few\nproblems lately."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " *sigh*"

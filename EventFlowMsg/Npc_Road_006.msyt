@@ -1,0 +1,1028 @@
+---
+entries:
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: My strengths...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Well, they don't lie in\nbrawn as much as brains."
+  MSG_Orud_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Is there mystery afoot in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Eldin
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you ask?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWho knows? That's the mystery!"
+  RetMSG_Orud_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Care to hear about one of the mysteries\nI solved recently?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Ever wonder why Lizalfos bones come \nback when you throw them? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "It's because\nthey're curved just like a boomerang!"
+  Thanks00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "Anyway, here's a gift for your services."
+  MSG_Orud_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "They say there's all sorts of treasure\nstill waiting to be had in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "But never mind all that! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I HAVE to know\nmore about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " The castle\nstuff is all yours, as far as I care."
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 22
+    - text: "I'm a mystery buff. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Now, you might hear\nthat and shrug your shoulders, and let\nme tell you..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " That's only fair."
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 22
+    - text: "I'm a mystery buff, not a buff mercenary."
+  MSG_Orud_0300_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "One mystery lately has kept me sleepless\nlike no other... It's that danged\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nIt's not just at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Skull Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " after dark\nanymore, you know. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "People have seen\nit all over the place lately!"
+  MSG_Orud_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Fang and Bone "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "always appears at night\nnear a skull-shaped pond... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Who's the\nmastermind behind the mystery?"
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 17
+    - text: Why do monsters attack people?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBecause...we're there?"
+  MSG_Orud_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "Nice meeting you! I'm Zorona, and I live\nfor mystery."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Is there mystery afoot in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Eldin
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you ask?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWho knows? That's the mystery!"
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 17
+    - text: "Out of all the innocent people in the\nworld to attack, why pick me? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I'll never\nunderstand these monsters."
+  MSG_Orud_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "Nice meeting you! I'm Zorona, and I live\nfor mystery. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "These days, I'm trying to get\nto the bottom of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThe clues so far:"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " it always appears at\nnight, and some people say they've\nseen it near a skull-shaped lake.\nTo my mind, though, the biggest mystery\nabout "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is, who in the\nworld would run such a place?"
+  MSG_Orud_0300:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "Good seeing you! I'm Zorona, and I live\nfor mystery."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "One mystery lately has kept me sleepless\nlike no other... It's that danged\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nIt's not just at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Skull Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " after dark\nanymore, you know. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "People have seen\nit all over the place lately!"
+  MSG_Orud_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "Good to see you! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm Zorona, and I live\nfor mystery."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Lotta people nowadays wondering if\nthere's any truth to the legendary sword\nsupposedly sleeping in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok Forest
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\nBut I say the legendary sword can go\nhang! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I'm burning to find out more about\nthat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  RetMSG_Orud_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "Hello there! I'm Zorona, and I live for\nmystery!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "One popular mystery lately is whether or\nnot there really is legendary equipment\nat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hyrule Castle "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok Forest
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  RetMSG_Orud_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "I bet you'd like to hear about a mystery\nI solved just recently, huh?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "You'll never guess the secret of why it\nsometimes hurts to kick a treasure chest."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBrace yourself...\nIt's because you're barefoot!"
+  MSG_Orud_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "Nice to see you! I'm Zorona, and I live\nfor mystery."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "One mystery lately has kept me sleepless\nlike no other... It's that danged\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nWho runs it? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "What do they sell? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "And is\nit really true you can find it at night\nout by Skull Lake?!"
+  RetMSG_Orud_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "Why, hello! My name's Zorona, and I live\nfor mystery. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Care to hear about one of\nthe mysteries I solved recently?\nThis was the case of the grass that\nblew even when the winds were still..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThe culprits were the hidden Koroks!"
+  MSG_Orud_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "How are you? I'm Zorona, and I live\nfor mystery!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "They say there's all sorts of treasure\nstill waiting to be had in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "But never mind all that! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I HAVE to know\nmore about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " The castle\nstuff is all yours, as far as I care."
+  RetMSG_Orud_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "Oh, didn't see you there! My name's\nZorona, and I live for mystery! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Let me\ntell you about one I solved recently.\nEver wonder why Lizalfos bones come \nback when you throw them? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "It's because\nthey're curved just like a boomerang!"
+  Rest_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "The name's Zorona, and I live for\nmystery!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "A good mystery buff has three essential\ntools of the trade: "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "an inquisitive mind,\nalert eyes, and a map."
+  RetMSG_Orud_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "Greetings! My name's Zorona, and I live\nfor mystery! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I bet you'd like to hear\nabout one I solved just recently, huh?\nYou'll never guess the secret of why it\nsometimes hurts to kick a treasure chest."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBrace yourself...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "It's because you're barefoot!"
+  Rest_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "The name's Zorona, and I live for\nmystery!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "That's an interesting map you have\nthere. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "What's it drawn on?"
+  MSG_Orud_0100_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Here's a mystery for you: "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "what do you\nsuppose they sell in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I've heard tips that it's not just showing\nup by Skull Lake at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Death Mountain "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in \nthe north, but other places too!"
+  RetMSG_Orud_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: Well met.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " My name's Zorona, and I live\nfor mystery!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "The greatest mystery of all, if you ask\nme, is who runs "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nSomeday I'll find it and crack the case!"
+  Rest_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "The name's Zorona, and I live for\nmystery!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "How about you? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: What do you live for?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIs it anywhere near as cool as mystery?"
+  RetMSG_Orud_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: The world is full of mystery!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "One popular mystery lately is whether or\nnot there really is legendary equipment\nat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hyrule Castle "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok Forest
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Near00:
+    - text: "There's a mystery afoot..."
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "I... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm a mystery buff."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " In my line of work,\nyou h-have to expect some danger!"
+  Near01:
+    - text: That skull-shaped pond...
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "I'm a mystery buff."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You think this is\ndangerous? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You should have seen me\nLAST week!"
+  Near02:
+    - text: "What's in the castle?"
+  Near03:
+    - text: "Hm... Fang and Bone, eh?"
+  Near04:
+    - text: "My map's gonna get wet..."
+  MSG_Orud_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Lotta people think there's a place called\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Korok Forest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "somewhere, and deep\ninside it sleeps a legendary sword.\nIs it true? Who knows? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That's the\nmystery! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Maybe you'll be the one to\nsolve it, eh?"
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: "Look sharp! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Guardian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s on its way!"
+  RetMSG_Orud_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "It's a mysterious world we live in."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "And the greatest mystery of all, if you\nask me, is who runs "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nSomeday I'll find out and crack the case!"
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "I'm a mystery buff..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "and I was worried\nthat the trail ended permanently here\nfor me!"
+  MSG_Orud_0100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 35
+    - text: "Well, hello there! I'm Zorona, and I live\nfor mystery."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I've got a doozy for you...\nEver heard of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\nI've heard tips that it's not just showing\nup by Skull Lake at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Death Mountain "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in \nthe north, but other places too!\nAll that, and I still don't even know what\nthis "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " sells! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Mystery upon\nmystery!"
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "I'm a mystery buff..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "and no lie, I got\ngoosebumps just now!"
+  RetMSG_Orud_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Care to hear about one of the mysteries\nI solved recently?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "This was the case of the grass that\nblew even when the winds were still..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThe culprits were the hidden Koroks!"
+  MSG_Orud_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "One mystery lately has kept me sleepless\nlike no other... It's that danged\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nWho runs it? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "What do they sell? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "And is\nit really true you can find it at night\nout by Skull Lake?!"
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "I didn't sign up to be monster chow!"

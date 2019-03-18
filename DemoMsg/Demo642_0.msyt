@@ -1,0 +1,36 @@
+---
+entries:
+  Talk01:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: Place the Sheikah Slate in the pedestal.
+  Talk02:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: "Sheikah Slate confirmed.\nPlease beware of tremors..."
+  "0000":
+    - text: Yes.
+  Talk03:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: Return to the Shrine of Resurrection?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0001":
+    - text: No.

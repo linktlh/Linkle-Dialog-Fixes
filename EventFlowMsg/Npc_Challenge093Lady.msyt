@@ -1,0 +1,28 @@
+---
+entries:
+  Talk_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "You're not stepping on my flowers,\nare you?!"
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: Look! Do you see?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The shrine has\nchanged to a pretty color!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It must\nbe pleased with my gorgeous flowers!"

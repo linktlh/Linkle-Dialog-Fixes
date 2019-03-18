@@ -1,0 +1,2009 @@
+---
+entries:
+  Npc_ZoraB001_SD_013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "You wish to speak of my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sister
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\nI am always happy to do so.\n\nActually, I recently remembered\nsomething...a fuzzy memory\nfrom my early childhood.\nThere was a Hylian that came by\nevery so often and spent a considerable\namount of time with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "At the time, it felt like she was stealing my\nsister away from me. I know better now."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "that swordsman...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "It was you, Linkle. I am certain of it."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI do hope my bluntness has not\noffended you.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Had things turned out differently,\nyou might have been my sister's\nwife..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: my sister-in-law...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 60
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Oh! My apologies. I got carried away and\nlet my imagination run wild."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Please forget\nmy childish musings, my friend!"
+  Npc_Zora001_SD_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 20
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It's the Champion, Lady Linkle!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHow are things?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "As for me, I'm here to protect "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sir Muzu
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: I hear at this very location...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "is a trial that\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Princess
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " herself challenged!\n\nIf you want more information,\nplease talk to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sir Muzu
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_ZoraB001_SD_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Linkle! I must thank you for journeying all\nthis way! And, of course, for taming that\nfeisty Divine Beast Vah Ruta!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "You somehow overcame the objections\nof the old geezers on our council,\nall to help save our home!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Yes, you are a treasure of a Hylian!\nTaking time out of your journey to come\nto our rain- and monster-ridden home!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "And here you activated those orbs with\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", freed "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and released\nmy sister from her lingering regret.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Linkle...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I simply can't thank you enough!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "Especially for following me to the end,\npushy and unreasonable as I am!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " would still be in peril if\nnot for you. "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "You are welcome anytime,\nand we are ever at your service!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Have I mentioned how incredible\nyou are? And how thankful I am?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Because you are! And I am! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "Yes, you are\nthe greatest of Hylians and my most\ntreasured friend for all time!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: Ah...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You must forgive me."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I am but a\nrambling fool, wasting the time of my\ncherished friend and hero of the Zora.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I do hope you understand that I carry on\nso only because I am ever so grateful\nfor all you have done and ever will do!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "But I digress. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Linkle! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Might I ask what\nbrings you to our beloved domain?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 0
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  Npc_Zora003_SD_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "If you need anything, please know that\nI am always here for you. After all...\nwe are practically family."
+  Npc_Zora001_SD_100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: It was a nuisance to get here...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nMonsters came out and attacked\nus countless times..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "But Sir Muzu was determined. He kept\nmumbling to himself, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\"I must prove\nmy usefulness to Prince Sidon.\""
+  Npc_Zora004_SD_110:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Princess Mipha's"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " notes had this phrase..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\"While the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: morning sun
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is newly born,\nfollow the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: path of light
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to the trial.\"\nI am not sure where they came from,\nbut she often repeated those mysterious\nwords about the trial..."
+  Npc_ZoraB001_SD_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Linkle! I must thank you for journeying all\nthis way! And, of course, for taming that\nfeisty Divine Beast Vah Ruta!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "You somehow overcame the objections\nof the old geezers on our council,\nall to help save our home!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Yes, you are a treasure of a Hylian!\nTaking time out of your journey to come\nto our rain- and monster-ridden home!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "And here you activated those orbs with\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shock arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", freed "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and released\nmy sister from her lingering regret.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Linkle...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " I simply can't thank you enough!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "Especially for following me to the end,\npushy and unreasonable as I am!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " would still be in peril if\nnot for you. "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "You are welcome anytime,\nand we are ever at your service!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Have I mentioned how incredible\nyou are? And how thankful I am?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Because you are! And I am! "
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: "Yes, you are\nthe greatest of Hylians and my most\ntreasured friend for all time!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: Ah...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You must forgive me."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I am but a\nrambling fool, wasting the time of my\ncherished friend and hero of the Zora.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I do hope you understand that I carry on\nso only because I am ever so grateful\nfor all you have done and ever will do!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "But I digress. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Linkle! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Might I ask what\nbrings you to our beloved domain?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_Zora004_SD_111:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "Ah! It is you, Linkle.\n\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Princess Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s notes contained\na phrase related to the trial...\n\n\"While the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: morning sun
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is newly born,\nfollow the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: path of light
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to the trial.\"\n\nI wonder what it means..."
+  Npc_ZoraB001_SD_100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: Linkle! I am so happy to see you!
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 0
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  Npc_Zora001_SD_200:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Sir Muzu said to pack up and prepare to\nreturn home.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Yeesh, but even just thinking about\ntreading the path we took here again\nmakes me miserable..."
+  Npc_ZoraB001_SD_101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "What is it, Linkle? Is there something else\nyou wish to talk about?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 0
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  Npc_Zora004_SD_350:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "Somehow, you managed to complete\nthe same trial as "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Princess
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nIt is no wonder our "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: princess
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has a\nspecial place in her heart for you.\nI am thoroughly impressed!"
+  "0000":
+    - text: Tell me about Mipha.
+  Npc_ZoraB001_SD_102:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Can I help you in some way?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_Zora001_SD_300:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I was just outside "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but it\nstill seems pretty dangerous out there.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "I'll have to make sure I'm extra alert\nwhen guarding the domain!"
+  "0001":
+    - text: Farewell!
+  Npc_ZoraB001_SD_103:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "Oh, of course. I assume some heroic\nerrand has brought you here."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_Zora001_SD_301:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I overheard Sir Muzu mumble,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " \"I finally\nproved my usefulness to Prince Sidon.\" \nHe seemed very happy about it."
+  Npc_Zora032_SD_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: Hm?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It is rare to see a Hylian here...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Oh, how silly of me!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It is none other than\nLady Linkle! I am happy to see you,\nold friend.\nI must sincerely thank you for your help\nwith that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " mess.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "While you are here, I should warn you..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Blue-eyed Guardians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " have appeared in\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Upland Zorana
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nApparently, those things last appeared\nwhen "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " challenged her\nsacred trial."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nMy father insists they are no cause\nfor alarm, but I am on high alert\njust in case."
+  "0002":
+    - text: Tell me about the trial.
+  Npc_ZoraB001_SD_104:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Is there anything else I can\nhelp you with?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 0
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  Npc_Zora004_SD_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Ah! It is you, Linkle. What brings you\nto this place?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "We are here at the behest of\nPrince Sidon, who tasked us\nwith keeping watch on this area."
+  Npc_Zora032_SD_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Apparently, those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: blue-eyed Guardians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nlast appeared when "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nchallenged her sacred trial.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "As captain of the guard, I am concerned\nthose creatures may launch an attack\non "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  "0003":
+    - text: "Mipha's Diary?"
+  Npc_Zora032_SD_100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 21
+    - text: "When those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue-eyed
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Guardians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " left,\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: strange shrine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " appeared. I knew those\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Guardians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " were related to the trial!"
+  Npc_Zora003_SD_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Yes, of course you wish to hear about\nour dear "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I am sure it would bring\nher peace to know she is on your mind.\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " was always kind, from the day she\nwas born."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " She was equally as kind to her\nown as she was to complete strangers.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "When you first took to visiting us,\nback when you were but a child,\nshe adored you like a sister.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "However, as you know, Hylians age much\nfaster than us. Eventually you grew so\nmuch, she began to look up to you..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "As "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Mipha's Diary "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: plainly states...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "it was\nnot long before she developed strong\nfeelings for you.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "A Zora princess falling in love with a\nHylian swordsman...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "It reminds me of a Zora legend of old.\nThat is why I welcomed the idea of you\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " becoming united together."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "It is a shame you two never had the\nchance to see what might have been..."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 3
+            field_3:
+              - 1
+              - 205
+  Npc_Zora004_SD_100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This is the land where "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Princess Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\ncompleted her sacred trial.\n\nNow, the signs that appeared 100 years\nago have returned..."
+  Npc_Zora032_SD_101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Even though "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has been tamed,\nwe must not let our guard down."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I shall\nguard the domain as diligently as ever!"
+  Npc_Zora004_SD_200:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: "Could it be? Have you already figured\nout "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s riddle? The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: path of light
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nAh! The sun's reflection upon the sea!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "I cannot believe you solved it so readily!\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It is ever more apparent why you are the\none who stole "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Princess
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s heart.\nI am thoroughly impressed!"
+  Npc_Zora014_SD_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, Linkle? Will you please allow my prior\nrudeness to wash away with the tides?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nSuch is the magic of Zora's Domain.\n..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Ahem, perhaps I am overly dramatic."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nPlease forgive and forget that as well.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Now, on to more serious matters!"
+  Npc_Zora004_SD_201:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: path of light
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "is the sun's reflection\nupon the sea!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "It is ever more apparent why you are the\none who stole "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Princess
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s heart.\nI am thoroughly impressed!"
+  Npc_Zora014_SD_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The same creatures that appeared when\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " challenged her sacred trial\nhave returned to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Upland Zorana
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " defeated them with her usual\ngrace and skill. I wonder...is the trial\ncalling to someone new?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: Could it be...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - text: ME?!
+  Npc_Zora004_SD_300:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Linkle!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "I've been thinking. Your race has no fins\nor gills, and you sink like a stone in\nthe water.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "Yet somehow, you managed to complete\nthe same trial as "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Princess Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "It is no wonder our "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: princess
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has a\nspecial place in her heart for you.\nI am thoroughly impressed!"
+  Npc_Zora014_SD_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Linkle! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Exquisite timing.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nLook over there!"
+  Npc_Zora014_SD_100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You seem to have defeated the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Guardians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthat appeared in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Upland Zorana
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "I did not imagine you would be able to\nconquer the same trial as "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I suppose that is why you have earned\nthe title of Champion. Please accept\nmy congratulations!"
+  Npc_Zora003_SD_015:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "Ah, of course. "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Mipha's Diary"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " was found\njust recently. Its discovery brought me\nmuch joy. It is on "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: that table over there
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I do not mind if you choose to\nread it. I am sure "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " would\nforgive you anything."
+  Npc_Zora014_SD_003:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "The same creatures that appeared when\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " challenged her sacred trial\nhave returned to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Upland Zorana
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_Zora014_SD_101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: By the way...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Were you the one who\ndefeated the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Guardians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " that\nappeared in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Upland Zorana
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "I did not imagine you would be able to\nconquer the same trial as "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I suppose that is why you have earned\nthe title of Champion. Please accept\nmy congratulations!"
+  Npc_Zora014_SD_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " defeated them with her usual\ngrace and skill. I wonder...is the trial\ncalling to someone new?"
+  Npc_ZoraB001_SD_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Should you ever have need of me,\ndo not hesitate to reach out.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "I shall be cheering you on, as ever!"
+  Npc_Zora003_SD_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 4
+    - text: "If you ever run into trouble,"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 20
+    - text: " know that\nyou are always welcome here.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "No matter the time, we shall all greet\nyou with open fins!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Now then...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Is there anything I can\nhelp you with?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_Zora003_SD_100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "If you need anything, I am ever at\nyour disposal."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_ZoraB001_SD_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: "The sacred trial my sister challenged?\nYou are a keen one, Linkle!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "I have recently noticed certain things\nthat last occurred when my dear sister,\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mipha
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", took the trial to master "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThat is why I sent "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Muzu
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tottika
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to\nstand guard east of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ulria Grotto
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". It was\none of the areas associated with the trial.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "...Linkle! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Yes, I have figured it out."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYOU are challenging the sacred trial!\nI wish you luck, my friend."
+  Npc_ZoraB001_SD_012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "You ARE intending to challenge the\nsacred trial, are you not? I have no\ndoubt you shall succeed!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "I am cheering you on, as ever!\nAfter all, you are my most treasured\nfriend and hero of the Zora!"

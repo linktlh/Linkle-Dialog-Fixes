@@ -1,0 +1,44 @@
+---
+entries:
+  QL_Gerudo_Ch_SnowMT_Name:
+    - text: The Eighth Heroine
+  QL_Gerudo_Ch_SnowMT_Desc:
+    - text: "There's a legend about seven heroines in the\nGerudo region, but it turns out that an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "eighth\nheroine"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " existed, and she is worshiped to this\nday by her faithful in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Gerudo Highlands
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". \nI can show a picture of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "eighth statue's torso "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nto Bozai to get the sand boots. I've heard that\nthere's someone well acquainted with the \nseven heroines' legend in Gerudo Town."
+  QL_Gerudo_Ch_SnowMT_Finish:
+    - text: "The eighth heroine is still worshiped by her\nfaithful in the Gerudo Highlands. I captured\nher in a picture and received the sand boots\nfrom Bozai as promised."

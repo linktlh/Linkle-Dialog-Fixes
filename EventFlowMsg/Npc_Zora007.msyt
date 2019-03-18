@@ -1,0 +1,576 @@
+---
+entries:
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: Prince Sidon is soooo handsome!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHe's what every girl dreams of!"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 6
+    - text: "Is there anything else you'd like to\nask me about?"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 7
+              - 40
+              - 78
+              - 112
+              - 99
+              - 95
+              - 90
+              - 111
+              - 114
+              - 97
+              - 48
+              - 48
+              - 55
+              - 95
+              - 77
+              - 105
+              - 102
+              - 97
+              - 83
+              - 111
+              - 110
+              - 103
+              - 2
+              - 0
+              - 3
+              - 0
+              - 4
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: The rain stopped!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n♪La dee daaa!♪"
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: I just looooove singing!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I even remember\nthe song from the Champion Festival!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 6
+    - text: "...Do you want to hear it?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 6
+            field_4:
+              - 0
+              - 1
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: Pfffft!
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "OK! I'm gonna sing it now!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThe Champion Festival Song!"
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I don't really get what the song's about,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nbut I'm gonna sing it at the next\nChampion Festival!\nMr. Trello is supposed to get the festival\ntogether, but he hasn't done anything\nfor it yet.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "I wonder what's wrong with him..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nDid he forget that's his job?"
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "Trello is the old man who organizes the\nChampion Festival.\n\nHis family has been entrusted with\nguarding the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lightscale Trident
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " used in\nthe Champion Festival for generations!"
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 19
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You're the Hylian who helped our\nPrince Sidon!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You're sooo pretty!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Your looks still don't compare to\nLady Mipha, of course...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "But you're not half bad!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " In fact...\nI wouldn't mind talking with you\nfor a bit. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Hee hee.
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: ♪La la laaaa!♪
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: ♪La dee dooo!♪
+  near00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: ♪A light scale...♪
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "He started mumbling and walked over\nthere in a huff... I wonder if he's upset\nabout having to prepare the festival."
+  near01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: "♪It's hiding...♪"
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "I'm a little worried about him..."
+  near02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: ♪At Veiled Falls...♪
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I don't really know what the song means,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nbut I'm gonna get to sing it at the next\nChampion Festival!\nOh! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "That reminds me! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Trello is in charge\nof planning the Champion Festival.\n\nThey're even gonna have Dento"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nmake the same spear Mipha had!"
+  near03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: ♪A trial awaits...♪
+  near04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: So dreamy!
+  "0000":
+    - text: "I'm a Hylian."
+  near05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Prince Sidon!
+  "0001":
+    - text: "I'm a swordsman."
+  near06:
+    - text: "I'm sleepy..."
+  "0002":
+    - text: That song?
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: ♪Hellooo!♪
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI'm Laruta!"
+  "0003":
+    - text: Prince Sidon?
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "Zzz... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "*mumble*"
+  "0004":
+    - text: Good-bye.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 34
+    - text: "It's time for bed."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll see you later."
+  "0005":
+    - text: I want to hear it.
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 6
+    - text: Wanna talk?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 7
+              - 40
+              - 78
+              - 112
+              - 99
+              - 95
+              - 90
+              - 111
+              - 114
+              - 97
+              - 48
+              - 48
+              - 55
+              - 95
+              - 77
+              - 105
+              - 102
+              - 97
+              - 83
+              - 111
+              - 110
+              - 103
+              - 2
+              - 0
+              - 3
+              - 0
+              - 4
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0006":
+    - text: Not right now.
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 6
+    - text: Who are you?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  "0007":
+    - text: Trello?
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: "A Hylian?! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Cool!
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: A swordswoman! A traveling one?!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSo cool!"
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "But, ya know, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Prince Sidon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nis much cooler!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Hee hee!"
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: ♪A gift from the sky...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: scale of light
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...♪"
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: ♪Splits the feet...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nof a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Veiled Falls "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: sight...♪
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: "♪Your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: trial
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " awaits..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt's glowing bright...♪"
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: Bye-bye!

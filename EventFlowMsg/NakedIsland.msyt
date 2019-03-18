@@ -1,0 +1,29 @@
+---
+entries:
+  talk03:
+    - text: "That's it, then?\n\n\nVery well. I shall return your equipment\nto you. Visit the island again should you\nwish to prove yourself."
+  talk04:
+    - text: "Where are you going? If you intend to\novercome my challenge, you should\nreturn to the island."
+  talk05:
+    - text: "Offer up the orbs to the three altars on\nthis island. Only then will I acknowledge\nyour skill and return your items."
+  talk06:
+    - text: "Come, enter the shrine."
+  talk00:
+    - text: "To you who has traveled to this island...\n\n\nI present you with a challenge. In your\ntravels, you've relied on the equipment\nyou've found along the way.\nHere, you must cast this equipment\naside and face this trial with only your\nwits and whatever you can scavenge."
+  talk01:
+    - text: "You've done well to complete the trial.\nI will now return your things, as\nI promised."
+  "0000":
+    - text: I give up.
+  talk02:
+    - text: Give up on the challenge?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0001":
+    - text: Never!

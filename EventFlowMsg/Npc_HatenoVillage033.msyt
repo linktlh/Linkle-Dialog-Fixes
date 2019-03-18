@@ -1,0 +1,595 @@
+---
+entries:
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Oh. You're not much for conversation..."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "Hey! This is private property here! Don't\nmake me call..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: uh...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "someone!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm sorry. That wasn't very nice of me\nat all..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You're not a weirdo—I can tell.\nYou're probably a great person to talk to.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: "...Oh, no! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "There I go again, just talking\nwith no purpose."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I get carried away\nand just don't know when to quit.\nIt really drives my husband crazy when\nI just can't find my point...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "I guess... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Could you just go somewhere\nelse, please?"
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 14
+    - text: "I think I told you to leave, didn't I?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Please enjoy this apology egg.
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You seem to really like hanging around\nhere for some reason, huh?"
+  "0000":
+    - text: "I'm helping!"
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm sorry for speaking so harshly..."
+  "0001":
+    - text: Bye.
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "But I'm not actually doing any work..."
+  "0002":
+    - text: "Yeah, I think you did."
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "I'm going to bed now."
+  "0003":
+    - text: "I don't think so."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "So that means...don't follow me."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nObviously."
+  "0004":
+    - text: Good work!
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I thought so. I'm sure I had a good\nreason... Or did I?"
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I said \"don't follow me,\" didn't I?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Oh, I didn't say that? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Well, I meant to..."
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "Zzz... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Zzz...
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: "Wait, did you answer the question,\nor did I?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 2
+            field_3:
+              - 1
+              - 205
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Well, you'll be happy with your purchase!\nIt's chock-full of nutrients,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so please\nuse it in all sorts of cooking.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: "...Oh, darn it."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I just gave away that egg"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI was supposed to sell at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "general\nstore"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "again!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "I'm such a softy. I can't help it!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "It just doesn't seem right to make money\noff of it. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: But tell that to my husband!
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I'd love to give you another "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bird egg
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\nBut then I'd have some explaining to do\nat home.\nWe sell 'em to that shop "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: East Wind
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nthough. So look for them there."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: lab director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " was\ncarrying something like that before..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Our "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "bird eggs "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "are chock-full of\nnutrients, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "and you can cook them with all\nsorts of different ingredients!"
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 26
+    - text: "Just more cleaning today...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "...\n\n\n...\n\n\nCan I help you with something?"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Oh, really? Well look at you! Nice girls\nlike you get a treat!"
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, hullo..."
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Um...I don't really have anything to\ntalk about, so..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Maybe we're done here?"
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "But this isn't ol' Purah's house, I'm\nsorry to say."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Mornin'."
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 20
+    - text: "Don't you have somewhere better to be?"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: But
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " this isn't the director's house,\nI'm afraid."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Oh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "yes, hullo."
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Oh! Everyone on the farm has gotten\nused to scrambled eggs for breakfast...\nKnow why?\nWell, I married into this poultry farm a\nfew years ago, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but I still drop eggs like\nthey're dipped in butter.\nSo if you guessed that it's a rare thing\nfor an egg to survive in my hands, you\nguessed right!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Congratulations! For your winning guess,\nyou get this egg I haven't smashed to\npieces yet! Yay!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Shouldn't you...hurry?"
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Evenin'."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You should get it to\nthe"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " lab"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " quickly."
+  talk06:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Hateno Ancient Tech Lab "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: is
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " over at the\ntop of the closest hill here."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I have to clean the yard today, so I'm\nwaiting for it to clear up a bit."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 1
+            field_4:
+              - 0
+              - 1

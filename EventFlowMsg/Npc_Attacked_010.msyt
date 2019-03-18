@@ -1,0 +1,255 @@
+---
+entries:
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Our debt to you is incalculable. I hope\nthat this goes some way toward\nassuaging it."
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: "My husband seems to be hale and\nhearty. Thank you, from the bottom of\nour hearts."
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: "Thank you for rescuing us from the\nclutches of those vile things. I hope\nthis is a sufficient reward."
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: Hylia preserve us!
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: We were unprepared...
+  Near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: We are saved...
+  Near01:
+    - text: Dearest Tye!
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You're exceptionally strong to have dealt\nwith those fiends. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "We're more grateful\nthan we can express!"
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I still feel faint... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Is my husband Tye safe,\nas well?"
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: "I feared what fate had in store for us\nuntil you came along. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Thank you so very\nmuch for your aid."
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "The last several minutes are a blur in\nmy mind."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I recall those monsters' ambush, but\neverything between then and now is\nhazy. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I take it I have you to thank?
+  After00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I could withstand any hardship so long\nas I am at my husband's side. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "While we\nare together, I fear nothing!"
+  Meeting00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I do hope I haven't been a burden on my\nhusband by insisting that I accompany\nhim on his trek.\nBut I was so frightened by the idea of\nsomething happening to him that I\ncouldn't stand idly by at home.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "It will all be worth it when we pluck our\nown "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "silent princess "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and I swear my\neternal love to him."
+  Meeting02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Why, Sorelia... I have never considered\nyou to be a burden."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "I couldn't be happier to travel the\ncountryside with you!"
+  Meeting03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Oh, Tye... Light of my heart..."
+  PairFailed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: Tye... Stay with me...
+  PairAtacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "Stand firm, Tye! You must!"
+  PairFailed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 22
+    - text: Nooo! Light of my heart!
+  PairAtacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "Oh, do save my husband!"
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "We are traveling in search of a flower\nknown as the silent princess, that we\nmight pluck one for ourselves. "
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "I knew the risks of roaming the\ncountryside with monsters about\nwhen I insisted on accompanying Tye.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "But I firmly believe that my husband and\nI can withstand any kind of hardship,\nso long as we are together."
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Thank you... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "My husband and I would\nsurely have breathed our last without\nyour assistance."
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 42
+    - text: A Guardian has arrived!

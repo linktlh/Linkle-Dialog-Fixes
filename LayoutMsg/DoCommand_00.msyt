@@ -1,0 +1,101 @@
+---
+entries:
+  "0027":
+    - text: Mount
+  "0050":
+    - text: Display
+  "0068":
+    - text: Search
+  "0028":
+    - text: Sleep
+  "0051":
+    - text: Pray
+  "0069":
+    - text: Catch
+  "0011":
+    - text: Climb down
+  "0052":
+    - text: Pull
+  "0053":
+    - text: Take
+  "0054":
+    - text: "Pull "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: (Hold)
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  "0056":
+    - text: Stop Time
+  "0057":
+    - text: Activate
+  "0017":
+    - text: Open
+  "0058":
+    - text: Freeze
+  "0018":
+    - text: Talk
+  "0059":
+    - text: Shatter
+  "0019":
+    - text: Take
+  "0042":
+    - text: Recall
+  "0043":
+    - text: Grab
+  "0044":
+    - text: Buy
+  "0045":
+    - text: Climb
+  "0046":
+    - text: Cook
+  "0047":
+    - text: Sit
+  "0070":
+    - text: Listen
+  "0048":
+    - text: Flurry Rush
+  "0071":
+    - text: Ride
+  "0008":
+    - text: Glide
+  "0049":
+    - text: Wake
+  "0072":
+    - text: Hit
+  "0009":
+    - text: Pick up
+  "0073":
+    - text: Place
+  "0074":
+    - text: Fuel
+  "0075":
+    - text: Summon
+  "0036":
+    - text: Examine
+  "0060":
+    - text: Sneakstrike
+  "0020":
+    - text: Take
+  "0061":
+    - text: Swim Upward
+  "0021":
+    - text: Search
+  "0039":
+    - text: Soothe
+  "0062":
+    - text: Dash
+  "0063":
+    - text: Leave
+  "0064":
+    - text: Hold On
+  "0065":
+    - text: Come
+  "0066":
+    - text: Stay

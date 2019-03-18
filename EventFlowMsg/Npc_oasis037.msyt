@@ -1,0 +1,389 @@
+---
+entries:
+  Talk_206:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 18
+    - text: "Phew, thank goodness!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you'd told me you'd never heard of\nHyrule's most popular news publication,\nRumor Mill...\nWell, I don't even know how I'd have\ntaken that news! It woulda hurt,\nthat's for sure!\nI'm Traysi herself, you know!"
+  Talk_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I made it all the way here, so...\n\n\nI thought I'd write a book about the\nGerudo people. I'm in the process of\ninvestigatin' them now.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 8
+    - text: "Oh, I know! I'll share some of the\nmaterial I have set aside with you!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "The average height of a Gerudo is about the height\nof a voltfruit tree!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "That's good stuff, am I right?!"
+  Talk_207:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "ARE YOU KIDDING ME?!\n\n\nFor you to say you've never heard of\nRumor Mill, Hyrule's most popular news\npublication..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - text: You... You must be lying.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nActually, I know you are!\n\nI "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: AM
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " an award-winning\ninvestigative journalist, after all!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Truth is, you can't hide anything from\nTraysi!"
+  Talk_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I made it all the way here, so...\n\n\nI thought I'd write a book about the\nGerudo people. I'm in the process of\ninvestigatin' them now.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 8
+    - text: "I'll share some of the material I've got so\nfar with you!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "The average Gerudo weighs as much as ten\nhydromelons!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "That's good stuff, am I right?!"
+  Talk_208:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hey now! Get that wishy-washy garbage\nout of here!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Once more, with conviction!"
+  Talk_209:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Truth is...I'm Traysi herself! From\nRumor Mill!"
+  Talk_210:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I suppose that works...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Anyway, I hope\nyou enjoy reading Rumor Mill! I take\npride in my work!"
+  Talk_211:
+    - text: "But I'm not giving up!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "I see... So that happened over there...\nAnd even that...happened there!"
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "What? You can't tell just by lookin'?\nWe're busy confirmin' a rumor.\n\nRight now the rumor of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis the talk o' the town. If I thoroughly\ninvestigate the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\nWell, a scoop like this could make me\nsome serious money. S'all I'm saying."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 1
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "It looks like the electric current is\ngenerated in the two humps on that\nthing's back.\nThere seems to be an entrance or\nsomethin' under the tail, so you could\nmaybe get in that way, but...\nIt's super high up, and it shoots lightnin'\nat you, so...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It definitely wouldn't be easy to just go\ninside—that's for sure.\n\nBut if someone entangled its legs and\ntripped it, that'd work out really well...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Wait, I shouldn't be tellin' you this! It's\nmy info! You should earn information\nusin' your own two feet!"
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 8
+    - text: "No one has reported anything about the\nDivine Beasts, so it's my chance to get\nthe scoop!"
+  Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Hrm?
+  "0008":
+    - text: Did you learn anything?
+  Talk_200:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Reporters must first gather information,\nbut...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "This soldier won't even give me the time\nof day! Just what about me is so\nsuspicious, anyway?!"
+  "0009":
+    - text: Good-bye.
+  Talk_201:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I'd heard this town was goin' through\nsome tough times. I barely got away from\nthat big thing in the desert...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - text: "But after all the danger to get here, this\nsoldier won't even give me the time\nof day, much less let me in!"
+  "0010":
+    - text: Information?
+  Talk_203:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "What is it, ma'am? As you can see, I'm\nbusy gathering information!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 10
+            field_3:
+              - 1
+              - 205
+  "0011":
+    - text: "I've heard of it."
+  Talk_000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "The Gerudo are surprisin'ly serious..."
+  Near_001:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 23
+              - 205
+    - text: Ho hoh hoh hoh.
+  Talk_204:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Ma'am...\nDon't tell me you don't know who I am?"
+  "0012":
+    - text: Never heard of it.
+  Talk_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "Male Gorons seem to have no trouble\ngetting into Gerudo Town..."
+  Talk_205:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: "No way... You've never heard of\nRumor Mill, either?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 11
+            field_3: 12
+            field_4:
+              - 0
+              - 1
+  Talk_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Lover's Pond"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is a double-edged\nsword..."

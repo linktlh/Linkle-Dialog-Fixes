@@ -1,0 +1,20 @@
+---
+entries:
+  QL_UMiiMini_RichmansHobby_Finish:
+    - text: "I defeated the two Guardians in\nTorin Wetland and reported back to\nHagie before night fell.\n\nThe reward was less than the up-front\npayment..."
+  QL_UMiiMini_RichmansHobby_Name:
+    - text: Hobbies of the Rich
+  QL_UMiiMini_RichmansHobby_Desc:
+    - text: "Hagie in Tarrey Town asked me to defeat the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: two Guardians in Torin Wetland
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and then\nreport back to him.\n\nI was paid in advance, so I'm pretty\nmuch obligated to go through with it."

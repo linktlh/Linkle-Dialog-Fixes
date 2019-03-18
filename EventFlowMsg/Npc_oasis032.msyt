@@ -1,0 +1,285 @@
+---
+entries:
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "All the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "sand seals outside "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "haven't been\ntrained, which means they'll run\naway the moment you dismount.\nBut these ones—the ones that Frelly\ntrained—they'll wait patiently for their\nmaster.\nAll of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sand seals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " used in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "sand-\nseal races"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " were trained by Frelly, too."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Annnnd done!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "What with preparing their meals, cleaning\nup after them, and everything else, the\nday just seems to fly by!\nIt never feels like I'm done, either."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "If I lay\nout food, they'll rush over as fast as they\ncan... "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Even if I just fed them!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I swear, they have bottomless pits in\nplace of stomachs..."
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "All right! I'm gonna do my best at my\npart-time job!\n\nIt's actually really tough taking care of\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sand seals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but seeing how happy\nthey are when their food is put out...\nAlthough, I do sometimes put out too\nmuch food...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm so exhausted when the day is over."
+  Talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 28
+    - text: "Sav'aaq!"
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sand seals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " here were all trained\nby Frelly. They're faster, and they'll wait\nfor you to return to them.\nBy comparison, the ones outside who\nhaven't been trained will just run off the\nmoment you dismount.\nIt's definitely worth renting a trained\none! Frelly puts her heart into training\nthem!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nFrelly trained the sand seals used in the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sand-seal races
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " too, of course."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 29
+    - text: "Sav'saaba!"
+  Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm so tired...\nPlease let me rest right now."
+  Talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "sand-seal races "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "are a Gerudo\ntradition...\n\nIt's pretty simple: you use a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sand seal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to\nrace around a course to see who's the\nfastest.\nJust go out the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: southeast gate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of the\ntown and head to the right. You'll see\nthe starting line immediately!\nNo harm in taking a peek, right?"
+  Talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I'm gonna work hard so that I can be\nlike Frelly someday!"
+  Talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: This is a bit off topic...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBut it seems like Frelly has been talking\na little strangely recently.\nI wonder what's gotten into her..."
+  Talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 27
+    - text: "Sav'otta!"
+  "0000":
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Sand-seal races?
+  "0001":
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Bye.

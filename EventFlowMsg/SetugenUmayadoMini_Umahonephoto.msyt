@@ -1,0 +1,371 @@
+---
+entries:
+  "0003":
+    - text: "Don't give up."
+  NPC_Umahonephoto001_R_009:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I hope we get a chance to work together\nagain in the future!"
+  "0004":
+    - text: I can do it.
+  "0005":
+    - text: Creepy horse? Pass.
+  NPC_Umahonephoto001_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "How goes it? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Did you find the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Stalhorse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n\nThe last I'd heard, it supposedly wanders\naround the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: North Tabantha Snowfield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nnear the weird "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "ruins "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: to the east.
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  NPC_Umahonephoto001_R_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yup, that picture's all I need!"
+  NPC_Umahonephoto001_R_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Well, don't give up! Keep working on this\nscoop for me!\n\nA "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Stalhorse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is probably a lot like a\nStalkoblin... I bet it only comes out at\nnight too!"
+  NPC_Umahonephoto001_R_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 24
+    - text: "Good answer!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "There's a rumor that it can be\nfound with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Stalkoblins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: North Tabantha Snowfield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nSome have reported it aaaaall the way on\nthe other side of the snow field to the\neast, right in front of these bizarre "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ruins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Good luck! I'm really counting on you!"
+  NPC_Umahonephoto001_R_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: "What's the deal?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You haven't got a\npicture or anything..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I guess it must be\nreally, really tough to track down..."
+  NPC_Umahonephoto001_R_Near:
+    - text: "Hmmm...what'll I do..."
+  NPC_Umahonephoto001_R_011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: "Oh, I see..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Well, I suppose I should learn\nto not rely on others and do it myself.\nMy younger sisters would be proud!"
+  NPC_Umahonephoto001_R_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Oh, thank you! This is a great picture!\nIt'll be perfect inspiration for the article\nI'm going to write!\nHere's your reward, just as I promised!"
+  NPC_Umahonephoto001_R_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I've traveled to the east and the west in\nmy great hunt for information, and now\nI find myself here in the freezing north...\nI heard there was a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Stalhorse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in this\narea, but I can't take it any longer! It's\ntoo cold to look anymore!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  NPC_Umahonephoto001_R_012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: Oh?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Did you change your mind and\ndecide to take on my request after all?\nI don't think it'll be too creepy...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Stalhorse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I don't care whether it's\na picture or a memo—just show me some\nproof!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: Found it!
+  NPC_Umahonephoto001_R_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Yeah, thanks. I'll keep at it. I've gotta set\nan example, being the oldest sister\nand all."
+  "0001":
+    - text: No luck yet.
+  "0002":
+    - text: A Stalhorse?
+  NPC_Umahonephoto001_R_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Beep-beep!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nYou just set off Juannelle's intuition\nsensors! You're interested in the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Stalhorse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " too, huh?\nI just wanted to see this creepy\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Stalhorse monster
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " once with my\nown eyes!\nIf it really does exist, it'd be such\na big scoop!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "But... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Well, I can handle all kinds of\ndangers and hazards, but this cold..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBrrr, I can't stand it!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Can you handle this task for me?\nI'll even reward you! All I need is\na picture!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Or some notes!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1

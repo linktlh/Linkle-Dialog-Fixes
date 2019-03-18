@@ -1,0 +1,46 @@
+---
+entries:
+  QL_TreasureHunt_touzoku07_Step01:
+    - text: "\"The helm of the self-proclaimed King of\nShadows is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "in the swamp of the valley\nof dead trees, south of Dueling Peaks"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\"\n\nMisko's EX Journal 2 notes where the Usurper\nKing's Helmet is hidden...but where could it\nbe talking about?"
+  QL_TreasureHunt_touzoku07_Desc:
+    - text: "The royal family of Hyrule collected historically\nsignificant outfits, but they were stolen by a\nbandit named Misko. One of the items stolen\nwas the helmet of the Usurper King.\n\nSomewhere in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Deya Village Ruins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis a journal that places the location\nof this treasure..."
+  QL_TreasureHunt_touzoku07_Name:
+    - text: "EX Treasure: Usurper King"
+  QL_TreasureHunt_touzoku07_Finish:
+    - text: "\"The helm of the self-proclaimed King of\nShadows is in the swamp of the valley\nof dead trees, south of Dueling Peaks.\"\n\nI found the treasure that was hidden at\nTobio's Hollow and obtained "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Zant's Helmet"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"

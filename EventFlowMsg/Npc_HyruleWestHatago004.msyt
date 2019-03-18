@@ -1,0 +1,214 @@
+---
+entries:
+  talk-Orak02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "On days like this, my brothers and I stay\ninside and talk about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: leviathans
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 35
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: It also gives me a chance to talk to Zumi.
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk-Orak03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: What nasty weather...
+  LookPicture:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: This is...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "wonderful! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You drew this?!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "With this, I'll finally be able to prove that\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: leviathans
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " went extinct as a result\nof a massive volcanic eruption!"
+  talk-Orak05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "We're in search of skeletons that will tell\nus why the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "leviathans "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "went extinct.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "But we haven't found any yet."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWe're here at the stable to regroup."
+  talk-Orak06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Zzz...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: zzz...
+  talk-Orak00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Using your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: picture
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I can test my theory\nthat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: leviathans
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " went extinct due to a\ncataclysmic volcanic eruption!"
+  talk-Orak07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "Hmm... What kind of event could have\ncaused the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: leviathans
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to go extinct?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  talk-Orak01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Zzz...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nSo hot..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nZzz..."

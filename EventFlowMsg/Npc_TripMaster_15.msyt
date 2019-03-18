@@ -1,0 +1,71 @@
+---
+entries:
+  TerrorExplosion:
+    - text: Haaaaeeeeee!
+  TerrorLightning:
+    - text: AHHH!
+  ClearTerrorEnemy:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: Phew...
+  TerrorFire:
+    - text: "I don't like fire!"
+  TerrorSword:
+    - text: Owww!
+  TerrorEnemy:
+    - text: Eeeeeeeeek!
+  TerrorInsect:
+    - text: NOT BEES! AHHHH!
+  talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Hooooooooo! We meet again!
+  TerrorAnimal:
+    - text: Get back!
+  Near:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 20
+            string: CustomHot
+    - text: Hahhhhhh... Hehhhhhh...
+  TerrorBomb:
+    - text: WHOA NOW!
+  ClearTerrorGuardian:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: That was scary...
+  talk_26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "This heat might kill me but not until I\nclose the deal!"
+  TerrorArrow:
+    - text: Please stop!
+  TerrorGuardian:
+    - text: Hyeeeeeeehh!
+  TerrorHorse:
+    - text: Whoa!
+  TerrorImpulse:
+    - text: Ohhh!

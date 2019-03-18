@@ -1,0 +1,700 @@
+---
+entries:
+  Talk_1012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Oh, what do ya know! Looks like you're\nalready well equipped, Ms. Heroine."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "You don't need to borrow the entire\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Korok Trial weapon set
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", so I can cut\n50% off your entry fee.\nSo, that'll be just "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 10 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to get in!"
+  Talk_1106:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 12
+    - text: "Too bad, Ms. Heroine."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " We all fail from time\nto time."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Don't be too hard on yourself."
+  Talk_1013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "You can rent what you need from the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Korok Trial weapon set
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". I'll take it back\nonce you're done."
+  Talk_1107:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you wanna give it another shot, save\nup your rupees and come see me again!"
+  Talk_1014:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Uh oh, Ms. Heroine..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYou don't have enough rupees!"
+  "0000":
+    - text: Sounds good to me!
+  Talk_0002_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 2
+    - text: "I'll get everything ready for you!"
+  "0001":
+    - text: "Nah, I'm cool."
+  Talk_0002_2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "If you can reach the goal in under\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 62
+            string: ShieldofKolog_mini_BestTime_L
+            field_3: 0
+    - text: ":"
+    - control:
+        two:
+          type19:
+            field_1: 62
+            string: ShieldofKolog_mini_BestTime_M
+            field_3: 0
+    - text: "."
+    - control:
+        two:
+          type19:
+            field_1: 62
+            string: ShieldofKolog_mini_BestTime_S
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", there'll be a prize for you!"
+  Talk_0000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 6
+    - text: "Hey, Ms. Swordsman!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Congrats on\ncompleting the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Test of Wood
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nWasn't too hot for you, was it?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 19
+    - text: "Well, if you thought that was fun, how\nabout taking a crack at a trial that'll\nreally turn up the heat?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Don't worry, Ms. Heroine, you'll be doing\nthe same thing as before! The only\ndifference is how long you have to do it.\nIf you can make it to the goal within\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five minutes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you'll get a prize!"
+  "0002":
+    - text: "I'm in!"
+  Talk_0001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "Oh, OK."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nJust come back again if you change\nyour mind!"
+  Talk_1000:
+    - text: "You made it in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 62
+            string: ShieldofKolog_mini_ThisTime_L
+            field_3: 0
+    - text: ":"
+    - control:
+        two:
+          type19:
+            field_1: 62
+            string: ShieldofKolog_mini_ThisTime_M
+            field_3: 0
+    - text: "."
+    - control:
+        two:
+          type19:
+            field_1: 62
+            string: ShieldofKolog_mini_ThisTime_S
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  "0003":
+    - text: "I'll pass this time."
+  Talk_0002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "OK, cool!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "The rules are the same as before.\nEquip the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and\nmake it to the shrine in the back."
+  Talk_1001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Wow, a new record!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Congrats, Ms. Heroine!\nI knew you'd be great at this!"
+  Talk_1001_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: All right!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You made it here "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "within five\nminutes"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", so you get a prize!"
+  Talk_1002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Ta-daaa!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Congrats, Ms. Heroine!\nHope you like it!"
+  Talk_0004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Hi there, Ms. Heroine!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWanna take the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Test of Wood
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "You just gotta make it to the goal within\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "five minutes "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: to win a prize!
+  Talk_1001_2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: All right!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You made it to the goal faster\nthan your previous time, so you get a\nprize!"
+  Talk_1003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Let me know if you wanna try to break\nyour record!"
+  Talk_0005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Hey-hey, Ms. Heroine!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWelcome to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Test of Wood
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "The current record is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type19:
+            field_1: 62
+            string: ShieldofKolog_mini_BestTime_L
+            field_3: 0
+    - text: ":"
+    - control:
+        two:
+          type19:
+            field_1: 62
+            string: ShieldofKolog_mini_BestTime_M
+            field_3: 0
+    - text: "."
+    - control:
+        two:
+          type19:
+            field_1: 62
+            string: ShieldofKolog_mini_BestTime_S
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nWanna try to shatter it?!"
+  Npc_Kokiri011_R_001:
+    - text: I hope you studied!
+  Talk_1100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Oops, I almost forgot! I need to collect\nthat gear you borrowed.\n\nI'll go ahead and take you back to the\nstart, too. Hold on tight!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYaaaa-hooooooeeeyyy!!!"
+  Talk_1008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "You didn't manage to beat your own\nrecord, but you did get a pretty good\ntime. Here's a consolation prize!"
+  Talk_1101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "So, do you wanna give it another go?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'll need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to cover the gear."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Talk_1009:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "That's it!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n\nSorry, Ms. Heroine, but you didn't finish\nwithin five minutes, so you're done. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nTry harder next time!"
+  Talk_1102:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "So, do you wanna give it another go?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "With the weapon rental discount, that'll\nbe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 10 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Talk_1103:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "All right! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'll just get us back to the start."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: Aaaaand...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYaaaa-hooooooeeeyyy!!!"
+  Talk_1010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Gosh, that's too bad."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You didn't beat\nthe current record."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Well, I'll hold on to the prize for now.\nYou'll beat it next time!"
+  Talk_1104:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, no problem."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSee you next time, Ms. Swordsman!"
+  Talk_1011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I'll just need a security deposit of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "20\nrupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to cover the cost of the gear\nrental."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Sound fair?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_1105:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Aw, did you think I'd just leave you here?\nI'd never leave you hanging, Ms. Heroine!\nLet's go back to the start!\nAaaaand..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYaaaa-hooooooeeeyyy!!!"

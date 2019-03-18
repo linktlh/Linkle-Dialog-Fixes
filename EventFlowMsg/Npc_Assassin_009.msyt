@@ -1,0 +1,235 @@
+---
+entries:
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Perhaps that is for the best...\n"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Some things may be better off\nleft unknown."
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: Like...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "how today is the day your life\nis ended!"
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I have to say... Your visage looks just as\ntroubled as ever."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Perhaps a glimpse of\nyour future will ease your worries?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "What do you think? Shall I tell you\nyour fortune?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Excellent...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Now then, let me see...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: I see
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: black.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " So much blackness..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nA deep, dark abyss, drawing you in..."
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: Ah!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It's the void you're about to inhabit."
+  Henshin00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1077936128
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: NOW DIE!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 60
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Excuse me, young traveler, but if I may\nbe so bold... You look quite troubled.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Perhaps a glimpse into what your future\nholds would bring comfort to your spirit?\nThat is...may I tell you your fortune?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: "Yes, please!"
+  Henshin01:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1077936128
+    - text: For Master Kohga!
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 60
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0001":
+    - text: "I'll pass."
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Ahh, very good. Now let me see...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I see...red... A crimson...deep and rich...\nIt's the most beautiful color I've\never seen..."
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "Oh! It's the color of your blood!"
+  Near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 1
+              - 205
+    - text: "Greetings, traveler."

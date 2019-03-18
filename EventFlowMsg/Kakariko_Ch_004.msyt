@@ -1,0 +1,481 @@
+---
+entries:
+  Talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You brought some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: fireflies
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for me,\ndidn't you?! Show me, show me!"
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Thank you!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "But...I'm afraid there aren't enough.\n"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "There are so few, they disappear\ntoo quickly to enjoy.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It would be nice if you could find more\nbefore morning..."
+  Talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Ahhhh, I'm sooo tired! I'm eager to relax,\nso maybe we can chat at my place?"
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Hm? Your pouch is...glowing? "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Could it\nbe you brought me some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: fireflies
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm actually crazy busy right now..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nMaybe you could come by my house later?"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Hm? Is your pouch...glowing? "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Could it\nbe you caught some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: fireflies
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I just got home, so..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "can you please give\nme a moment to settle in?"
+  Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Huh? That glowing... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Could it be you\ncaught some?! Show me, show me!"
+  Talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Seriously?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Well...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I suppose there are a lot of\ncrazy things in this world that are\nhard to grasp.\nOh, my name's Lasli. I run a clothing\nshop in the village with my older sister,\nClaree. You should stop by sometime."
+  Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "*sigh*\n\n\nThey say the roads are dangerous at\nnight, so I have to come straight home\nwithout searching for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: fireflies
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\nI miss them so much. And the night sky...\nNow it's the same tired thing every night.\nI'm so sick of it...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If only the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "fireflies "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "would come to play\nhere so I could still see them..."
+  Talk01:
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hey! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Who do you think you are?!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nDon't you think it's rude to barge\ninto a lady's room at night?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Huh?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Isn't that "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah Slate
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n\nCould it be "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "that you're the legendary\nswordswoman grandma told me about?\n"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "The one from the Great Calamity?!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Huh.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I thought you'd be A LOT older.\n"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Honestly, it's hard for someone as young\nas me to imagine the Great Calamity...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "But...judging by the look on your face,\nI suppose it's hard for you to imagine\nit too?"
+  Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "They glow so prettily...\nIt's magical..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  Near00:
+    - text: "Hello, firefly..."
+  Near01:
+    - text: "Hello, firefly..."
+  "0000":
+    - text: "You're pretty too."
+  Talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Heehee! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: Thanks!
+  "0001":
+    - text: "They don't live long."
+  Talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Ugh! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: You are SO unromantic...
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "*sigh* "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I wish those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "fireflies "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "would come\nplay near my house..."
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: Wow!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\nLook at all those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: fireflies
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Thank you... This is all I have to offer,\nbut please accept it with my gratitude!"

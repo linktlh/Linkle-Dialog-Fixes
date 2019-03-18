@@ -1,0 +1,205 @@
+---
+entries:
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: "How's the treasure hunt going?\nDid you find it yet?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\nDon't forget, \""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "The treasure sleeps in the\ncenter of the golden triangle"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\"\n"
+  Near04:
+    - text: "Maybe I'll go to bed."
+  "0001":
+    - text: "I'm busy."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "So? Will you look for the sunken "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: treasure
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nin my place?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I see. Come on back when you change\nyour mind."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "I couldn't be happier to hear it."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nNow, according to the old tales...\n\n\""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "The treasure sleeps in the center of the\ngolden triangle"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\""
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\nOh, by the by, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "do you happen to have a\nboat?\n\nIf not, I can lend you my raft."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt's tied up at the wharf. Help yourself."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: You really found it?!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Ho ho! Incredible!\nAfter all these years, people still manage\nto surprise me.\nYou know, there might be some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: treasure
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthat yet sleeps in this ocean. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "A diligent\ngirl like you could get rich finding it...\nMay all your delving end in gold!"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "I'm going to bed now. If you need\nsomething, please come back tomorrow."
+  Near01:
+    - text: "*yawn...*"
+  talk04:
+    - text: Zzz...
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "On rainy days like today, it's best to stay\naway from large bodies of water.\n\nIt can be lonely out there."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nDon't do anything reckless."
+  Near02:
+    - text: Nice winds today.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "There are tales passed down of sunken\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "treasure "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in the ocean around here...\n\nI would look for it myself if I were a bit\nyounger, but I've grown old...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "But you look like you have a young pair\nof legs and a strong back. Do you want\nto go look in my stead?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Near03:
+    - text: "Rain, rain, go away..."
+  "0000":
+    - text: "I'm on it!"

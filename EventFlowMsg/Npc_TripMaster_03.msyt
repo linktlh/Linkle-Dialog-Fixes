@@ -1,0 +1,104 @@
+---
+entries:
+  talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Oh!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I knew I'd see you again."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI think that technically makes you\nmy stalker!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " HAHAHAHA!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "But seriously, I'm going to have to ask\nyou to stop following me around.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: Who am I kidding?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I love the attention!"
+  TerrorArrow:
+    - text: Please stop!
+  TerrorLightning:
+    - text: AHHH!
+  TerrorBomb:
+    - text: WHOA NOW!
+  TerrorGuardian:
+    - text: Hyeeeeeeehh!
+  TerrorHorse:
+    - text: Whoa!
+  ClearTerrorEnemy:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: Phew...
+  TerrorInsect:
+    - text: NOT BEES! AHHHH!
+  TerrorFire:
+    - text: "I don't like fire!"
+  TerrorExplosion:
+    - text: Haaaaeeeeee!
+  TerrorEnemy:
+    - text: Eeeeeeeeek!
+  TerrorSword:
+    - text: Owww!
+  TerrorAnimal:
+    - text: Get back!
+  ClearTerrorGuardian:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: That was scary...
+  Near:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: Love is the answer...
+  TerrorImpulse:
+    - text: Ohhh!

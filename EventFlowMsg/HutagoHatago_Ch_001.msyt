@@ -1,0 +1,467 @@
+---
+entries:
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "They're wild, so 'til you calm 'em, it's\ngonna be one crazy ride. But there's no\nfeeling quite like taming a wild stallion!\nTrust me—I took second place in the\nHyrule Horse-Taming Competition!"
+  Talk_14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "The great Rensa will never run nor hide!\nWhen you have the confidence to face\nme, we'll see who is the best!"
+  Talk_TimerCK_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Wh-what?!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "To think that my second-place record\nin the official Hyrule Horse-Taming\nCompetition was broken so easily..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Although to be fair, the only participating\nathletes were me and my brother..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "But by the Goddess, I admire your drive!\nI really need to get serious about taming\nhorses.\nAnyway, here's the purse for winning the\nsecond official Hyrule Horse-Taming\nCompetition! You earned it."
+  Talk_16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The closest villages are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Kakariko Village
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Village
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 10
+            field_4:
+              - 0
+              - 2
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This area is chock full of wild horses.\nAny one of them will do!"
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "My record is two minutes flat, so you\nneed to bring back a wild horse within\nthat time.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: PREPARE FOR EXTREME TAMING!
+  Talk_18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hateno Village is on the east end of\nHyrule.\n\nIt hasn't been affected much by the\nCalamity, so it's a relatively quiet little\nplace.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "...Give or take the occasional uppity\nscholar...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Just follow the road north until it forks,\nthen take the road east the rest of\nthe way.\nIt's pretty far on foot, but it takes only a\nday or so on horseback."
+  Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Wild horses are a bit skittish, so you\nneed to sidle up to them nice and\nquiet-like."
+  Talk_19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So how about it? You ready for that\ncompetition now?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 5
+            field_3: 6
+            field_4: 7
+            field_5: 8
+            field_6:
+              - 0
+              - 3
+  Talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Amazing!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "But...I can't believe you beat my\ntwo-minute record so easily...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I mean, I won second place in the Hyrule\nHorse-Taming Competition! To be fair, it\nwas just my brother and I competing...\nAnyway, here's the purse for winning the\nsecond official Hyrule Horse-Taming\nCompetition! You earned it."
+  "0010":
+    - text: Hateno Village?
+  Talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "Hahaha! Breaking the two-minute mark is\npretty tough, right?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But don't be discouraged. I mean, it took\nme years of practice to place second in\nthe Hyrule Horse-Taming Competition."
+  Talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You want to try again to beat two\nminutes? Or did you need something\nelse?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 5
+            field_3: 6
+            field_4: 7
+            field_5: 8
+            field_6:
+              - 0
+              - 3
+  Talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 2
+    - text: "Aaaaaand time's up!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAww, better luck next time..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  "0003":
+    - text: Uhh... OK.
+  "0004":
+    - text: Sorry. I have to go.
+  "0005":
+    - text: "It's on!"
+  "0006":
+    - text: Wild horses?
+  "0007":
+    - text: Nearby villages?
+  Talk_20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "That's the spirit!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The only rule is that you have to bring a\nwild horse back to this spot within the\ntime limit!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "LET'S GET IT ON!"
+  Npc_SouthHateru006_H_Near000:
+    - text: "I'll be waiting till whenever."
+  Npc_SouthHateru006_AreaOut_01:
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: Greeting_00
+    - text: "Hey, where are you going?"
+  "0008":
+    - text: Never mind.
+  Npc_SouthHateru006_AreaOut_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you go too far, then I can't record\nan accurate time.\n\nCould you try to stay at least somewhat\nnear the stable?"
+  "0009":
+    - text: Kakariko Village?
+  Talk_22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I guess there's more competition out\nthere than I knew about."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Maybe Hyrule\nisn't all bad after all!"
+  Talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "HEY!\nI saw that look you gave me!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Fine!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't believe me? Let's go, lady!\nYou and me. Right here. Right now.\n\nYou want to challenge the second-place\nHyrule Horse-Taming Competition winner\nto a tame-off?! YOU GOT IT, LADY!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  Talk_11:
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 0
+    - text: "Wh—\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "WHAT?!\n\n\nYou would dare turn down a challenge\nfrom me, the "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: second
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: " greatest horse \ntamer in the world, Rensa?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: WELL!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Uh... I guess there's not much I\ncan do about that.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "It's only natural that the title of \"Hyrule\nHorse-Taming Competition Runner-Up\"\nwould strike fear in your heart.\nBut I, Rensa, would never run or hide!\nCome back when you have the \nconfidence to challenge my taming skills!"
+  Talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "That's the spirit!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The only rule is that you must bring a\nwild horse back to this spot within the\ntime limit!"
+  Talk_13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "So then. Are you ready to start?\nOr did you...need something else\nentirely?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 5
+            field_3: 6
+            field_4: 7
+            field_5: 8
+            field_6:
+              - 0
+              - 3

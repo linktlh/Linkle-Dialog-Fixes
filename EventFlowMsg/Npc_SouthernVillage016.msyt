@@ -1,0 +1,98 @@
+---
+entries:
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Hrm...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 120 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... I may have gone\na little overboard. Could you return it?"
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "What are you even trying to say?\nDon't talk to people like they're lightning\nrods or something!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "...You know, you could just protect me."
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: Hee...
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "*swooooon*"
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "And when she's wet from the rain...\nShe's even more beautiful..."
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hey! I can hear you! You should follow\nthrough on what you say you're going\nto do!"
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: Hey!
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Feel free to say more nice things about\nme, now!"
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Um... Please be wary of lightning.\nIf anything were to happen to you, I'd..."

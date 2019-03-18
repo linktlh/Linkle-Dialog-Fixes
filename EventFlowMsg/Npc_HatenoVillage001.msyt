@@ -1,0 +1,1316 @@
+---
+entries:
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Yeehoo! What a wonderful tone that is!\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I might try that out on one of my outfits!
+  talk36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "Now! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'll dye your clothes to the color\nof your choosing for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". That\nincludes all consulting fees!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 7
+            field_3: 8
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  talk53:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You look dashing!
+  talk37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I can also "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: remove color
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " from dyed\nfabric so your clothes will be restored to\ntheir original, if not drab, luster."
+  talk54:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's downright miraculous what a\ndifference a new set of duds makes."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYou're looking very chic!"
+  talk55:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Only "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "the clothes you're wearing that can\nbe dyed"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " will change color!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Are you sure\nyou wanna go with this outfit?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 10
+            field_4:
+              - 0
+              - 1
+  talk38:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Welcome to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Kochi Dye Shop
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", where we\nlive to dye!"
+  talk39:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "And the total price is "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "just "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nSo now..."
+  talk56:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Let's get this right on our first dye!"
+  "0001":
+    - text: "Yes, dye!"
+  "0002":
+    - text: Wear clothes.
+  "0003":
+    - text: "No, thanks."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Welcome! If you were looking to add\nsome color to your wardrobe, you found\nthe right place! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Hue do you do?
+  "0004":
+    - text: OK!
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Oh, no, no, no, no, no."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm sorry, but you\ndon't have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: Come on back some other time.
+  "0005":
+    - text: Choose again.
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "OK then,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " that'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  "0006":
+    - text: "Actually, never mind."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Oh, no, no, no, no, no. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You don't even\nhave any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dye ingredients
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Come back later and we'll set you up."
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Do you find this palette-able?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " If you'd\nlike to do a redye, just let me know!"
+  "0007":
+    - text: "Let's do it!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Come 'round again! Every day is a good\nday to dye!"
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hateno dyeing "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is a traditional craft of\nHateno Village. In days past, we'd\nuse our own prepared "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dye ingredients
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "But these days, there are so many\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monsters
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " about, that it's difficult for\nus to gather "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ingredients
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... \n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "That's why we switched to the customer\nbringing us the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dye ingredients
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and in\nreturn, we have a small service charge."
+  "0008":
+    - text: Tell me more.
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "All right! Choose your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "dye color "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: wisely!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nOr do you want to change clothes again?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 9
+            field_3: 10
+            field_4: 6
+            field_5:
+              - 0
+              - 2
+  "0009":
+    - text: Choose a color.
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Wonderful. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Now go wait up there.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'll just be a minute."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: Thanks for the business!
+  talk40:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Hrm...I think nature's dye is pretty much\nas intended. Not much to do about that.\n\nPut some clothes on and we'll talk!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 6
+            field_4:
+              - 0
+              - 1
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: Yeehoo!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " We made something very special\nhere if I do say so myself!"
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "You're wearing some clothes you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "actually\ncan't dye"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Is that OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 10
+            field_4:
+              - 0
+              - 1
+  talk41:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "These rainy days remind me of the most\nromantic date I ever went on.\n\nThere we were, standing in the soaking\nrain, and I got down on one knee to\npropose. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Couldn't have timed it better!"
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm pretty sure that's \nfrom the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: research lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", no?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I wonder what that ol' "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "director "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is up to\nthese days!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "I've always thought that director was real\nsketchy if you ask me! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Suspicious outfits!
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Oh, we can't dye "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: those clothes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIt's a fabric thing. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Wanna change?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 6
+            field_4:
+              - 0
+              - 1
+  talk42:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Hee har ha! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "If you're not a pigment of\nmy imagination, you must be a customer!"
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That belongs to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "director "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: research lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", right?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: What is that weirdo up to these days?
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Hrm... You don't have any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "clothes that\ncan be dyed"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Come back after you\ndevelop your wardrobe a bit."
+  talk43:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: All right now... Hold your breath!
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Hmm... You don't quite have enough\ningredients to dye to that color."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Sorry!"
+  talk44:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "All right now... Stay like that and don't\nmove a muscle!"
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Choose "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " ingredients you'd like to use\nin your dye!"
+  talk45:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: All right now...hold on to your britches!
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: Did you want to try another color?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Or do\nyou want to stop here?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 11
+            field_4:
+              - 0
+              - 1
+  talk46:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hue we go!
+  talk47:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "It's the Hateno tradition to dye a\nperson's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: whole outfit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", from head to toe,\nall at once!"
+  talk48:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Get ready! Because we are going to dye
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nall the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "clothes you're wearing"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " at once!"
+  talk49:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Another great day to dye that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "whole\noutfit"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " all at once!"
+  "0010":
+    - text: Change clothes.
+  "0011":
+    - text: Quit.
+  "0012":
+    - text: Back to the original.
+  "0013":
+    - text: Use these clothes.
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Which dye color would you like?
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Come back again. Every day is a good\nday to dye!"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you have any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dye ingredients
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", it's\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to dye an item..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That includes\nour service charge, of course.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Let's get going and dye your getup to\nthe color of your choosing!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 7
+            field_3: 8
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Sometimes it's necessary to reset\neverything! Throw it all out the window!\n\nLet's go right back to the way things\nwere, shall we?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Simpler times.\n\nThe clothes you're wearing now...are\nthose the ones we'll be changing? Or do\nyou need to change into something else?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 13
+            field_3: 10
+            field_4: 6
+            field_5:
+              - 0
+              - 2
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "Here we go! For "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "20 rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "total, I'll\ndye your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: clothes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " here to the color of\nyour choosing! \nOr would you like to get back to square\none and change your clothes back to\ntheir original color?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 1
+            field_3: 8
+            field_4: 12
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So will it be the clothes you're wearing\nnow? Or do you need to change?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 13
+            field_3: 10
+            field_4: 6
+            field_5:
+              - 0
+              - 2
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "All right, choose your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "dye color "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "or go\nahead and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: change clothes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 9
+            field_3: 10
+            field_4: 6
+            field_5:
+              - 0
+              - 2
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "What do you know, you don't even have\nany "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dyed clothes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Let's get some color\ngoing here!"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: "I love the fact that someone so young is\nso interested in our unique "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno dyes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "It is indeed part of my duty to keep the\nyoung people from losing their interest\nin the tradition..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Let me give you all the colorful details of\nhow the magic works!"
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "All right, let's reset everything! OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk50:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 10
+    - text: "It's time to tint! Another day to dye that\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "whole outfit "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: all at once!
+  near01:
+    - text: Greetings and saturations!
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Wow! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Absolutely chromatic!
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "Well this isn't so bad!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "If you have need of my services at any\npoint,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " don't hesitate to call on me!"
+  talk51:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "And?! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: How is it?
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: By the tints!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " We hardly ever get this\ncolor to come out!"
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: "Hrm? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "But the clothes you're wearing\nhaven't been dyed yet!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Change your clothes or forget about it.\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Your choice!
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 11
+            field_4:
+              - 0
+              - 1
+  talk52:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You look great!

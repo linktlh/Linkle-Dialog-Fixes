@@ -1,0 +1,697 @@
+---
+entries:
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "The \"divine beat\"?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Oh! You mean that\nlizard monster, don't you?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "That thing "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "caused such a ruckus for us!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Thanks to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Yunobo
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " peace has finally\nbeen restored!"
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: What do ya mean?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " More importantly,\nI hope ya made it past all those\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: magma bombs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " without injury!"
+  "0000":
+    - text: How did you know?
+  "0001":
+    - text: Gotta go.
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Hey there!
+  "0002":
+    - text: A Divine Beast.
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: See ya!
+  "0003":
+    - text: Pleasure!
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Well, whatever brought ya here doesn't\nreally matter. Welcome, sister!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "Because of this extreme heat, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I actually\nhaven't seen any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " around lately...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Welp, their loss! Enjoy your stay,\nlittle lady!"
+  "0004":
+    - text: Business.
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Business, eh?\n\n\nIn the old days, you could easily find\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: jewels
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in Goron City. To us, they're just\ngross snacks that are hard to eat. Yuck!\nSounds nuts, but lots of people actually\nbuy those abominations at a high price.\nCrazy, I know. But it's true!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I don't get it, but that's why the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boss
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand Goron City make lots of money\nsellin' that weird food to crazy folks."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Huh. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Sorry, I don't really know anything\nabout all that business.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you're lookin' for info, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I bet the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boss
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nknows a thing or two about it."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Well, lookee here...\n\n\nWelcome, Lady Linkle!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I hear there are some valuable jewels on\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Death Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "No one goes near there these days,\nso you could probably go dig it all up\nwithout much competition."
+  near00:
+    - control:
+        zero:
+          type1:
+            field_1: 2
+            field_2: 1
+    - text: Hrmmm...
+    - control:
+        zero:
+          type1:
+            field_1: 2
+            field_2: 65535
+  talk01:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Justice at long last!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "To be honest, we haven't had too many\nvisitors here since those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: magma bombs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nstarted fallin' from the sky.\nI'd be bored to tears if I didn't pass the\ntime pretendin' to greet the long lost\nHylian "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Champion
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", heh."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: What brings ya all the way out here?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5: 1
+            field_6:
+              - 0
+              - 3
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Well, just visiting is well and good, but..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\ncan you really bear this heat?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "There are some goods that might suit a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hylian "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "tourist like you.\n\nIn fact, fire-resistant armor can\nbe purchased at a shop called\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ripped and Shredded
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIf that doesn't do it for ya, I also saw\nsomeone sellin' "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fireproof elixir
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou should go check it out."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, in case ya didn't know, Linkle is the\nlittle "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hylian "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "who fought alongside the\nGoron "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Champion
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", Daruk.\nIf ya wanna hear more, talk to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boss
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nHe lives further in town."
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "By the way, lady... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I think you came at\na good time!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ever since that lizard monster lurking on\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Death Mountain "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "was tamed, it's safe\nagain. That means you can take it easy!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Then again, it may be safe, but it's still\npretty darn hot..."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "Hm? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I thought you said you were here for some\n\"divine bees\" earlier? Maybe I'm crazy..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Hey there.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Nice day, isn't it?"
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Huh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Didn't you say somethin' about being here \nfor pleasure before?"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Hey there.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It's hot out here. Again."
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Huh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Didn't you say somethin' about being here \nfor business earlier?"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Hey there.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Even the evening is hot..."
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I don't know anything about a\n\""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diving feast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\" or whatever...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I do know "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Boss "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "drives a lizard monster\naway with a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: cannon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", so you should ask\nhim if you wanna know more about that.\nBy the way, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Boss "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is the old guy that lives\nin the deepest part of town."

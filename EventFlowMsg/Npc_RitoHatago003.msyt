@@ -1,0 +1,487 @@
+---
+entries:
+  "0003":
+    - text: I have to go now.
+  talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Oh, I'm wrong? I'm wrong!\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: OK. Gra ha hah!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0004":
+    - text: I climbed it.
+  talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Come on...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You know!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nTHE THING!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Climbing
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " the"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " snowy"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " mountains!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I was confident I could handle the cold,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nso I didn't wear anything special, but the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hebra Mountains "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "are REALLY cold!\nLike seriously cold! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Cold enough to send\nyou to your grave, I'd say! So be careful\nout there, yeah?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: GRA HA HA HA!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0005":
+    - text: Not yet.
+  talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: Ice cold!
+  talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "Well, another day, another challenge!"
+  talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 20
+            string: Wakeup_00
+    - text: Welp...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm gonna get to sleep!"
+  talk_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Zzzhaha...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Zzzhaha..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Har har! My girl!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Did ya already climb that snowy\nmountain?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 4
+            field_3: 5
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "Hey hey, my girl!"
+  talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 23
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "HURRRR?!\nAnd you didn't die or nothin'?"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\nI s'pose you made it over to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " at the base of the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hebra Mountains
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " too?\nI'll admit it."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm mighty jealous.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Gra ha ha!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Ah, then I'll let you in on a little\nsomethin'!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\nI hear there's a little play area for the\nRito people at the base of the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hebra Mountains
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIt's called the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nMan, I wanna go play there!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: Gra ha ha!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Gra ha!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Well look who it is!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "So you're here to do that thing, right?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYou know what I'm talkin' 'bout!"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "0000":
+    - text: "That's right."
+  "0001":
+    - text: No way.
+  talk_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: Gra ha ha!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " My girl!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "You're here to do..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "THE THING,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " right?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "0002":
+    - text: The...thing?
+  talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: HUH?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You actually understood what I\nwas sayin'?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You got some sorta\nsidekick powers or somethin'?"

@@ -1,0 +1,216 @@
+---
+entries:
+  talk010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Car-go! Car-go! Helping out!\n\n\nHey, miss. Do you put your cargo in\nyour pouch?\n\nDidja hear the rumor about how the\nforest people can give you a bigger\ninventory? Didja?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You heard?! Yaaaay!\nNow we're friends!\nNow we're friends!\nI hear you can collect things the forest\nchildren drop! What do you think their\ndroppings look like?"
+  talk100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Rain, rain, drippity drip...\nI should bring Mr. Goat inside too."
+  talk012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "You haven't heard?! I heard about it from\na fairy!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "He said, \"If you're nice to a really big\nforest kid, he'll make your inventory\nbigger!\"\nI don't know what an inventory is, but\nbigger is always better if you ask me!"
+  talk013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Car-go! Car-go! Helping out!\n\n\nI wonder if the big forest kid ever leaves\nthe forest..."
+  talk020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: ♪Horsey!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Horsey!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'll make you a BED!♪"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n♪Horsey!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Horsey!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Rest your head!♪\n\nI heard that song from some guy who\ncame by here riding a REALLY \ncool-looking horse!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 2
+            field_3:
+              - 1
+              - 205
+  near001:
+    - text: ♪Poopy poop pooooop!♪
+  talk021:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "He also said that there's a small secret\ntunnel just west of the castle entrance.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "And that if you go through that tunnel,\nyou can get INSIDE the castle!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\nBut the man also said not to go near\nthe castle because it's dangerous.\n\nThat goes for you too, miss!"
+  "0000":
+    - text: I did hear that.
+  talk022:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: ♪Horsey!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Horsey!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'll make you a BED!♪"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n♪Horsey!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Horsey!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Rest your head!♪\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I heard there's a small tunnel west of the\ncastle entrance."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\nBut no matter how fast your horse is,\nyou shouldn't go there because it's too\ndangerous!"
+  talk200:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 31
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Mmm... Mmm...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0001":
+    - text: "I hadn't heard that."
+  talk201:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I helped out...\nI...I'm sleepy..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Mr. Goat, Mr. Goat! \nEat that grass, eat that grass!\n\nFill up on that go-go grass,\nand then dash super go-go fast!\n\nGet it in your guts! And run like nuts!\nWith a healthy! Heaping! Helping!"
+  "0002":
+    - text: "That's nice."

@@ -1,0 +1,43 @@
+---
+entries:
+  TerrorHorse:
+    - text: Gah!
+  TerrorArrow:
+    - text: Stop it!
+  Challenge000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Ah, we meet again!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI trust you're keeping well?"
+  TerrorFire:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorSword:
+    - text: Knock it off!
+  TerrorExplosion:
+    - text: WAAAAAA!
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "It's almost as if you possess the \nability to see into the future..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0

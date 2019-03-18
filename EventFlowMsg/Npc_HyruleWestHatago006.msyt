@@ -1,0 +1,162 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Huh?! An "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient shrine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " thingie\nappeared? Who'da thunk that platform\nthingie was hidin' a mystery like that!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I guess that means I have to solve the\nmystery of the shrine thingie now."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ancient shrine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThe mystery deepens..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Oooh, I don't have time to be lookin'\nafter mountain goats right now..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You stayin' here at our stable?\nThat's nice, but check this out.\n\nGo way out south of here, and you'll \nfind a flat hill called "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Washa's Bluff"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "On that hill, there's this mysterious-\nlookin' platform thingie..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\nMe and Geggle tried all day to figure out\nwhat it does, but we're stumped..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Oooh, I don't have time to be drinkin'\nright now..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you want to see the platform thingie, \ngo south toward "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Washa's Bluff"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: There was this one...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Rito
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " guy that went\nflying to the south after I told him about\nit.\nHe was a big ol' bard with some fancy\ninstrument thingie. He probably wanted\nto see the altar thingie himself."

@@ -1,0 +1,38 @@
+---
+entries:
+  Talk006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I never could figure out how to\nsneak in..."
+  Talk007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Oh, wow! You're really cute!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: I mean...um...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Oh, geez, I don't know\nwhy I just up and said that..."
+  Talk008:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 31
+              - 205
+    - text: Zzzmmm...

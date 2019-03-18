@@ -1,0 +1,892 @@
+---
+entries:
+  Talk_101:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        four:
+          type1:
+            field_1:
+              - 31
+              - 205
+    - text: Snrrk... Snrrk...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's starting to get colder... Is this when\nI'm supposed to go into the desert?\n\nIt doesn't feel so bad right now, but the\ndesert gets really, really cold at night.\n\nYou've absolutely got to have clothing\nthat resists the cold weather, or you'll be\nin serious trouble.\nOh, and there are more monsters out at\nnight too. Desert monsters are\nparticularly fierce, I've heard.\nIf only I had that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\nI'm sure I'd be all right then..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  Talk_021:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Man, I just cannot make up my mind\nabout this \"go into the hot and cold\ndesert\" thing.\nI'm not in any rush, though. Maybe I'll\nmake a decision tomorrow. Maybe..."
+  Talk_022:
+    - text: "I want to go to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Desert
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but...\n\n\nIt gets "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: scorching hot
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " during the day and\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: freezing cold
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " at night. And then there are\nall the monsters to worry about, too...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "If you dress right, you can mitigate\nhow much the climate affects you,\nof course.\nBut with the gear I've got, those\nmonsters would have me for lunch faster\nthan you can say, \""
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "AHHHHHHHHHHHH!\"\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "*ahem*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It'd be a different story if I had\nthat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " I keep hearing\neveryone talk about..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Talk_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "So the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "winterwing butterfly "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "this\nweird guy is selling..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nI hear that mixing it with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster parts
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwill produce an elixir that can improve\nyour heat tolerance...\nShould I buy one? Should I not buy\none? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "...Such a hard choice."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 4
+            field_4:
+              - 0
+              - 2
+  Talk_012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Yeah, I could forget about it..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt is either blazing hot in the day or\nbitterly cold at night.\nIf you haven't got the right clothing for\nhot and cold weather, you're just\nthrowing your life away...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "And of course, when you add monsters\njust rolling around all over the place...\n\nUgh, I must sound like such a sheltered\nperson right now. I'm just not one to\npick a fight I can't win, you know?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Although... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "If I had that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nthen maybe even I would stand a\nchance..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  Talk_013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "So the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "warm darner "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "this weird guy is\nselling..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nI hear that mixing it with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster parts
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwill produce an elixir that can improve\nyour tolerance to cold...\nShould I buy one? Should I not buy\none? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "...Such a hard choice."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 4
+            field_4:
+              - 0
+              - 2
+  Talk_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "The temperature in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Desert
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nswings dramatically between the day and\nnight.\nIf you haven't got the right clothing for\nhot and cold weather, your health will\ncertainly suffer.\nSpend too much time in a temperature\nyou can't handle and your goose is\ncooked. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Or frozen, I guess.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "Even horses don't like going into the\ndesert. That really tells you something...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "And of course, when you add monsters\nto that mix... It's just a nightmare of a\nplace.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That's what got me thinking that having a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " would make a serious\ndifference. I'd be safe with that."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  Talk_014:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "That's the thing... I could buy one, but...\n\n\nWhen the desert gets extremely cold at\nnight, I'm sure I'll wish I'd bought the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "warm darner "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "instead.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But right now...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Also... I only have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 19 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0000":
+    - text: Hot and cold? Really?
+  Talk_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I'm talking about the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthat's supposedly sleeping in a forest in\nHyrule, awaiting its owner's return.\nI thought it was a pretty well-known\nstory..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You've never heard it?\n\nWell, anyway... I think it's in the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Great Hyrule Forest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in the Eldin region.\n\nFairies live there, and someone once told\nme that if you enter their forest, they'll\nget you all turned around and confused.\nIf the legendary sword does exist, I'd\nlove to even just get to see it, just once.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But I get lost in the woods when there\naren't fairies messing with me, so I'd\nnever survive the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Hyrule Forest
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  Talk_015:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Yeah, but...\n\n\nWhen the desert gets extremely hot\nduring the day, I'm sure I'll wish I'd\nbought the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "winterwing butterfly "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "instead.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Also... I only have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 19 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  "0001":
+    - text: A legendary sword?
+  Talk_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "The temperature in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Desert
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nswings dramatically between the day and\nnight.\nIf you haven't got the right clothing for\nhot and cold weather, your health will\ncertainly suffer.\nSpend too much time in a temperature\nyou can't handle and your goose is\ncooked. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Or frozen, I guess.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "Even horses don't like going into the\ndesert. That really tells you something...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "And of course, when you add monsters\nto that mix... It's just a nightmare of a\nplace.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That's what got me thinking that having a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " would make a serious\ndifference. I'd be safe with that."
+  Talk_016:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I mean, yeah, but...\n\n\nThe desert also gets hot during the day,\nso I can't just get the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: warm darner
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nI'm pretty sure I'd need the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: winterwing butterfly
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " too.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "And at the moment... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I only have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "19\nrupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  "0002":
+    - text: Gotta go.
+  Talk_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I'm talking about the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: legendary sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthat's supposedly sleeping in a forest in\nHyrule, awaiting its owner's return.\nI thought it was a pretty well-known\nstory..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You've never heard it?\n\nWell, anyway... I think it's in the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Great Hyrule Forest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in the Eldin region.\n\nFairies live there, and someone once told\nme that if you enter their forest, they'll\nget you all turned around and confused.\nIf the legendary sword does exist, I'd\nlove to even just get to see it, just once.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But I get lost in the woods when there\naren't fairies messing with me, so I'd\nnever survive the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Hyrule Forest
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  Talk_017:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Yeah, but I keep thinking...\n\n\nThe desert at night also gets cold, so I\ncan't just get the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: winterwing butterfly
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nI'm pretty sure I'll need the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: warm darner
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " too.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "And at the moment... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I only have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "19\nrupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  Talk_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Y'know, a capable adventurer..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "is one\nwho considers the big picture and\ndoesn't just act rashly. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Right?
+  Talk_018:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, you came along at just the right\nmoment."
+  "0003":
+    - text: Why not do it?
+  Talk_019:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Y'know, a capable adventurer..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "is more\nconcerned with the reality of a situation\nthan the romantic notion. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Right?
+  Talk_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hey, we meet again!"
+  "0004":
+    - text: No way.
+  "0005":
+    - text: Why not buy one?
+  Talk_008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You should hear about what I've been\ngoing through.\n\nSo I've really been struggling with\nwhether or not I should venture into the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Desert
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 4
+            field_4:
+              - 0
+              - 2
+  Talk_009:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "You've never heard of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "legendary\nsword"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? The one that can only be wielded\nby the chosen heroine? Weird...\nWell, personally, I think it must be in the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Great Hyrule Forest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in the Eldin region.\n\nI mean, the whole reason they call it the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Lost Woods "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is because you always lose\nyour way and end up back at the start.\nIf someone wanted to hide a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "legendary\nsword"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", is there really a better place than\nthat to do it?\nBut I get lost in the woods without magic\nmaking it happen, so there's no way I'm\ngoing in there."

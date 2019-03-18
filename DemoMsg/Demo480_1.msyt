@@ -1,0 +1,58 @@
+---
+entries:
+  DragonFirstEncounter01:
+    - text: "You who have overcome numerous trials\nand obtained the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Spirit Orbs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  DragonFirstEncounter02:
+    - text: "The one you see before you is an \nattendant to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Spring of Wisdom
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". \nThis is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Naydra
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", the blue spirit of Lanayru.\nThis servant of the Goddess has looked\nover the spirits of this land for ages,\nunknown to the world of man.\nHowever, the dreaded Malice unleashed\nby Calamity Ganon has possessed its\nbody and reduced it to this state."
+  DragonFirstEncounter03:
+    - text: "You who have received the Spirit Orbs...\nFree "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Naydra "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "from this Malice.\nShow what your power can achieve!"
+  DragonFirstEncounter00:
+    - text: "You have done well to find your way to\nthis spring."

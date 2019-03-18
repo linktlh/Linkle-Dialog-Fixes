@@ -1,0 +1,22 @@
+---
+entries:
+  QL_UotoriMini_SinkTreasure_Desc:
+    - text: "The retired fisherman Rozel lives a quiet life,\nspending each day simply staring at the sea.\n\nHe shared a legend of a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: sunken treasure
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ":\n\n\"The treasure sleeps in the center of the\ngolden triangle.\"\n\nI should check it out."
+  QL_UotoriMini_SinkTreasure_Salvage:
+    - text: "\"The treasure sleeps in the center of the\ngolden triangle.\"\n\nI pinpointed the location referred to by\nthe legend and retrieved the treasure from\nthe waters off Clarnet Coast.\n\nI should tell Rozel the good news."
+  QL_UotoriMini_SinkTreasure_Name:
+    - text: Sunken Treasure
+  QL_UotoriMini_SinkTreasure_Finish:
+    - text: "Rozel looked happy when he heard about\nthe treasure.\n\nThe idea that there may be more treasure\nstill waiting in the ocean depths tickles my\nsense of adventure."

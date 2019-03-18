@@ -1,0 +1,75 @@
+---
+entries:
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 42
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Stay away...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nPlease... Do not come any closer..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Help me!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Heeeeelp meeeee!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "...Oh, you're not a monster. You're just\nyou."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I thought you were one of these\nimpertinent monsters for a moment..."

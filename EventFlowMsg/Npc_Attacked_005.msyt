@@ -1,0 +1,513 @@
+---
+entries:
+  Near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: Phew...
+  Talk01_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "There are some weird stories going\naround about that Kilton character."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHe's obsessed with monsters.\nThey say he does all kinds of hair-raising\nresearch with them and came up with\na bunch of strange stuff as a result.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I kind of want to meet him at least once\nto see if the rumors are true, but he's\na hard guy to track down."
+  "0000":
+    - text: "I've heard of him."
+  "0001":
+    - text: "Doesn't ring a bell."
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "So you're probably wondering what that\nstuff is."
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's called monster extract."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " A guy\nnamed "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Kilton
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " brews this stuff up at\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIt's a kind of flavoring that makes any\nfood taste amazing."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I know it's made of\nmonsters, but it's good stuff."
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Hmph... I would have been fine on my\nown."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You probably expect a reward,\nhuh? Unbelievable."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Fine. Here."
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You seem to get around. You know much\nabout this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Kilton
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and his "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "So, what, you saw the sword and shield\nand thought, \"She looks like she needs\nme to save her\"? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Whatever...
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 18
+    - text: "OK, I admit you helped. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I didn't need it,\nso don't expect any thanks, but you can\nhave this if you want."
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Huh! And here I thought he was more\nobscure than that."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Well, I'll tell you what\nlittle I know. Take this for helping me."
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Well, you sure made that simpler than it\nwould've been otherwise. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I should do\nsomething to thank you, I suppose."
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 32
+    - text: "Thanks... I might've bitten off more than\nI could chew with that one."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I don't have much, but take it. It's yours."
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Are you interested in finding out more?\nI could use some help with the hunt.\nTake this, too, for helping me."
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I see you can handle yourself in a fight.\nSo can I...most of the time. "
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I wish I had more to give you than this,\nbut times are tough all over, right?"
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "One source I trust says he's most often\nfound at a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: skull-shaped lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in Akkala,\nbut I don't know the place."
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Apparently, he shows up after dark\nwhere you least expect him. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It could\nbe anywhere in the world.\nBut mark my words...I'll find him\nsomeday!"
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "You've MET him?! Lucky you! I've been\nhunting for him forever!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Is he as\nobsessed with monsters as I've heard?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "They say he does all kinds of hair-raising\nresearch with them and came up with\na bunch of strange stuff as a result.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I'd love to meet him at least once to see\nif the rumors are true, but he's a hard\nguy to track down."
+  After00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Kilton
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is way more\ninterested in researching monsters than\nany normal person should be.\nI'd kind of like to meet him just to see\nwhat kind of weirdo loves monsters\nTHAT much."
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm so embarrassed you had to rescue\nme AGAIN. Ugh."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Anyway...\n\nI haven't given up the search for that\nKilton guy and his "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but I\nhaven't gotten anywhere yet either."
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "This one's all mine!"
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 22
+    - text: "It's a Guardian! Time to go!"
+  After01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "The most reliable tip I've heard for\nmeeting him is to hang around a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "skull-\nshaped lake "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: out near Akkala.
+  Talk00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "I see you've got some monster extract."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nDo you know where to find "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Kilton
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and his\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fang and Bone
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", then?"
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Hmph... I would've sworn I could take\nthat thing. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I must be slipping...
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "What's the matter? Come and get me!"
+  After02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "He's been sighted all over the place now,\nnot just Akkala. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Should I be worried?
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "The creepiest part of the stories is how\nhe's supposed to pop up out of nowhere\nonce night falls.\nI'm not as sure as I used to be that I\nactually want to meet him..."
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Oww... What hurts worst is my pride for\nletting them get the drop on me.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: Never again!

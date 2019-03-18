@@ -1,0 +1,407 @@
+---
+entries:
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: I know a song about this place.
+  TerrorHorse:
+    - text: Whoa!
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Would you like to hear the ancient verse\npassed down in this region?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: We meet again!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt's good to see you well."
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 19
+    - text: Hmm?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Oh, did you want to hear my\nsong?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "Greetings, traveler. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: How about a song?
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Excellent!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWithout further ado..."
+  Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Have you heard of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ancient songs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nof Hyrule?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  TerrorArrow:
+    - text: Stop it!
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Thank you for listening.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nPlease come back and hear it again\nsometime."
+  Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 8
+    - text: Th-
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: that there...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: on your hip!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "No, I'm sorry—"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "it's nothing."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI didn't mean to pry."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 6
+            field_4:
+              - 0
+              - 2
+  TerrorFire:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: I see...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Well, do let me know if you\nchange your mind."
+  Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Allow me to introduce myself.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nMy name is Kass."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm a bard traveling\nthis land in search of ancient songs."
+  "0000":
+    - text: "Let's hear it."
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: Have you...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: never met a Rito before?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Odd."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: My name is Kass.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " As a bard, I spend my\ndays traveling this land in search of\nancient songs."
+  "0001":
+    - text: Not right now.
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 24
+    - text: Ancient songs—
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "songs that sing the \npraises of a hero who beat back the\nCalamity in an age past."
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I happen to know a song about the\nancient hero. It was passed down to me\nby my teacher."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Do you care to hear it?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0002":
+    - text: Ancient songs?
+  "0003":
+    - text: No...
+  TerrorExplosion:
+    - text: WAAAAAA!
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Ah, we meet again!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm glad to see you in one piece.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - text: "We're actually very close to my\nhometown of Rito Village, and I must\nadmit I'm feeling incredibly homesick."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 13
+    - text: "I had to leave my wife and children back\nin the village. I'm sure they're doing\njust fine..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "But you see, I cannot go home until\nI fulfill my promise to my teacher."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 4
+            field_3:
+              - 1
+              - 205
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 13
+    - text: My promise to...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nOn second thought, now is not the time.\n\nBut if I'm able to learn all of the ancient\nsongs..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I will tell you of my promise,\nback in my hometown.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: But listen to me blathering on.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI need to focus on my craft."
+  "0004":
+    - text: Promise?
+  "0005":
+    - text: Are you a...bird?
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "One of the more famous among them\nrecounts the events of 10,000 years ago."
+  "0006":
+    - text: No worries.
+  TerrorSword:
+    - text: Knock it off!

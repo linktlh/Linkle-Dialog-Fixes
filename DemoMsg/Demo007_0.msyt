@@ -1,0 +1,23 @@
+---
+entries:
+  Demo007_0_Text000:
+    - text: Sleep until...
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "0000":
+    - text: Morning.
+  "0001":
+    - text: Noon.
+  "0002":
+    - text: Night.
+  "0003":
+    - text: Never mind.

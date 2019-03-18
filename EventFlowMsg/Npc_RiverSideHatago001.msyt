@@ -1,0 +1,23 @@
+---
+entries:
+  Talk_ChallengeEnd02:
+    - text: "I think I'll continue to practice my\ncooking on unsuspecting inn patrons like\nyourself."
+  Talk_ChallengeEnd00:
+    - text: "Looks like there are still a lot of recipes\nout there that I don't know yet.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "It feels like the world of cooking extends\nendlessly past the horizon, just like\nHyrule itself."
+  Talk_ChallengeEnd03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: "What?!\nYou discovered another recipe?"
+  Talk_ChallengeEnd01:
+    - text: "Recipes of the Hyrulean royal family...\nIf there are more of them out there,\nI'd like to try them."

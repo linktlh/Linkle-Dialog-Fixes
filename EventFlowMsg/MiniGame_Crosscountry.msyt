@@ -1,0 +1,1190 @@
+---
+entries:
+  AtGoal_01_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: "Your time was "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type19:
+            field_1: 78
+            string: MiniGame_Crosscountry_Current_Minutes
+            field_3: 0
+    - text: "."
+    - control:
+        two:
+          type19:
+            field_1: 78
+            string: MiniGame_Crosscountry_Current_Seconds
+            field_3: 0
+    - text: "."
+    - control:
+        two:
+          type19:
+            field_1: 88
+            string: MiniGame_Crosscountry_Current_MilliSeconds
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I wasn't REALLY trying my best..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but a \nbet is a bet!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Here's your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: reward
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for a\nrace well run!"
+  AtGoal_00_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Done!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: Wait...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You're done too?\nYou were done...first? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Hrm...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThat means I lose..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  AtGoal_01_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Nice!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " My time was "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type19:
+            field_1: 78
+            string: MiniGame_Crosscountry_Current_Minutes
+            field_3: 0
+    - text: "."
+    - control:
+        two:
+          type19:
+            field_1: 78
+            string: MiniGame_Crosscountry_Current_Seconds
+            field_3: 0
+    - text: "."
+    - control:
+        two:
+          type19:
+            field_1: 88
+            string: MiniGame_Crosscountry_Current_MilliSeconds
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "You did OK, but if you're ever gonna beat\nme, you've gotta try harder than that!"
+  "0010":
+    - text: "Then I'll continue."
+  0005_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Yesss!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: " Now you're getting into the\nspirit of things!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'll go set things up.\nDon't go anywhere!"
+  0002_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Yahoo!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: " Now we're talking! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "This is\nfantastic!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " But every challenge has to\nhave some stakes.\nI'll bet you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I can beat you in\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: race
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". You have to pay first, though!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 6
+            field_4:
+              - 0
+              - 1
+  0005_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: OK!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: " Thanks for waiting!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm so ready\nI could burst, and I bet you are too!\nSo let's begin..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: race
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  0002_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Yahoo!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: " Now we're talking!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " This is\nfantastic! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Why don't you put down\nanother "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: race
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " me again?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 6
+            field_4:
+              - 0
+              - 1
+  0005_03:
+    - text: "The goal is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "flags on top of the \nmountain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " There's only two of us, so the\nrace ends once someone reaches them!"
+  "0014":
+    - text: One more time!
+  "0002":
+    - text: "You're on."
+  0004_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Noooo!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " What a letdown..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: " I thought I'd\nfinally met a tough girl with some real\npotential. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Guess I thought wrong.
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  0005_04:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: One more thing!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You could probably\nguess this already, but this is a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: foot race
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nnot a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: hoof race
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIf you ride your horse or run away from\nthe goal instead of toward it, you'll\nbe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: disqualified
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  "0015":
+    - text: "I've had enough."
+  0014_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Woooo-hooo!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I love this girl!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " \nAll right!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Same rules as before. Whoever reaches\nthe goal first wins!"
+  "0004":
+    - text: "I don't feel like it."
+  0005_NotEnoughMoney:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Oops!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I don't race without those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "20\nrupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on the line. Why don't you go\nget some so we can finally race?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'll be waiting!"
+  "0005":
+    - text: "Let's get started."
+  0005_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: And now...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "it's time!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Get ready..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  0006_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: What?!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You're giving up before we\neven start?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Yikes...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "You'll never get\nanywhere in life with that attitude!"
+  0009_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Whew!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "If you ever want to go again,\nI'd jump at the chance!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " See you around!"
+  0005_08:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Go!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 30
+  "0006":
+    - text: You lost me.
+  Halt_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Whoa, whoa, whoa!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "This is a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "foot\nrace"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", not a hoof race!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "No horses\nallowed"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Hey... That means I win by default!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Halt_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: One more time!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Maybe I wasn't clear\nenough before, but a race is all about\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: reaching the goal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: your own two feet
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "In other words,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " running the wrong way\nor getting on your horse means you're\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: disqualified
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Initial_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Hey, friend!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "You look like a tough girl.\nBut how tough are you? Tough enough\nto challenge me to a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: race
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 4
+            field_4:
+              - 0
+              - 1
+  Halt_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: What the heck?!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Where do you think \nyou're going?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If you're not racing\ntoward the goal, you're just running!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "And that doesn't do anyone any good..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: race is off
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Why don't you come back\nso I can explain the rules again?"
+  Initial_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Hey, friend!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Sure, horses are\nconvenient and fast, but what about\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: standing on your own two feet
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\nDon't you think it's important to exercise\nyour legs too?"
+  AtGoal_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Wheeee!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I did it!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I won!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You gotta\ngive those flat feet some exercise if you\never wanna beat me, friend!"
+  Initial_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm itching to challenge you to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: a foot race
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but you need to get off\nyour high horse first! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Please? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: For me?
+  0015_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Aww.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "That's..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: not the answer I hoped for...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  AtGoal_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Whew! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "So...wanna race again? "
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 14
+            field_3: 15
+            field_4:
+              - 0
+              - 1
+  0015_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Use all that traveling you do as a\nchance to build up your leg muscles!"
+  0014_NotEnoughMoney:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Whoops!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "You need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " if you\nwanna "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: race
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"

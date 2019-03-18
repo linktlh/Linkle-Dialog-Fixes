@@ -1,0 +1,69 @@
+---
+entries:
+  FirstTower_00:
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 55
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 62
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Linkle...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "\n\n\n"
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 67
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Linkle.\n\n\n"
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 154
+    - text: "Head for the point marked on the\nmap in your Sheikah Slate."

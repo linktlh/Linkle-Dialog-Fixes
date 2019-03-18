@@ -1,0 +1,645 @@
+---
+entries:
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Heeey! Welcome!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou here to buy something for dinner?"
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Heeey! Welcome!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nGot a case of the midnight munchies?"
+  Com_Talk_10:
+    - text: "You want that, then?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Sorry, but I don't have anything left\nto sell today.\n\nI can still buy stuff from you, though.\nYou interested?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  Com_Talk_11:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Thank you!
+  Com_Talk_13:
+    - text: "That's what you're selling?\nHow many? "
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5500
+            field_3: 5508
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  Com_Talk_14:
+    - text: "So that's..."
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " of them.\nI'd say "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: is a fair price. OK?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_15:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "I can't take that off your hands."
+  Com_Talk_16:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "I can't buy something you're wearing!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nTake it off, and then sell it to me!"
+  Com_Talk_11b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: Thanks for your business!
+  Com_Talk_11c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Thank you! You're helping me out a \nbunch!"
+  Com_Talk_11d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: Thank youuu!
+  "0000":
+    - text: "I'll buy."
+  "0001":
+    - text: "I'll sell."
+  "0002":
+    - text: Quit
+  Com_Talk_33:
+    - text: Only one?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Heeey! Welcome!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou're a new face!"
+  Com_Talk_05b:
+    - text: "I'll buy anything off ya!"
+  Com_Talk_34:
+    - text: "All of them? OK... That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: "\nrupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I think. Agreed?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "Come again!\nI'll be waiting!"
+  Com_Talk_00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - text: What will ya sell me?
+  Com_Talk_05c:
+    - text: "Don't hesitate to sell me stuff!"
+  Com_Talk_35:
+    - text: "Every last one, eh? That'll be\na total of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Thanks for your business!
+  Com_Talk_01:
+    - text: "You're gonna sell me that?\nIt'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_05d:
+    - text: "I'll buy a lot of different things from ya!"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Fresh fish! Just recently caught!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nTake a look!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Com_Talk_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Thank you!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAre you gonna sell me anything else?"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "If you want something, just let me know\nby standing in front of it and selecting it!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "You need more?\nI'll be sure to get some \nmore for next time!"
+  Near00:
+    - text: Affordable and delicious!
+  Com_Talk_04:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Oh, that's too bad."
+  Com_Talk_50:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Is that OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_02b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: Thank you!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'll take anything you don't need off\nyour hands!"
+  Near01:
+    - text: You stop that!
+  Com_Talk_05:
+    - text: "I'll buy anything!"
+  Com_Talk_51:
+    - text: How many would ya like?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5502
+            field_3: 5507
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  Com_Talk_02c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: You make me so happy!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'll keep buying stuff from you if\nyou bring it to me!"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Heeey! Welcome!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThanks for coming by on such a\nrainy day!"
+  Com_Talk_52:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "So that's..."
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: " in total. That'll\nbe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Sound good?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_02d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Thank you very much!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nDid you need anything else?"
+  "5500":
+    - text: Yes.
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Heeey! Welcome!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI just got fresh stuff in this morning!"
+  Com_Talk_53:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Oh, you've changed your mind?\nWhat a shame."
+  "5501":
+    - text: No.
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Heeey! Welcome!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nKnow what sounds good on such a hot\nday? Some fish! What do you think?"
+  Com_Talk_54:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "You don't have enough rupees!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nCome back later!"
+  "5502":
+    - text: "I'd like to buy."
+  Com_Talk_55:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: You have so much stuff!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nOrganize your stuff, make some room,\nand then come back!"
+  "5503":
+    - text: Never mind.
+  Com_Talk_56:
+    - text: "Only one? That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  "5507":
+    - text: "I'll take 'em all!"
+  "5508":
+    - text: All of them.

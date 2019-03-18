@@ -1,0 +1,691 @@
+---
+entries:
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: cobble crusher
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: cobble crusher
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nor a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You need more pieces of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Look, ya don't have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: cobble crusher
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nand ya don't have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and you don't\nhave enough pieces of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "If ya don't have everything I need,\nthen I can't do anything for ya.\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "If ya want another "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boulder Breaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nbring me a"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " cobble crusher"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five pieces
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nof "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk23:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Diamonds "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "are a precious ore you can't\neasily find, even around these parts.\n"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: You sure ya want me to do this?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hmph. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Come back when ya want me\nto forge it again."
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Right. I'll get started, then."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWait over there."
+  near00:
+    - text: Hmph! Hmph!
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: Hmph.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I must say... I did a great job!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nGo on, take it."
+  near01:
+    - text: Well then...
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Hey...
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 6
+            field_3:
+              - 1
+              - 205
+  near02:
+    - text: Phew...
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I've got work to do. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Outta my way!
+  near03:
+    - text: "*snort*"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 6
+    - text: "...What are you starin' at?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You want this?
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  "0000":
+    - text: Sorry!
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 6
+    - text: "...I'm workin' here. Buzz off."
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Here's one I screwed up... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou can have it."
+  "0001":
+    - text: Good-bye.
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Hmph...
+  "0002":
+    - text: Please?
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 4
+    - text: "...What now?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "So...you're the one to inherit the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boulder Breaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", eh?\n\nI wonder if a pip-squeak like you can\nhandle Daruk's sword...\n\nWell, whatever. It is what it is."
+  "0003":
+    - text: "No, thanks."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: Time for some shut-eye...
+  "0004":
+    - text: Yes.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hmph...
+  "0005":
+    - text: No.
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "You're distractin' me!"
+  "0006":
+    - text: "I'm sorry?"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "If ya don't need anything, get outta here."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Again and again...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I can't stand it."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "I don't have time to deal with\nyour nonsense!"
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Pull yourself together!
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If ya lose or break the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boulder Breaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nand ya want me to make another one...\n\njust bring me a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: cobble crusher
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "five pieces "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Oh... Looks like ya don't have the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boulder Breaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". You'd better look and\nsee if ya dropped it somewhere."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "Looks like ya don't have the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Boulder Breaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\nIf ya want a new one, I'm gonna need\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: cobble crusher
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "five pieces "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nand a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."

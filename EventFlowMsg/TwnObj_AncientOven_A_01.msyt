@@ -1,0 +1,174 @@
+---
+entries:
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 14
+    - text: "Insufficient materials available\nfor exchange."
+  "0002":
+    - text: Make exchange.
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 14
+    - text: "Insufficient rupees available\nfor exchange."
+  "0003":
+    - text: Change exchange.
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 14
+    - text: No room in inventory.
+  talk09:
+    - text: OK.
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Hello, *zzzt*, "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: FamiliarNameMissing!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWelcome!"
+  talk10:
+    - text: "Hey hey, *beep*,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " FamiliarNameMissing!"
+  near00:
+    - text: "*zzzzzzrt*"
+  talk01:
+    - text: Insert materials and rupees.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nReceive ancient equipment in exchange."
+  near01:
+    - text: Materials required.
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: Thanks for your time.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Come\nagain, *bwop*,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " FamiliarNameMissing!"
+  near02:
+    - text: Systems green.
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "Exchange for "
+    - control:
+        two:
+          type11:
+            field_1: 42
+            string: Shop_SelectItemName
+            field_3: 0
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  near03:
+    - text: Optimal conditions.
+  talk04:
+    - text: "Exchanging... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "*beeeeeep beep*"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nExchanging... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "*beeeeeep beep*"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk05:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: Results available.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n*bweep* "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100

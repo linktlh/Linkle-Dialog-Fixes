@@ -1,0 +1,76 @@
+---
+entries:
+  Npc_oasis040_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Barta hasn't returned in many days...\nCould she have been captured by those\nthieves?\nNo, the sandstorms out near the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Karusa Valley "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "have been bad. I'm\ncertain she's gotten lost or stranded.\nI'm worried for her..."
+  Near_Raimei_001:
+    - text: "Aw, I want a helm, too..."
+  Npc_oasis040_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Let's see...am I forgetting anything?\nI've got to remember the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: hydromelons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: That still leaves sunscreen... And...
+  Npc_oasis040_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I am truly glad that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Barta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " made it\nback safely!\n\nShe said she was eating bananas on the\nway home. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I wonder where she found\nthem..."

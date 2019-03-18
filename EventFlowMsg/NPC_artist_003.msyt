@@ -1,0 +1,55 @@
+---
+entries:
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "A canyon painstakingly carved out by the\nmighty wind over countless years..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWhat a magnificent sight to behold."
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: Hmm. This picture...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Oh! Isn't this the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Kara Kara Bazaar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "It's an oasis just outside Gerudo Town.\nIf you head southwest from here,\nyou can't miss it."
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "It's a great place, just brimming with an\nexotic atmosphere. It's certainly worth\nvisiting at least once in your life."

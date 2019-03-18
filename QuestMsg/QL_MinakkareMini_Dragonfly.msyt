@@ -1,0 +1,148 @@
+---
+entries:
+  QL_MinakkareMini_Dragonfly_Name:
+    - text: "Little Sister's Big Request"
+  QL_MinakkareMini_Dragonfly_LittleSister:
+    - text: "Gleema told me that she loves dragonflies\nabove all other insects, but Jana can't stand\nthe sight of them. Now I understand why\nGleema can't tell her sister what she wants.\n\nI'll have to tell "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Jana
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " so the two of us can\ndecide what to do."
+  QL_MinakkareMini_Dragonfly_Desc:
+    - text: "Jana wants to give her insect-loving little\nsister, Gleema, a birthday gift. But no matter\nhow many times Jana asks, Gleema won't tell\nher what kind of bug she wants.\n\nI should talk to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Gleema
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for the full story."
+  QL_MinakkareMini_Dragonfly_Give:
+    - text: "I gave Gleema the warm darner,\ncold darner, and electric darner.\n\nIn her excitement, she forgot herself and\nrushed to show Jana. Can "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Jana
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s nerves\ntake the strain?"
+  QL_MinakkareMini_Dragonfly_Dragonfly:
+    - text: "Despite Jana's severe aversion to dragonflies,\nshe's determined to give her little sister\nthe birthday gift she wants.\n\nI must bring "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Jana
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " one "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: warm darner
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", one "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: cold darner
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nand one "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: electric darner
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  QL_MinakkareMini_Dragonfly_Through:
+    - text: "Unsurprisingly, Jana couldn't bring herself to\ntake the dragonflies from me.\n\nI'll give "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Gleema
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: warm darner
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: cold darner
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: electric darner
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " myself."
+  QL_MinakkareMini_Dragonfly_Finish:
+    - text: "I gave Gleema the warm darner,\ncold darner, and electric darner.\n\nJana gave me a reward for all my trouble."

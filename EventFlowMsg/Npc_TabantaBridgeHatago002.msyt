@@ -1,0 +1,157 @@
+---
+entries:
+  "0002":
+    - text: "I'm sure it does."
+  talk40:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "I wonder if the Boom-Bam Ghost of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Tabantha Great Bridge "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: likes the rain...
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 2
+            field_4:
+              - 0
+              - 1
+  talk41:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 18
+    - text: "You think so? I'm worried about the\nghost because it's not saying\n\"BOOM-BAM! BOOM-BAM!\" anymore..."
+  talk50:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        four:
+          type1:
+            field_1:
+              - 31
+              - 205
+    - text: "Boom... Bam...\nZzz..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "BOOM BOOM!\nBAM BAM!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: Uh... What?
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Buddy, you don't know?!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThe BOOM-BAM GHOST of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha Great Bridge
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nUnder the bridge, at the bottom of the\nvalley, there's a ghost that makes weird\nnoises like \"BOOM-BAM BOOM-BAM!\"\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Just listen and you'll hear it."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n...Huh?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It stopped...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 19
+    - text: "Maybe the Boom-Bam Ghost is taking\na nap."
+  "0001":
+    - text: BOOM BAM!
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: BOOM-BAM! BOOM-BAM!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100

@@ -1,0 +1,37 @@
+---
+entries:
+  Near_Raimei_001:
+    - text: So jealous...
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: Halt!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThis isn't a place someone like you can\nwalk in and out of whenever you like!\nIf you don't want me to skewer you right\nhere, you'd better leave at once!"
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "You've got permission to enter\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s bedroom?!\n\nWho ARE you?"

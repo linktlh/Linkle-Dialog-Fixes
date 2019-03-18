@@ -1,0 +1,676 @@
+---
+entries:
+  Talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 31
+    - text: "Despite all that,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " only one has returned\nto me!\n\nMy poor little Cuccos..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm sure that\nwherever they are, they're as lonely\nas I am... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Please find them quickly!\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "For their sake...and for mine, as well..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: Really?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: My poor little Cuccos...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI hope they aren't scared..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "*sniffle*"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: My poor little Cuccos...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThey must feel so alone and afraid.\n\nBah,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I need to get back to work."
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The Sheikah tribe has been serving\nHyrule's royal family for ages.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "But after the Great Calamity and the\nking's death,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " the Sheikah tribe was\nsplit in two.\nSome became part of the dishonorable\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Yiga Clan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "and those fiends are after\nour beloved leader, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady Impa
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That's why we stand guard every day.\nWe must protect "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lady Impa
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  Talk12:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 31
+    - text: My poor Cuccos...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Thank you so much!!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nI have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10 "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Cuccos total. Hopefully you'll\nbe able to find them all..."
+  Talk01:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Ms... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Ms. Linkle...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 31
+    - text: "But I don't have even a single one left..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nSomewhere out there,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " my poor Cuccos\nare lost and lonely..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Please! Hurry up\nand bring them back to me!\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "For their sake...and for mine, as well..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I should have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10 "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: Cuccos total.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Even just\none unaccounted for won't do!"
+  Near00:
+    - text: How could this happen...
+  Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "Now that my wife wants nothing to do\nwith me,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " my Cuccos are my only\nemotional support...\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Waaaah... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: What do I doooo...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: WHAAA?!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Near01:
+    - text: My precious Cuccos...
+  Talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 31
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: AAAARRRRGH!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  "0000":
+    - text: "I'll go find them!"
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "...Oh. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I see.\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: I just want...to go home.
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk05:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: My Cuccos...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "\nMy precious Cuccos..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0001":
+    - text: "They'll come back..."
+  Talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: My little Cuccos...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " They're probably so\nscared and lonely...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: NO!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I must stay focused."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I must fulfill\nmy duty no matter what!"
+  Talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 31
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "They haven't come home yet!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Waaahhh... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Ms. Linkle...\n\n\nCould it be that my little Cuccos have\nstopped loving me"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " just like my wife?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nMy Cuccos... It can't be so..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWhere are you, my sweet Cuccos..."
+  "0002":
+    - text: Cucco update!
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I should have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10 "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: Cuccos total.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Even just\none unaccounted for won't do!"
+  "0003":
+    - text: Stay strong.
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I should have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10 "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: Cuccos total.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Even just\none unaccounted for won't do!"
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: My wife left me a while ago...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAll this time I've been waiting\nfor her to come back.\nHa. Joke's on me."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Ha... Ha ha...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 31
+    - text: "Sadly, only "
+    - control:
+        two:
+          type15:
+            field_1: 48
+            string: Kakariko_Kokko_Counter
+            field_3: 0
+    - text: " have returned to me."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nTo think that somewhere out there,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\neven one of my poor Cuccos\ncould be lost and lonely..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nPlease! Hurry up and bring them back to\nme!\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "For their sake...and for mine, as well..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100

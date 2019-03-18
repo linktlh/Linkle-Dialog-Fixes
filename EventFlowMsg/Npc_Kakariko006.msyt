@@ -1,0 +1,1420 @@
+---
+entries:
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Did you enjoy that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fortified pumpkin
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Ha! You've got a keen eye to pick\nthat one."
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I'm so glad my beloved pumpkins are\nuseful to somebody.\n\nI'll work extra hard to grow an even\nbetter batch next time!"
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 13
+    - text: Mmm...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "It's really delicious, though..."
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Ha!
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "You wanna buy a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fortified pumpkin
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\ndon'tcha? "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: Of course ya do!
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " As it were,\nI'm heading to the fields right now...\nMind waiting just a bit longer?"
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "What are you doing out in the middle\nof the night?"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n\nAs for me, the first step to achieving\ngreat defense is training your legs.\nThat's why I'm running at this hour.\nTraining is the best way to learn the\nsecret art of defense, after all."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 25
+    - text: "Sorry, lady. It's dinnertime now."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIf this is about my pumpkins,\ncan it wait until tomorrow?"
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: The Sheikah tribe is exceedingly wise.
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nThat is because you cannot protect\nwhat you love with force alone.\nI know everyone has their own way of\nfighting, but please try to remember that."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  Talk06:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "That'll cost ya "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type16:
+            field_1: 34
+            string: PlacedItemPrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: ".\nInterested?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Long ago, a wise master known simply\nas the swordsman was enshrined—\nright in this village, no less.\nIt is said that if you overcome his trial,\nyou will master the secret art of defense.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "However, no one knows exactly what\nthis \"trial\" entails...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That is why I must stay vigilant with my\ntraining, so that I am ready whenever\nthis trial presents itself to me!"
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 21
+              - 205
+    - text: "My wife's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fortified pumpkin
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " dishes\nare the best.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Way better than a barrel o' carrots,\nthat's for sure!"
+  Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: There are savage old men out there
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " who\ndo nothing but prattle on about how the\nbest defense is a good offense...\nBut I know better. I believe that one\nwho masters the art of defense is the\nstrongest of all."
+  TerrorArrow:
+    - text: Respect your elders!
+  "0000":
+    - text: "I'll take it."
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Sorry to interrupt, but..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n\n\nThis plum garden is very special to \nmy wife."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Please be considerate\nof that."
+  Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Keep focusing on the enemy, and jump to\nthe side."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " We call this a side jump.\n\nHeh, see that? You get to look stylish \neven while minding your defenses!"
+  Talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: "OH! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Oh... It's you."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWh-what do you need?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 7
+            field_3: 8
+            field_4:
+              - 0
+              - 2
+  "0001":
+    - text: Bye.
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "Who's there?"
+  Talk21:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Fortified pumpkins "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "are Kakariko Village's\nspecialty."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I put my heart and soul into\nevery one of 'em. They're delicious.\nIf you want more, I can give you some."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nJust stop by the fields and say hello."
+  "0002":
+    - text: Tell me your secrets!
+  Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 23
+    - text: "Ha! It's rare to see a young lady\nlike you in a village like this!"
+  Talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's getting late. I should head home."
+  Near00:
+    - text: Want some pumpkins?
+  "0003":
+    - text: Not interested.
+  Talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Ha! That old geezer is as savage\nas ever.\n\nHe's always running around yelling\nnonsense like, \"The best defense is\na good offense!\""
+  Near01:
+    - text: "Rain won't stop ME!"
+  Talk18:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "Fortified pumpkins "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "make you stronger.\nI ask the old lady to keep 'em cookin'"
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - text: "\nso I can eat some every day."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 13
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0004":
+    - text: Secret art?
+  "0010":
+    - text: Backflip.
+  Talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 24
+    - text: "But being caught in the act "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "makes\nme realize what I've become...\n\nAs of today...I'll stop taking my anger\nout on the crops."
+  Talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 32
+    - text: "When I was young, I used to dash\nthrough the village like the wind.\n\nPeople knew me as the Olkin who never\nran out of breath, never slowed down.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "Unfortunately, you can't outrun aging...\nno matter how hard you train.\nTrust me, I've tried."
+  Near02:
+    - text: Aha ha!
+  "0005":
+    - text: Dodge jump.
+  Talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Jumping is one of the basics of dodging.
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nYou'll want to at least master these\ntwo skills."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 10
+            field_4:
+              - 0
+              - 2
+  Talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Ha! I'm just pullin' your leg!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You looked\nso serious,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I couldn't help but goad\nya a bit."
+  Talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If there are any other skills you'd like\nto learn, just let me know."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  Near03:
+    - text: Hyah! Hyah!
+  Talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "What are you doing out on\nsuch a rainy night?"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n\nAs for me, the first step to achieving\ngreat defense is training your legs.\nThat's why I'm running at this hour.\nTraining is the best way to learn the\nsecret art of defense, after all."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0006":
+    - text: Perfect block.
+  Talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Keep focusing on your foe, and then\njump back."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "We call this a backflip.\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Ha! See that? Even an old man like me\nknows what's hip and cool!"
+  SupriseHouse:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 19
+              - 205
+    - text: Baaah! Hm?!
+  Near04:
+    - text: I need to grow more...
+  Near10:
+    - text: I should head home.
+  TerrorBomb:
+    - text: A blue pumpkin?!
+  "0013":
+    - text: "Cookin'?"
+  "0007":
+    - text: I saw that...
+  Talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 13
+    - text: It seems...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "you caught me.\n\n\nI could never get along with Steen..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nno matter how I tried.\n\nEven when we'd go hunting together,\nI'd slowly crouch down to get close to\nour prey, but he'd just charge in yelling.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 7
+    - text: "\"Offense is kiiing!\""
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThat's what he'd bellow.\nAnnoyed the tar outta me.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "Needless to say, our prey always ran...\nOn top of that, he just refuses to sell\nmy pumpkins in his "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shop
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "But... My, what have I done?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI'm just so mortified..."
+  Near05:
+    - text: Another beautiful day...
+  Near11:
+    - text: "I'm exhausted today."
+  Talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "We call those who swear allegiance to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Calamity Ganon "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Yiga Clan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". They...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 15
+              - 205
+    - text: "Well, let's just say they don't take kindly\nto those who would stand against "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nIt seems they're active again, "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "ever since\nthat big earthquake the other day.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But don't worry. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I don't think you're part\nof that awful "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Yiga Clan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I can figure that\nmuch out just by lookin' at ya."
+  "0008":
+    - text: I saw nothing...
+  Talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: "Ha! Then I suppose all is well.\n\n\nHowever... I'm a tad busy right now.\n\n\nIf ya need something, mind coming\nback later?"
+  Near06:
+    - text: "Ah, the rain of life!"
+  Talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Use a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "fortified pumpkin "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in your cooking\nto make a dish as firm as my abs.\nFood like that will increase your defense.\nPutting lots of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "fortified pumpkin "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in the\ndish is key. Go on—experiment a bit!"
+  Talk41:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Sorry to bother you when you're having\na good time, but... "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Don't you think\nyou're going a bit overboard?\nThis plum garden is very special to\nmy wife."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Please be considerate\nof that."
+  "0009":
+    - text: Side jump.
+  Talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 22
+    - text: "You aren't..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "part of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Yiga Clan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nare you?\n\n..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+  Near07:
+    - text: So hungry...
+  Talk36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "There's a hotheaded geezer who says,\n\"The best defense is a good offense.\" \nPoppycock, I say!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I firmly believe the best offense\nis a good defense."
+  Talk42:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: WHAT ARE YOU DOING?!
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "What happened\nto the plum trees?!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "This plum garden is very special to my\nwife."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "She's going to be awfully sad...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "They might just be plums to you, but to\nsome people, they're little treasures.\n\nDon't you forget that!"
+  Near08:
+    - text: My stress just melts away!
+  Talk43:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oof, I worked my tail off today!\nNow time for some grub!"
+  Talk37:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        four:
+          type1:
+            field_1:
+              - 3
+              - 205
+    - text: "I'll protect you...my sweet wife..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Near09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Pumpkins are superior...
+  TerrorSword:
+    - text: Save the pumpkins!
+  Talk44:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 21
+              - 205
+    - text: "My wife's tough dishes"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "are made from\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fortified pumpkins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". They're out of\nthis world.\nThere are A LOT of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fortified pumpkins
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nin that recipe, I tell ya what."
+  Talk50:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 13
+    - text: You caught me again...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nI try to stop myself, but this grudge has\ngrown over the years. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "It takes me over.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "No! The past is behind me! It really is...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Still...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I just can't stand the fact\nthat he refuses to stock my\npumpkins at his "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shop
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Talk51:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "But whatever the reason may be, I plain\nshouldn't be doing such things...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 24
+    - text: "I've come to my senses now that you've\ncaught me again."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Thank you.\n\nAs of today...I'll stop taking my anger\nout on the crops."
+  Talk39:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Well, whaddaya know."
+  Talk45:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's raining now... I suppose I should\nhead home."
+  Talk46:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Phew! I worked my tail off today.\nI should warm up with some grub\nbefore I catch a cold in this rain."
+  Talk52:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 19
+              - 205
+    - text: "You... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "You're still here?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "A lot happened today, but it's the perfect\nnight to train and try to get my mind off\nthe foolish things that distract it.\nTraining is the best way to learn the\nsecret art of defense, after all."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk47:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm feeling worn out all of a sudden...\nProbably time to turn in."
+  Talk53:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: "That's a mighty fine pumpkin...\nYou'll get in big trouble if you\ntake it without permission.\nCome back when the owner is here."
+  Talk54:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Thank goodness!
+  Talk48:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: Hm?
+  Talk55:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Please don't hold it against me."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHere, take this in exchange."
+  Talk49:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 20
+              - 205
+    - text: "OH! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Oh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You're still here, eh?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 7
+            field_3: 8
+            field_4:
+              - 0
+              - 2
+  Talk56:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  SupriseHouse_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 18
+    - text: "Oh! It's you.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "No one's usually home, other than\nmy wife. So, yeah..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Don't scare me\nlike that!"
+  SupriseHouse_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0

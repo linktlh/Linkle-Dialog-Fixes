@@ -1,0 +1,108 @@
+---
+entries:
+  QL_HatenoMini_WhiteDragon_Play:
+    - text: "I freed "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Naydra
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", the guardian dragon of the\nMount Lanayru spring, from the darkness that\nhad overcome it.\n\nWhen "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Naydra "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "soared away into the heavens,\nit left behind "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Naydra's scale"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  QL_HatenoMini_WhiteDragon_Name:
+    - text: The Spring of Wisdom
+  QL_HatenoMini_WhiteDragon_Desc:
+    - text: "Medda, a resident of Hateno Village, told me\nthat there is a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Spring of Wisdom
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " somewhere on\nMount Lanayru, which towers to the north\nof the village. The story goes that long ago,\na princess used that spring for a purification\nceremony. \n\nMoreover, there are rumors of a fantastic\ntreasure hidden in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: spring
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  QL_HatenoMini_WhiteDragon_Step1:
+    - text: "I found no treasure but instead discovered\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Naydra
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", the Spring of Wisdom's guardian spirit,\nwho has been overtaken by darkness.\n\nI must break through the evil force possessing\n "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Naydra
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nto set this great spirit free!"
+  QL_HatenoMini_WhiteDragon_Finish:
+    - text: "When I tossed "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Naydra's scale"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " into the\nSpring of Wisdom, an ancient shrine appeared.\n\nFreed of the shackles of evil, Naydra flew\naway in peace."

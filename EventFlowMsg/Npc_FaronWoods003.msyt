@@ -1,0 +1,117 @@
+---
+entries:
+  near01:
+    - text: "Scary, isn't it?"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Thunder sure is scary, isn't it?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n\nSpeaking of! Have you heard the story,\nbuddy?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Some say that rumbling sound\nis the angry ranting of a dragon god!\nBut who knows if that's even true."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI've certainly never seen any proof!"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Hey, lady! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Got a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: map
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: I have one.
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "HUH? What special brand of loony\ndoes it take to go traveling without\na map?!"
+  near00:
+    - text: "Rain, rain, too much rain..."
+  "0001":
+    - text: "I don't have one."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So on this map of yours, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "do you see\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Dueling Peaks "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to the north of here?\n\nWell, apparently that used to be just one\nmountain a really long time ago.\n\nThe legends say a dragon god split the\nmountain in half to forge a way through,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nand that's how it went from one to two.\nRecently, some are even saying they've\nseen the shadow of a large creature on\nthe surface of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lake Floria
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nI wonder if any of that is true..."

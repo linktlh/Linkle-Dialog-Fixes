@@ -1,0 +1,372 @@
+---
+entries:
+  FirstTalk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "What brings a bright-eyed young girl\nlike you to a place like this?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2001
+            field_3: 2003
+            field_4:
+              - 0
+              - 1
+  FirstTalk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I hope you'll permit me a question..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIf I may be so bold...are you not chilly?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2001
+            field_3: 2003
+            field_4:
+              - 0
+              - 1
+  FirstTalk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "Answering a question with a question.\nThat is fair enough.\n\nAs I cannot imagine our meeting to be a\nsimple coincidence..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: I shall tell you.
+  Kokoha00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "This is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Plateau
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " According to\nlegend, this is the birthplace of the\nentire kingdom of Hyrule."
+  Kokoha01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: That temple there...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Long ago,\nit was the site of many sacred\nceremonies.\nEver since the decline of the kingdom\n100 years ago, it has sat abandoned,\nin a state of decay."
+  TerrorEnemy:
+    - text: Whoa!
+  Kokoha02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Yet another forgotten entity. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "A mere\nghost of its former self..."
+  TerrorArrow:
+    - text: What is this?!
+  FirstGoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Wait.
+  TerrorImpulse:
+    - text: Whoa!
+  ClearTerrorGuardian:
+    - text: That was close...
+  FirstGoodBye01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Where are you rushing off to now?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIs speaking with a strange old man truly\nsuch an awful use of your time?"
+  FirstGoodBye02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 14
+    - text: "Hmph. Well, do as you like, then."
+  Bokangi10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It suits you quite well!"
+  Bokangi11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "I assume you will want to try it on\nright away, yes?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\nI thought you might be eager to see\nhow it looks... It's quite fetching!\n\nWell, I suppose it matters not. It is\nyours now."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Do take care to put it on\nbefore you get too cold, though."
+  Bokangi13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "With that, you will be able to resist the\nbite of colder environments.\n\nAs for me, I know a great "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "spicy\nmeat and seafood fry "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "recipe, so I can\ndo without that warm doublet."
+  Near00:
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho!
+  TerrorInsect:
+    - text: Whoa!
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I look forward to seeing what type of\ntreasure you secure out there."
+  ClearTerrorEnemy:
+    - text: Hmm...
+  TalkHub1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho!
+  GoodBye01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: Oho ho!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If you still wish to acquire the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: paraglider
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you must put in the effort.\nI will not simply give it away, you see."
+  TalkHub1_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho!
+  TerrorGuardian:
+    - text: A Guardian!
+  "2000":
+    - text: Who are you?
+  "2001":
+    - text: Where are we?
+  "2003":
+    - text: Bye.
+  TerrorFire:
+    - text: Toasty...
+  TerrorExplosion:
+    - text: Huh?!
+  Tennokoe01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The blessing of the Goddess has made\nyou that much more resilient, I see..."
+  Tennokoe02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: Here I am...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nGet up here—quickly!"
+  NakedPlayer:
+    - text: "Aren't you...a bit chilly?"
+  TerrorSword:
+    - text: Easy there!
+  Anataha00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Me?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'll spare you my life story."
+  TerrorBomb:
+    - text: What is it?!
+  Anataha01:
+    - text: "I'm just an old fool who has lived here,\nalone, for quite some time now."
+  FirstTalk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Well met, stranger!\nIt's rather unusual to see another soul\nin these parts."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2000
+            field_3: 2003
+            field_4:
+              - 0
+              - 1
+  FirstTalk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "It is a bit strange to see another soul\nin these parts."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2000
+            field_3: 2003
+            field_4:
+              - 0
+              - 1

@@ -1,0 +1,681 @@
+---
+entries:
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "My name is Fugo.\n\n\nI've been trainin' hard "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "so that I can\ncarry on Master Rohan's work one day."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Igneo Talus "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is a huge beast whose\nbody is made of lava. There are a few of\n'em around "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Goron City
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI defeated a whole lot of 'em, but no\nmatter how hard I try, I can't reach\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Igneo Talus "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Darunia Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "That place is fairly close to Goron City,\nbut it's extremely difficult to get there..."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Master "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "fought the Igneo Talus when he\nwas young, and he got stronger that way.\n\nSome say he fought every "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Igneo Talus
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nthat exists in the world and beat 'em all!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Hrm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I hope I'm that amazing one day."
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: Whaaaa—?!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You say you beat the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Igneo Talus
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Darunia Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!\n\nHmm...I have an idea. How about ya\nsell me that achievement for a cool\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 100 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5
+            field_3: 6
+            field_4:
+              - 0
+              - 1
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: I see...
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "YESSS! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: The deal is done!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHere ya go, sister!"
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Thanks! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Thanks so much!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "I can't wait to tell Master about the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Igneo Talus
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 5
+    - text: Hmm...
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "He's really strict with everyone—\nme included.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "In my case, he told me to beat every\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Igneo Talus "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "around Goron City as\npart of my training.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "But I can't get to the"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " Igneo Talus"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Darunia Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". *siiiigh*\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: If only someone would go in my place...
+  near00:
+    - text: "*snoooore*"
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Need somethin'?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  near01:
+    - text: "*SNOOOORE*"
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I still haven't been able to tell him\nI defeated the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Igneo Talus
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " at\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Darunia Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  near02:
+    - text: Hrmhrm...
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I haven't worked up the nerve to tell\nhim yet since I technically didn't\ndefeat it myself.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I've got a long way to go before he\ntrusts me enough to teach me\nhis real secrets..."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "This is the house of the distinguished\nGoron artisan...Master Rohan!"
+  "0000":
+    - text: Igneo Talus?
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm afraid Master Rohan is hard at work.\nIf you wanna talk to him, be sure to\napproach him carefully."
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Need somethin'?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 7
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "0001":
+    - text: Who are you?
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Master
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " Rohan is resting now...\nYou should get some sleep at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: inn
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nor kill time and come back tomorrow."
+  "0002":
+    - text: "Who's Rohan?"
+  "0003":
+    - text: Nope.
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Master
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " Rohan isn't awake yet.\nHe greets the day every morning at 10.\nIf you wanna see him, come back then."
+  "0004":
+    - text: I beat an Igneo Talus.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 34
+    - text: "It's almost time to sleep..."
+  "0005":
+    - text: Sure!
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 34
+    - text: "It's time I got some sleep...but if ya\nreally need somethin', I don't mind."
+  "0006":
+    - text: No.
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 5
+    - text: "Hrmph? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Hrm...
+  "0007":
+    - text: Did you tell Rohan?
+  talk09:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "I've got to hurry and beat the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Igneo Talus "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "at\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Darunia Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Earn Master Rohan's approval..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk10:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "It'd sure be nice if someone heroic showed up to\nbeat the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Igneo Talus "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Darunia Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " If only..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "You need somethin'?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Master Rohan is a godly blacksmith.\nHe's responsible for keepin' the\nancient arts alive!"
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: See ya later.
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Need somethin'?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3

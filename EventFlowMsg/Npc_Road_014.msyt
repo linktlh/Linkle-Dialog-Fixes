@@ -1,0 +1,504 @@
+---
+entries:
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 44
+    - text: Oof...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Hurt my arm a little..."
+  RetMSG_Firo_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yahoo! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "My name is Spinch! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "My horse \nis also Spinch!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Is your name Spinch,\ntoo? That'd be extra crazy...\nHere's a tip. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Pay close attention to how\nmuch stamina your horse has when\nyou're riding it really hard!"
+  MSG_Firo_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you want to take down monsters while\nriding on horseback,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " you've got to really\npractice your archery skills!"
+  MSG_Firo_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Yee-haw!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " My name is Spinch!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " This is my\nhorse, Spinch!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " That's right—same name!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIs it confusing? I don't care!\nSpinch and I are taking a ride out\nto Lurelin Village!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Hi-hooooo!"
+  MSG_Firo_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yee-haw! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "The name's Spinch!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThe horse's name is Spinch!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThey call us the Spinches!\nDid you know... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Way out west in the\nTaobab Grasslands, along the Faron\nHighroad, there's tell of a giant horse?"
+  MSG_Firo_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Spinch and I are taking a little gallop
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " out\nto Lurelin Village!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHeigh-hooooo!"
+  MSG_Firo_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Hahaha! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "There, there!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You're pretty well\ninformed for a horse, you know!\n\nSpinch says that if you head south,\nyou'll find a heart-shaped pond."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nApparently that's where you find love!"
+  MSG_Firo_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Yee-haw! Let me share a little Spinch\nwisdom with you!\n\nIf you want to take down monsters while\nriding on horseback,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " you've got to really\npractice your archery skills!"
+  MSG_Firo_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Yee-haw! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Call me Spinch! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nCall my horse Spinch too!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\nAre we a man-horse? A horse-man?\nWhere does one end and the other\nbegin? It's a mystery for the ages!\nWhat isn't a mystery is Lurelin Village's\nreally tasty fish! Kind of makes me and\nSpinch want to settle down here!"
+  Thanks00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Oh!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I should give you something."
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 32
+    - text: "Whoa... Whoa... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Gotta calm my horse\ndown somehow..."
+  RetMSG_Firo_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Horses vary in size and strength! Find\none that suits you and make it your own!"
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "OK, just stay calm... Find the calm\nplace inside..."
+  MSG_Firo_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Lurelin Village has some of the best,\nmost tasty fish! Kind of makes me and\nSpinch want to settle down here!"
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: "Thanks! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: That was really close!
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: "I'm all right! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "My horse, Spinch, is\nall right too!"
+  RetMSG_Firo_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Have you heard the rumors about the \ngiant horse?! They say it appears way\nout west in the Taobab Grassland!"
+  MSG_Firo_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I heard that, way out west in the\nTaobab Grasslands, along the Faron\nHighroad, there's a giant horse roaming."
+  Rest_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Everywhere I go, all I'm hearing about is \nthis giant horse..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Everyone's saying if you take the Faron\nHigh Road out west, you'll find a giant\nhorse in the Taobab Grassland."
+  Rest_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm Spinch! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "My horse is also called\nSpinch! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You should totally change\nyour name to Spinch! It'd be great!"
+  Rest_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm Spinch! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "My horse is also named\nSpinch!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " We both hate the rain."
+  Near00:
+    - text: My name is Spinch.
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: "I can't thank you enough!"
+  Near01:
+    - text: My horse is Spinch.
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Damned monsters. Thinking they can just\nattack without a care..."
+  Near02:
+    - text: We...are the Spinchs!
+  RetMSG_Firo_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Listen, you gotta pay close attention to\nhow much stamina your horse has when\nyou're riding it really hard!"
+  Near03:
+    - text: Hahaha!
+  Near04:
+    - text: Ugh... Seriously?
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 42
+    - text: "I'm not sticking around! No way!"
+  RetMSG_Firo_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Have you done the really sweet acrobatic\nmove where you try to mount a horse\nfrom the front? So cool!"
+  MSG_Firo_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "South of here is a heart-shaped pond\nthat is apparently a great place to find\nlove!"
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 32
+    - text: Never mind about me—are you OK?
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 18
+    - text: I thought I was a goner for sure...
+  RetMSG_Firo_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Yee-haw!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " My name is Spinch!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " This is my\nhorse, Spinch!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " That's right—same name!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIs it confusing? I don't care!\nHave you heard the rumors about the \ngiant horse! They say it appears waaay\nout west, in the Taobab Grassland!"
+  RetMSG_Firo_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Yee-haw!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Let me teach you something!\n\n\nYou'll have to do a really sweet acrobatic\nmove if you try to mount a horse from\nthe front. So cool!"
+  RetMSG_Firo_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Hahah! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Whoa there!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou're really well-informed for a horse!\n\nHe's saying that deep in the woods of\nFaron, to the west, is a place sometimes\ncalled the Mouth of the Dragon."
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "Forget about me... I'm worried about my\nhorse, Spinch..."
+  RetMSG_Firo_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Deep in the woods of Faron, to the west,\nis a place sometimes called the Mouth\nof the Dragon..."
+  RetMSG_Firo_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 3
+    - text: "Yee-haw! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Let me teach you something!\n\n\nHorses vary in size and strength! Find\none that suits you and make it your own!"

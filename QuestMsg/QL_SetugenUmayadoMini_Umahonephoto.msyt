@@ -1,0 +1,20 @@
+---
+entries:
+  QL_SetugenUmayadoMini_Umahonephoto_Name:
+    - text: "Stalhorse: Pictured!"
+  QL_SetugenUmayadoMini_Umahonephoto_Finish:
+    - text: "When I showed the picture of the Stalhorse\nto Juannelle, she carefully traced it so she'd\nhave her own copy.\n\nIt seems she plans on using the picture in an\narticle she's writing. With the picture for\ninspiration, she's excited to get to work!"
+  QL_SetugenUmayadoMini_Umahonephoto_Desc:
+    - text: "Juannelle in the Snowfield Stable wants to see\nwhat a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Stalhorse
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " looks like.\n\nWhat would be the best way to show her?\n\nShe's heard that the Stalhorse appears in the\neastern part of N. Tabantha Snowfield, in the\narea surrounding some strange ruins."

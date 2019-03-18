@@ -1,0 +1,182 @@
+---
+entries:
+  BreakTarget_00:
+    - control:
+        four:
+          type2:
+            field_1: 40
+            string: CustomBreakTarget00
+    - text: Hey...not bad.
+  Do_04:
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomDo04
+    - text: "What's wrong?!"
+  Rescue_04:
+    - text: Linkle!
+  BreakTarget_01:
+    - control:
+        four:
+          type2:
+            field_1: 40
+            string: CustomBreakTarget01
+    - text: Keep it up.
+  BreakTarget_02:
+    - control:
+        four:
+          type2:
+            field_1: 40
+            string: CustomBreakTarget02
+    - text: "That's it!"
+  BreakBattery_00:
+    - control:
+        four:
+          type2:
+            field_1: 42
+            string: CustomBreakBattery00
+    - text: "That's it!"
+  BreakTarget_03:
+    - control:
+        four:
+          type2:
+            field_1: 40
+            string: CustomBreakTarget03
+    - text: One more!
+  BreakBattery_01:
+    - control:
+        four:
+          type2:
+            field_1: 42
+            string: CustomBreakBattery01
+    - text: "That's the way!"
+  BreakTarget_04:
+    - control:
+        four:
+          type2:
+            field_1: 40
+            string: CustomBreakTarget04
+    - text: Perfect!
+  GoBattle_00:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomGoBattle00
+    - text: Here we go!
+  BreakBattery_02:
+    - control:
+        four:
+          type2:
+            field_1: 42
+            string: CustomBreakBattery02
+    - text: One more!
+  Rescue_AreaOut_00:
+    - text: Where are you off to?!
+  GoBattle_01:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomGoBattle01
+    - text: "It's on you!"
+  BreakBattery_03:
+    - control:
+        four:
+          type2:
+            field_1: 42
+            string: CustomBreakBattery03
+    - text: We did it!
+  GoBattle_02:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomGoBattle02
+    - text: Go for it!
+  GoBattle_03:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomGoBattle03
+    - text: You got it!
+  GoBattle_04:
+    - control:
+        four:
+          type2:
+            field_1: 34
+            string: CustomGoBattle04
+    - text: "It's up to you!"
+  LockOn_00:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomLockOn00
+    - text: Watch out!
+  LockOn_01:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomLockOn01
+    - text: "We're in hot!"
+  LockOn_02:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomLockOn02
+    - text: "It's targeting us!"
+  LockOn_03:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomLockOn03
+    - text: Out of the way!
+  Do_00:
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomDo00
+    - text: You got it?
+  Rescue_00:
+    - text: Look out!
+  LockOn_04:
+    - control:
+        four:
+          type2:
+            field_1: 30
+            string: CustomLockOn04
+    - text: Be careful!
+  Do_01:
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomDo01
+    - text: Everything all right?
+  Rescue_01:
+    - text: You all right?!
+  Do_02:
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomDo02
+    - text: You holding up OK?
+  Rescue_02:
+    - text: Hold on tight!!
+  Do_03:
+    - control:
+        four:
+          type2:
+            field_1: 22
+            string: CustomDo03
+    - text: "What's going on?"
+  Rescue_03:
+    - text: Here we go!!

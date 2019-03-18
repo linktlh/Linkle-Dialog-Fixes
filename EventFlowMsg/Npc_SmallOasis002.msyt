@@ -1,0 +1,359 @@
+---
+entries:
+  talk09:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "I heard there's an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "elixir that can help \nbeat the heat"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". It's made from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "insects \nwith cooling effects "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster parts
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "But they don't seem to be selling the\nelixir anywhere..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\nI've heard "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "insects with these cooling \neffects"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " live in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "the cold parts of the\nGerudo Highlands"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 12
+    - text: "Well, the monsters there are rough, to\nsay the least,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " so I'm not having a lot of\nsuccess getting myself motivated..."
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: Hm?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nOof..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nLooks like I fell asleep..."
+  "0000":
+    - text: Rito Village?
+  "0001":
+    - text: "I've been there!"
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I never knew the desert in the middle of\nthe day could get so darned hot.\n\nI guess you can't really understand\nsomething until you've experienced it\nfor yourself, huh..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  "0003":
+    - text: So long.
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Far to the north of here...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt's a modest village on the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha Frontier
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  "0004":
+    - text: Not gonna leave yet?
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I'm going to have to get my young one\nto get out and travel too...someday..."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Good morning... Though it's \"sav'otta\" in\nGerudo, isn't it?"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hello there...
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "With the elixir, I can go as soon as I\nwant, but... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Well, the desert isn't all that\nsafe at night.\nI think I'll wait till it's light out."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Good evening... Though I guess it's\n\"sav'saaba\" in Gerudo, isn't it?"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I came here from Rito Village...
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "With the elixir, I can go as soon as I\nwant, but..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "there's no rush, really.\nI think I'll leave tomorrow."
+  near02:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Snrrk...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Yes, Rito Village..."
+  near03:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Snrrrrzzz...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Ah... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It must have felt quite cold to you,\ndidn't it?"
+  near04:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Phwee...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I had a great plan, you know. I left\nRito Village to try to earn some money\nout in the world...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "But it's so incredibly hot here during the\nday."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's been tough to work up the will\nto go any farther.\nI would like to see what Gerudo Town\nlooks like, even if I can't go inside..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIt's just so hot..."
+  near05:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Hngghhk...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: But before I say any more...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHave we..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: met before?

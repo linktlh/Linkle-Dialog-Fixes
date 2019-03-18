@@ -1,0 +1,22 @@
+---
+entries:
+  Npc_Kakariko001_Talk000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Sheikah heirloom "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has been guarded\nby our tribe for generations. I must\nrequest that you not touch it...\nEven for an esteemed guest such as\nyourself, there are certain rules that\nmust be respected."

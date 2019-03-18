@@ -1,0 +1,517 @@
+---
+entries:
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Well...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "it's a farm. But you knew that\nmuch, right?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "OH! Are you talking about that odd\nhouse up top there?"
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The place on that hill to the east\nis the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: research lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nI heard a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sheikah tribe director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is doing\nsome mysterious things up there."
+  "0000":
+    - text: Hullo!
+  "0001":
+    - text: Good-bye.
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I don't mind chatting with you,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but let\nme have a seat first."
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Any other business with me?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 5
+              - 44
+              - 72
+              - 97
+              - 116
+              - 101
+              - 110
+              - 111
+              - 78
+              - 80
+              - 67
+              - 48
+              - 49
+              - 51
+              - 95
+              - 71
+              - 97
+              - 110
+              - 111
+              - 110
+              - 84
+              - 97
+              - 108
+              - 107
+              - 6
+              - 0
+              - 7
+              - 0
+              - 8
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0004":
+    - text: I need to talk to you.
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: "Me? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Well, I'm just an old man.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Nothing more to it than that.
+  "0005":
+    - text: Calamity Ganon?
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n\nDid Uma put some ideas in your head?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWhat good is sniffing around on a thing\nthat happened 100 years ago?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I can tell you what my father told me,\nbut I don't see what good it will do..."
+  "0006":
+    - text: What is this place?
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Great Calamity "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "was a catastrophe\nthat...contaminated "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That's\nhow I understood it, anyway.\nOur world was once filled with beautiful\ncities and prosperous villages, but the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " destroyed all of that.\nLuckily, Hateno Village was far enough\naway from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " that the damage\nhere was minor in comparison.\nAnd then there was something about a\nbrave soul that tried to stop the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nI think...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "I don't remember it all. What does it\nmatter, though? That's all in the past."
+  "0007":
+    - text: Who are you?
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is as beautiful as ever..."
+  talk13:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Zzz...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0008":
+    - text: Never mind.
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That flame... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Purah used to carry it\naround all the time a while ago."
+  talk14:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Zzz...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "...Yes?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk15:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: What is Purah gonna do with this...
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "*sigh*"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "director "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "used to carry\nthat around a while ago."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "*sigh* "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Hullo.
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "Well, I guess I can say good-bye\nto sleep."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: What is it?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "I'm going to bed. See you."
+  near01:
+    - text: Hrgh...
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "To me? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: About what?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 5
+              - 44
+              - 72
+              - 97
+              - 116
+              - 101
+              - 110
+              - 111
+              - 78
+              - 80
+              - 67
+              - 48
+              - 49
+              - 51
+              - 95
+              - 71
+              - 97
+              - 110
+              - 111
+              - 110
+              - 84
+              - 97
+              - 108
+              - 107
+              - 6
+              - 0
+              - 7
+              - 0
+              - 8
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I'm heading out to my usual spot."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Out\nof the way, please!"

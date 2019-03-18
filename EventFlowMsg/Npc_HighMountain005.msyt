@@ -1,0 +1,791 @@
+---
+entries:
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Descendant!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nDescendant!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Are you all right?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: My apologies...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI fear I have said far too much...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If there is anything you do not\nunderstand, please do not hesitate to\nask."
+  talk36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Revali's Landing is a memorial\nfor the Rito Champion, Revali...\n\nSo named in the hope that none might\nforget the events of that horrible day..."
+  talk37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 12
+    - text: I am on my way to bed.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWe can talk later..."
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: You met my husband?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAhhh... That is a relief."
+  talk38:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you need my husband, he took Tulin"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nto the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Now that we are at peace again,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I would\nrather they stopped doing such\ndangerous training, but Teba insists."
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "I'm happy just to hear that my husband\nis still alive. It isn't much, but please\ntake these as thanks."
+  talk39:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "My husband took Tulin to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " again..."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "My husband left them for me to use, but\nI do not want those in the house where\nTulin might play with them."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Well...
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you take off from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Revali's Landing"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", it's\na straight shot down to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0000":
+    - text: "What's wrong?"
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "But to tell the truth, there is not much I\ncan do for you right now beyond telling\nyou where my husband went."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 7
+            field_3:
+              - 1
+              - 205
+  "0001":
+    - text: Good-bye.
+  "0002":
+    - text: Yes.
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: My husband is very...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: impulsive.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nOnce he gets an idea in his head,\nthere's no reasoning with him.\nWe tried to stop him from going off to\nfight "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on his own, but he refused\nto listen.\nThough I cannot feign surprise."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I did\nmarry a Rito warrior, after all."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Revali is the legendary Rito warrior.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAll the warriors here idolize him.\n\nMy husband is no exception—"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "he is\nalways talking about turning our son,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nTulin,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " into a warrior just like Revali.\nWhen they go and \"play\" together,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " he is\nreally training him at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I have never wanted my sweet Tulin to \nbecome a warrior, myself..."
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: Hello.
+  "0004":
+    - text: Where did Teba go?
+  "0005":
+    - text: About Teba.
+  "0006":
+    - text: About Revali.
+  "0007":
+    - text: Where did he go?
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 12
+    - text: "Sorry, I am on my way to bed."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hello, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Champion
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " descendant."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Good evening, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Champion "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: descendant.
+  talk40:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "My husband headed to a place called\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "It's in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Dronoc's Pass "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "at the base of \nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hebra Mountains
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: "...Can I help you?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk41:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "It's a place where Rito warriors\nprepare for aerial combat..."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 12
+    - text: Never mind.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Forget it."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Please...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "help my husband, Teba."
+  talk42:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I imagine he's gone there to gather\nweapons for another run at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "As it happens, he made his way to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Flight Range "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: on foot this time.
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 12
+    - text: Good-bye.
+  talk43:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "He keeps saying it's to help Tulin come\nof age as a warrior or something."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nBut Tulin's still a fledgling..."
+  talk03:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Forgive my intrusion,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but I overheard\nyou speaking with the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: elder
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nIt sounds like you intend to help my\nhusband, Teba, in the fight against\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk44:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: I just...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "do not want Tulin to lose his\ninnocence too early. He is such a sweet\nboy."
+  near00:
+    - text: "..."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Is there something else you wanted\nto ask?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5: 1
+            field_6:
+              - 0
+              - 3
+  near01:
+    - text: The traveler...
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Please. Now is not a good time.
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Teba told me everything...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAbout the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Flight Range
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\nThe fight with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "And that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " being perched above\nthe village means that everything\nis back to normal.\nTo have my husband home safe and\nsound..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I cannot begin to express my\ngratitude."
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Ahhhhh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Hmm..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: elder
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " trusts you,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I will tell you\nwhat I can."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5: 1
+            field_6:
+              - 0
+              - 3
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Zzz... Zzz...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk09:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: Traveler...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Please help my husband,\nTeba...and our village."

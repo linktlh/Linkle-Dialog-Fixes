@@ -1,0 +1,1105 @@
+---
+entries:
+  Talk_14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "I'd like to give you something as thanks.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Have you decided on an accessory\nyou'd like?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 3
+  Talk_15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "There's nothing I can do about not\nhaving any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", though..."
+  Talk_16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "Sorry you keep coming here with nothing\nto show for the trip...\n\nWithout "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I can't make any\naccessories, so the shop is closed\nfor now.\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "It would be a different story if a kind,\ngenerous vai were to give me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10 pieces\nof"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", though..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 8
+            field_3: 6
+            field_4: 7
+            field_5:
+              - 0
+              - 2
+  Talk_17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - text: Uh...
+  Talk_18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: What?!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You're just...giving these to me?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Talk_19:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Rubies
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " have the power to grant cold\nresistance. So you'd like a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ruby circlet
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_20:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Sapphires
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " have the power to grant heat\nresistance. So you think you'd like a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sapphire circlet
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_21:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Topaz
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has the power to grant electric\nresistance. So you think you'd like\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: topaz earrings
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I manage a shop that specializes in\nhandmade accessories, "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "but I've run out\nof "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". I need it to make my items.\nIf only I had "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... Just "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... If some kind\nvai would give me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 10 pieces of flint
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", \nI could offer a nice reward..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I can dream all I want, though... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Nothing\ngoes that smoothly in the real world."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  Near:
+    - text: I have to do something...
+  Talk_24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You're a Hylian, right? Listen, I'm sorry\nyou came all this way,"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: " but my shop is\ngonna have to close for a bit."
+  Talk_25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Hmm.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Well, I do appreciate the gesture...\n\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "But unless I have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10 pieces of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "flint "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to\nget started with, there's no point..."
+  Talk_26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I haven't really got the time to be\ngreeting people, honestly...\n\nNow that the Divine Beast has finally\ncalmed down, there should be a rush of\ncustomers any second...\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "So why did something like this have to\nhappen to me now, of all times?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 10
+            field_4:
+              - 0
+              - 1
+  Talk_27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm in a bit of a jam, really..."
+  Talk_28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Hahh... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Oooh, what to do, what to do..."
+  Talk_29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "Vasaaq...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "Not that I have any reason to be\ngreeting people..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 10
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: "Yes, please!"
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Great! You got the last of my free time\nwith that greeting."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 9
+            field_3: 10
+            field_4:
+              - 0
+              - 1
+  Talk_30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm sorry... I still haven't gotten my\nhands on any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". I can't really make\nanything without it.\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "Hah... I wonder if a kind, generous\nvai would give me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 10 pieces of
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  "0001":
+    - text: Hmm...
+  Talk_31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm sorry... I haven't been able to get any\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "flint "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "yet, so I'm not in a position to make\nany "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: accessories
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " right now...\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "Hmm, I wonder if I'd be able to work if\na kind, generous vai were to give me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10\npieces of"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", though..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 8
+            field_3: 6
+            field_4: 7
+            field_5:
+              - 0
+              - 2
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Sarqso!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But...I can't take this all from you with\njust a sarqso. We hardly know each\nother,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and you've been so nice...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "The shop's been closed so long,\nI hardly have any inventory..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "Oh, of course!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Now that I have some\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I could make a jeweled accessory\nfor you if you're interested in something."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 3
+  "0002":
+    - text: Ruby?
+  Talk_32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I can't do anything without some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  "0003":
+    - text: Sapphire?
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm sorry that these are all I have to offer\nto show my appreciation...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "But really...I need to give you something\nto feel OK about accepting your help.\nCould you please pick one?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 3
+  Talk_33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta..."
+  "0004":
+    - text: Topaz?
+  Talk_34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq..."
+  Talk_35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba..."
+  "0006":
+    - text: Accessories?
+  Talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " you..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm sorry you keep coming here for\nnothing...\n\nWithout "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I can't process jewels, so\nI can't sell anything in my shop.\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "It'd be a different story if a kind,\ngenerous vai were to give me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10 pieces\nof"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", though..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  Talk_36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta!"
+  "0007":
+    - text: Good-bye.
+  Talk_37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq!"
+  Talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I use "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: rubies
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sapphires
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and other gems\nto make "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: accessories
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". \n\nEach gem type has its own power that it\ncan transfer to whoever wears it."
+  "0008":
+    - text: "Here's some flint."
+  Talk_38:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba!"
+  "0009":
+    - text: "What's the matter?"
+  Talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm sorry that you came all the way\nto see me for nothing."
+  "0010":
+    - text: Good-bye.
+  Talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Brand-new, especially for you!\nI think it turned out really well!"
+  Talk_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Thanks to you, I got the shop running\nagain, so if you ever need an accessory,\nplease come by for a special discount.\nJust..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "don't tell my other customers, "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: OK?
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Teehee, I thought you might pick that\none."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Please give me a moment..."
+  Talk_13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Teehee, I thought you might pick that\none. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Just give—\n\nHang on. It doesn't seem like you've got\nroom for this right now. Perhaps you can\nmake some room and come back?"

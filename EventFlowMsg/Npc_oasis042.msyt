@@ -1,0 +1,191 @@
+---
+entries:
+  Npc_oasis042_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 27
+    - text: "Sav'otta!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Barta let me know how helpful you've\nbeen.\n\nHowever... Despite the thieves having\nbeen defeated, we can't afford to let our\nguard down, even for a moment.\nWe've got to make sure that something\nlike that theft never, ever happens again!"
+  Npc_oasis042_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 28
+    - text: "Sav'aaq!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you understood, then hurry on up\nand get a move on!"
+  TerrorArrow:
+    - text: C-cut it out!
+  Npc_oasis042_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 29
+    - text: "Sav'saaba!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  TerrorBomb:
+    - text: Ack! What?!
+  TerrorFire:
+    - text: S-stop it!
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Well, you see...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Wait, why would I tell an outsider like\nyou about important matters involving\nthe security of our people?!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you had permission from "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Captain\nTeake"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", that'd be a different story..."
+  TerrorExplosion:
+    - text: Nwaaaah!
+  "0000":
+    - text: What happened?
+  Raimei_CK_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: Whoa!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Isn't that the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Thunder Helm
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!\nI thought that was only for the chief...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Hrmph...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " If it weren't for the others, I\nwould have been the one to track down\nthe thieves and hang out with the chief.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Although...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I've been working with\neveryone for quite a while, and I only\njust realized...\nThe worse I am at my job, the more the\nothers will take care of me. And I kind of\nlike that.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "But that doesn't make me look all that\ngood, so I can kiss any hope of a\npromotion sav'orq while they're around."
+  TerrorSword:
+    - text: Calm down!
+  Npc_oasis042_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "What are you doing here, outsider?!\nThis is the barracks for Gerudo soldiers!\n\nWe're on high alert right now. If you\nwant to do some sightseeing, go\ncheck out the market instead!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0001":
+    - text: Understood.
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You should use your reward from earlier\nand enjoy what our town has to offer."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I may have dismissed you too hastily\nbefore. You have many promising\nqualities..."

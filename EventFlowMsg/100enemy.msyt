@@ -1,0 +1,132 @@
+---
+entries:
+  talk20:
+    - text: "You cannot participate in the Trial when\nthe Master Sword is out of energy."
+  "0002":
+    - text: Beginning Trials
+  "0003":
+    - text: Middle Trials
+  "0004":
+    - text: Final Trials
+  "0005":
+    - text: Cancel
+  talk13:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Think_00
+    - text: "That sword you have reunited with...\nthe Master Sword...it has yet to realize\nits true splendor.\nThe trial that will awaken its true power...\n\n\nIf you wish to rise to the challenge,\nplace the Master Sword in its pedestal."
+  talk14:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "The Master Sword you wield is now\nmore powerful than before.\n\nIf you desire still more power and\nwish to retry the blade's test...\n\nonce again place the Master Sword\nin its pedestal."
+  talk15:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "Now your body, mind, and soul are\nready to wield the Master Sword at\nits full potential."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut do not let your guard down.\n\n\nJust as before, if you use your sword to\nexcess, it will run out of energy and\nbecome unusable until it recovers.\nIt would be reckless to rely only on your\nblade when facing Ganon. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\nPrepare for the worst, and consider\nfreeing the Divine Beasts before\nconfronting your fate.\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "Her smile... The princess's sweet smile..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHow I would love to see it once more..."
+  talk16:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "Now your body, mind, and soul are\nready to wield the Master Sword at\nits full potential."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut do not let your guard down.\n\n\nJust as before, if you use your sword to\nexcess, it will run out of energy and\nbecome unusable until it recovers.\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: "That blade is more than a tool. It is your\npartner across time, your ally from\n100 years past... Wield it with care."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "Her smile... The princess's sweet smile..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHow I would love to see it once more..."
+  talk17:
+    - text: "Which part of the Trial would you\nlike to challenge?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 5
+            field_5:
+              - 1
+              - 2
+  talk18:
+    - text: "Which part of the Trial would you\nlike to challenge?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5: 5
+            field_6:
+              - 2
+              - 3
+  talk19:
+    - text: "Which part of the Trial would you\nlike to challenge?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5: 5
+            field_6:
+              - 0
+              - 3

@@ -1,0 +1,253 @@
+---
+entries:
+  talk02:
+    - text: "Nothing to do in this weather but stay\nhere at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Serenne Stable "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and relax.\n\nThat's probably why these "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: leviathan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nresearchers are here at the stable.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "And because they TOTALLY have a thing for me...\nTeehee!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, my! This weather is dreadful!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, my! Good seeing you so late at\nnight!"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Since you're a traveler, you should\nprobably know this:\n\nOn the other side of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mount Drena
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nnortheast of this stable, there are\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ruins that are dark even during the day
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nI've never met anyone who's been in\nthere, so either no one has ever gone\nin...or no one has ever come out!\nOr maybe I just haven't met everyone\nyet..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " But in any case, you'd best forget\nabout going in there!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "You should probably stay here forever just to be\nsafe."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Teehee!"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, my, you must be tired from your long\ntrip!\n\nAre you another of those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: leviathan
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nresearchers? You don't look the type."
+  talk01:
+    - text: "It's just common sense that traveling\ndark roads at night is dangerous!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\nBut on the other side of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mount Drena
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nnortheast of this stable, there are\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ruins that are dark even during the day
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: "But no one who has gone there has\never come back!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " So you'd best forget\nabout going there!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: You could always...stay here with me forever.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nTeehee..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535

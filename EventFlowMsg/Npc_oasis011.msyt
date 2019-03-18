@@ -1,0 +1,281 @@
+---
+entries:
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I... I was just pretending to be\na horse!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_02:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "*STOMP...STOMP*"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Sav'orq!"
+  Talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nOh, wow! You're a vai from out of town!"
+  Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "What? You don't know about\nHorsey Fatback? You don't have\none where you're from?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "There's this really big horse-thing that\nwalks around outside the village, like\nSTOMP STOMP.\nIf you get close to him, he goes...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: KABOOM!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "And...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: BZZBZZ!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's really exciting!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "But I think Horsey Fatback is\nactually good! He's only in a bad mood\n'cause everyone keeps saying he's bad!"
+  Talk_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq!!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nOh, wow! You're a vai from out of town!"
+  Talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "You don't know about Horsey Fatback?\nYou don't have one where you're from?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "There was this big horse-thing walking\naround like STOMP STOMP, but..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "It looks like he went away somewhere...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "He must have left because everyone kept\nsaying he was a bad boy all the time!"
+  Talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba!!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nOh, wow! You're a vai from out of town!"
+  Talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "It's dark out now, so I'm going back to\nmy vaba's booth!\n\nSav'orq!"
+  Talk_13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "*STOMP...STOMP*\nHe went over there...\n\nI wonder if he's done stomping?"
+  Talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "*STOMP...STOMP*\nI think I can see him!"
+  Talk_14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I'm on my way to watch Horsey Fatback!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: A horse? Why?
+  Talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: What game should I play now...
+  Talk_15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I'm going with everyone now!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nTalk to you later! Sav'orq!"
+  "0001":
+    - text: Good-bye.

@@ -1,0 +1,795 @@
+---
+entries:
+  Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "How is your shrine treasure hunting\ncoming along?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  NakedPlayer:
+    - text: "Aren't you...a bit chilly?"
+  TerrorBomb:
+    - text: What is it?!
+  Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: How is the shrine exploration going?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  "0001":
+    - text: I cooked something.
+  "0002":
+    - text: Got any tips?
+  TerrorExplosion:
+    - text: Huh?!
+  "0003":
+    - text: Bye.
+  "0004":
+    - text: Got any tips?
+  "0005":
+    - text: Bye.
+  Takibi00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: My back is aching...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I clearly need to\ntake a little break."
+  Takibi01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Say, courageous one... Are you hungry?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIf so, please feel free to use my cooking\npot to whip up a snack."
+  Near00:
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho!
+  TerrorImpulse:
+    - text: Whoa!
+  Takibi02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you feel like cooking, you are welcome\nto use my cooking pot over there."
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 1
+              - 58
+              - 78
+              - 112
+              - 99
+              - 95
+              - 75
+              - 105
+              - 110
+              - 103
+              - 95
+              - 86
+              - 97
+              - 103
+              - 114
+              - 97
+              - 110
+              - 116
+              - 48
+              - 48
+              - 52
+              - 95
+              - 72
+              - 97
+              - 118
+              - 101
+              - 95
+              - 68
+              - 105
+              - 115
+              - 104
+              - 2
+              - 0
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  Near01:
+    - text: Where did my prey go...
+  TerrorFire:
+    - text: Toasty...
+  Takibi03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Use my cooking pot as much as you like.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nJust remember to be smart about how\nyou combine your ingredients!"
+  Sleep00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: I must rise early tomorrow...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You may\nrest here too, if you wish."
+  Near02:
+    - text: Quietly...
+  Sleep01:
+    - text: "Sitting by a warm campfire is the best\nway to pass the time..."
+  Near03:
+    - text: Zzz...
+  Takibi05:
+    - text: "If you need to start a fire, just light your\ntorch on that campfire over there."
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 1
+              - 58
+              - 78
+              - 112
+              - 99
+              - 95
+              - 75
+              - 105
+              - 110
+              - 103
+              - 95
+              - 86
+              - 97
+              - 103
+              - 114
+              - 97
+              - 110
+              - 116
+              - 48
+              - 48
+              - 52
+              - 95
+              - 72
+              - 97
+              - 118
+              - 101
+              - 95
+              - 68
+              - 105
+              - 115
+              - 104
+              - 2
+              - 0
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  Near04:
+    - text: "..."
+  TerrorSword:
+    - text: Easy there!
+  ClearTerrorEnemy:
+    - text: Hmm...
+  Sleep03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 13
+    - text: "If I can't hunt, what else is there to do\nbut sleep?"
+  TerrorArrow:
+    - text: What is this?!
+  Kari00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Can you not see that I'm hunting here?\n\n\nYou'll scare off my prey like that. At least\ncrouch down a bit."
+  KariKotsu00:
+    - text: "It is not impossible to hunt with a sword,\nbut wild prey can be quite fast...\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "I would suggest getting your hands on a\nbow and some arrows, so you can take\nshots from afar.\nWe can discuss technique after that."
+  TalkBokangi00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: What is it now?!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Can't you see I'm\ntrying to get some sleep?"
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 1
+              - 58
+              - 78
+              - 112
+              - 99
+              - 95
+              - 75
+              - 105
+              - 110
+              - 103
+              - 95
+              - 86
+              - 97
+              - 103
+              - 114
+              - 97
+              - 110
+              - 116
+              - 48
+              - 48
+              - 52
+              - 95
+              - 72
+              - 97
+              - 118
+              - 101
+              - 95
+              - 68
+              - 105
+              - 115
+              - 104
+              - 2
+              - 0
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  Kari02:
+    - text: "Go on! Hurry up and crouch down before\nyou scare off my prey!"
+  KariKotsu01:
+    - text: "First, crouch down and approach your\nprey quietly to ensure you will not\nbe noticed.\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 18
+              - 205
+    - text: "When you're close enough that detection\nis nearly imminent...draw your bow and\nlet your arrow fly!\nAim thoughtfully, and you should be\nable to take down your prey with a\nsingle arrow."
+  TerrorEnemy:
+    - text: Whoa!
+  TalkBokangi01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 13
+    - text: "I can't tell if you're stubborn, oblivious,\nor just plain rude! I was clearly sleeping!"
+    - control:
+        one:
+          type8:
+            unknown_1:
+              - - 255
+                - 255
+                - 0
+                - 0
+            field_1:
+              - 1
+              - 58
+              - 78
+              - 112
+              - 99
+              - 95
+              - 75
+              - 105
+              - 110
+              - 103
+              - 95
+              - 86
+              - 97
+              - 103
+              - 114
+              - 97
+              - 110
+              - 116
+              - 48
+              - 48
+              - 52
+              - 95
+              - 72
+              - 97
+              - 118
+              - 101
+              - 95
+              - 68
+              - 105
+              - 115
+              - 104
+              - 2
+              - 0
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  Kari03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 13
+    - text: Hunting demands a great deal of focus...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIt keeps your mind off how much your\nback hurts from crouching all day."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  KariKotsu02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "Courageous one... I see you have taken\npossession of my old bow. Splendid."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nNow, let's see what you can do with it."
+  Kari04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "Quiet, please."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm still hunting."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  KariKotsu03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: I am rather tired...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Yes, I think I'm going\nto take a small break."
+  KariKotsu04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Blast it all! My back is acting up again...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI suppose that means this old man has\nhad enough hunting for one day."
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I look forward to seeing what type of\ntreasure you secure out there."
+  GoodBye01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: Oho ho!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If you still wish to acquire the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: paraglider
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you must put in the effort.\nI will not simply give it away, you see."
+  GoodBye02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 5
+    - text: Hmph!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Please do not wake me up for\nno reason. I need my rest."
+  "1002":
+    - text: What are you doing?
+  Hadaka00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: What in the blazes is going on...
+  "1003":
+    - text: Bye.
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: Hm? What is it?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: "Well, well, well..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " So we meet again."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "Just a question, not a judgment..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nbut how long were you planning on\nwalking around like that?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 14
+    - text: Out of the way!
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 24
+            string: CustomLaugh
+    - text: Oho ho!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Some days the prey is a bit too\nfast for this old hunter."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "With you causing such a commotion\nin my hunting grounds lately, it's no\nwonder I can hardly catch a thing!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  TerrorInsect:
+    - text: Whoa!
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "It's so quiet..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: Could you not see I was sleeping?!
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 15
+    - text: Shhh...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Quiet now..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 13
+    - text: "Far be it from me to interfere with your\nlogging efforts..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "but could you do that\nelsewhere? You're scaring off my prey."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "As they say, silence is golden."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nAnd my prey frightens easily..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "It gets quite dangerous out here at night.\nThe land fills with unspeakable beasts."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nPerhaps you should wait until morning..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1002
+            field_3: 1003
+            field_4:
+              - 0
+              - 1

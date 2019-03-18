@@ -1,0 +1,79 @@
+---
+entries:
+  QL_Thunder_Sword_Finish:
+    - text: "\"When a lost hero calls down lightning"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfrom the sky / The monk responds from\na giant mound"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "on high.\"\n\nI found an ancient shrine inside the rock \nthat I shattered with lightning!"
+  QL_Thunder_Sword_Desc:
+    - text: "\"When a lost hero calls down lightning"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfrom the sky / The monk responds from\na giant mound"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "on high.\"\n\nI must solve the riddle of the song I learned from\nKass and seek out the hero's trial."
+  QL_Thunder_Sword_Name:
+    - text: A Song of Storms
+  QL_Thunder_Sword_Step010:
+    - text: "\"When a lost hero calls down lightning"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfrom the sky / The monk responds from\na giant mound"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "on high.\"\n\nBy attracting a lightning strike, I shattered\nthe large rock and revealed an ancient shrine\nconcealed within."

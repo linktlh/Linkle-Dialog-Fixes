@@ -1,0 +1,279 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "I'm sleepy. G'night..."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: OK. See you!
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: You should go home to your own bed.
+  near01:
+    - text: Waaahhh!
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "*grumble*"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  near02:
+    - text: Aw...
+  talk05:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "S'not fair..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  near03:
+    - text: Zzz... Zzz...
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hey, lady!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  near04:
+    - text: Ungh... There!
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Oh... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Bye!
+  near05:
+    - text: Over here!
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "You'll never guess what I found!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWanna see?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  near06:
+    - text: "Hey, come see!"
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: Um...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Were you talking to that statue?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 4
+            field_3:
+              - 1
+              - 205
+  "0000":
+    - text: "What is it, buddy?"
+  "0001":
+    - text: "Bye, kid."
+  "0002":
+    - text: Sure I do!
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "'Kay! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Follow me!
+  "0004":
+    - text: Well...
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 10
+    - text: "It's this way!"
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Here it is! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Neat, huh?"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 11
+    - text: "Pretty "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "It looks kinda like the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "statue "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s house..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " What do you think it is?"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Isn't that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " hot?"
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Wow! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: You talk to statues?! Weird!

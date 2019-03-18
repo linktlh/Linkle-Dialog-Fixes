@@ -1,0 +1,308 @@
+---
+entries:
+  talk09:
+    - text: "Those grilled fish look really good.\nI wonder if they were caught locally..."
+  Near00:
+    - text: "It's pouring!"
+  Near01:
+    - text: Time for sleep!
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: Do you like fish?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Near02:
+    - text: Zzz...
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: The fish around here are really good!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAll it takes is a little taste to fall in love\nwith the local flavor!\nTake as many as you like—just give it\na try!"
+  "0000":
+    - text: Nope.
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: How about it? Did you try the fish?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWasn't it delicious?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  "0001":
+    - text: I have!
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You should hurry up and eat it!
+  "0002":
+    - text: "Oh, yeah, I like fish."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Really delicious, wasn't it? These fish\nare the pride of our village!"
+  "0003":
+    - text: "No way, I hate fish."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Don't these fish look delicious?!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI caught them myself!"
+  "0004":
+    - text: I ate it.
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Rain, huh..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nOn days like this, the only thing I can do\nis gamble at Cloyne's shop."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  "0005":
+    - text: Not yet.
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Yup, that's right. Head over to Cloyne's\nplace next door and you can, too!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  "0006":
+    - text: Gamble?
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hey, you!"
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: "I'm a fisherman by trade. But I can't go\nout fishing when it's raining, so each\nraindrop cuts into my bottom line."
+  "0007":
+    - text: What do you do?
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Have you gone sailing with a
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " raft"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Depends on your luck, for sure."
+  "0008":
+    - text: Is it profitable?
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "I've got an early morning, so I'm going\nto sleep."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You should get some sleep, too!"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well then, let me tell you a bit about it..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nMost importantly, the wind is critical\nto getting around at sea.\nFishermen like us have learned, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "after\nyears of experience,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " to predict and use\nthe wind to control our ships.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 24
+    - text: However...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I've heard there is an object\ncalled a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Korok leaf "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "that will help you\ncontrol the wind yourself!"
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: Zzz...
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 23
+    - text: "Huh, never would have guessed that just\nfrom looking at ya.\n\nJust remember...going out to sea isn't\nsomething you should take lightly!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The\nwind can quickly strand you out there!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 17
+    - text: "Going out to sea on a rainy day is\ndangerous!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\nThe wind is really strong, making it tough\nto control your boat. There's no way to\nbe sure you'll even come back alive!"
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Doesn't that fish look delicious?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I caught\nit myself, too!\n\nYou're welcome to help yourself.\nI cooked way too much for just myself\nalone."

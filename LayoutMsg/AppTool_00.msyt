@@ -1,0 +1,322 @@
+---
+entries:
+  "0015":
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: "Powered-up bombs now have a stronger blast and\nrecharge faster. The force of the blast can"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: damage
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: "\nmonsters or"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: " destroy objects"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: ". There are round and cube\nbombs, so use whichever best fits the situation."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  "0016":
+    - text: FirstItem
+  "0017":
+    - text: SecondItem
+  "0000":
+    - text: Create a pillar of ice from a water surface.
+  "0018":
+    - text: Stop the flow of time for an object.
+  "0001":
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: "Builds ice pillars that are very stable. These pillars can be\nused as"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: " stepping stones "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: or as
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: " obstacles"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: ". Use Cryonis on\nan ice pillar to"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: " break "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: it.
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  "0019":
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: "Stops an object in time while storing its "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: kinetic energy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: ".\nThe stored energy will act upon the object when the flow\nof time resumes. Making good use of the stored energy\ncan"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: " move even the largest of objects"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: "."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  "0002":
+    - text: FifthItem
+  "0003":
+    - text: Instantly render a visible image into a picture.
+  "0020":
+    - text: Stop the flow of time for an object.
+  "0004":
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: "Pictures created are saved in the album. It has a useful\nfeature that connects to the Hyrule Compendium and\nautomatically registers pictures of new entries."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  "0021":
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: "This powered-up Stasis rune can now time-stop evil creatures.\nStopped objects store "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: kinetic energy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: ". The stored energy will act\nupon the object when the flow of time resumes. Making good use\nof the stored energy can"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: " move even the largest of objects"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: "."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  "0005":
+    - text: SixthItem
+  "0022":
+    - text: FourthItem
+  "0006":
+    - text: Use an amiibo to summon something useful.
+  "0023":
+    - text: "You do not have the required\nitem, so you cannot use this now."
+  "0007":
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: "You never know what's going to come through when you\nuse it. Some amiibo can only be used once a day."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  "0024":
+    - text: Summon Master Cycle Zero
+  "0008":
+    - text: SeventhItem
+  "0025":
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Insert materials into the tank
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: " to convert them into fuel.\nYou can freely call upon this item, but summoning it\nwill not work in certain areas."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  "0009":
+    - text: Manipulate metallic objects using magnetism.
+  "0026":
+    - text: EighthItem
+  "0010":
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: "Grab on to metallic objects using the magnetic energy that\npours forth from the Magnesis rune. Objects held in the magnetic\nsnare can be"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: " lifted up and moved freely"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: ". "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  "0011":
+    - text: ThirdItem
+  "0012":
+    - text: A bomb that can be detonated remotely.
+  "0013":
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: The force of the blast can be used to
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: " damage "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: "monsters or\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: destroy objects
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: ". There are both round and cube bombs,\nso use whichever best fits the situation."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  "0014":
+    - text: A bomb that can be detonated remotely.

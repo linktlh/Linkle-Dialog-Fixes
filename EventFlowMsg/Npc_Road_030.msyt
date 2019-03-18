@@ -1,0 +1,1347 @@
+---
+entries:
+  RetMSG_Gerud_01_3:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "The desert's rough going, no two ways\nabout it, but what else is a man to do if\nhe wants to meet Gerudo ladies?"
+  Rest_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: You got a thing for Gerudo girls too?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThat's OK, buddy. Nothing to be\nashamed of!\nWhat's not to love? They're tall, strong,\nbeautiful..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "strong... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I mentioned how\nstrong they are, right?"
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Please visit again!
+  RetMSG_Gerud_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - text: "Business is my top priority! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Wh-why,\nwhat else would I be interested in?"
+  Com_Talk_05b:
+    - text: "If you have stuff to unload, go ahead and\nshow me!"
+  Com_Talk_56:
+    - text: "Just one, huh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That'll run you\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  MSG_Gerud_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Nothing like a line of work that lets you\nmake small talk with Gerudo ladies."
+  Com_Talk_05c:
+    - text: Gonna sell me something?
+  Com_Talk_05d:
+    - text: "I'm interested in seeing what you've got\nfor sale."
+  RetMSG_Gerud_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: There has to be SOME way in there...
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Whoa! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Just thinking out loud. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Don't\nmind me."
+  Com_Talk_30:
+    - text: The whole shebang will be...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". How's that grab you?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  MSG_Gerud_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I wish I could get closer to one of these\nGerudo ladies. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Not for anything bad,\nI mean! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Just as a business partner!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "That's the whole reason I came, only to\nfind out that men aren't allowed in town."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nFigures, don't it?"
+  Com_Talk_31:
+    - text: "Oh, yeah? How many?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5502
+            field_3: 5507
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  MSG_Gerud_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Didja get a load of that giant stompy\nmonster? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Who'd brave the desert with\nthat thing around?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "On the other hand... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I GOTTA get to\nknow these Gerudo ladies better!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "Think I'll just chance it and make a mad\ndash for town!"
+  MSG_Gerud_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Kicking back in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Kara Kara Bazaar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nmaking small talk with the lovely\nGerudo... Good times, good times.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Hey, don't get me wrong! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It's all part of\nthe job! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You have to make friends to\nmake money. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Want some apples?
+  Thanks00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "Good save! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'll give you a little bonus\nfor that one!"
+  Com_Talk_33:
+    - text: "Just one, huh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "How about\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  MSG_Gerud_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "They sure make these Gerudo ladies tall,\ndon't they? What a bunch of beauts!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Now if they'd just let me move into "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  RetMSG_Gerud_03_1:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "I haven't had any peace of mind\nsince I heard there were thieves in\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Com_Talk_34:
+    - text: "All of them? Really? In that case...\nHow about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  MSG_Gerud_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Truth be told, I'm too scared to go into\nthe desert. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Maybe I'll just make a mad\ndash for town so I can meet the ladies!"
+  MSG_Gerud_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I wish more of those Gerudo ladies would\ncome by this stable! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I have so many apples\nfor them...apples and love..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Com_Talk_35:
+    - text: "So "
+    - control:
+        two:
+          type15:
+            field_1: 38
+            string: Shop_TradeItemNum
+            field_3: 0
+    - text: "? In that case... How about\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_36:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "That's all of it. Thanks for the business!"
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I'm still kicking!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Thanks mostly to you."
+  Com_Talk_37:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "I'm all cleaned out!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Thanks for all your\nbusiness. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Do you...want to look at what\nI'll be stocking up on soon?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Scared? Me?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Never!"
+  Com_Talk_11b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: Thanks a bundle!
+  Com_Talk_11c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Thanks a heap!
+  MSG_Gerud_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "I hope we'll see more and more Gerudo\nladies come visit this place..."
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Whew... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I feel like a cat on his ninth life!
+  Com_Talk_11d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Thanks a heap!
+  Com_Talk_20:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Tell you what, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "for being such a trooper\nand coming to shop in this weather, I'll\nalso sell you this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: energetic rhino beetle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  RetMSG_Gerud_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: There must be some way in...
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 21
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: Oh!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Don't mind me, ha ha!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I wasn't\ntalking to nobody about nothing!"
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "The surefire answer for not getting killed\nby monsters is to run far, far away!"
+  RetMSG_Gerud_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "That old "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " makes the road\nbetween "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Kara Kara Bazaar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Gerudo Town "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "a dangerous place.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "But I'm too keen on getting to know\nthose Gerudo ladies to let that stop me!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'll dash right on through the desert!"
+  RetMSG_Gerud_02:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Kara Kara Bazaar "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is brimming with\nGerudo ladies! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I get antsy just thinking\nabout them!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Say, speaking of antsy things, how about\nsome "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: restless crickets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "If I have to have something pounce on\nme, why couldn't it be a lady?!"
+  RetMSG_Gerud_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: Wh-who goes there?!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Oh...just a Hylian."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Someone told me there were thieves in\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and I've been jumping at\nshadows ever since!"
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The emporium is open! Come one, come\nall! All the little bits and bobs you need\nto spice up your dishes!"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: The only thing scarier than monsters...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "\nare those Gerudo ladies!"
+  Near00:
+    - text: "Don't be shy, ladies..."
+  RetMSG_Gerud_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I'll get into "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Gerudo Town "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and cozy up to those\nladies if it's the last thing I do..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Hm? Oh, just sales stuff. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I mutter so\nno one learns my important business\nsecrets!"
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "And will that be all for you, or can I\ninterest you in something else?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  Near01:
+    - text: Gerudo ladies... Whew!
+  Near02:
+    - text: What do Gerudo want?
+  Com_Talk_02b:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Thanks a bundle!
+  Near03:
+    - text: "They'll ALL come running!"
+  Com_Talk_02c:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: Thanks!
+  Com_Talk_02d:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: I appreciate your business!
+  Com_Talk_10:
+    - text: You all set with that?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5502
+            field_3: 5503
+            field_4:
+              - 0
+              - 1
+  Com_Talk_11:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: Thanks a bundle!
+  RetMSG_Gerud_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I get antsy around these Gerudo\nknockouts. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Restless as a cricket.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIs that a phrase? It is now!"
+  Com_Talk_12:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: This is all I got right at the moment.
+  MSG_Gerud_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I came all this way to get to know these\nGerudo ladies better..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "only to find out\nthat they don't let men in town."
+  Com_Talk_13:
+    - text: "And how many of those are you looking\nto unload?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 5500
+            field_3: 5508
+            field_4: 5503
+            field_5:
+              - 0
+              - 2
+  Com_Talk_14:
+    - text: The whole shebang will be...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". How's that grab you?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  Com_Talk_15:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Aw, I wouldn't part you with that!"
+  Com_Talk_16:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "I'm not gonna buy the clothes off your\nback!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " What do you take me for?"
+  MSG_Gerud_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Fine-looking ladies, these Gerudo, every\nlast one of them. "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "It's a crying shame they\nwon't let me move into their town..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0000":
+    - text: What have you got?
+  "5500":
+    - text: OK.
+  "0001":
+    - text: "Look what I've got."
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Monsters all clear?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Then now's the time\nto beat feet!"
+  "5501":
+    - text: Never mind.
+  "0002":
+    - text: Good-bye.
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Ouch! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "That stung, but not as bad as\nmy pride after asking out a Gerudo."
+  Com_Talk_00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: What have you got for me?
+  "5502":
+    - text: "I'll buy."
+  Com_Talk_01:
+    - text: "I'd pay "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type18:
+            field_1: 32
+            string: ShopTradePrice
+            field_3: 0
+    - text: " rupees"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for that."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 5500
+            field_3: 5501
+            field_4:
+              - 0
+              - 1
+  "5503":
+    - text: Never mind.
+  Com_Talk_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "Thanks! Was that all, or is there more?"
+  Com_Talk_04:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: What a shame!
+  Com_Talk_05:
+    - text: "I'll buy anything!"
+  "5507":
+    - text: "I'll take 'em all!"
+  Com_Talk_06:
+    - text: Which one did you want?
+  "5508":
+    - text: All of them.
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "Might be time to think about adjusting\nmy travel plans..."
+  Com_Talk_07:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Sorry, but I'm fresh out of that one!"
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "So you deal with monsters often,\ndo you? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I bet a man like you could\nuse some of my food supplies!"
+  Com_Talk_08:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "No rupees, no sale!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm here to sell\nmy wares not to fool around!"
+  Com_Talk_09:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: Your pouch looks full.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " There must be a\nfew things in there you don't need,\nright? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Go ahead, clear them out!"
+  RetMSG_Gerud_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "I get nervous thinking of that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine\nBeast"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " roaming around. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "But "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo Town
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis just past it... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: How can I say no?
+  RetMSG_Gerud_01_2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "The desert's just monsters and bad\nsandstorms through and through. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "They\ncall it a wasteland for a reason.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "But what else is a man supposed to do\nif he wants to meet Gerudo ladies?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWasteland, here I come!"

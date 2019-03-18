@@ -1,0 +1,639 @@
+---
+entries:
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Kakariko Village is a small village you can\nreach by following the road north\nfrom here. I came through there earlier.\nIt's surrounded by tall mountains, and\neveryone there wears the same clothing.\n\nIt's a strange little place, sort of like the\noriginal hidden village..."
+  ByTheWay00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "Oh, you're going already?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Then I think I'll kill some time admiring\nthis shrine."
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The lightnin' in Hyrule tends to strike\nmetal objects...\n\nSo mind the steel, sonny!"
+  "0000":
+    - text: Elixirs?
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Using a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "hasty elixir "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "increases your run\nspeed, so I use it to escape from\nenemies or any time I need to hurry.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "The recipe is just "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "hightail lizard "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster parts
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", so I usually have a\nstock of ten or so on hand."
+  "0001":
+    - text: I know all about them.
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You can make elixirs by mixing bugs and\nother small creatures with monster parts.\n\nThey're no good for refilling your health,\nbut they can have a lot of unique\neffects...\nSome elixirs can increase the speed you\nmove... Others raise your resistance to\nextreme temperatures.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I use "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "hasty Elixirs "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "a lot. They let you\nmove faster.\n\nYou can make them with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: hightail lizards
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster parts
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". I always make sure to\nhave ten or so on hand."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You can make elixirs by mixing bugs and\nother small creatures with monster parts.\n\nMost of them are no good for refilling\nyour health, but they can have a lot of\nunique effects...\nSome elixirs can increase your speed.\nOthers raise your resistance to extreme\ntemperatures.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 17
+    - text: "I'm actually impressed that you've made\nit this far without any knowledge of\nelixirs.\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "There's no way I could have done that..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0002":
+    - text: Kakariko Village?
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: "Just so you know, I'm not giving you\nany more elixirs."
+  "0003":
+    - text: "Ahh, I see..."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: "Just so you know, I'm not giving you\nany elixirs."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You know, with how peaceful it is around\nhere, it's sometimes easy to forget that\nthe world almost ended years ago.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 17
+    - text: "But there are still monsters wandering\naround, and the area near "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis especially dangerous.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you're going to be traveling, you\nshould know a thing or two about\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: elixirs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "shrine "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "only recently started\nglowing, but it's been there for\nsomething like 10,000 years.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 17
+    - text: "It sometimes feels like there's a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shrine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nsleeping behind every hill, there's so\nmany of them.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Archaeologists get pretty fired up\nhunting down each one of them, but I\nhaven't got time for mysteries...\nStill, looking at that glowing light..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nyou do start to see something romantic\nabout the whole endeavor."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+  near00:
+    - text: Ahh. This is the life.
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "You can make elixirs by mixing bugs and\nother small creatures with monster parts.\n\nMost of them are no good for refilling\nyour health, but they can have a lot of\nunique effects...\nSome elixirs can increase your speed.\nOthers raise your resistance to extreme\ntemperatures.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 17
+    - text: "I'm actually impressed that you've made\nit this far without any knowledge of\nelixirs.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I can't have it on my conscience if\nsomething happens to you from here,\nso I'll give you one of mine."
+  near01:
+    - text: "It's so nice here..."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Oh...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Uh..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Have you noticed it's mostly\ntwins here at this stable?\n\nIt's kind of creeping me out."
+  near02:
+    - text: "Oh, yeah..."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This area is nice and quiet...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 17
+    - text: "But there are still monsters wandering\naround, and the area near "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis especially dangerous.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you're going to be traveling, you\nshould know a thing or two about\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: elixirs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "shrine "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has been there for\nsomething like 10,000 years.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 17
+    - text: "It sometimes feels like there's a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shrine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nsleeping behind every hill, there's so\nmany of them.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Archaeologists get pretty fired up\nhunting down each one of them, but I\nhaven't got time for mysteries...\nI'll leave that kind of adventure to\nyounger folks."
+  Talk100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: "I was thinking about taking one of those\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: apples
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Apparently anything lying around\nhere is up for grabs."
+  First_Greeting00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Hello there. Don't see a whole lot of\ntravelers passing through here. "
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: Ahh... I am powerfully hungry...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " If I don't\neat soon, I may fall down right here."
+  Talk101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 5
+    - text: "The guy at the stable said we could\ntake those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "apples "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: if we want them.
+  First_Greeting01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Good evening. Don't see a whole lot of\ntravelers passing through here. "
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 13
+    - text: "Aww, dang, it started raining!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The lightning in Hyrule tends to strike\nmetal objects...\n\nYou watch yourself if you go wandering\naround with a metal weapon."
+  Talk102:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 5
+    - text: "I ate one of those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: apples
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". It was nice \nand crisp. Don't you hate it when you\nbite into a soft apple?"
+  First_Greeting02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Good morning. Don't see a whole lot of\ntravelers passing through here. "
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "I wish this rain would take a hint and\nlay off for a while...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The folks in Kakariko Village have really\namazing clothes that let them work out in\nthe rain with no problem. Amazing!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 17
+    - text: "But only the Sheikah people can wear\n'em, so they won't sell us any..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Talk103:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "If the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "apples "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "run out, the children will go\npick some more. They told me to take as\nmany as I want."

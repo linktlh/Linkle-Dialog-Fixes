@@ -1,0 +1,524 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Hmph...
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hrmph... *grumble*
+  near00:
+    - text: Hmph... Hmph...
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Ha! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Gwahaha!!\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "I'll give it to ya straight!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\nWise eyes don't play tricks!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "As you can see, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "this is a mine.\n\n\nWe sell the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "ore "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: we pull from the ground.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nOur home, Goron City, profits from that.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "We used to mine by "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: the summit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nbut with that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "lizard monster "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "launchin'\nthose "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: magma bombs
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " at everything...\nWe just decided to make the most\noutta diggin' here."
+  near01:
+    - text: Grumph... Gruhhh...
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Hmph! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Fine then... Keep your secrets.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Is there somethin' you wanna ask me?"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 4
+              - 42
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 48
+              - 49
+              - 52
+              - 95
+              - 72
+              - 101
+              - 114
+              - 111
+              - 84
+              - 97
+              - 108
+              - 107
+              - 5
+              - 0
+              - 6
+              - 0
+              - 1
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm so sleepy I can't reply..."
+  near02:
+    - text: All right...
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I've gotta interrupt ya real quick!\n\n\nYou've got good eyes on ya, little lady."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHonest eyes.\n\nAt my age, I've seen a lotta things."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI can tell you're no run-of-the-mill\nHylian just by lookin' at ya.\nSo go ahead."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Ask me anything\nya want."
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 4
+              - 42
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 48
+              - 49
+              - 52
+              - 95
+              - 72
+              - 101
+              - 114
+              - 111
+              - 84
+              - 97
+              - 108
+              - 107
+              - 5
+              - 0
+              - 6
+              - 0
+              - 1
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This place here... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Well, as you can see,\nit's a mine.\n\nWe make a profit from sellin' the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ore
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwe dig up. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Our home, Goron City,\nbenefits from our hard work!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "We used to be able to mine closer to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: the summit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: lizard monster
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\npushed us all the way back here."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: Anything else you wanna ask me?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 4
+              - 42
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 48
+              - 49
+              - 52
+              - 95
+              - 72
+              - 101
+              - 114
+              - 111
+              - 84
+              - 97
+              - 108
+              - 107
+              - 5
+              - 0
+              - 6
+              - 0
+              - 1
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: "Got somethin' you wanna ask me?"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 4
+              - 42
+              - 78
+              - 80
+              - 67
+              - 95
+              - 71
+              - 111
+              - 114
+              - 111
+              - 110
+              - 48
+              - 49
+              - 52
+              - 95
+              - 72
+              - 101
+              - 114
+              - 111
+              - 84
+              - 97
+              - 108
+              - 107
+              - 5
+              - 0
+              - 6
+              - 0
+              - 1
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I'm Bohrin of Goron City."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI was once young and strong...\nNow I'm old and wrinkled.\nBut worry not! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "There's still a lot of fight\nleft in me."
+  "0000":
+    - text: "I'm a traveler."
+  "0001":
+    - text: Good-bye.
+  "0002":
+    - text: Actually...
+  "0003":
+    - text: "I said I'm a traveler."
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Goron City is that way.\n\n\nThe trip can be dangerous, so keep\nyour eyes open on the way there!"
+  "0004":
+    - text: "Where's Goron City?"
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "*grumble*"
+  "0005":
+    - text: What is this place?
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "I'm goin' to sleep now.\n\n\nI work the night shift, so if I don't\nrest now, it'll be tough to get\nthrough the night."
+  "0006":
+    - text: Who are you?
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "I'm about to start workin'..."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 18
+    - text: "Hmph...\n\n\nWho the heck..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " At this hour?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Alrighty. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Time to get to work.

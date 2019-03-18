@@ -1,0 +1,178 @@
+---
+entries:
+  "0001":
+    - text: "..."
+  "0002":
+    - text: What do you need?
+  "0003":
+    - text: "..."
+  "0004":
+    - text: You...what?
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "*sniffle*"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0005":
+    - text: "..."
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "*sniffle*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I want... I need..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: I need...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: grilled
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " salmon."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: And also...
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "*sniffle*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " What I really want...\nWhat I really need is..."
+  Henshin00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 35
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1077936128
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "the Heroine's life!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 60
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "*sniffle* "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I'll never see him again..."
+  Henshin01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 35
+    - control:
+        one:
+          type1:
+            field_1: 4
+            field_2: 1077936128
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Begone, enemy of my master!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 60
+  Near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 40
+              - 205
+    - text: "*sniffle*"
+  "0000":
+    - text: "What's wrong?"

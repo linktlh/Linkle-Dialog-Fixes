@@ -1,0 +1,247 @@
+---
+entries:
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I thought you were one of the kids\nplaying spies...\n\nBut you've got to listen to this anyway!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "There's a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: girl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " staying up at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nI saw her come outside! She was right\nover there! It's true!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "But when I tried to tell a grown-up about\nit,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " they said the only people who've lived\nthere are an old man and old woman...\nShe was a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Sheikah girl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I swear!\n\n\nNo one ever listens to kids..."
+  near00:
+    - text: Wow...
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 34
+    - text: "I'm getting sleepy..."
+  near01:
+    - text: Pretty...
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 34
+    - text: See you tomorrow...
+  near02:
+    - text: ♪La la la!♪
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "There's a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: girl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  near03:
+    - text: "*sigh*"
+  talk09:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Zzz...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  near04:
+    - text: Zzz... Zzz...
+  near05:
+    - text: Hyah!
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "I've heard so much about that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: girl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " up at\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The boys playing spies are looking out\nfor her, but I don't think she has shown\nup here yet..."
+  "0000":
+    - text: Who did you see?
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: "Hey, hey! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Where can I get that blue\nthing you got there?"
+  "0001":
+    - text: You talking to me?
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Wow... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Seeing it up close...it almost\nlooks like you're holding a star..."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "It's true! I really saw her!\n\n\nOh...oops.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: Heheh...sorry!
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1

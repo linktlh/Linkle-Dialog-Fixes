@@ -1,0 +1,1284 @@
+---
+entries:
+  Npc_oasis039_R_Near:
+    - text: "Finally, Tali!"
+  Npc_oasis039_S1_100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ride the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "sand seal "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to compete for the\nbest time while also going through\nthe marked arches.\nIf you get off your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "shield or leave the\ncourse bounds"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you're disqualified.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you beat the champion's record\nof "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 56
+            string: SunazarashiRace_BestTime_L
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ":"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 56
+            string: SunazarashiRace_BestTime_M
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you become the new\nworld champion!\nNot only that, but you'll also receive the\ngrand trophy, which has been passed\ndown for generations!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nBut that's enough talk. Time to put your\nrupees where your mouth is.\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "It costs "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 50 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " per attempt. Are you\nready to challenge the champion's time?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 8
+            field_3: 18
+            field_4: 9
+            field_5:
+              - 0
+              - 2
+  Npc_oasis039_S1_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Sand-seal racing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", the traditional\nGerudo sport!\n\nBeat the great Tali's time and walk away\nwith the one and only trophy! Just\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 50 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " per race. How about it?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 8
+            field_3: 18
+            field_4: 9
+            field_5:
+              - 0
+              - 2
+  Talk_0000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+  Npc_oasis039_S1_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Excellent. A good answer is a rare thing\nthese days. That'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 50 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_oasis039_S1_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Hehe, these stomach butterflies before a\nrace..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nI never get sick of it."
+  Talk_0005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: What do you want?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " The great Tali\ndoesn't have time to chat with just\nanyone!\nYou see, now that the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is\ngone, we can finally use the race course.\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tali
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is busy focusing her energy for the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sand-seal race
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: Actually...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Did you want to try to beat Tali's record?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI'll warn you—they don't call her Dame\nof the Dunes for nothing."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 10
+            field_3: 11
+            field_4: 21
+            field_5: 22
+            field_6:
+              - 0
+              - 3
+  "0008":
+    - text: "Let's do this."
+  Npc_oasis039_S1_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hey, hey, hey! You don't have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n\nDidn't they teach you in school that you\nneed a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "shield "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: to sand-seal surf?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThat's basic knowledge!\nCome back when you've got a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Talk_0006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 4
+    - text: "Hey, hey now!\nTali is Tali!\n\nTali is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "sand-seal-racing world\nchampion"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! Who else would Tali be?"
+  "0009":
+    - text: Hold on.
+  Npc_oasis038_Demo330_1_530:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "...Just three years?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+  Talk_0007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 19
+    - text: "You've never heard of Hyrule's pastime?\nThe world-famous "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sand-seal racing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  "0010":
+    - text: Sand-seal race?
+  Talk_0008:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you must know, I am the one who\nraised Tali into a world champion.\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 23
+              - 205
+    - text: "She's always been shy, but for some \nreason she opened up to me.\nIsn't that right, Tali?"
+  "0011":
+    - text: Tali?
+  Talk_0009:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Now we ride!\nNow that the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is gone, we\ncan take the seals out again.\nI doubt anyone in the world can beat\nTali's time, though."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 10
+            field_3: 11
+            field_4: 21
+            field_5: 22
+            field_6:
+              - 0
+              - 3
+  Npc_oasis039_Demo330_1_540:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - text: I need to sit down for a moment...
+  Talk_0010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hey, are you really just going to leave?!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nTali wants to see what you've got.\n\nA true vai never backs down from a\nchallenge."
+  Talk_0011:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The competition will, of course, be\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sand-seal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: race
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  "0014":
+    - text: Of course.
+  Talk_0012:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You surf with a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "sand seal "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to compete for\nthe best time while also going through\nthe marked arches.\nIt's been a traditional Gerudo sport since\ntime immemorial!\n\nOh, yes. And if you get off your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "shield or\nleave the course bounds"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you're\ndisqualified."
+  "0015":
+    - text: "I'll pass."
+  Talk_0013:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Tali's record is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 56
+            string: SunazarashiRace_BestTime_L
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ":"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 56
+            string: SunazarashiRace_BestTime_M
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nIf you can beat that record,\nthat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: trophy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is yours. "
+  "0016":
+    - text: OK.
+  Npc_oasis038_AfterGoal_010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, you passed through all of the\narches..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "But you didn't break the champ's\nrecord of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 56
+            string: SunazarashiRace_BestTime_L
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ":"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type14:
+            field_1: 56
+            string: SunazarashiRace_BestTime_M
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nToo bad."
+  Talk_0014:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "This is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: grand trophy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " that's been\npassed down by ten thousand years of\nsand-seal-racing champions."
+  "0017":
+    - text: Forget it.
+  Talk_0015:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Tali here is the current champion.\nWill you try challenging her record?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 14
+            field_3: 15
+            field_4:
+              - 0
+              - 1
+  "0018":
+    - text: Tell me the rules.
+  Npc_oasis039_S3_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Oh...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\nI guess you're the new champion now.\n\n\nThere's a legend shared among sand-\nseal racers that the grand trophy is the\nkey to finding an ancient treasure.\n...But that's a load of seal snot if you ask\nme."
+  Talk_0016:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "Wha—?\n\n\n...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Oh, well. No point in having some\nnobody try to beat Tali's record anyway.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "She'd sweep the floor with you...\nand mop it, too!"
+  "0019":
+    - text: I want to try again.
+  "0020":
+    - text: Not right now.
+  "0021":
+    - text: Who are you?
+  "0022":
+    - text: Good-bye.
+  "0023":
+    - text: "I'm ready to race. "
+  Talk_0022:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I forgot to mention...\nSince you're racing against the champ's\nrecord, it'll be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 50 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " per race."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 16
+            field_3: 17
+            field_4:
+              - 0
+              - 1
+  Talk_0023:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: All right. Payday!
+  Npc_oasis038_AfterGoal_020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You'll have to pass through all "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: seven
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\narches on the course, or you'll be\ndisqualified.\nDon't forget!"
+  Talk_0025:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You surf with a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "sand seal "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and race to the\nfinish line while also going through the\narches. That's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sand-seal racing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nAnd if you get off your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "shield or\nleave the course bounds"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you're\ndisqualified."
+  Talk_0026:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: Wha—?!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " HAHA!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You can't even afford the modest price to\nchallenge the champ's time?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "The race is off! It'd be a waste of time\nfor some scrub like you to take on the\ngreat Tali!"
+  Talk_0027:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hey, are you really just going to leave?!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nTali wants to see what you've got.\nI didn't think you'd back down\nso easily."
+  Talk_0028:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: You again!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Don't bother "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tali
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " while she's\ngetting pumped up for the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: sand-seal race
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nNow that the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is gone, we\ncan finally use the race course!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: Actually...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Did you want to try to beat Tali's record?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI'll warn you—they don't call her Dame\nof the Dunes for nothing."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 10
+            field_3: 11
+            field_4: 21
+            field_5: 22
+            field_6:
+              - 0
+              - 3
+  Talk_0029:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 25
+    - text: "Haha!\nYou're so funny, Tali."
+  Npc_oasis038_S1_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I didn't think you were a quitter."
+  Talk_0030:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: You again!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Tali is too important to be\nmingling with common folk."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " She's the\nsand-seal racing champion!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: Or...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "So you do want to challenge the\nchampion's record after all?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 10
+            field_3: 23
+            field_4: 21
+            field_5: 22
+            field_6:
+              - 0
+              - 3
+  Talk_0031:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Now we ride!\nNow that the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is gone, we\ncan take the seals out again.\nI doubt anyone in the world can beat\nTali's time, though."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 10
+            field_3: 23
+            field_4: 21
+            field_5: 22
+            field_6:
+              - 0
+              - 3
+  Talk_0032:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I thought everyone knew about it.\nIsn't that shocking, Tali?"
+  Npc_oasis038_AfterGoal_030:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "...Come show us your funky seal\ntechnique again sometime..."
+  Npc_oasis039_R_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Then let's do this!"
+  Npc_oasis039_Demo330_1_510:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 23
+              - 205
+    - text: "Never thought I'd see that record broken\nin my lifetime."
+  Npc_oasis039_S2_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hey, hey, HEY! I told you, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "you can't get\noff your shield"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nThat's it. The race is over!"
+  Npc_oasis039_S2_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Pfft... You need some training wheels on\nthat sand seal?"
+  Npc_oasis039_S2_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hey, hey, hey! I told you, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "you can't leave\nthe course bounds"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nThat's it. This race is over!"
+  Npc_oasis039_S2_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hey, hey, hey!\n\n\nIf you need something, you talk to me.\n\n\nTali is the world champion! You can't\njust walk up and talk to her!"
+  Talk_0040:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hey, hey, hey!\nYou don't have the 'pees!"
+  Npc_oasis039_S2_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "You want to try again? It'll be another\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 50 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 19
+            field_3: 20
+            field_4:
+              - 0
+              - 1
+  Talk_0041:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 1
+    - text: "How dare you bring chump change\nto the house of Tali!"
+  Npc_oasis038_S3_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: That was some solid riding...
+  Npc_oasis039_S2_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Heh, I see you now understand how\ndifficult the record is to crack.\n\nOur Tali is a world champion!\nCome back after you get some practice."
+  Talk_0042:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Enough talk!\nLet's begin!"
+  Npc_oasis038_S3_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Heh...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The champion talking to someone\nbesides me? I must admit...\nI'm a little jealous."
+  Npc_oasis039_Demo330_1_520:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: "I got so excited seeing a run that good—\nit probably shaved three years off of my\nlife."

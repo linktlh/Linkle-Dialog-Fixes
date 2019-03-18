@@ -1,0 +1,2703 @@
+---
+entries:
+  Npc_HighMountain035_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Grrrrrr!\n\n\nMy sisters are dumb DUMMIES!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "They promised we'd rehearse together,\nbut NO ONE showed up!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "We have to perform our song "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nfor the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: elder
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "We're going to be laughed off\nthe stage..."
+  Npc_HighMountain032_S01_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'm going to try to catch some more fish\nbefore I head out. \n\nWhy don't you go find my other siblings\nin the meantime?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: My oldest sister loves
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " high "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "places,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and\nCree is probably at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Slippery Falcon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_HighMountain033_S01_106:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "*munch munch*..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHngh mngh..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHnff! Hurk!"
+  Npc_HighMountain035_R_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Hey, you... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You look like I can use you...\n\n\nThaaaat is to say...you look like a nice\ngirl who likes to help people in need.\n\nCan you go tell my sisters in Rito Village"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nto stop ditching rehearsal?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "They won't listen to me, but they might\nlisten to a scary-looking Hylian like you.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Although Genli might be a tough sell.\nShe's probably in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: kitchen
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " yelling,\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\"I want some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\"\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "...or something like that.\n\n\nShe doesn't want to sing either... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nShe's such a pain!"
+  Npc_HighMountain032_S01_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Once you get all the ingredients, you can\ncook the meal in the pot in the"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " kitchen"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " \n♪Cookie cook cook!♪"
+  Npc_HighMountain033_S01_107:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 18
+    - text: Mmmmmm...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm stuffed!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...Huh?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " My promise to my sisters?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI suppose I shouldn't break my promise...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: I really DO like singing!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n...But I am too nervous to sing in front of\nother people.\nI have SERIOUS stage fright..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but maybe\npracticing with my sisters will help me\nfeel more comfortable.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "Anyway, thank you for the amazing\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "It was so soft and\nflaky and delicious!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'll give this rehearsal my all."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n♪Come listen later!♪"
+  Npc_HighMountain034_S01_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: ♪Yah yah!♪
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n♪I bought some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: goat butter
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!♪\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "...Huh?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Rehearsal?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "Oh, yeah!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I forgot!"
+  Npc_HighMountain034_S01_002:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "If I give you this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: goat butter
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", will you\nmake some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "salmon meunière "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: for Genli?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nShe should be in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: kitchen
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nShe said she won't sing until she's\neaten.\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Our older sister Notts is probably\npracticing her songs somewhere up "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: high
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Kotts left to catch some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: hearty salmon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "She's probably fishing at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: pond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " near\nthe entrance to the village. "
+  Npc_HighMountain034_S01_003:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "My oldest sister Notts is probably\nsomewhere up high practicing her songs.\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Kotts, the second oldest, said she was\ngoing fishing at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: pond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " near the village\nentrance."
+  Npc_HighMountain033_S01_201:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Hurry!\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "I NEED "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in my\nmouth!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "What is taking my sisters so long?\n\n\nI thought they were just going to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Slippery Falcon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Npc_HighMountain035_S02_004:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Oh, thank you so much!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAll of my sisters are here!\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Now we can rehearse here at\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Want to know what\nsong we're singing?\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: Well...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: elder
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " told me...\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "It's a song passed down in the Rito \nVillage that was once sung at\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in ancient times.\nIf you didn't know,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is\nthe big stone platform with the pillars\nbehind us.\nThe lyrics don't make a lot of sense,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " but\nthere's one line in particular that always\ncatches my ear...\n\"When wind convinces the rocks to sing,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nopen the monk's door will swing.\"\n\nWhat do you think that means?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nWhat's a monk?\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: Oh! And I almost forgot!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: I got you a little something.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Just a small\nthanks for bringing all of my sisters here."
+  Npc_HighMountain035_S01_201:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 4
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: Huh?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You already made "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfor Genli?\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "♪Thaaaank you SO much!♪\n\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "I hope Genli will come to rehearsal now.\nI'll head over to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in a bit."
+  Npc_HighMountain032_S02_001:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 45
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Hiyah! HIYAW!\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Oh, no... I messed up!"
+  Npc_HighMountain035_S02_005:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Ta-
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: da!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Korok leaf
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Why don't you swing it in the direction of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? It makes a fun noise!"
+  Npc_HighMountain032_S02_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'll try not to mess up my song.\nDo you want to hear it?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  Npc_HighMountain035_S02_006:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Ta-
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: da!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " A "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Korok leaf
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n...Hey, your inventory is overflowing!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "You should toss any melee items you \ndon't need."
+  Npc_HighMountain031_S01_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: ♪La la loo loo la la!♪
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n♪La la la, loo loo!♪"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n♪La la laaaaaaa la la!♪\nI call that song...\n\"Return of the Bird-Wrangling Hero... \nFirst Movement.\"\nThank you for listening!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 19
+    - text: "What? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Singing rehearsal at\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? I didn't forget!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's just that Genli really wanted some\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " so my sisters and I\nhave been looking for ingredients.\nI finished early, so I was practicing here\nto kill time.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I feel bad we left Kheel waiting, though.\nI really should head over to rehearsal."
+  Npc_HighMountain032_S02_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 11
+    - text: "I won't make a mistake next time! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Yeah!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHuh?"
+  Npc_HighMountain031_S01_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "Well then...I guess I'll give the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Tabantha wheat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to you! Please make\nthe best "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "salmon meunière "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for Genli!\nShe says she can't sing on an empty\nstomach, but I'm pretty sure that's just\nan excuse.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Well, good luck!"
+  Npc_HighMountain031_S01_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'll head over to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "once\neveryone's there! \n\nI think my fourth sister, Cree, is at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Slippery Falcon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". The second oldest,\nKotts, should be at the village entrance."
+  Npc_HighMountain035_S02_100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Did you want to hear our song?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Npc_HighMountain035_S02_101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: OK.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll keep practicing."
+  Npc_HighMountain035_F_001:
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - text: "♪Loo loo loo laaaaa!♪\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\"When wind convinces the rocks to sing,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nopen the monk's door will swing.\"\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: What do you think that means?
+  "0002":
+    - text: Enjoy!
+  Npc_HighMountain032_S01_201:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "You already made "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nfor Genli?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: Yaaay! Thank you so much!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHopefully she stops whining now..."
+  "0003":
+    - text: "No, it's all mine!"
+  Npc_HighMountain032_S02_101:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Please take this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "hearty salmon "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and make\nsome "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "salmon meunière "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for—\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "...Hey!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Your inventory is full!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nClean out your bag and come back."
+  "0004":
+    - text: "I'm all ears."
+  Demo305_0_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: Wow!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Hey look, guys!"
+  Npc_HighMountain033_S01_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: Hurry!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Hurry!\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "I NEED "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "salmon meunière "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in my\nbelly!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "I know "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Kheel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " wants me to practice\nsinging with her, but I just can't.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 1
+    - text: "Not until I get my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "My sisters already left to get\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " ingredients.\n\nI told them I wouldn't sing until I get it."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI didn't expect them to actually make it\nfor me, though!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I don't want to practice singing..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "but I really do want some yummy "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "What is taking my sisters so long?\nI thought they were just going to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Slippery Falcon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Npc_HighMountain034_S02_003:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "♪Loo loo loo laa!♪\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "It's fun singing together!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Even if I don't know the lyrics..."
+  "0005":
+    - text: Not right now.
+  Demo305_0_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: Huh?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Was that weird-looking house\nalways there?"
+  "0006":
+    - text: Why not?
+  Npc_HighMountain034_S02_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hey! Want me to sing the song again?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  Demo305_0_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "No,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " that's that \"shrine\" thing that the\nelder was talking about!"
+  Npc_HighMountain031_S01_102:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "Well then...I guess I'll give the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Tabantha wheat "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to you...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 19
+    - text: "...Hey, your inventory is full!\nGo make some space!"
+  Npc_HighMountain031_S02_001:
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - text: "♪La loo loo loo la!♪\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Yeah! I'm sounding great thanks to all of\nthe rehearsing."
+  "0007":
+    - text: Not right now.
+  Npc_HighMountain034_S02_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "Um... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Ummmm...
+  Demo305_0_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: So cool!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Who knew Warbler's Nest was\nkeeping a secret like that!"
+  Npc_HighMountain035_R_Near:
+    - text: Pikyeeeehh!!!
+  Npc_HighMountain031_S02_002:
+    - text: "Hey! Would you like to hear the song I've\nbeen practicing?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  "0008":
+    - text: "Warbler's Nest song."
+  Demo305_0_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 19
+    - text: "Let's tell Mom!"
+  Npc_HighMountain035_S01_001:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "I know where Genli is!\nI think she's probably in the"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " kitchen"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\"I NEED "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "salmon meunière "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in my\nlife!\""
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "...is probably what she's yelling.\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: kitchen
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It's right next to my house!"
+  Npc_HighMountain031_S02_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: OK!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll keep practicing, then!"
+  "0009":
+    - text: Tummy song.
+  Demo305_0_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "Yeah, let's!"
+  Demo305_0_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: See ya later!
+  Demo305_0_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: Last one to mom is an unhatched egg!
+  Demo305_0_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "Ready,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " set..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: GO!
+  Npc_HighMountain031_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "♪Loo loo loo!♪\n♪Loo loo loo loo!♪"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n♪Loo loo lala loo loo loo...lalala!♪\nDo you like that? I call that little ditty\n\"Return of the Bird-Wrangling Hero...\nPrelude in E-sharp Minor.\"\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: Thank you for listening!
+  Npc_HighMountain031_R_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I like to sing REALLY OLD songs.\nThe older, the better!\n\nAnd they sound even better when I sing\nthem at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Warbler's Nest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! That's where I\nusually practice. You should stop by!"
+  Npc_HighMountain032_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 12
+    - text: "Fishy... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Fishy...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 1
+    - text: "No one's selling fishies!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - text: "If I can't buy any fishies..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI can't finish my task!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Maybe I'll just be like..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\"hiyah!\""
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nand catch one myself."
+  Npc_HighMountain032_R_002:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 45
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "They don't sell fishies at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Slippery Falcon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Maybe I'll catch some on my own..."
+  Npc_HighMountain033_S01_101:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Hurry! Hurry!\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "I NEED "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "salmon meunière "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in my\nbelly!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "*sniff sniff...*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n*sniff sniff sniff*\n\nThat amazing smell..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nCould it be?\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Sa...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSa..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "You're going to let me have some, right?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nRIGHT?!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Npc_HighMountain034_S02_103:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "If I give you this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: goat butter
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " will you\nmake some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 19
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "...Wait, your inventory is full, so I can't\ngive it to you."
+  Npc_HighMountain033_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 20
+    - text: Hmph! I hate practicing singing!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWho cares if I'm not a good singer!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "*sigh*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAll of this pressure is making me\nhungry.\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "I want some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_HighMountain031_S01_201:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 19
+    - text: "What? You already treated Genli\nto some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Wow!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You're amazing!\n\n\nGenli said she doesn't want to sing on an\nempty stomach,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " but I think she's hiding a\ndifferent reason.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Well, I'm gonna meet up with everyone.\nSee you around!"
+  Npc_HighMountain033_S01_102:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "YAAAAAAAAAAAAY!\n♪Time to dig in!♪"
+  Npc_HighMountain033_R_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "I want to eat some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: salmon meunière
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nI want it. I want it. I WANT IT!"
+  Npc_HighMountain033_S02_002:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "♪La loo loo loo laaaaaaa!♪\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: Phew...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nAll this singing is making me hungry."
+  Npc_HighMountain034_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Cree is good at counting!\nShe always counts customers that come\nto the "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Slippery Falcon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " every day!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Let's see. You were the..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHuh, I forgot."
+  Npc_HighMountain032_S01_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 45
+    - text: "Hiyah! HIYAH!\nI'm fishing for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: hearty salmon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...Huh?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " What are you doing here?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWhat? Rehearsal?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: AHHH!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I totally forgot!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI was too focused on catching these fish.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Kheel's going to kill me!"
+  Npc_HighMountain033_S01_104:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: WOW!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " YOU'RE MEAN!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_HighMountain033_S02_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Which would you rather hear? My\ntummy's song or a song about \nWarbler's Nest?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 2
+  Npc_HighMountain032_S01_002:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Please take this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "hearty salmon "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and go\nmake some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "salmon meunière "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for Genli.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Hopefully she'll feel like singing after she\nhas some."
+  Npc_HighMountain033_S01_105:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Can you go tell everyone that\nwe're all set?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You do know where they went for the\ngroceries, I assume.\n\nNowhere but the one-stop shop of\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Slippery Falcon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", of course!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt's cheap AND convenient!"
+  Npc_HighMountain033_S02_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 26
+    - text: "♪Rumble rumble rumble.♪\n♪Grrrrrrr.♪"

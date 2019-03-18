@@ -1,0 +1,373 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Good evening!
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "I want to work, but...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I gave my darling such a scare, I suppose\nI'll let him take care of things for a while.\nI'll just try to take it easy."
+  near00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: "♪Big catch, big catch...♪"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Hello!
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Ugh... I'm so bored...\n\n\nBut my darling is looking after the kids\ntoday..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " So all I have to worry about is\nhaving fun and being fancy-free!"
+  near01:
+    - text: "Oh dear, oh dear..."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "What lovely weather we're having!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: "Ah! It's you!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Here, you can have these!"
+  near02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: ♪Laaa!♪
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Today's weather is unfortunate, isn't it?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: Farewell!
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I'm catching fish!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " They'll sell in no\ntime flat at the general store in\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: Yes!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " We're pretty far away right now...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "But there are a lot of rare fish to\ncatch here, so it's a lot of fun!"
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "We got a big haul today! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Fishing is so\nmuch fun!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 3
+            field_3:
+              - 1
+              - 205
+  "0000":
+    - text: What are you doing?
+  "0001":
+    - text: Good-bye.
+  "0002":
+    - text: "Zora's Domain?"
+  "0003":
+    - text: Do you know Fronk?
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: Hm?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Fronk?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Yes, he's my darling.\nMy love! Why, is something wrong?\n\n...\n\n\n...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: WAAAAAAH!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 31
+    - text: "My darling! I'm sooooorry!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI completely forgoooooot!\nI got carried awaaaaay!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "I-I-I've gotta get back home right away!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHere, you can have these!"
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: Well...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I mean, I'd like to give them\nto you, but it looks like you can't hold\nthese "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: staminoka bass
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\nGo sell them somewhere or something!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nGo on! Quickly!"
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "OK! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Now they're all yours.\n\n\nNow then..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Time for me to go home to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " See ya!"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Good morning!
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Good day!
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "After we last met, my darling"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " gave me a\ngood scolding...\n\nHe said I shouldn't go wandering about\nanymore for a while..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " *sigh*\nI suppose that's only fair."

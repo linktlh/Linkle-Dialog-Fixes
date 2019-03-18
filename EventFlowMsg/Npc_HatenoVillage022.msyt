@@ -1,0 +1,1198 @@
+---
+entries:
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "What kind of gift do you think Prima at\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Ton Pu Inn "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "would want? Just take\na guess.\nIt's not for me, you understand."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIt's for..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "my buddy's friend."
+  talk40:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "That's the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: lab director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s, right? I wonder\nhow they're all doin' up there..."
+  "0010":
+    - text: Do you know Prima?
+  talk41:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Well, lemme see those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: restless crickets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nyou caught!"
+  "0011":
+    - text: I talked to Prima.
+  talk42:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "I already told you, that's Ms. Prima!"
+  "0012":
+    - text: I got the goods!
+  talk43:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Prima works at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ton Pu Inn
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". She's\nthe lady at the front desk."
+  "0013":
+    - text: "Are you...checkin'?"
+  talk44:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Prima is the clerk over at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ton Pu Inn
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk45:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 19
+    - text: "Hrm?\n"
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Don't matter if it's rain or dark or\nwhatever else, I gotta check\neveryone out..."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "This is totally unrelated, but this village\nhas its share of beauties, huh?\nLike Prima at the Ton Pu Inn.\nI bet that Purah"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " was a looker when she\nwas young too, y'know?"
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Checkin' everyone out today, too. The\ncheckin' just never stops..."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 26
+    - text: "Night or day, don't matter. Gotta check\neveryone out..."
+  near01:
+    - text: "*mumble mumble*"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Even in the rain, still gotta check\neveryone out..."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "You need somethin'?"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 7
+              - 36
+              - 72
+              - 97
+              - 116
+              - 101
+              - 110
+              - 111
+              - 78
+              - 80
+              - 67
+              - 48
+              - 50
+              - 50
+              - 95
+              - 71
+              - 97
+              - 110
+              - 111
+              - 110
+              - 6
+              - 36
+              - 72
+              - 97
+              - 116
+              - 101
+              - 110
+              - 111
+              - 78
+              - 80
+              - 67
+              - 48
+              - 50
+              - 50
+              - 95
+              - 90
+              - 101
+              - 108
+              - 100
+              - 97
+              - 13
+              - 0
+              - 9
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Yeah?
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: See ya later.
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "What? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Prima told you what she wants?!\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: Prima
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: never even talks to me...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "*ahem*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I mean, that's cool, that's cool...\n\n\nSO THEN, WHAT IS IT?!"
+  "0000":
+    - text: Yep.
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "You have some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: restless crickets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nalready?! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Wow, that was fast!\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "I haven't even caught one yet..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0001":
+    - text: Nope.
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: You really got them?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I thought you\nwere just messing with me."
+  "0002":
+    - text: "Right, right."
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 18
+    - text: "...Uh, I'm no counting scientist, but I\nthink that's less than "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "C'mon, man! I got a date with Prima\nriding on this! Help me out."
+  "0003":
+    - text: Sounds...weird.
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "OK, so... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Hrm...\n\n\nYup, that's "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Thanks, I'll take 'em."
+  "0004":
+    - text: Beauties?
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 6
+    - text: "Whoa! I haven't seen that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in\na long time!"
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "A little somethin' for your troubles..."
+  "0005":
+    - text: Sounds tough.
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Ever stayed at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ton Pu Inn
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  talk36:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Prima wants "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: restless crickets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? And "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "100\nof them"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hahaha! What a small world!\n\nI love "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: restless crickets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! I'm a\nconnoisseur of them! \n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I think that's what that word means..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "But catching "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "100"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of them is gonna be\ntough."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Think you could help me get\nstarted on those?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: How about you get me...
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of them? I'll\nget you something nice for your trouble."
+  "0006":
+    - text: Princess?
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Makes no difference to me, but..."
+  talk37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Right then! I'll go ahead and catch the\nrest of 'em.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Then I'll take 'em to Prima"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and we'll have\nthat d-d-date...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "Oh, no! My s-s-s-stutter..."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0007":
+    - text: Great Calamity?
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you're not staying there, then..."
+  talk38:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "There's weird, suspicious folks out there!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSo I gotta check everyone out to make\nsure no one dangerous gets through.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "I'm volunteerin' my own time because\nit's an important service for the village."
+  "0008":
+    - text: "\"Checkin' out?\""
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "I'm supposed to check out everyone who\ncomes into town."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  talk39:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "That's Purah's, right? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I haven't seen her\nin a while. Wonder how she's doing..."
+  "0009":
+    - text: Bye.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Thought so.
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I know things have been peaceful \nrecently, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "but the outside world is\nstill pretty dangerous, yeah?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So I gotta check and make sure if any\nbeauties—"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "er, I mean—suspicious\nfolks have come around here."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 2
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 16
+    - text: "YOUR job is weird.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "...Whatever it is you do."
+  talk08:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 15
+    - text: "*sigh*"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Yeah. It is a tough job! I'm over here\nmakin' it look easy."
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Just checking out the beauties—\ner, I mean tourists—er, I mean—\nsuspicious folk! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That's what I'm doing!\nWell...if we're gonna talk about beauties,\nthough, no one can hold a candle to\nPrima, y'know?\nThey say the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: princess
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwho lived 100 years ago was super\npretty, too.\nMaybe she coulda given Prima a run for\nher beauty, but that's the level we're\ntalkin' about here."
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Really?! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Are you serious?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: princess
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of Hyrule Castle who got\nswallowed up by the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Calamity
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nThat's the only reason we got peace here\nnow. We really owe that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: princess
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Great Calamity "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "was that awful thing\nfrom 100 years ago! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You been asleep\ninside a cave or somethin'?!\nSome people will say it was some kind\nof "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: serpent
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Others say it was like some\nkind of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "black fog "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "or something.\nI didn't see it myself, so I don't really\nknow. But the old timers around here\nmight know more about it."
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: What is it?
+    - control:
+        one:
+          type9:
+            unknown_1:
+              - 255
+              - 255
+              - 0
+              - 0
+              - 255
+              - 255
+              - 0
+              - 0
+              - 255
+              - 255
+              - 0
+              - 0
+            strings:
+              - field_1: 12
+                string: HatenoNPC022_Here
+              - field_1: 11
+                string: HatenoNPC022_Heard
+              - field_1: 10
+                string: ""
+              - field_1: 8
+                string: ""
+            field_3: 9
+            field_4: 0
+            unknown_2: ~
+            field_6:
+              - 0
+              - 7
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: You need anything else?
+    - control:
+        one:
+          type9:
+            unknown_1:
+              - 255
+              - 255
+              - 0
+              - 0
+              - 255
+              - 255
+              - 0
+              - 0
+              - 255
+              - 255
+              - 0
+              - 0
+            strings:
+              - field_1: 12
+                string: HatenoNPC022_Here
+              - field_1: 11
+                string: HatenoNPC022_Heard
+              - field_1: 10
+                string: ""
+              - field_1: 8
+                string: ""
+            field_3: 9
+            field_4: 0
+            unknown_2: ~
+            field_6:
+              - 0
+              - 7
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you're lucky enough to stay at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ton Pu Inn
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you'll see what I mean.\nSay hullo to Prima for me if you do.\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Not that she even knows who I am...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "That's Ms. Prima to you! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You ever been\nto the inn here?"
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: This is tough...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I have to give her SOMETHING..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535

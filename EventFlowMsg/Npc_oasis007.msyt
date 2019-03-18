@@ -1,0 +1,1735 @@
+---
+entries:
+  Talk_22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...I suppose nothing is accomplished by\ndiscussing it further. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "So what do you\nwant to do?\nTo make a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Scimitar of the Seven
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I'll\nneed "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: one diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: five flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo scimitar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 1
+  Talk_23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "I can't believe you'd lose such a\nprecious item. Entrusted to you by\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", no less!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "I shouldn't be surprised."
+  Talk_26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...I suppose nothing is accomplished by\ndiscussing it further. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "So what do you\nwant to do?\nTo make another "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Daybreaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I'll need\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: one diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: five flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 1
+  TerrorBomb:
+    - text: Rude!
+  Talk_28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 18
+    - text: "...I suppose nothing is accomplished by\ndiscussing it further."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm sure they\nprotected their master.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, do you want me to make new ones\nfor you?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5: 5
+            field_6:
+              - 3
+              - 3
+  Talk_29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well? Where's the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without the\nproper materials."
+  Talk_40:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamonds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nenough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", or a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo scimitar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without enough\nof the proper materials."
+  Talk_41:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamonds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\na "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo scimitar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", or a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without enough\nof the proper materials."
+  Talk_42:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo scimitar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", or a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without the\nproper materials."
+  TerrorArrow:
+    - text: Think you can take me?
+  Talk_43:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you ever find yourself in trouble, you\nare always welcome to come here.\nEveryone in this town is your ally now.\n"
+  Talk_44:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Champion's arms"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are treasures of\nthe Gerudo, much like the Thunder Helm.\n\nYou are perhaps the only Hylian ever\nto wield them.\n\nIf anything happens to them, you must\nlet me know immediately."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  Talk_45:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 7
+    - text: "You've lost the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Daybreaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIs that what you're trying to say?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Ha! Did you think you could deceive\nme so easily?!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nTake your falsehoods and go! Return to\nme if it really has been lost."
+  Talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Thanks for waiting.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThis is your new "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Daybreaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nTake care of it."
+  Talk_46:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 7
+    - text: "You've lost the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Scimitar of the Seven
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIs that what you're trying to say?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Ha! Did you think you could deceive\nme so easily?!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nTake your falsehoods and go! Return to\nme if it really has been lost."
+  Talk_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Thanks for waiting.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHere are your new "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Scimitar of the Seven
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nand "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Daybreaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Take care of them."
+  Talk_47:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 7
+    - text: "You've lost the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Champion's arms"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIs that what you're trying to say?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Ha! Did you think you could deceive\nme so easily?!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nTake your falsehoods and go! Return to\nme if it really has been lost."
+  "0000":
+    - text: "Yes, please!"
+  Talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "You did amazing work!\nI believe I speak for everyone when I\nsay thank you!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nNow, go ahead and take what awaits you\nin those treasure chests there.\n\nMove quickly. We are indebted to you,\nbut that doesn't mean you can make the\nchief wait forever."
+  "0001":
+    - text: "No, thank you."
+  Talk_13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Scimitar of the Seven
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", huh?\nTo make it, I'll need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: one
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: five
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\npieces of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo scimitar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 1
+              - 1
+  Talk_49:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 7
+    - text: "You've lost the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Champion's arms"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIs that what you're trying to say?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Ha! Did you think you could deceive\nme so easily?!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Scimitar of the Seven
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has in fact\nnot been lost!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Although... It does appear that you've\nlost the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Daybreaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  "0002":
+    - text: A Scimitar of the Seven.
+  Talk_14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Daybreaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", huh? To make it, I'll\nneed "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: one
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: five
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " pieces of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nand a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 1
+              - 1
+  Talk_15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "What? Are you getting cold feet after\ndiscovering how precious these items\nare?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You can relax. Though they may be\nprecious, it is within my power to remake\nthem, if needed.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "I must have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "diamond "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in order to make\none, however. Only one "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but\nthey are the highest quality of gems...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "They're just as precious as the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Daybreaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " or the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Scimitar of the Seven
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nIt's best if you just try not to break them."
+  "0003":
+    - text: A Daybreaker.
+  "0004":
+    - text: Make both!
+  "0005":
+    - text: "Actually, never mind."
+  "0006":
+    - text: About that...
+  "0007":
+    - text: "I'll be back!"
+  Talk_30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well? Where's the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without the\nproper materials."
+  "0008":
+    - text: "Yes, please."
+  Talk_31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well? Where's the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo scimitar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without the\nproper materials."
+  "0009":
+    - text: Maybe later.
+  Talk_32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamonds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nor enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will\nallow me to craft something without\nenough of the proper materials."
+  Talk_33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamonds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " or a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without enough of\nthe proper materials."
+  TerrorExplosion:
+    - text: A surprise attack?!
+  Talk_34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamonds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nor a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo scimitar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without enough\nof the proper materials."
+  TerrorSword:
+    - text: Put away your weapon!
+  TerrorFire:
+    - text: Put the fire out!
+  Talk_35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " or a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without the\nproper materials."
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "A lot happened, but... We are truly\nindebted to you.\n\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Champion's arms"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are treasures of\nthe Gerudo, much like the Thunder Helm.\n\nIf anything happens to them, you must\nlet me know immediately."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  Talk_36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " or a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo scimitar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without the\nproper materials."
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Don't bother with excuses—I can see it\nin your eyes. You've lost the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Daybreaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThat's what's going on, right?"
+  Talk_37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "You don't have enough of any of the\nmaterials I need...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without the\nproper materials."
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I am always here, protecting the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nCome see me anytime you have a\nquestion about the weapons."
+  Talk_38:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo scimitar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " or a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without the\nproper materials."
+  Talk_50:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 7
+    - text: "You've lost the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Champion's arms"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIs that what you're trying to say?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Ha! Did you think you could deceive\nme so easily?!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Daybreaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has in fact not been lost!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Although... It does appear that you've\nlost the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Scimitar of the Seven
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well? Show me the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamonds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without enough of\nthe proper materials."
+  Talk_39:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You don't have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamonds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nenough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", or a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "No amount of wishful thinking will allow\nme to craft something without enough\nof the proper materials."
+  Raimei_CK_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Thunder Helm
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is a treasure of the\nGerudo that even I have never laid\nhands on... \n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If I'm being honest, I do feel a twinge of\nenvy toward you...\n\nBut you've not only restored happiness\nto our people...you've brought that\nsame happiness to the chief, as well.\nThis was a task beyond my abilities..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nIt only makes sense that the chief would\nentrust you with such a treasured item.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "Having said that, should anything happen\nto that helm, I will never forgive you!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBear that in mind!"
+  Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 6
+    - text: Wh-what? Did you say...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nYou've lost not only the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Daybreaker
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " but\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Scimitar of the Seven
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " as well?"
+  Talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "In that case, I'll need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: two diamonds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ten
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\npieces of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: flint
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo scimitar
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Gerudo shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 5
+            field_4:
+              - 1
+              - 1
+  Talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Don't bother with excuses—I can see it\nin your face. You've lost the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Scimitar of the Seven
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  Talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "OK, I'll take those materials now. Wait\nhere for a little bit."
+  Talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Thanks for waiting.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThis is your new "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Scimitar of the Seven
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nTake care of it."

@@ -1,0 +1,48 @@
+---
+entries:
+  QL_HatenoMini_BlueFire_Name:
+    - text: "Robbie's Research"
+  QL_HatenoMini_BlueFire_Finish:
+    - text: "Though Robbie initially presumed that it was the\npower of love that set the ancient oven right\nagain, he soon realized the cause was actually\nme lighting the furnace with blue flame.\n\nIf I give it some ancient materials\nand a generous supply of rupees, the\nancient oven will provide some\nancient soldier gear in exchange."
+  QL_HatenoMini_BlueFire_Meet:
+    - text: "I met Robbie, the director of the\nAkkala Ancient Tech Lab.\n\nHowever, Cherry—or rather, the ancient oven—\nisn't working at the moment, meaning it can't\ncreate ancient soldier gear for me.\n\nAll it (she?) needs to be up and running again\nis for me to light the furnace outside with the\nblue flame."
+  QL_HatenoMini_BlueFire_Carry:
+    - text: "I lit the furnace at the\nAkkala Ancient Tech Lab with blue flame.\nThe ancient oven is now up and running\nagain.\n\nIt's time to go tell Robbie."
+  QL_HatenoMini_BlueFire_Desc:
+    - text: "Purah told me that any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ancient materials
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nI find can be turned over to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Robbie
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI can find him presiding over the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Akkala Ancient Tech Lab
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."

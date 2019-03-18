@@ -1,0 +1,28 @@
+---
+entries:
+  QL_FirstTower_Finish:
+    - text: "When I inserted my Sheikah Slate in the\npedestal marked on the map, a giant tower\nerupted upward from the ground, carrying me\nhigh into the air.\n\nFrom Hyrule Castle, off in the distance, I heard\nthe woman's voice speaking to me again..."
+  QL_FirstTower_Name:
+    - text: Follow the Sheikah Slate
+  QL_FirstTower_Desc:
+    - text: "From out of nowhere, I heard a woman's\nvoice speak to me... She instructed me to head\nto the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "marker "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "displayed on the Sheikah Slate.\n\nThe slate is both alien and somehow familiar\nto me... I find that I can access its map\nby pressing the "
+    - control:
+        one:
+          type7:
+            field_1: 2
+            field_2:
+              - 24
+              - 205
+    - text: " button."

@@ -1,0 +1,441 @@
+---
+entries:
+  Talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "The warrior and her soldiers at\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Fort Hateno "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "risked their lives to\nprotect the world."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I wasn't there at the time, but I'm alive\nnow because of them, and I've got to\nmake sure future generations know it!"
+  Talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "If I'd been alive 100 years ago...I like\nto think I'd have fought these Guardians\nhere, right at the warrior's side."
+  near00:
+    - text: Incredible!
+  near01:
+    - text: Check out this angle!
+  near02:
+    - text: Zzz...
+  Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Hiya! My name's Garill. Come to see\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fort Hateno
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I take it?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk13:
+    - text: "I wasn't sleeping..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I wasn't!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "I was praying for the souls of the warrior\nand all who died here at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fort Hateno
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThat's a totally different thing!\nYou're welcome to join me if you want."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+    - text: "\n"
+  Talk01:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "The more I see of this place, the more\nit hits me just how hard the old tragedy\nstruck here."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But even knowing that, seeing so many\nGuardians... It boggles the mind."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "That warrior must have been some threat\nto the forces of darkness, huh?"
+  Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Figured as much. It's well worth seeing!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fort Hateno
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " here was the last line of\ndefense between Hateno Village and the\nawful tragedy all those years ago.\nEveryone's got to come and pay their\nrespects at least once in life, right?"
+  Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: "You come up to talk to me and then\ngive me the brush-off? What gives?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Listen, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fort Hateno
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " here was the last line\nof defense between Hateno Village and\nthe tragedy all those years ago.\nYou're a Hylian—you ought to know \nthese things!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Have some respect!\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Learn some history!
+  Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I don't mean to pressure you. But\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fort Hateno
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " here was the last line of\ndefense for Hateno all those years ago.\nIf not for this fort and the soldiers who\nheld the line here, Hateno Village as we\nknow it might be gone entirely.\nI hang around to pray that those who\ngave their lives find peace and to pass\non the story of the heroine.\nI owe that much to the soldiers who\nfought so that we might live today!\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I think everyone does.
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Almost hard to believe they managed to\nhold back a whole horde of Guardians\nhere.\nIf not for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fort Hateno
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and the warrior,\nthere'd be no such place as\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hateno Village
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " anymore."
+  "0000":
+    - text: "That's right."
+  Talk17:
+    - text: "That's a pretty enlightened thing to say\nfor such a young kid!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fort Hateno
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " here was the last line of\ndefense between Hateno Village and the\nterrible tragedy all those years ago.\nIf not for this fort and the soldiers who\nheld the line here, Hyrule as we know it\nmight be gone entirely.\nIt's our duty as the survivors to pray that\nthose who gave their lives find peace\nand to pass on the story of the warrior."
+  "0001":
+    - text: Good-bye.
+  Talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Do you know the story of the warrior\nwho fought here at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fort Hateno
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 2
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I'd love to keep jawing with you about\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Fort Hateno
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and the warrior—don't get\nme wrong."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "But I'm observing a moment of silence\nfor the warrior and his troops who fought\nto the last against the Guardians.\nWe can pick it up again in the morning."
+  "0002":
+    - text: Sure.
+  Talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "So 100 years ago, we had these\nspecial warriors called Champions."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "The warrior who fought here was\nsupposedly one of them."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I heard the\nothers all died in the big fight.\nThe warrior, though... Some say she gave\nher life here too."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "But others think she went into a deep\nsleep to prepare to fight another day."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhich would mean she's still alive, right?\nI wonder if I'll still be around when she\nwakes up."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'd love to meet the girl."
+  "0003":
+    - text: "I'll pass."
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "I used to think the old tragedy was\nancient history. Nothing to do with\nmy life."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "But when I stop to consider that my\nlife is only possible because of those\nwho fought tooth and nail for us..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Well, I start to feel a tear in my eye.\nAlthough that could also just be the rain."
+  "0004":
+    - text: "No, tell me."
+  "0005":
+    - text: You could say that.
+  Talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Oh, that's excellent! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Saves me the\ntrouble of having to tell you."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "You know, most people think the warrior\ngave her life here in battle with the\nforces of darkness.\nBut some believe she actually went into a\ndeep sleep, so she could live again to\nfight another day!\nIf that's true, she must still be alive."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI wonder if I'll still be around when she\nwakes up..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'd love to meet the girl."

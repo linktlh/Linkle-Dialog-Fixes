@@ -1,0 +1,299 @@
+---
+entries:
+  QL_UMiiMini_MakeVillage_Desc:
+    - text: "Hudson, Bolson Construction's veteran\ncarpenter, has departed for the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Akkala
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nregion to expand the business.\n\nAkkala is far to the north of Hateno Village.\nIf I happen to be passing by, I'll stop in and\npay "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Hudson
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " a visit."
+  QL_UMiiMini_MakeVillage_LookFor01:
+    - text: "I brought Hudson enough wood to get him\nstarted, but now he needs to break the boulders\nscattered across the future site of Tarrey Town.\nHe's asked me to find a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Goron "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "strong enough\nto help out.\n\nAccording to the Bolson Construction hiring\nguidelines, I need to seek out "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "a Goron\nwhose name ends in \"son.\""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " The guidelines are\nunusually specific about this."
+  QL_UMiiMini_MakeVillage_Finish:
+    - text: "Hudson and Rhondson are happily married, and\nTarrey Town is enjoying great prosperity.\n\nAs a sign of appreciation for bringing the town\ntogether and as compensation for my work,\nHudson gave me a hefty amount of gems that\nwere unearthed during the town's construction.\n\nI wished the couple eternal happiness before\nheading on my way."
+  QL_UMiiMini_MakeVillage_Wood01:
+    - text: "I bumped into Hudson in the Akkala region,\nand it sounds like he plans on building a town\nthere as a part of Bolson Construction's\nexpansion. He even has a name picked out—it\nwill be known as Tarrey Town. That said, he is\nmissing a few things required to make a town.\n\nYou know, small things—like lumber.\n\nI'll bring him "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 10 bundles of wood
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to\nget him started."
+  QL_UMiiMini_MakeVillage_LookFor02:
+    - text: "I delivered more wood to Hudson.\n\nBut now he needs someone who can mend his\nwork clothes. He wants me to find a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Gerudo
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nskilled at sewing, but remember the stipulation\nin the Bolson Construction hiring guidelines:\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Gerudo's name must end in \"son.\""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  QL_UMiiMini_MakeVillage_Invite01:
+    - text: "Greyson the Goron has moved to Tarrey Town,\nand his younger brother Pelison tagged along\nfor the ride.\n\nI should pay the town a visit to make\nsure they arrived safely, and check in with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Hudson
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " while\nI'm there."
+  QL_UMiiMini_MakeVillage_Wood02:
+    - text: "Greyson and Pelison arrived safely in\nTarrey Town and got right to work. Greyson\nis breaking apart the boulders, and Pelison\nis selling the ore they find within.\n\nHudson wants to build some more buildings, but\nhe needs more material. "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Twenty bundles of\nwood"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " should hold him over for this next bunch\nof buildings."
+  QL_UMiiMini_MakeVillage_LookFor03:
+    - text: "I brought Hudson more wood.\n\nHis next goal is to open up a general store and\ntrade routes, and he thinks a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Rito "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "merchant\nwould be perfect for the job.\n\nI'm to find a Rito with the know-how to manage\na shop and the connections to set up trade,\nand of course, make sure "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "his or her name\nends in \"son.\""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  QL_UMiiMini_MakeVillage_Name:
+    - text: From the Ground Up
+  QL_UMiiMini_MakeVillage_Invite02:
+    - text: "A Gerudo by the name of Rhondson has moved\nto Tarrey Town.\n\nI'll pay the town a visit to make sure she arrived\nsafely, and check in with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Hudson "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "while I'm there."
+  QL_UMiiMini_MakeVillage_Wood03:
+    - text: "Rhondson arrived safely in Tarrey Town and got\nright to work. She is not only mending work\nclothes—she also opened up an armor shop!\n\nHudson wants to build more buildings, but he's\nrun out of materials once again.\n\nAnother "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "30 bundles of wood "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "should cover\nhim for now."
+  QL_UMiiMini_MakeVillage_LookFor04:
+    - text: "I brought Hudson enough wood!\n\nAnd now, as it turns out, Hudson is engaged to\nRhondson! Can you believe it?\n\nThey want to hold a ceremony, so he wants me\nto find a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Zora "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "who can officiate. Even though\nthis Zora technically won't be working for\nHudson's company, he would be much more\ncomfortable if the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Zora's name ended in \"son.\""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  QL_UMiiMini_MakeVillage_Marry:
+    - text: "Hudson and Rhondson's wedding was a shining\nbeacon in an otherwise dark, dangerous world.\n\nRhondson was a little taken aback by a few of\nthe vows, but everything worked out fine and is\nin perfect compliance with Bolson Construction's\nguidelines.\n\nIt's only polite to give my blessing to the lovely\ncouple who just vowed their undying love, I'll go\ntalk to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Hudson
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  QL_UMiiMini_MakeVillage_Invite03:
+    - text: "A Rito by the name of Fyson has moved to\nTarrey Town to run the general store.\n\nI should pay the town a visit to make sure he arrived\nsafely, and check in with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Hudson "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "while\nI'm there."
+  QL_UMiiMini_MakeVillage_Wood04:
+    - text: "Fyson arrived safely in Tarrey Town and put\nthe experience he gained from running his\nfamily's shop to good use. He opened up a\ngeneral store!\n\nHudson wants to build another batch of\nbuildings, but he needs more material.\n\nI need to bring him another "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 50 bundles of wood
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  QL_UMiiMini_MakeVillage_LookFor05:
+    - text: "Kapson, a Zora and former priest, arrived safely\nin Tarrey Town and began making preparations\nfor the wedding ceremony.\n\nHudson wants to invite Bolson and Karson to\nhis wedding, but he's too busy with preparations\nof his own. I'll go to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Hateno Village "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to invite "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Bolson\nand Karson"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  QL_UMiiMini_MakeVillage_Invite04:
+    - text: "A former Zora priest by the name of Kapson\nhas moved to Tarrey Town!\n\nI should pay the town a visit to make sure he arrived\nsafely and to see what other shenanigans\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Hudson "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has been up to. There's always\nsomething going on with that guy!"
+  QL_UMiiMini_MakeVillage_Invite05:
+    - text: "Bolson and Karson departed for Tarrey Town.\n\nAll that's left now is to return to the town\nmyself and enjoy Hudson and Rhondson's\nwedding ceremony!\n\nI'll head back to the town and look for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Hudson
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."

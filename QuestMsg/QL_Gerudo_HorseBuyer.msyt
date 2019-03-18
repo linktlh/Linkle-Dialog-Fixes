@@ -1,0 +1,44 @@
+---
+entries:
+  QL_Gerudo_HorseBuyer_Finish:
+    - text: "Zyle lost his horse during his travels and he\nseems to have approved of the one that I\ngave him to replace it.\n\nI gave the horse to him for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 300 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  QL_Gerudo_HorseBuyer_Name:
+    - text: Good-Sized Horse
+  QL_Gerudo_HorseBuyer_Desc:
+    - text: "I ran into a traveler named Zyle on a road in\nthe Gerudo region—he's in trouble after losing\nhis horse on his journey.\n\nHe says he'll give me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "300 rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "if I bring\nhim a horse...but it has to be"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " appropriately\nsized "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for Zyle's body frame."

@@ -1,0 +1,695 @@
+---
+entries:
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Linny...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Thank you for appeasing the\nDivine Beast!"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 12
+              - 0
+              - 7
+              - 0
+              - 8
+              - 0
+              - 9
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: That said...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I can't find my daughter,\nFinley. I've looked everywhere!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "When last we spoke, she said something\ncrazy like, \"I want to find a prince of my\nvery own!\"\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: "Hmm, I wonder if she's on her way to\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Bank of Wishes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " again..."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: That said...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The \"prince\" my daughter\nbrought home...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "He's a Hylian like you, heh."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I don't think\nhe's quite what we expected, though.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: Her horrible taste in men...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "it reminds me\nof a certain someone."
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "You went for the water bed, right?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nHow did you sleep?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 11
+            field_4:
+              - 0
+              - 2
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Oh! I'm so glad!\n\n\nI knew it was worth the investment to\nhave a bed made especially for Hylians!"
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: "Oh. I see. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Perhaps I cooled it down\ntoo much..."
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "This is the cooking area. We Zora mostly\neat raw fish, but...\n\nHylians get much more benefit out of\ncooked food, right?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "Yes, I thought so. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Please feel free to use\nthis area as often as you wish."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "That's the Hylian Champion for you!"
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "I can't believe my dear Linny reappeared\nafter 100 years...and was also the one\nto appease "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for us!\nI really can't get over it!"
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: It really was unfortunate about Mipha...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBut I was saddest about you, Linny."
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: Wait...what was I going to say?
+  near00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 3
+    - text: Helloooo!
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "I can never decide "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "what to make for\ndinner."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Anyhoo."
+  near01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 3
+    - text: Linnyyyy!
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Hello!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Welcome to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Seabed Inn
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nHere we—\n\n...\n\n\n...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: Could it be?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Linny?! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "It is! It's Linny!!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 2
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Hello, Linny!"
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Good evening, Linny!"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Yes, I'm sure of it! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You're Linny!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWow, it's been such a long time!\n\nWait, but...I thought you and Mipha..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nfell to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nAnd if you've been alive all this time,\nwhere have you been?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " What have you\nbeen doing?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Please, tell me!\n...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 19
+    - text: "Oh, I'm so sorry..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm an adult, and yet\nhere I am, making a ruckus.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Has it really been 100 years?\nIn a way, it feels like yesterday...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "We've both been through a lot, I'm sure."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIf you don't mind, I'd love to catch up\nsometime soon."
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: Huh?! Linny...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You didn't forget about\nMipha, did you?"
+  "0004":
+    - text: Precisely.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: Hello!
+  "0005":
+    - text: Linny?
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Good morning, Linny!"
+  "0006":
+    - text: Mipha?
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 6
+    - text: Oh! Do you need something?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 6
+              - 0
+              - 7
+              - 0
+              - 8
+              - 0
+              - 9
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0007":
+    - text: Who are you?
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Mipha was a princess.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " She was also\nKing Dorephan's daughter and\nSidon's older sister.\nShe was the Zora Champion and could\nheal wounds with ease. We all loved\nher dearly.\nA hundred years ago, she piloted the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to help fight\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 16
+    - text: "As for what happened next, well..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm sure you can figure it out."
+  "0008":
+    - text: Linny?
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: OK. See you later.
+  "0009":
+    - text: Good-bye.
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "You're terrible, Linny!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It's me, Kodah!\n\n\nA hundred years ago, I asked you...\nto choose between me and Mipha."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm sorry about that.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "Now I'm married to Kayden, and I'm a\nmother of one. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "My daughter's name is\nFinley. We're all very happy."
+  "0010":
+    - text: Great!
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Heh, that's the nickname I gave you\n100 years ago!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Isn't it the cutest?\n\nThough much time has passed, I still\nremember that your real name...\nis Linkle.\nAnd that you're the Hylian Champion!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou went with Mipha to fight back\nagainst "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nYou should know that the council of\nelders is angry about..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "what happened.\nThey say \"that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\" stole Mipha away.\nBut us Zora who are around 100 years\nold now...we know what it was like back\nthen."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " We don't believe that.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "You and Mipha are the Champions who\nheld back the Calamity for all of us!"
+  "0011":
+    - text: "OK, I guess..."
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 6
+    - text: "Is there anything else you'd like to ask?"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 6
+              - 0
+              - 7
+              - 0
+              - 8
+              - 0
+              - 9
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0012":
+    - text: "You're welcome."
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 18
+    - text: The rain has stopped...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I wonder if "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nhas stopped as well...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Sorry, Linny."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: Linny!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Were you able to appease the\nDivine Beast?!"

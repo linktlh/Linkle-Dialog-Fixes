@@ -1,0 +1,688 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: But you...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You look like you could climb\nthat tower without breaking a sweat!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Would you be willing to make an offering\nof rupees to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on my\nbehalf?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "All right! Thank you! Looks like asking\nyou was a good call after all.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "So that means you met the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nhuh? Man, I'm so jealous...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "But hey, at least you got to meet her!\nAnd that means, technically, I got to\nmake my offering to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nI can't thank you enough!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 3
+            field_3:
+              - 1
+              - 205
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Oh, thank you!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Here, take the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "500\nrupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "I saved up. It's my life savings!"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "Huh? Um, no, I don't think so..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Wait,\nwhat?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You aren't trying to tell me you\nwant a reward, are you?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "You got to see the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " thanks to\nmy tip, didn't you?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " And now you're\nasking for more?!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Ahh, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Even if it's just in my\ndreams, won't you appear before me?"
+  talk04:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "So please don't just go running off with it, OK?"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "All right! Thank you! Looks like asking\nyou was a good call after all.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "So that means you met the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nhuh? Man, I'm so jealous...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "But hey, at least you got to meet her!\nAnd that means, technically, I got to\nmake my offering to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nI can't thank you enough!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: "You really won't help?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " That's too bad,\nbut I guess I can't blame you..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "I'll be here if you change your mind.\nSo come talk if you want to help me\nout later!"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: The shadow of the tower just beyond the
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Tabantha Great Bridge "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "will point to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s fountain in the afternoon.\nIt'll be pretty hard to see the shadow in\nthis rain...\n\nBut still, I'm counting on you to make\nthat offering to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Ah, it's you!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Did you change your mind\nabout making an offering to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Great\nFairy "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: on my behalf?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: The shadow of the tower just beyond the
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Tabantha Great Bridge "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "will point to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s fountain in the afternoon.\nThat's all the information the rumor has\nto offer."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm counting on you to make\nan offering to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Near00:
+    - text: Great Fairy...
+  Near01:
+    - text: "The Great Fairy's fountain."
+  "0000":
+    - text: "I'll do it!"
+  "0001":
+    - text: "I'll have to pass."
+  "0002":
+    - text: Of course!
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Hey, it's you!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Did you give the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Great\nFairy "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: offering
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 2
+            field_3:
+              - 1
+              - 205
+  "0003":
+    - text: Forgetting something?
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: "Oh, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: pardon me...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I was lost in thought."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "You've heard of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", right?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThe one from all those old stories?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "Well, they're not just stories! I believe\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Great Fairy "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is real! And I'm on a\njourney to find her.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "There's a tower just beyond the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha Great Bridge
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nThey say that if you go to the top and\nlook at the ground sometime in the\nafternoon...\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "The tower's shadow will point "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s fountain!\n\nAfter hearing that legend, I decided to\nfind out for myself. But now I'm stuck\nhere at this stable because... Well..."
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 12
+    - text: "No matter how hard I try, I just know I'll\nnever be able to climb that tower."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "And to think, I even saved up all my\nrupees as an offering for the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk14:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Ahh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Great Fairy
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100

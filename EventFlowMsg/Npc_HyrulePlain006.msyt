@@ -1,0 +1,248 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 34
+    - text: "Who are you? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Who shows up at a time\nlike this?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  near00:
+    - text: "*snooooooore*"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Oh, hey, bud."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm just contemplating\nwhether or not I should risk my life to\ngo treasure hunting in the castle."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "You're right!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I can't let a smoking-hot\nrumor like this go to waste!\nI just gotta act on it, bud!"
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "Thanks for nothing, bud."
+  "0000":
+    - text: "What's wrong?"
+  "0001":
+    - text: See you around.
+  "0002":
+    - text: Go for it.
+  "0003":
+    - text: Take it easy...
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 13
+    - text: Take it easy?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " And let a rumor like this go\nto waste?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Nah, I gotta go big..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "There's a docks on the north side of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", see, and I hear you can\nget inside the castle from there.\nThere's also an ancient "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: shrine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nsomewhere around there."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Smells\nlike treasure to me. Stinks like it, even!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 13
+    - text: "Of course, no one I know who's gone to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " has come back. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Probably\nbecause they're too busy being rich!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "I just need to come up with a solid plan.\nThen I'll be living the good life!"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: Ahhh!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I just don't know what to do!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Listen, if you wanna get anywhere in this\nlife, you gotta have cash and cachet.\n\nAnd the only way to do that in this day\nand age is to go to"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: —stay with me here—
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I know—it sounds crazy. But rumor has it\nthat it's full of abandoned treasure and\nweapons!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "They're just sitting in there, free for the\ntaking! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Well...if you can get past all of\nthe bloodthirsty monsters, of course."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 1
+            field_5:
+              - 0
+              - 2

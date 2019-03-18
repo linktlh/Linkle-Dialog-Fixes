@@ -1,0 +1,322 @@
+---
+entries:
+  "0003":
+    - text: Tell me about Mary.
+  talk_02:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        four:
+          type1:
+            field_1:
+              - 31
+              - 205
+    - text: Harry... Mary...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  "0004":
+    - text: "I've gotta run."
+  talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "There's an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: enormous maze
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " beyond the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Tabantha Tundra
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " just north of here.\nI don't know who built it or when.\nThe adults always said not to go near it.\nThey said it was too dangerous there.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "One day, I urged "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Harry
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " to go into\nthe maze as a test of courage.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: I...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I never saw him again.\n\n\nI learned the hard way that it really is\ndangerous there. Children have no\nreal sense of danger, I suppose...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "To this day, the mere memory breaks\nmy heart."
+  talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "When you get to be my age, you start\nreminiscing about all the memories\nfrom your childhood.\nHeh, to be honest, growing up out in the\nmiddle of nowhere... Well, there weren't\nreally other kids around.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 25
+    - text: "My only friends were "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Harry "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mary
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI remember playing with "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Harry "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "out in\nthe maze "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Mary "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: out by the ruins...
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 4
+            field_5:
+              - 0
+              - 2
+  talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "Maybe you've seen the big canyon to\nthe southeast."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " There are some secret\nruins down at the base of that valley.\nI don't know who built them or when.\nThe adults always said not to go near.\nThey said it was too dangerous there.\nOne day "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Mary "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and I went out there to\nexplore and search for the ruins.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "In the blink of an eye, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mary
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " lost her\nfooting. She slipped and tumbled down\nthe cliff. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: I...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I never saw her again.\nSometimes a child's innocent curiosity\ncan cause tragedies that can never be\ntaken back.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "That memory "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "will haunt me until my\ndying day..."
+  talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 0
+    - text: "I just can't relax..."
+  talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "As I grew older, I learned to overcome\nmy grief over losing them."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You can't\nchange the past, only the future.\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Harry "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Mary
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " never made it back,\nbut two of their descendants are in\nthat stall over there.\nMy only friends out in these parts were\nhorses, you see. I suppose that's still\ntrue to this day."
+  "0000":
+    - text: What kind of story?
+  talk_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "A traveler, eh?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Can you spare a minute\nto listen to a bored, old retiree tell\na story?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0001":
+    - text: "Sorry, I'm too busy."
+  "0002":
+    - text: Tell me about Harry.

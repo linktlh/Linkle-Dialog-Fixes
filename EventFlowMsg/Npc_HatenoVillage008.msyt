@@ -1,0 +1,1340 @@
+---
+entries:
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "Wow! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "What is that? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Cool!
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 34
+    - text: "I'm about to go to sleep."
+  talk313:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "If you find a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: windcleaver
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", please let\nme see it! That would be so cool!"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "But right now I have to look after my\nsister. Mom told me so...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: Mom said she had to talk with Amira
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nabout work, so she's too busy. She's\nalways over near the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: well
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nMan, adults have it hard!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That's right."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm in charge of looking\nafter my sister!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - text: "Zzz... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Zzz...
+  talk316:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "If you find an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient battle axe+
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", please\nlet me see it! That would be so cool!"
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 33
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Huzzah...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: " "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I'll get you..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk317:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "If you find a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: frostspear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", please let me\nsee it! That would be so cool!"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Sorry! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Mom told me I have to play with\nmy sister while she's over at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: well
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwith Amira talking about work stuff."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 34
+    - text: "I'm going to sleep. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: See ya tomorrow.
+  talk319:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "If you find an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient short sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nplease let me see it! Please, please!"
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "Whoa! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "What's that?\n"
+  talk300:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "If you find a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "traveler's sword"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", please let\nme see it! That would be so cool!"
+  talk303:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "If you find a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fire rod
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", please let me see\nit! That would be so cool!"
+  talk306:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "If you find a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Moblin club
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", please let me\nsee it! That would be so cool!"
+  talk307:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: "If you find a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: duplex bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", please let\nme see it! That would be so cool!"
+  talk213:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "Isn't that"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: windcleaver
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk216:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "Isn't that..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient battle axe+
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk217:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "Isn't that"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: frostspear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk121:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Thanks for showing me so many things!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'm sure my grandpa is super happy...\nwherever he is! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Bye!
+  talk219:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "Isn't that...the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient short sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk200:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "Isn't that"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "traveler's sword"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "That was from my grandpa. He always\nsaid,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " \"Give it to the one who can show\nyou the real deal.\""
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nSo don't worry about it!"
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "All right, the next weapon I wanna\nsee is...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: What was it...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Um...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "Oh, yes! That one! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "That one! "
+  talk203:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "Isn't that"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fire rod
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "All right, next!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Grandpa said he wanted to see...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhat was it again? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Um...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I remember now!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " All right..."
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Grandpa said you can't find those"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\naround here.\n\nIf you get ahold of one, let me see it!"
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: So...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "when my grandpa was young,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nhe looked for it but couldn't find it.\nSo please!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIf you find it, please let me see it!"
+  talk206:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "Isn't that"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Moblin club
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: Nice! Nice!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Let me see, let me see!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 4
+            field_3:
+              - 1
+              - 205
+  talk207:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "Isn't that"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: duplex bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: You remembered our promise!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThanks! Let me see! "
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 4
+            field_3:
+              - 1
+              - 205
+  talk113:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: "Have you heard of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: windcleaver
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Hey! You here to show me that weapon?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "I can't see anything from down here! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nCan you get off the horse and show me?"
+  talk21:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 22
+    - text: Wow!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It's exactly like the one \nin the books!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n"
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 22
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Wow! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "It's the real thing!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI've GOTTA tell Gramps about this one!"
+  talk116:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: "Have you ever heard of an\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient battle axe+
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk23:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Wow! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "So awesome! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: So cool!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nGramps will flip when he hears\nI saw this!"
+  talk117:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: "Have you heard of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: frostspear
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk24:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Whoooa! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "The real thing is really\nthe real deal!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk25:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 22
+    - text: "Wow! "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "It's even more amazing\nthan I ever imagined!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk119:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: "So, have you heard of the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: ancient short sword
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk26:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Whoooa! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Looks strong!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk100:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: "Have you heard of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "traveler's sword"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Thanks! Here's a token of my thanks!"
+  "0000":
+    - text: "Let's play!"
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: Thank you!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Take this as a token\nof my thanks!"
+  "0001":
+    - text: You look busy...
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Don't be so modest!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\nI got it from my grandpa,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so think of it\nas a thank-you from him!"
+  talk103:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: "Have you heard of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: fire rod
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  "0002":
+    - text: Yeah...I am.
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Hey, lady. Did you come from the\nbig wide world?\n\nYou look like you're good with a bow and\nsword,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " so you must be pretty strong.\nAre you strong or what?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 2
+  "0003":
+    - text: "No, not really."
+  "0004":
+    - text: Go ahead.
+  talk12:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: "Hrm? "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: Oh?!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk106:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: "Have you heard of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Moblin club
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  near00:
+    - text: The big wide world...
+  "0005":
+    - text: OK!
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "So cool! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Let me see!
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 4
+            field_3:
+              - 1
+              - 205
+  talk107:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 9
+    - text: "Have you heard of the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: duplex bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+  near01:
+    - text: Zzz... Clang... Zzz...
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Wow! I saw one just like that in a book!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Thanks for lettin' me see! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Take this as a\nthank you!"
+  near02:
+    - text: Zzz... Zzz...
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: No worries!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\nMy gramps told me to \"give it to the\nperson that teaches you how to fight.\""
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nClose enough!"
+  near03:
+    - text: Oh!
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "The next one!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: What should I...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHrm... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Ummm...\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: GOT IT!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  near04:
+    - text: Time to go home!
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I've seen it in books, but never in real\nlife before! If you find it, please let me\nsee it!"
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 3
+    - text: Hey!
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I bet you can use all sorts of different\nweapons, right?\n\nSooo..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Do you wanna help a kid's\ndream come true?\n\nMy gramps is dead now, but when he\nwas alive, he loved weapons. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Though he\nnever got to see all the ones he wanted.\nSo you bring me weapons and show\n'em to me, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "and then I can tell gramps\nabout 'em when I meet him again!"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 5
+            field_3:
+              - 1
+              - 205
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Yeahhh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I knew you'd do it!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "Hmm, where should we start?"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: What is it?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1

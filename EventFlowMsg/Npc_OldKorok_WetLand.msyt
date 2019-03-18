@@ -1,0 +1,315 @@
+---
+entries:
+  "0002":
+    - text: Shield stash.
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "According to the folks at the stable,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nthis area is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lanayru
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " region.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Sha-shaka!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " That means Korok Forest\nis still "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: north
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of here...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "Well, since I'm already here,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I may as\nwell stay awhile and relax.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 19
+    - text: "Oh, wait a minute..."
+  "0003":
+    - text: Nothing right now.
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ohhh, I think I remember"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " the way back\nto Korok Forest!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "And it's all thanks to you!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'll definitely\nmake it home to Korok Forest this time!\n\nI'll see you there. In Korok Forest!"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "Shalaka?!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "We meet again!\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I want to go home to Korok Forest,\nbut I've lost my way..."
+  "0000":
+    - text: Weapon stash.
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 19
+    - text: "*sniff sniff*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI detect the scent of..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You've"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " received"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seed
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " from the\nforest children, haven't you?!\n\nIf you give me "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll make one\nof your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stashes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " bigger! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Which one will it\nbeeeeeeeeeeee?!"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "0001":
+    - text: Bow stash.
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "*sniff sniff*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: Aww...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You didn't bring me any\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", did you?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: If you get any
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " from the\nforest children...\n\nI'll make one of your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stashes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " bigger\njust like last time! Remember how fun\nthat was?!"

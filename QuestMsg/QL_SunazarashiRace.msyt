@@ -1,0 +1,124 @@
+---
+entries:
+  QL_SunazarashiRace_Finish:
+    - text: "When I placed the jewel on the pedestal,\na shrine appeared!\n\nI'm now able to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: enter
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " a sand-seal race any\ntime you want, too. I'll aim to set a new record!"
+  QL_SunazarashiRace_Name:
+    - text: The Undefeated Champ
+  QL_SunazarashiRace_Step1:
+    - text: "I've decided to challenge the sand-seal\nracing world champion, Tali, but beating her\ncurrent record of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 1 minute and 30 seconds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " \nwon't be easy.\n\nHowever, it's the only way to open the shrine,\nso I should keep trying!"
+  QL_SunazarashiRace_IfGetOff:
+    - text: "I beat Tali's sand-seal-racing record!\n\nAs proof of my victory, I've received a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: jewel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nWhat happens when I place this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: jewel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on\nthe pedestal?"
+  QL_SunazarashiRace_Step2:
+    - text: "I beat Tali's sand-seal-racing record!\n\nAs proof of my victory, I've received a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: jewel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nWhat happens when I place this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: jewel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on\nthe pedestal?"
+  QL_SunazarashiRace_Desc:
+    - text: "I've decided to challenge the sand-seal\nracing world champion, Tali!\n\nIt seems that, if I can beat the race record,\nthe way to a shrine will open for me.\n\nThe champion's current record stands at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "1\nminute and 30 seconds"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nThis won't be easy."
+  QL_SunazarashiRace_Step3:
+    - text: "I beat Tali's sand-seal-racing record!\n\nAs proof of my victory, I've received a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: jewel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nWhat happens when I place this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: jewel
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " on\nthe pedestal?"

@@ -1,0 +1,579 @@
+---
+entries:
+  Demo044_0_Text022:
+    - text: "There are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: two terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " remaining!\nStay focused!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 105
+  Demo044_0_Text023:
+    - text: "There are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: three terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " remaining!\nHang in there!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 91
+  Demo044_0_Text011:
+    - text: "Just "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "one terminal "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "remaining!\nJust "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "one "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: more!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 110
+  Demo044_0_Text024:
+    - text: "There are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: four terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " remaining!\nI'm counting on you!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 101
+  Demo044_0_Text037:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: "Main control unit abnormality detected.\nUnable to authenticate Sheikah Slate."
+  Demo044_0_Text012:
+    - text: "There are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: two terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " remaining!\nJust a little more!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 122
+  Demo044_0_Text038:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: "Sheikah Slate authenticated.\n\n\n"
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: "Unable to activate main control unit.\nUnactivated terminals remain."
+  Demo044_0_Text013:
+    - text: "There are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: three terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " remaining!\nAll right, let's get movin'!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 148
+  Demo044_0_Text039:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: Sheikah Slate authenticated.
+  Demo044_0_Text001:
+    - text: "Just "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: one
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "terminal "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "remaining!\nWhat do you know?"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 139
+  Demo044_0_Text014:
+    - text: "There are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "four terminals "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "remaining!\nThat's the way!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 101
+  Demo044_0_Text027:
+    - text: "Well done! That was the last of the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Now...you'll need to\nstart up the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: main control unit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 199
+    - text: "\nTake a good look at your map. Head for\nthe glowing mark you see there.\nYou're doing well..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 226
+    - text: "\nbut overconfidence can be a\ndeadly foe."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 76
+  Demo044_0_Text002:
+    - text: "There are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: two
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "terminals "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "remaining.\nYou're almost there."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 112
+  Demo044_0_Text003:
+    - text: "There are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: three terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " remaining!\nKeep going."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 96
+  Demo044_0_Text004:
+    - text: "There are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: four
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "terminals "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "remaining!\nStill a ways to go."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 113
+  Demo044_0_Text017:
+    - text: "Nice! That was the last "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: terminal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nNow go ahead and start up the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: main control unit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 197
+    - text: "\nThere should be a new glowing mark on\nyour map. You're gonna need to make\nyour way over to that."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 174
+    - text: "\nStay focused, little lady!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 61
+  "0000":
+    - text: Yes.
+  "0001":
+    - text: No.
+  Demo044_0_Text007:
+    - text: "That was the last "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: terminal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nNow you just need to start the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: main control unit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 183
+    - text: "\nI want you to take a good look at your\nmap. There should be a new glowing\npoint on there. Well?"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 233
+    - text: "\nFlap to it!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 34
+  Demo044_0_Text040:
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: "Once you activate the main control unit,\nyou will not be able to reenter the\ninterior of this Divine Beast.\n"
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Activate
+    - text: Do you still wish to activate it?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 1
+              - 1
+  Demo044_0_Text043:
+    - text: "You activated all the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nNow you can start the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: main control unit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 149
+    - text: "\nThere should be a new glowing mark on\nyour map. Head there!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 117
+    - text: "\n\nBe careful not to let your guard down."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 57
+  Demo044_0_Text031:
+    - text: "Just "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "one terminal "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "remaining!\nI have faith in you!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 117
+  Demo044_0_Text032:
+    - text: "There are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: two terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " remaining.\nYou're nearly there..."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 109
+  Demo044_0_Text033:
+    - text: "There are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: three terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " remaining.\nYou can do it!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 95
+  Demo044_0_Text021:
+    - text: "Just "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "one terminal "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "remaining!\nYou're almost there!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 109
+  Demo044_0_Text034:
+    - text: "There are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: four terminals
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " remaining.\nDon't give up!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 96

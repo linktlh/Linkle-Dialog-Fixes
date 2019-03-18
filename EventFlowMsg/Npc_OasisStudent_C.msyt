@@ -1,0 +1,209 @@
+---
+entries:
+  "0001":
+    - text: It looks good on you.
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "When you're cooking, if you add "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: insects
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nor "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: monster materials
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you'll end up\nwith "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dubious food
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Though if you ask me, there's nothing\ndubious about how absolutely inedible\nit is..."
+  TerrorExplosion:
+    - text: Wh-what?!
+  "0002":
+    - text: Dubious food?
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The quickest way to someone's heart is\nthrough their stomach!\n\nAt least, that's what the teacher says..."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta!"
+  "0003":
+    - text: Good-bye.
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq!"
+  TerrorFire:
+    - text: Get that away from me!
+  TerrorSword:
+    - text: Wha—?!
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba!"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "What do you think of my lipstick? I think\nit'll bring me good luck!\n\nYou know that the color is especially\nimportant in bringing good luck, right?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The cooking class is about to start.\nI really need to pay attention this time...\n\nHow about you try taking it along\nwith us?"
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This class is absolutely critical for me!\nI've tried to cook up some great meals,\nbut I only ever make "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: dubious food
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  TerrorBomb:
+    - text: Take cover!
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "It's about time for Ms. Ashai's class\nto begin.\n\nTo be honest...I think learning all this\nis a real pain in the neck. But don't\ntell anyone I said that!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 6
+    - text: "Umm... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I-I'm planning on learning about\nthat next..."
+  TerrorArrow:
+    - text: Hey!
+  "0000":
+    - text: The color? How?
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "I know, right?!\nOooh, I can feel it working already!"

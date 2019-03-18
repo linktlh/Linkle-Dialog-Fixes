@@ -1,0 +1,69 @@
+---
+entries:
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 17
+    - text: "The worst part about rainy days like\nthese is that I can't do my laundry."
+  Near02:
+    - text: "It's starting to rain!"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's not easy keeping on top of the\nlaundry when your family is as big as\nmine. It's almost a full-time job."
+  Near03:
+    - text: "Let's go to sleep..."
+  Near04:
+    - text: Wish this rain would quit.
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "We're havin' "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: seafood paella
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " tonight!"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Now what should I cook for tonight's\ndinner?"
+  Near00:
+    - text: Humm humm...
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Do you cook?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Feel free to use our\ncooking pot if you need it!"
+  Near01:
+    - text: Mmm...

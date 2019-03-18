@@ -1,0 +1,215 @@
+---
+entries:
+  "0001":
+    - text: "Um... No, thanks."
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Where can I find the perfect woman to show\nme a feat of skill..."
+  "0002":
+    - text: Goddess Statue?
+  "0003":
+    - text: "I don't want to..."
+  "0004":
+    - text: "I'll take that quest!"
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "That's right, my good lady! I knew it the\nmoment I saw ya...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "I had you figured for one heck of an\narcher. And I'm head over heels for a\nfine slice of woman that can use a bow!\nSo how about it? Why not take out that\nbow and show me something special?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0005":
+    - text: Buy from me!
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Do you need something else?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5:
+              - 0
+              - 2
+  "0006":
+    - text: Never mind.
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: So...are you gonna do it or not?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 2
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I like your attitude! All you gotta do is\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: light
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: torches by the Goddess Statue
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nThink you're up for the challenge?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 2
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "You really don't know about the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Goddess Statue
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\nIt's by the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: spring
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in front of Lady Impa's\nhome. I don't know who put it there,\nbut it's been there forever."
+  Near00:
+    - text: This is gonna be great!
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Oh. That's a shame.\n\n\nIf you had entertained me, I was going to\nreward you with something more than\nworth your time."
+  Near01:
+    - text: Done already?
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "The thought of a young hottie drawing a\nbow just makes my day!"
+  Near02:
+    - text: Welcome!
+  "0000":
+    - text: You got it!
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Mmm...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " An archeress with a sexy build..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI could look at you all day!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...Oh! Sorry—my imagination ran away\nwith me. Did you need something?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5:
+              - 0
+              - 2

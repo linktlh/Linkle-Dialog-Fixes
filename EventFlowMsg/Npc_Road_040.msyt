@@ -1,0 +1,1164 @@
+---
+entries:
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: I nearly ate it out there.
+  MSG_Taba_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "I'm pretty wicked at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield surfing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", man.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: "Actually I'm,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " like,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " totally wicked at it.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 26
+    - text: I just climb up the
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " Hebra Mountains"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and\nthen I surf back down!\n\nThen I climb up again, and I surf it again."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nAnd then, man, know what I do next?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nOh-ho, man, I totally surf it again!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The only way to stop me from shield\nsurfing, man, is to take away my shield!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nMan!"
+  MSG_Taba_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Riding a horse up a hill and then hopping\noff it to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield surf
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "It's just radical, dude."
+  MSG_Taba_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Riding a horse up a hill and then hopping\noff it to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield surf
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is just radical, dude.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Once you're at the bottom, you've gotta\ngo all the way back up, sure, but, man!\nThe rush is totally worth it!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I got this good by watching Selmie surf\nthe Hebra Mountains."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Her skills are even\nsicker than mine!"
+  RetMSG_Taba_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Wicked, man, I'm finally here!\nI made it to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Snowfield Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nOh, man, I can't wait to get out there.\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hebra Mountains
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I'm comin' for you,\ndude! You shall taste the flat of my shield\nand my gnarly "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield-surfing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " skills!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Oh, man, I gotta find a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield-surfing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\ncompetition..."
+  MSG_Taba_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Oh, man, check it."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Did you know that\ndepending on the shield, your surfing\ncan be totally different?\nWhat am I talking about?\nI'm talking about "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield surfing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", man!\nGet with it, dude!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Speaking of, I heard about a shield that's\nsupposed to be wicked for surfing."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's\ncalled a kni—"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " A knight's..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Oh, man.\nI totally forgot."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " What a drag, dude."
+  RetMSG_Taba_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 18
+    - text: "This is such a drag, dude..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I just wanna\nget back to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield surfing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI miss that fresh powder!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Oh, man, I just, like..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "had a total\nflashback!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " When I was just a kid, I almost\ngot lost up on the snowy mountains...\nBut I was saved by this totally wicked\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield surfer
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! His name? It was Fa—"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Falma...\nOh, man..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI totally forgot."
+  MSG_Taba_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "All right, I finally made it to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Serenne Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nBut, man, all I can think about is when\nI'll be able to get back to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hebra\nMountains "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to catch some of that powder.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "Hey, dude. Have you ever looked at the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hebra Mountains "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "on a map?\n\nThere's this totally gnarly crescent shape\nthat was apparently made by some\nwicked beam forever ago.\n..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I bet it'd be killer to surf."
+  RetMSG_Taba_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Not cool, dude. You interrupted my\nmental preparations! If I wanna be the\nbest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield surfer
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I need to plan ahead!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "They say the legendary shield surfer\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Selmie "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "has all the routes memorized.\nShe's intense, man!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Dude, apparently she's just waiting up\non the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hebra Mountains
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " for a worthy\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "shield-surfing "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: opponent!
+  RetMSG_Taba_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "All right, Bamboo, my most excellent\nhorse!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " First to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Snowfield Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and\nthen to the mountain for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield surfing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: Heeeeyaahh!
+  RetMSG_Taba_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Check it, dude. I heard about this totally\ndurable shield. It's called a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Hylian shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nand it's somewhere in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nSounds totally wicked for surfing, man!\nBut the castle is,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " like,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " overly dangerous,\nso it's pretty much a no-go."
+  RetMSG_Taba_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "All right, Bamboo, my totally gnarly and\nradical horse! We're finally ready to hit\nthe mountain for some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield surfing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nFirst we gotta hit up "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Snowfield Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "So let's get a move on! Heeeyaah—"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Huh?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Oh, sorry, dude. No time to chat!"
+  RetMSG_Taba_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "When I was just a kid, I almost got lost\nup on the snowy mountains. But I was\nsaved by this totally wicked "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield surfer
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: His name was Fa—
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nFalma...\nOh, man..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I totally forgot."
+  Thanks00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Here, man."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Take this as thanks."
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Those monsters...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nMan, forget them."
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Isn't there anything I can do?"
+  MSG_Taba_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Check it—I heard about a shield that's\nsupposed to be wicked for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield surfing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "It's called a kni—"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " A knight's..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Oh, man.\nI totally forgot."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " What a drag, dude."
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "I thought I was being careful, but, man,\nthose monsters were gnarly."
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Sorry to be a drag, dude, but thanks for\nyour help."
+  MSG_Taba_00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Just hit the northern passage from here,\nman, and you'll find "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Serenne Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nLet's kick it, Bamboo!"
+  Rest_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Oh, man, I miss the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hebra Mountains
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nsomething fierce."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "shield surfing "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: there is just radical!
+  RetMSG_Taba_02_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Dude, I heard the legendary "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield-surfer
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Selmie "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is just waiting on the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hebra\nMountains "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: for a worthy opponent!
+  Rest_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Oh, man, do professional shield surfers\nsurf on days like this? If I wiped out,\nI'd break my neck!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Bogus, dude..."
+  Rest_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "This weather is totally bogus, dude."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI just want it to clear up so I can get\nback to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield surfing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Near00:
+    - text: "Another day, another surf!"
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Phew. I'm lucky you were around, man."
+  Near01:
+    - text: "Shield surfing, man."
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 18
+    - text: Is it safe now?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAre the monsters gone?"
+  Near02:
+    - text: Hmm... A better shield...
+  Near03:
+    - text: "Ahh, fresh powder..."
+  MSG_Taba_04_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "There's this totally gnarly crescent shape\nthat was apparently made by some\nwicked beam forever ago.\n..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I bet it'd be killer to surf."
+  Near04:
+    - text: "This rain is bogus, dude."
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 22
+    - text: "Oh, man, it sees us!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " We gotta cut out!"
+  MSG_Taba_01_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "I'm pretty wicked at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield surfing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", man.\nActually I'm,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " like,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " totally wicked at it.\nI just climb up"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " Hebra Mountains "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: and surf.
+  RetMSG_Taba_03_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Apparently, there's a totally durable\nshield called a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Hylian shield
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " somewhere\nin "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Sounds gnarly, dude!"
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "You're stronger than you look, dude."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou're straight-up gnarly!"
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I almost wiped out there, man."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThanks for helping me out."
+  RetMSG_Taba_00_1:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "I finally made it to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Snowfield Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hebra Mountains
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", I'm comin' for you,\ndude! You shall taste the flat of my shield\nand my gnarly "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shield-surfing
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " skills!"
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Oh, man, those monsters were wicked."
+  MSG_Taba_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Just hit the northern passage from here,\nman, and you'll find "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Serenne Stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nLet's kick it, Bamboo! "
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Yahoooo!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Huh?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Oh, sorry, man. I was talking to my\nhorse, Bamboo. I'm not,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " like,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " all that\ngreat at conversations with other people."

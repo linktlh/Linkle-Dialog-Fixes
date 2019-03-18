@@ -1,0 +1,103 @@
+---
+entries:
+  C06-2:
+    - text: "What luck! My scouts are out in the field\nlooking high and low, but you just\nwander into my hideout!"
+  C06-4:
+    - text: "Yeah, IT'S YOU! You're that Linkle girl\nI've been looking for!"
+  C07-0:
+    - text: "Oh, excuse me."
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 45
+    - text: "\nI haven't introduced myself yet."
+  C05-0:
+    - text: That thing on your hip...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 30
+    - text: " Is that...\n"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Could it be a Sheikah Slate?
+  C03-0:
+    - text: "Hey!\n"
+  C03-1:
+    - text: "Who the heck are you? And what are you\ndoing in my napping spot?!"
+  C10-0:
+    - text: MASTER KOHGA!!!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 30
+    - text: "\nNow, prepare yourself!"
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 30
+  C08-0:
+    - text: I am the leader...
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 30
+    - text: "\nOf the Yiga Clan!"
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 20
+  C06-0:
+    - text: "If it's a Sheikah Slate...\nThen that means..."
+  C08-1:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: The strong!
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 36
+    - text: "\n"
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: The burly!!
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 28
+  C04-0:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: Wait a minute...
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 30
+  C08-2:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: "The one!!\nThe only!!!"
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 60

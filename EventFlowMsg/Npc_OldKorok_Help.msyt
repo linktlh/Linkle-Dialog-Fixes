@@ -1,0 +1,261 @@
+---
+entries:
+  "0003":
+    - text: Good-bye.
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Thanks for bringing my maracas back!\n\n\nOnce I see you off,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm going back home\nto Korok Forest!"
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Korok Forest...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIt should be somewhere north of here.\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Grandpa
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " told me,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " \"If you get lost, follow\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylia River
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " and continue north.\"\n\nThat's what he said, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "and Grandpa is no\nliar."
+  near00:
+    - text: Shalaka...
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "My name "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hestu
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n\n♪The most celebrated musician of\nKorok Forest!♪"
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: Huh?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I suppose I should tell you a little\nsomething about myself!"
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 26
+    - text: ♪Shalaka lala!♪
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "come from the Korok\nchildren..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "and they're a..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "little bit...\n\n...\n\n\n"
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomSurpriseS
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Sorry...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I blew out my voice singing..."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: Or did you wanna talk a little more?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 0
+              - 0
+              - 1
+              - 0
+              - 2
+              - 0
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0000":
+    - text: Korok Forest?
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Do you wanna talk some more?
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 0
+              - 0
+              - 1
+              - 0
+              - 2
+              - 0
+              - 3
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  "0001":
+    - text: Who are you?
+  talk02:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Gather some more "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Korok seeds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: ", and visit\nme in Korok Forest!"
+  "0002":
+    - text: Korok seeds?
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: ♪Buh-byyyyyyyyye!♪

@@ -1,0 +1,201 @@
+---
+entries:
+  "0003":
+    - text: Next page.
+  "0004":
+    - text: Previous page.
+  "0005":
+    - text: Done.
+  DiaryFirst:
+    - text: Read the Mountain Peak Log?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5:
+              - 0
+              - 2
+  talk00:
+    - text: "This is a log of my findings concerning\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "shrine "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "that sleeps on a snowy\nGerudo peak."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 3
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk01:
+    - text: "Discovery Log: Day One\n\n\nI come to this snowy mountain intending\nto find the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "ancient shrine "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "that was\nwritten about in an old text.\n\"The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "shrine "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "slumbers near the pedestal\non a snowy Gerudo peak.\"\n\nI believe I've arrived at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: pedestal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nmentioned in the passage."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+  "0000":
+    - text: First page.
+  talk02:
+    - text: "Discovery Log: Day Seven\n\n\nIt's been seven days since I arrived at\nthe pedestal mentioned in the ancient\ntexts.\nUnfortunately, I'm eating through my\nfood provisions more quickly than I\nanticipated.\nOn a brighter note, I've found an\nexplanation in the source text that may\nbe the key to this riddle.\n\"When the snowy mountain "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: pedestal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nglows, cast a cold shadow onto its core.\"\n\nI noticed a faint glow to the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "pedestal "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for\na short while each day. But how to\n\"cast a cold shadow onto its core\"...?\nIt seems that this calls for further\nresearch here."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 3
+            field_3: 4
+            field_4: 5
+            field_5:
+              - 0
+              - 2
+    - text: "\n"
+  "0001":
+    - text: Last page.
+  talk03:
+    - text: "Discovery Log: Day... I've lost count.\n\n\nI can feel that I'm a hair's breadth away\nfrom unlocking the secrets hidden within\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: pedestal
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI'm certain that \""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: casting
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\" and \""
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: cold
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\"\nrefer to using a specific type of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shadow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nBut I've run out of food entirely, and I\ndoubt now that I ever had the tools to\ndo the job...whatever they might be."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 1
+              - 1
+  "0002":
+    - text: "Don't read."

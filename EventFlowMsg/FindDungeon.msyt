@@ -1,0 +1,76 @@
+---
+entries:
+  Npc_King001_03:
+    - text: Linkle...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You must save..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Hyrule...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        one:
+          type3:
+            field_1: 4
+            field_2: 60
+  Npc_King001_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 24
+    - text: Go on...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Here is the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: paraglider
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", just as\nI promised."
+  Npc_King001_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "With that, you should be able to safely\nfly off the cliffs surrounding this area."
+  Npc_King001_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: And...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I think that's it.\n\n\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "I've told you everything I can..."

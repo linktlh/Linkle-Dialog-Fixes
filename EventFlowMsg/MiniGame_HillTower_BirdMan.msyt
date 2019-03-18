@@ -1,0 +1,1144 @@
+---
+entries:
+  ChoiceDoNotPay_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I see... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Then let's call it a day."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI'm looking forward to next time."
+  "0014":
+    - text: No...
+  New_13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: "What's wrong?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Why aren't you flying?\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Please don't tell me you've changed\nyour mind."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 15
+            field_3: 16
+            field_4:
+              - 0
+              - 1
+  "0015":
+    - text: I changed my mind.
+  New_14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 16
+    - text: WHAT?!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " But... But our research!\n\n\nSince the project has already begun,\nI can't give you your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "20 rupees "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: back.
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\nAre you sure about this?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 17
+            field_3: 18
+            field_4:
+              - 0
+              - 1
+  New_15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 16
+    - text: "*sigh*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " OK."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " But please come back soon!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "It's very boring up here."
+  "0016":
+    - text: "I'll still do it."
+  "0017":
+    - text: I still want to quit.
+  New_16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Yes, yes! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Understood!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " We're ready to\ntake off whenever you're ready."
+  "0018":
+    - text: "Actually, I'll do it."
+  New_17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Phew!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I thought you got cold feet."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut even icy toes can fly! Show me what\nyou got, my chilly-footed pal!"
+  New_18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: What happened?!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You looked so\nconfident, but you only flew\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type9:
+            field_1: 88
+            string: MiniGame_BirdMan_HillTower_CurrentDistance
+            field_3: 0
+    - text: " m"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nThis does NOTHING for my research!\n\n\nI'm sorry, but I don't give rewards for\npaltry performances."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I give rewards for\npoultry performances!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: Just...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "try to imagine that you're a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "bird-girl "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "freeing yourself from the\nunjust chains of gravity!\nAnd if you run out of energy while\ngliding, "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "try making some adjustments\nthat will give you more stamina."
+  "0019":
+    - text: "No, I'm done."
+  "0020":
+    - text: "I'll just fly down."
+  New_19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: "Let's see here..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You flew "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type9:
+            field_1: 88
+            string: MiniGame_BirdMan_HillTower_CurrentDistance
+            field_3: 0
+    - text: " m"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\nSmall steps lead to great strides in the\nlong run.\n\nOh, right! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Your compensation.
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: " "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Isn't the\ncollection of priceless research data\ncompensation enough?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " No? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Fine.\nWell, a promise is a promise. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Here's\nyour reward:"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " 21 rupees!\n\n"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: ".\n\n\nUgh."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Fine."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'll make it 50 rupees."
+  New_20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: MARVELOUS! What a breathtaking flight!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI never dreamed a Hylian could fly\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type9:
+            field_1: 88
+            string: MiniGame_BirdMan_HillTower_CurrentDistance
+            field_3: 0
+    - text: " m"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "\nYour methods may have been\nunconventional—I didn't see you flap\nyour arms once—but they were effective!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThe field of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "bird-man "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "research will\nbenefit greatly from this data.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "You deserve heavy compensation for\nyour stellar efforts."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Please, take this!"
+  New_21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: That was the longest flight yet...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut I bet you can set an even better\nrecord next time!"
+  New_22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "Let's see how this most recent flight\ncompares to your past flights...\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Hmm... That time you flew "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type9:
+            field_1: 86
+            string: MiniGame_BirdMan_HillTower_RecordDistance
+            field_3: 0
+    - text: " m"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nyielded the best research data. That was\nan unforgettable feat!"
+  New_23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 6
+    - text: So?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " If you're still up for it..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "why not glide\ndown again?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The world of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: bird-man
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nresearch waits for no man."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 19
+            field_4:
+              - 0
+              - 1
+  New_24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: YESSSSS!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n\nSo..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "can I get those "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\nThat should cover the filing fee in case\nI have to file an incident report."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 13
+            field_3: 14
+            field_4:
+              - 0
+              - 1
+  New_25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "It's the legendary "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: and only
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "bird-man\nresearch assistant"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you want to fly, you'll need to pay\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20-rupee
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " liability fee, of course."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 14
+            field_4:
+              - 0
+              - 1
+  New_26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: SurpriseM_01
+    - text: WAAAH!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Wh-where did you come from?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nDon't scare me like that!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHow... How did you get up here?"
+  New_27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "But my misfortune is a blessing in\ndisguise!\n\nYou see, this tower is the perfect place\nto observe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: bird-men
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " in their natural\nhabitat!"
+  New_28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 19
+    - text: Huh?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Where did you come from?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHow did you get up here?"
+  New_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "It's quite high. If only I was a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: bird-man
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 2
+  New_29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: Is that true?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I thought it impossible for a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hylian "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to fly like a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: bird-man
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Ah... It's more like gliding then?\nThat's still a step in the right direction!\n\nIf I can analyze your glide distance and\ntrajectory, it may help us understand the\nscience of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "bird-man "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "flight. \nThen maybe one day I'll finally realize\nmy dream of becoming a bird!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n*ahem*"
+  New_30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "If you're ready, let's take to the skies!\n\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Bird-man research study
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " GOOOO!"
+  New_31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: Huh?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " "
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I need you to glide as far as you\ncan from the tower!"
+  New_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Would you mind participating in a short\nresearch study?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I want to see how far \nyou can glide.\nYou'll be compensated for your time and\ntravel..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: depending on how far you fly.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nSo how about it?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 14
+            field_4:
+              - 0
+              - 1
+  New_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Marvelous!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Our findings today may prove\nto be the cornerstone of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: bird-man
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nresearch for generations to come!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: However...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "you are merely gliding.\nNot flying."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Making this a rather\ndangerous research project.\nAs such, a liability fee of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwill be necessary to proceed. You know,\nin case I have to file an...incident report."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 13
+            field_3: 14
+            field_4:
+              - 0
+              - 1
+  New_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "All right!\n\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Landing elevation
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Wind direction
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Stamina usage
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nKeep all of these in mind as you consider\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "farthest destination "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "you can reach\nby gliding!"
+  New_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 16
+    - text: I understand...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " "
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Even if one's wallet is\nripe, courage doesn't grow on trees."
+  "0008":
+    - text: BOO!
+  New_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: Hrrng!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You don't have "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n\nWell, I can't let you participate in the\nstudy without paying the liability fee.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: PLEASE come back once you have it!
+  "0009":
+    - text: "*ahem...*"
+  New_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "Oh, my! Now that you've climbed up\nhere, how will you get down without\nfalling?!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I suppose you're stuck here too."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 20
+            field_3:
+              - 1
+              - 205
+  New_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: WHAT?!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You can fly?!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nYou can fly like a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: bird-girl
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+  "0010":
+    - text: "I'll glide for you."
+  New_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: "Before I came here, I met a girl who\ndreamed of touching the clouds.\n\nI want to make that dream a reality."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nCome back when you also want to\nachieve greatness!"
+  New_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "Though I suppose you could ask me the\nsame question..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\nYou see, I have dedicated my life to\nthe study of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: bird-men
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! Their flight\nmechanics fascinate me!\nGiven their weight, it should be\nphysically impossible for them to fly with\nwings of their size. I just don't get it!\nI was standing on the ground watching\nthe skies, when suddenly this tower\nerupted beneath my feet!\nI've been stuck up here since with no\nway to get down."
+  "0013":
+    - text: Fine...

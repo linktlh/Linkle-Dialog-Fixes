@@ -1,0 +1,1164 @@
+---
+entries:
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Hmph...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Linkle, eh?"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "In the few years I have left, my role and\njoy in this world is to preserve Zora\nhistory for future generations...\nIn other words, I'm counting on you!"
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Hylian Champion Linkle...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWill you hear my request?"
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 1
+    - text: "What is wrong? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Are you unable to find\nall of the stone monuments?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 12
+    - text: "I can perhaps tell you the location "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nof a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "stone monument you have yet\nto investigate"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 6
+            field_3: 7
+            field_4:
+              - 0
+              - 1
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: How many
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " monuments "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "are\nremaining? "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type15:
+            field_1: 58
+            string: ZoraMini_ReliefSearch_Count
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I'm counting on you!"
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "OK. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I'll try to remember...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - text: "Roll, roll the dice... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "*toss*"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Got it! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "It's in this area here..."
+  talk21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "I won't need to roll the dice of hearts\nfor this one."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " The remaining one is here."
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Beneath the cliff south of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ralis Pond
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The northern cliff of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Oren Bridge
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "The west coast of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruto Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Below and to the south of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Luto's Crossing"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  near00:
+    - text: "*grumble*"
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "In the eastern grove of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zodobon Highlands
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  near01:
+    - text: Hmph...
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "At a mountain trail west of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Rutala Dam
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  near02:
+    - text: Hmm...
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Near the peak of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruto Mountain
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Hrmm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Hmph...
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Near the south end of the stone bridge\nover "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Ruto Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  "0000":
+    - text: "What's wrong?"
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 2
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "A traveler, eh?\n\n\nUpon this stone monument is the proud\nhistory of the Zora, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "as dictated by\nKing Dorephan himself many years ago.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "I plan to record it all in a book, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nso I am reading it again."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 3
+            field_3:
+              - 1
+              - 205
+  talk30:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Near "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Lulu Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  "0001":
+    - text: Say what?
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - text: "...\n\n\n...\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 21
+    - text: Linkle?!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: Is that really you?
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nThe Hylian..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "who stole away our\nLady Mipha! And what's more,\nthe Champion"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "who...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 16
+    - text: I...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: I cannot forgive you!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Not ever!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 1
+            field_3: 2
+            field_4:
+              - 0
+              - 2
+  talk31:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "At the southeastern cliff of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Upland Zorana
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  "0002":
+    - text: "I'm sorry."
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: "Do you not understand the gravity of\nwhat you have done?!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Not only did you Hylians fail to stop \n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " 100 years ago...\n\nBut you went and stole our Lady Mipha\nfrom us!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 16
+    - text: I will never forgive you awful Hylians!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nNot ever!"
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: Would you like me to check again?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 1
+  "0003":
+    - text: That sounds rough.
+  talk04:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "*grumble*"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  talk33:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Linkle...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It would seem you have checked\nall of the stone monuments for me!\n\nNow then, please tell me what was\nwritten on them!"
+  "0004":
+    - text: OK.
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Your face sickens me! I am sickened!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nGet out of my sight! NOW!"
+  talk34:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "The history, culture, folklore,\nand various heroic acts of the proud\nZora people..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " It's all here!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "Eureka! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Thanks to you,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I've compiled\nthe precious information from those\nstone monuments!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Linkle, thank you for taking on such an\narduous task!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Please, allow me to\nreward you!"
+  "0005":
+    - text: "I'm busy now."
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "It was an arduous task you took on\nfor me..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I humbly bring my fins\ntogether in gratitude!\nI, Jiahto, shall take the responsibility of\npassing on King Dorephan's inscriptions\nto future generations!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "And, Linkle..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " A description of your heroic\ncontribution shall be included, as well!"
+  "0006":
+    - text: Tell me.
+  talk36:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "At least, that's what I intended to do."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nBut I see you've got quite a collection\nof "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamonds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " already...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Since you cannot carry any more,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI suggest you somehow rid yourself\nof one and come back."
+  "0007":
+    - text: "It's OK."
+  talk37:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "I would like to reward you,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but it seems\nyou already have quite a collection\nof "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: diamonds
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Since you cannot carry any more,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI suggest you somehow rid yourself\nof one and come back."
+  "0008":
+    - text: "Yes, please."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Linkle... It seems that...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I was wrong\nabout you.\n\nSeeing "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Ruta
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s\nform there...\n\nEven though we lost Lady Mipha,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nit seems she can still help you fight\nagainst "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Calamity Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Oh! I am sorry I did not introduce\nmyself sooner. I am Jiahto.\n\nI am a historian who studies Zora history"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nand preserves it for future generations."
+  talk38:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "Ah, Linkle! You came back!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nNow then, where was I?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 1
+    - text: "Ah, yes! Thanks to you,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I have finally\ncompiled the information from those\nstone monuments!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "It was an arduous task you took on,"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nso please allow me to reward you!"
+  "0009":
+    - text: "No, thanks..."
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 12
+    - text: "Even so, this stone monument that\nKing Dorephan supposedly wrote...\nIt's torn to pieces now.\nMost likely, the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: stone monuments
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\noutside of the domain "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "are in the same\nawful condition.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 16
+    - text: "I'm thinking about collecting the\ncontents of all of the stone monuments"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nand compiling them into a book.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: "But with these old legs and fins,\ntraveling to all "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 10 stone monuments
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nwill take a great deal of time."
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: That is why...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Linkle..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'd like to ask a\nfavor of you."
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "I'd like you to find all "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10 stone\nmonuments"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " around "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nand tell me what they say."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 18
+    - text: "Hmm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Well, it's not like I have a say\nin the matter."
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Oh! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Thank you! You truly are a lifesaver!\n"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "How reassuring that the Champion will\nsearch for those monuments for me!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: "I have it on good authority that among\nthe stone monuments,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " one has the\nlocation of some "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: treasure
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " written on it.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "If you happen to find said "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: treasure
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nfeel free to keep it. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "It will most likely be\nsomething that a Zora wouldn't need.\nYes, you'll find the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 10 stone monuments
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\naround "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Zora's Domain"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "I believe in you.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "In fact, I'm counting on you!"

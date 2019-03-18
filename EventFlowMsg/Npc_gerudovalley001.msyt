@@ -1,0 +1,133 @@
+---
+entries:
+  Talk_02:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        four:
+          type1:
+            field_1:
+              - 31
+              - 205
+    - text: Zzzz... Zzzz...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Heh, I knew you'd be good for it. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Is this\nall you brought, though?"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "You're not..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "holding out on me, are you?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 8
+            field_3: 9
+            field_4:
+              - 0
+              - 1
+  "0009":
+    - text: "That's all I have."
+  Talk_21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: Heh heh.
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " If there's one thing I've learned\nafter running this stable all these years,\nit's how to read people.\nThere's no point in trying to keep\nanything from me."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Go ahead and show\nme what you've got."
+  Talk_22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I will only take them in bulk, in units\nof "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "55"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " each. That's a good number, eh?\n\nTake your time getting some. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI'll be waiting here, heh heh."
+  Talk_0001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I knew you'd be back."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Run a stable as\nlong as I have and you can tell which\nfolks will be repeat customers.\nSo did you bring me the stuff?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Hey...
+  "0000":
+    - text: Here you go.
+  "0001":
+    - text: "I don't have enough."
+  "0008":
+    - text: I have more.

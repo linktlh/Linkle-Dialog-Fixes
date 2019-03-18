@@ -1,0 +1,286 @@
+---
+entries:
+  SavedLv3_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 20
+    - text: "How do you MOVE like that?! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It was\nalmost worth getting attacked to see it!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nHere, take this! You deserve it!"
+  SavedLv1_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "Yikes. That was close! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Good thing you\nshowed up."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Um, is this enough to return\nthe favor?"
+  SavedLv1_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "Way to show those monsters who's boss!"
+  Atacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: Aaaaaah!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Monsters! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Somebody do\nsomething!"
+  Atacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 32
+    - text: "I refuse to let those monsters kill me\nafter coming all the way out here!"
+  Near00:
+    - text: Are we lost?
+  SavedLv2_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: Wow. I wish I had girfriend like you!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThen maybe I wouldn't get in such\ntrouble with monsters all the time..."
+  Failed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Nothing but sand for miles in every\ndirection, and I STILL manage to run\ninto monsters? I have the worst luck."
+  SavedLv2_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 11
+    - text: "I'd be a goner right now without you\nstepping in."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Thanks!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I mean that!"
+  Failed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Ptoo! Ptui! Ugh... I got sand in my\nmouth."
+  After00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "Only women are allowed in Gerudo Town.\nWhat do you think they do all day\nin there?\nI betcha if I could get in somehow, I'd be\na big hit. The only man in a whole city\nof ladies..."
+  Meeting00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "You OK, lady? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "C'mon, there's no use\ncrying over spilled milk. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "We're headed\nto Gerudo Town!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "I'll even let you lead the way!"
+  Meeting02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "You've gotta be kidding me..."
+  PairFailed00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "No! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Not Jora!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " This is horrible... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I guess\nI'll have to live enough for the both of\nus from now on."
+  PairAtacked00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: "I want to run, but I can't! Not while\nJora still has a chance!"
+  PairFailed01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 32
+    - text: Maybe I can at least still save myself...
+  PairAtacked01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 42
+    - text: You gotta save my friend!
+  GoodBye00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "We're headed for Gerudo Town, a \nshimmering oasis in the desert."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Someone told us it's a whole city of\nfoxy ladies. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I bet they'll treat us two\nfine studs like kings!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: Say...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You're not annoyed by our plan,\nare you? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Well, too bad! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Us men have our fantasies! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "We can't help it!\nBesides... you're quite cute yourself. What man wouldn't be\ninterested in a pretty babe like you?"
+  SavedLv3_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: I owe you my life!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I can't thank you\nenough! "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "This'll have to do..."
+  Guardian00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 31
+    - text: "Run! Quickly! There's a Guardian coming!"

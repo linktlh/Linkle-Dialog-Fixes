@@ -1,0 +1,82 @@
+---
+entries:
+  QL_GoronCityMini_BeatGolem_Name:
+    - text: The Road to Respect
+  QL_GoronCityMini_BeatGolem_Beated:
+    - text: "I defeated the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Igneo Talus "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "at "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Darunia Lake
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nNow to go and tell Fugo!"
+  QL_GoronCityMini_BeatGolem_Desc:
+    - text: "Fugo needs to defeat the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Igneo Talus "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "at\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Darunia Lake "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to win his master Rohan's\nrespect.\n\nBut he's not sure about his ability to reach\nthe place to begin with, so he's looking for\nsomeone to fight the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Igneo Talus "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: in his stead.
+  QL_GoronCityMini_BeatGolem_Finish:
+    - text: "I defeated the Igneo Talus at Darunia Lake\nand reported back to Fugo. In return, he gave\nme "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 100 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."

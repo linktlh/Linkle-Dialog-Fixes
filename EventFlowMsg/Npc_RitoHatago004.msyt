@@ -1,0 +1,1484 @@
+---
+entries:
+  KyoukaiTalk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Welcome to our "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\nWe can register a wild horse you've\ncaught or retrieve or board your\nexisting horses.\nAnd if you want to stay for a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: rest
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", please\nhead to the counter inside.\n\nSo what'll it be?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 62
+            field_3: 63
+            field_4: 64
+            field_5: 65
+            field_6:
+              - 0
+              - 3
+  Register20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "OK,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " please enter a name for your hors—\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "...Wait a minute!\n\n\nIsn't this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Epona
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", the horse of legend?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "What are you thinking?!\nYou can't rename a horse of legend!\nPretty sure there's a law against that.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Epona
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " it is?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 42
+            field_3: 43
+            field_4:
+              - 0
+              - 1
+  KyoukaiTalk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Welcome to our "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n\nIf you've come with a wild horse,\nyou can register it with us here.\n\nOr if you want to stay for a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: rest
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", please\nhead to the counter inside.\n\nSo what'll it be?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 64
+            field_3: 52
+            field_4: 65
+            field_5:
+              - 0
+              - 2
+  Register21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Look, I just told you.\nYou can't rename a legendary horse!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Her name must be "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Epona
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 42
+            field_3: 43
+            field_4:
+              - 0
+              - 1
+  KyoukaiTalk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Anything else?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 62
+            field_3: 63
+            field_4: 64
+            field_5: 65
+            field_6:
+              - 0
+              - 3
+  Register22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Not a problem.\n\n\nWe charge a registration fee to help\nsupport our conservation efforts.\n\nThe fee also gets you a locally made\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "saddle "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "and "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "bridle "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "for your horse.\nThe fee is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". Is that OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 40
+            field_3: 41
+            field_4:
+              - 0
+              - 1
+  KyoukaiTalk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Looks like you've caught yourself a new\nsteed! Do you want to register it?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 66
+            field_3: 67
+            field_4:
+              - 0
+              - 1
+  Register23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 6
+    - text: You sure this is the one?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 40
+            field_3: 41
+            field_4:
+              - 0
+              - 1
+  Talk01_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 2
+    - text: Welco—
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAh..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Well, aren't you a confident one?\n\nThe weather can get pretty hairy out\nthere, but you'll learn that soon enough.\n\nWe have soft and warm beds, so think\nabout staying the night until you find\nsome clothes."
+  KyoukaiTalk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Is that so! Pardon me...
+  Deliver00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Which horse do you want to take out?
+  "0040":
+    - text: Yes.
+  KyoukaiTalk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Welcome! Welcome to our fine "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nDo you want to register a horse?\nTake one out for a ride?\n"
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - text: How can I help?
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 62
+            field_3: 63
+            field_4: 64
+            field_5: 65
+            field_6:
+              - 0
+              - 3
+  Deliver01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "You don't have any registered horses.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You'll need to catch a wild horse and\nbring it here for registration. Once\nyou've registered it, it becomes yours."
+  "0041":
+    - text: No.
+  KyoukaiTalk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Hi there! Welcome to our "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\n\nIf you catch a wild horse and bring it\nhere, you can register it in our network\nof stables.\n"
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - text: "Now then, what can I do for you?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 64
+            field_3: 52
+            field_4: 65
+            field_5:
+              - 0
+              - 2
+  Deliver02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 6
+    - text: "You wanted "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", right?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 20
+            field_3: 21
+            field_4:
+              - 0
+              - 1
+  "0042":
+    - text: OK.
+  Deliver03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "All right, we'll take "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type3:
+            field_1: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " into\nour care. Wait right here."
+  "0043":
+    - text: Change it.
+  Deliver04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "And there you go! Thanks for choosing\nus for all your horsey needs."
+  Deliver05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "All right, let me handle the paperwork,\nand we'll get you settled."
+  Deliver06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Would you like a different horse?
+  Deliver07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "All right, we'll get "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type3:
+            field_1: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nready for you. Sit tight."
+  Register11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I see.\nParting is never easy...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: But please rest assured—
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "your horse will\nbe treated with great care at the stable."
+  Receive01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Sorry, you must register a horse\nbefore boarding it, lady!"
+  Register12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - text: Oh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " So you don't want to register this\nwild horse?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: Gotcha.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " We'll be here for you if you\nchange your mind."
+  Receive02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: Your horse is in our care.
+  Register13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: Please give this little one a fitting name.
+  Receive03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "So you're not... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: Understood.
+  "0030":
+    - text: Let one go.
+  Register14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Thanks.
+  Receive04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "All right... We'll be here if you need us. "
+  "0031":
+    - text: Never mind.
+  Register15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Oh? I'm afraid that you don't\nhave "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nIf you can't afford the registration fee,\nyou probably aren't cut out for horse\nownership. Sorry."
+  Advice01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "If you're riding on a road, your horse \nwill just naturally follow the path, as is\nits instinct.\nTravel by road if you want to leave the\nsteering up to your steed and just enjoy\nthe scenery!"
+  Receive05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "You want to board "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type3:
+            field_1: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 10
+            field_3: 11
+            field_4:
+              - 0
+              - 1
+  "0032":
+    - text: Yes.
+  Register16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "So you won't be registering, then."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nThat's unfortunate."
+  Advice02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 23
+    - text: "If a horse gets spooked or doesn't like \nwhere it's at, it might shut down and\nrefuse to move at all.\nIf that happens, you can "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: target
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " while\nmounted and then force the horse to\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: move step by step
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nJust be sure you don't put your horse\nin a dangerous situation."
+  "0033":
+    - text: No.
+  Register17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: Please enter a name for your horse.
+  Advice03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "To talk to someone while on horseback,\njust "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: target
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " them first. \n\nBut you won't be able to talk to anyone\nif you're riding too fast, so slow it down."
+  Register00_1:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "What in Hylia's name?!\nThat's a monster, not a horse!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Sorry, but we can't board that...thing\nhere. It might eat the other horses."
+  "0034":
+    - text: Yes.
+  Register18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Oh, and by the way...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "If you get separated from your horse,\nyou can whistle and it will come running!"
+  Advice04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "If you get separated from your horse,\njust whistle and it'll come running."
+  Talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: I hope you enjoyed your stay.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHave a good evening!"
+  Register00_2:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Understoo—
+    - control:
+        one:
+          type0:
+            field_1: 4
+            field_2: 10
+    - text: " Uh...\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 17
+    - text: Wh-
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: what is that?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nCan that..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "THING you're riding be the\nfabled Lord of the Mountain?!\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 40
+              - 205
+    - text: "Why in Hylia's name would you bring\nsomething like that here? We'll all be\ncursed!"
+  "0035":
+    - text: On second thought...
+  Register19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But your horse isn't magic. It can't hear\nyou if you're too far away, so do keep\nthat in mind!"
+  Advice05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 2
+    - text: "Horses that have lots of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: stamina
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " can\nrun at top speed for a long time.\n\nHowever, they can't turn well when\nthey're running at top speed.\n\nIf your horse can't turn sharply, you're\nmore likely to hit obstacles, so think\nbefore you ask your horse to sprint."
+  Talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "Good morning.\nI hope you enjoyed your stay!"
+  Register00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Oh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I see we have a comedian in our\nmidst. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "Quit horsing around, and get\naround to finding a horse!\nTo catch a wild horse, slowly approach it\nfrom behind and hop on—got it?"
+  Register00_3:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Not a problem. Let me just—\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Oh, for the love of Hylia...\nThat's not a horse!\n\nWe only board horses here, stranger.\nNo exceptions."
+  "0036":
+    - text: Take horse.
+  Talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: I hope you enjoyed your stay.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHave a great day!"
+  Register01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Understoo—\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "I'm sorry, but it seems you've hit your\nregistration limit...\n\nYou would need to let one of your horses\ngo to free up space. What would you like\nto do?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 30
+            field_3: 31
+            field_4:
+              - 0
+              - 1
+  "0037":
+    - text: Board horse.
+  Talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "I hope you enjoyed your stay.\nHave a great evening!"
+  Register02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Which horse do you want to release?
+  Talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Will you be staying with us?
+  Register03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - text: "If you release this horse here, you may\nnot ever see it again.\nYou sure about this?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 32
+            field_3: 33
+            field_4:
+              - 0
+              - 1
+  Talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "A regular bed will cost you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: 20 rupees
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nA soft bed is "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "40"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 0
+            field_3: 1
+            field_4: 2
+            field_5: 3
+            field_6:
+              - 0
+              - 3
+  "0020":
+    - text: Take horse.
+  Register04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: "Now that that's settled, I can register\nthis new wild horse you've brought."
+  Talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 4
+    - text: "The soft bed is a special bed we're\nproud to offer here at the stable.\n\nIt costs more than the regular bed, but\nyou'll wake up more energized."
+  "0021":
+    - text: Never mind.
+  Register05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 0
+    - text: Gotcha.
+  Register06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "Are you sure you want to name this\nhorse "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type1:
+            field_1: 30
+            string: Horse_NewName
+            field_3: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 34
+            field_3: 35
+            field_4:
+              - 0
+              - 1
+  Register07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Your registration is complete.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Would you\nlike to take your new horse with you?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 36
+            field_3: 37
+            field_4:
+              - 0
+              - 1
+  Register08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: "All right, we'll take "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        two:
+          type3:
+            field_1: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\ninto our care."
+  Register09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Thank you.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWe'll see you next time."
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: Welcome!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWill you be staying with us?"
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: Come see us again!
+  TalkHatu_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 2
+    - text: "Welcome to my "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nWe deal in all things horse related.\nWe also double as an inn.\n"
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - text: Huh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I haven't seen your face before."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nDo you know about the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: stable
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " system?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 50
+            field_3: 51
+            field_4:
+              - 0
+              - 1
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Ma'am, you don't have the necessary funds."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI'm afraid that you can't stay unless\nyou pay the full amount."
+  TalkHatu_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "Then allow me to explain.\n\n\nYou can board your horse companions\nwith us"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and then summon them as\nyou please from our network of stables.\nYou may have come across "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: wild horses
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nduring your travels...\n\nIf you catch one and ride it here to\nregister it,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " it will become your horse\ncompanion.\nOne person can board up to five horses,\nand you're able to swap horses in and\nout as you please.\n"
+    - control:
+        four:
+          type3:
+            field_1: 0
+    - text: "Do you...know how to catch a wild\nhorse?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 52
+            field_3: 53
+            field_4:
+              - 0
+              - 1
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Sleep until...
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5: 7
+            field_6:
+              - 0
+              - 3
+  TalkHatu_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "OK. To catch a wild horse, all you have to\ndo is approach it from behind—"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "slowly, so\nit doesn't notice you—and then hop on.\nBut these are wild animals we're talking\nabout, so if the horse you're riding starts\nto act up, try soothing it.\nIt will eventually settle down, and when\nthat happens, bring it to me.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: "It may take a while for wild horses to get\nused to being ridden.\n\nThey may change directions or slow\ndown on their own until you earn their\ntrust and respect.\nIf your horse disobeys your direction,\nyou'll want to gently redirect it and\nthen calm it.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "And if you continue interacting that way,\nyour horse will naturally begin to trust\nyou and become more obedient."
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: Sleep until...
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5: 7
+            field_6:
+              - 0
+              - 3
+  TalkHatu_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 0
+    - text: "Oh, pardon me.\nLet me start over..."
+  "0010":
+    - text: Board horse.
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Sleep well!
+  TalkHatu_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 4
+    - text: "That's all I can tell you about the\nsubject, stranger."
+  "0011":
+    - text: Never mind.
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: OK. Rest well!
+  TalkHatu_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "Well, you're looking peppy today,\nstranger!"
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: Good morning.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI hope you enjoyed your stay!"
+  Talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 11
+    - text: I hope you enjoyed your stay.
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHave a good day!"
+  "0000":
+    - text: Regular bed.
+  "0001":
+    - text: Soft bed.
+  "0062":
+    - text: Take horse.
+  "0002":
+    - text: "What's the soft bed?"
+  "0063":
+    - text: Board horse.
+  "0003":
+    - text: Never mind.
+  "0064":
+    - text: Register horse.
+  "0004":
+    - text: Morning.
+  "0065":
+    - text: Bye.
+  "0005":
+    - text: Noon.
+  "0066":
+    - text: "Yes, please."
+  NakedPlayer:
+    - text: You must be chilly...
+  "0006":
+    - text: Night.
+  "0067":
+    - text: "No, thanks."
+  "0007":
+    - text: Never mind.
+  "0050":
+    - text: "I don't."
+  "0051":
+    - text: "Yes, I do."
+  "0052":
+    - text: Catching horses?
+  "0053":
+    - text: I know how.

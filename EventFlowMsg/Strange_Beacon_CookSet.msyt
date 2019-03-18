@@ -1,0 +1,107 @@
+---
+entries:
+  Text002:
+    - text: "Don't you understand?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "NO! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "TOUCHIE!! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: MY!!!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nCOOKING POT!!!!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\nThe very sweat on your hands\ncould ruin the salt balance!"
+  Text003:
+    - text: "*grumble grumble*"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "\nBetter not be touching my cooking pot..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Text001:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "Don't! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Touch!! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: A thing!!!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\nI set the heat to the perfect temperature.\nAn amateur like you will only ruin it!"
+  Text004:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - text: Do NOT touch that cooking pot!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nI've lowered the heat to start the aging\nprocess, so keep your mitts off it!"

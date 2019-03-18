@@ -1,0 +1,111 @@
+---
+entries:
+  "0000":
+    - text: Read.
+  "0001":
+    - text: "Don't read."
+  Book00:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: "From the moment I wake to the moment\nI sleep, my mind is full of rumors. Even\nmy dreams are gossipy! Traysi here!\nYou fine folks keep up with dream\nrumors too, don't you?\n\nWell, this one's so good it might as well\nbe a dream. Listen up, history buffs!\n\nThis tidbit is about the brave soldiers\nwho were tragically wiped out during\nthe Great Calamity.\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "The royal guards who protected\nthe royal family!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\nAmongst "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Hyrule's soldiers"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", only the best\nof the best had the honor of guarding\nthe royal family.\nApparently, the equipment they wore\ncan still be found somewhere in\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nThey say a former maid spoke of treasure\nnear the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Dining Hall
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", in the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Guards'\nChamber"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", and on "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: the second floor
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI do hope one day "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nis restored to its former glory,\ncomplete with royal guards.\nHmm... I wonder when a royal guard\nin shining armor will come sweep me\noff MY feet...\nTraysi's Recommendation: ★★★★★"
+  BookFirst:
+    - control:
+        one:
+          type2:
+            field_1: 0
+    - text: "Super Rumor Mill EX: Volume 4"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1

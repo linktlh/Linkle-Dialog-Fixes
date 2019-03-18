@@ -1,0 +1,878 @@
+---
+entries:
+  Talk32:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "You don't have the necessary materials..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n♪All in good time, girl.♪"
+  Revival00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 32
+              - 205
+    - text: "Mmm... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "So you're the one who brought\nme back from the brink.\n\nOh, my..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I see now that my first\nimpression of you was correct. You\nmost definitely are pleasant to look at.\nHow would you like to live here with\nme,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " hmm?"
+  Talk33:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: Notice anything missing?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " You don't\nhave the materials needed to strengthen\nthat clothing item."
+  Talk34:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Ahh-haaaaan!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "Mmmm, I thought I detected the\nfragrance of a young lady nearby...\n\nSo..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "you have some clothing you wish to\nenhance and the necessary materials?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhy don't you let me take a look?"
+  Talk35:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Ooooh-hoooon!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Oh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "That's too bad.\n\n\nWon't you come see me again?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I'll be\nwaiting..."
+  Talk36:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Hahhhhh!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: I can feel it...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " My sisters' powers have\nnot yet been restored. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Young lady, if you\nmeet them, would you please help them?\nConsider it a..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: special request from me.
+  Talk37:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: AHHH-PHOOON!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk38:
+    - text: "Aw, ooh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: You want something else?
+  Talk39:
+    - text: "Oh, my... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Did you make a mistake?
+  Talk50:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "There you go! You should be able to\nfeel the care I put into this..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nOh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I just remembered...\nThere are some items in the world that,\nwhen twice enhanced and worn as a set,\ncan give you a nice set bonus.\nOnly some items, though!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n♪No promises!♪"
+  Talk51:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: AH HAHAHAHAHAAA!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk06:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "And there we go... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "You should be able to\nfeel the care I put into that. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "It radiates\noff those clothes..."
+  Talk08:
+    - text: So...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "have you picked which clothes you'd\nlike me to enhance?"
+  Talk09:
+    - text: ♪Take care!♪
+  Talk20:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - text: "You want to enhance the\n"
+    - control:
+        two:
+          type11:
+            field_1: 42
+            string: Shop_SelectItemName
+            field_3: 0
+    - text: ", correct? "
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Talk21:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "I'm gonna enhance the\n"
+    - control:
+        two:
+          type11:
+            field_1: 42
+            string: Shop_SelectItemName
+            field_3: 0
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Is that OK?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Revival00_1:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "Hah! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I'm kidding, of course."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " But you\ncertainly are cute when you're\nblushing."
+  Talk22:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "Oh, no, no, no... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I can't enhance this\nclothing item."
+  Revival00_2:
+    - text: "I really can't thank you enough, girl,"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nbut that won't stop me from trying."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\nIf you have the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: materials
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " needed to\nenhance a piece of clothing,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I will\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: enhance
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " your "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: clothes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nSo why don't you let me take a peek\nin that little pouch of yours?"
+  "0000":
+    - text: Enhance away!
+  Talk23:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "No good... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "I can't enhance that\nclothing item..."
+  "0001":
+    - text: "No, thanks."
+  Talk24:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "I'm sorry... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "That clothing item is\nimpossible to enhance..."
+  "0002":
+    - text: "Yes, please."
+  Talk25:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 10
+              - 205
+    - text: "I'm sorry... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "It appears that it is\nimpossible to enhance that clothing\nitem..."
+  "0003":
+    - text: Never mind.
+  Talk26:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "To enhance that item, I need some power\nfrom my sisters..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " If you see them, could\nyou please help restore their powers?"
+  "0004":
+    - text: Take a look.
+  Talk27:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "I cannot enhance that clothing item with\nmy power alone."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I need to borrow some\npower from my sisters..."
+  "0005":
+    - text: "I'd rather you not..."
+  Talk28:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 14
+              - 205
+    - text: "I can't right now... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "However, if my sisters\nwere able to lend me their power,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " then I\ncould enhance that clothing item..."
+  Talk29:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "Oh? "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "If you want me to enhance that\nclothing item,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " then you will need to\nawaken my sisters, as well..."
+  Talk40:
+    - text: "Oooh... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Not that one?
+  Talk41:
+    - text: Teasing me?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nYou naughty girl..."
+  Talk42:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 19
+    - text: "Oh, my."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You don't have any clothing that\nI can enhance? That won't do at all!\n\nLet me take a look at your things."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nMaybe we can find something I can\nhelp you with..."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 4
+            field_3: 5
+            field_4:
+              - 0
+              - 1
+  Talk43:
+    - text: "...Oh, my. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Do you have any other clothes\nI can enhance right now?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It doesn't\nseem so, as much as I would like to..."
+  Talk44:
+    - text: "If you gather more materials or return my\nsisters to their former glory, come back\nto see me!"
+  Talk10:
+    - text: "You want to know why you can't\nstrengthen it? Allow me to explain..."
+  Talk45:
+    - text: "If you find any new clothes that you want\nme to enhance, come back to see me!"
+  Talk46:
+    - text: "Have you got other clothes you'd like me\nto work my magic on?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk11:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 7
+              - 205
+    - text: "I'd love to enhance your clothing, but..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou know you aren't wearing any, right?\nOr carrying any...\nIf you get your hands on some clothes\nthat look like they could be enhanced,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nstop by."
+  Talk12:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: With the power available to me...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI should be able to enhance your\nclothing "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: a little bit
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk47:
+    - text: BWAAAAAAHHHH!
+  Talk13:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: With the power available to me...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI can enhance your clothing\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: a fair amount
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk48:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: HAAAAAAAAAAAAA!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk14:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: With the power available to me...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI can "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "greatly "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: enhance your clothing.
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk49:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: AH-HAAAAAAAAA!!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk15:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: With the power available to me...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nI can enhance your clothing "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: to the max
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk16:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: Young lady...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "you've helped restore "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nmy sisters' powers.\n\n♪I'm feeling extra special!♪"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIf you want to enhance your clothing,\ncome back anytime."
+  Talk17:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "OK. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Got it!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Now then...\n♪Close your eyes!♪"
+  Talk18:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - text: "You want me to enhance your\n"
+    - control:
+        two:
+          type11:
+            field_1: 42
+            string: Shop_SelectItemName
+            field_3: 0
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " yeah?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Talk19:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 4
+              - 205
+    - text: "You're telling me to enhance the\n"
+    - control:
+        two:
+          type11:
+            field_1: 42
+            string: Shop_SelectItemName
+            field_3: 0
+    - text: ", yeah?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Talk30:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "Oh, myyy... "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "You don't seem to have the\nmaterials needed to enhance that\nclothing item."
+  Talk31:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 17
+              - 205
+    - text: "You don't have the necessary materials..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n♪All in good time, girl.♪"

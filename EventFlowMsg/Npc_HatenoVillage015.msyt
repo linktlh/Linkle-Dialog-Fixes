@@ -1,0 +1,533 @@
+---
+entries:
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 19
+    - text: "Huh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I've seen that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " before.\n\n\nI'd see that old woman Purah"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " carrying it\nup to her place all the time..."
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Who... Who are you?! I demand answers!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nIf you're up this late, you're probably\nup to no good!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  near00:
+    - text: "...Whuh!"
+  talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is for Purah, right?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThen stop wasting time chatting with me\nand deliver it! Quickly."
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 1
+    - text: "Wait, wait, wait!"
+  near01:
+    - text: "*yawn...*"
+  talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 19
+    - text: "Huh? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "I've seen that "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " before.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I used to see the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "director of the \nresearch facility"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " carrying it up the hill\nall the time."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 6
+    - text: "Hrm? \n\n\nYou certainly do appear to be a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nlike the rest of us..."
+  near02:
+    - text: Whatcha want?
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "That "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: blue flame
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is for the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: director
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", right?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThen stop yapping with me and deliver it\nquickly!"
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylians
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are generally good folk, so..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nSorry for getting all worked up..."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - text: "A little advice? Don't go near the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "place\nup the hill in the rear of the village"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThere's a yappy "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: old woman
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " there."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You're free to go."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " We're just a waypoint\non your winding road, huh? \n\nAh, the life of a traveler. Well, you can\nget most things you need at the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "general\nstore"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " and the"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: " inn"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is just back there."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "Phwaaa... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: So sleepy.
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: You still need something?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  "0000":
+    - text: "I'm a traveler."
+  "0001":
+    - text: Good-bye.
+  "0002":
+    - text: Where am I?
+  "0003":
+    - text: Show me around!
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "Wha? "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Oh, it's you..."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 3
+            field_4: 1
+            field_5:
+              - 0
+              - 2
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Go on, then."
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Not likely!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm on guard duty, Missy!\nSerious business! No time for tours!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Grumble...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Sorry for the yelling...and the grumbling.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "This village is pretty peaceful, so it's not\nlike guard duty is all that harrowing.\n\nBut you're GRAVELY mistaken if you \nthink people with free time are itching to\ngive village tours."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nTry looking for a burly old guy called\nSeldon."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " He'll probably fall all over\nhimself to show you around."
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: Who are you?!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Be on your way, you...\nsuspicious girl!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 2
+  talk13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "This is the town of greenery and dyes, \nHateno Village.\n\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 3
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: Can a place be a village AND a town?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Anyway..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n\n\nThe vegetables taste good. The air smells\ngood..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " What else... All kinds of points\nof interest I'm forgetting...\nTravelers tend to spend their money\nhere,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " so that's good! Yeah! The village\nfolk welcome THAT with open arms!\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: But...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100

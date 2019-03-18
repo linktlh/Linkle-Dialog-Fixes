@@ -1,0 +1,28 @@
+---
+entries:
+  Npc_kokiri009_NearActorsNear000:
+    - text: "I'm all grown up now!"
+  Npc_kokiri009_Talk000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 26
+    - text: "Now that I've finished the trial, I'm the\nreal deal! Hee hee!"
+  Npc_kokiri009_NearActorsTalk000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you want to go back to the shrine, just\nfollow the flowers. They won't let you\ndown."
+  Npc_kokiri009_NearActorsTalk010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That's right! If you follow the flowers,\nyou won't get lost!"

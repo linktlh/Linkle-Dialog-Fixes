@@ -1,0 +1,157 @@
+---
+entries:
+  Pa_SensorIcon_00-T_Off_00:
+    - text: "Off"
+  Pa_SensorIcon_00-T_Ancient_00:
+    - text: SheikahSensor
+  Pa_StampBox_00-T_StampBoxTitle_00:
+    - text: Stamp Box
+  Pa_Cursor_00-T_StampPin_00:
+    - text: Stamp/Map pin
+  "0030":
+    - text: "OFF"
+  "0031":
+    - text: Change Target
+  "0032":
+    - text: Korok
+  "0010":
+    - text: Wolf Link
+  "0033":
+    - text: Travel Medallion
+  "0011":
+    - text: R.I.P.
+  "0034":
+    - text: Pause
+  "0012":
+    - text: Current Location
+  "0035":
+    - text: Manual Replay x
+  "0013":
+    - text: Guardian
+  "0036":
+    - text: Master Cycle Zero
+  "0014":
+    - text: Inn
+  "0015":
+    - text: Jewelry Shop
+  Pa_StampBox_00-T_DecoD_00:
+    - text: SHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESH
+  "0016":
+    - text: Armor Shop
+  "0017":
+    - text: General Store
+  "0018":
+    - text: Objective
+  Pa_StampBox_00-T_DecoU_00:
+    - text: TESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATESHEIKAHSLATE
+  Pa_Time_01-T_Ancient_00:
+    - text: clock
+  Pa_SensorIcon_00-T_SensorOn_00:
+    - text: Shrine
+  Pa_SensorBox_00-T_SensorTitle_00:
+    - text: Select search target.
+  Pa_Temp_01-T_Ancient_00:
+    - text: thermometer
+  "0021":
+    - text: Dye Shop
+  "0022":
+    - text: Stamp
+  "0000":
+    - text: Travel
+  "0023":
+    - text: Searching for Shrines
+  "0001":
+    - text: Whistle
+  "0024":
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: The sensor reacts when you are close to shrines that you
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: have not yet visited
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: ". If you head in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: "the direction where the\nreaction is strongest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: ", you should be able to find the shrine."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  "0002":
+    - text: Pin
+  "0025":
+    - text: SheikahSensor
+  "0003":
+    - text: Stamp
+  "0026":
+    - text: Searching for Compendium Items
+  "0004":
+    - text: Select
+  "0027":
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: "If your sensor has been augmented to search for things other than\nshrines, it will react when you are close to the thing you have set\nit to look for. Head in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 5
+    - text: the direction where the reaction is strongest
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 4
+    - text: ",\nand you should be able to find the thing you are looking for."
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  "0005":
+    - text: Stamp
+  "0028":
+    - text: Shrine
+  "0029":
+    - text: Pick from Compendium
+  "0009":
+    - text: Yunobo
+  Pa_Temp_01-T_Error_00:
+    - text: Error
+  Pa_Comp_00-T_Ancient_00:
+    - text: Achievement

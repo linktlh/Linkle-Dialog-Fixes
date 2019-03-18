@@ -1,0 +1,108 @@
+---
+entries:
+  Talk03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: So hungry!
+  Near01:
+    - text: Din din!
+  Talk04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "I eat vegetables 'cause I wanna be big\nand strong!"
+  Near_Sleep00:
+    - text: Zzz... Zzz...
+  Talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Splash splosh!
+  Near_Sleep01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 32
+              - 205
+    - text: "*yawn*"
+  Talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: I wish the rain would stop.
+  Near_RunRain00:
+    - text: Raaaain!
+  Talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 34
+    - text: Gonna sleep!
+  Talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: So full...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nSo sweepy..."
+  Talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: Yes?
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  "0000":
+    - text: What are you doing?
+  "0001":
+    - text: Nothing.
+  Talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Playing tag! You want to play?
+  Talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: Thbbb!
+  Near00:
+    - text: Heehee!

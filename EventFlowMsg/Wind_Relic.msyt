@@ -1,0 +1,2138 @@
+---
+entries:
+  talk01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomLaughNose
+    - text: Hmph...
+  talk62:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomLaughNose
+    - text: Hmph...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " This is a Rito problem."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nIt's not your concern."
+  talk02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Linkle.
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm Teba."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBut you already knew that.\n\nI'm guessing the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: elder
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " asked you to\ncome here and talk some sense into me."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nAm I right?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 1
+            field_3:
+              - 1
+              - 205
+    - text: "\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 15
+    - text: "Just like the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "elder "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "to trust any fool wandering into\ntown."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\nLook"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: —
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "you seem like an all-right girl,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nbut let's make one thing clear:"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI'm not going anywhere.\nAs a Rito warrior, I can't rest until my\npeople are safe.\n\nThere's only one way I'm going back to\nRito Village."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+    - text: "\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Once "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " falls from\nthe sky."
+  talk63:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "We Rito warriors use the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "updraft "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in this\nravine"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " to hone our aerial "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: archery
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " skills.\n\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "updrafts "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: are so strong
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " here that a\nperson could just open up a cloth over\ntheir head and float up easily.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 4
+    - text: "Now let's see what you're capable of.\n\n\nYou'll have to maneuver through the\nair and destroy "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five of the targets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " set up\nin this valley "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: in three minutes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 5
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  talk03:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 1
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "If I have to kill "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "so be it.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Only then will I return to the village.
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 22
+            field_3: 16
+            field_4:
+              - 0
+              - 1
+  talk64:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Using a bow in midair is just like using a\nbow on the ground.\n\nBut you'll probably want a bow suited"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nfor long-range engagement.\n\nUse your arrows to destroy "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "five targets\nin three minutes"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". If you can't do that,\nyou don't stand a chance against "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  talk65:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomInjury
+    - text: You...
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI can't believe it got me..."
+  talk05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: "...Did you need something?\nI'm busy here."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 24
+            field_3: 16
+            field_4:
+              - 0
+              - 1
+  talk66:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomInjury
+    - text: "I can't move my leg."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nAnd at a time like this...\nSorry."
+  talk06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 6
+    - text: Help me?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " With what exactly?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 15
+            field_3:
+              - 1
+              - 205
+    - text: "\n\n\n"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Let me get this straight...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nSome random Hylian wants to help me\nbring down Divine Beast Vah Medoh?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nI'm not buying it.\nWhat's your name, stranger?"
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 12
+            field_3:
+              - 1
+              - 205
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 5
+            - 16
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Linkle, huh?"
+  talk67:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomInjury
+    - text: "Can't move my leg, and I'm all out of\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " There's nothing more I\ncan do..."
+  talk07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 6
+    - text: "Are you serious?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: HA!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Well, far be it from me to talk you\noff the ledge.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "But it's as the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: elder
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " said:"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " the only way\nto stop "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " is to\nget "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "inside "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "it.\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "Fat chance of that happening. There's no\nway we can set foot in "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type10:
+            field_1: 4
+            field_2: 17
+            field_3:
+              - 1
+              - 205
+  talk68:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomInjury
+    - text: "Sorry, but I'm going to stay here\nand heal up a bit.\n\nI can't go back to the village like this..."
+  talk08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "Then go destroy "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five targets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " with your\narrows."
+  talk09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomLaughNose
+    - text: Hmph...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Cold feet, huh?"
+  talk50:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 11
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Not bad at all..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "for a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hylian
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". "
+  talk51:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "A bit iffy at times, but you did well\nenough."
+  talk56:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Hmph...
+  talk40:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You ran out of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nUrgh... We'll have to retreat for now."
+  talk41:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "You're out of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nRETREAT!"
+  talk42:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 16
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "We'll have to worry about more than just\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s size.\n\nTalk to me again when you're ready."
+  talk43:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomLaughNose
+    - text: Hmm...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " I'm not sure about your fashion\nsense,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " but you're certainly a fine archer."
+  talk44:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Linkle... I feel I've heard the name\nsomewhere before...\n\nWell, if you really want to help me bring\ndown "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", it's now or never.\n\nI'll get you into position so you can give\nits "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "cannons "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "all you've got.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Inside that treasure chest is a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "bow "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "I've\nmodified. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "Take it, and let me know when\nyou're ready."
+  talk46:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "We can go whenever you're ready."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 19
+            field_3: 10
+            field_4: 29
+            field_5: 20
+            field_6:
+              - 0
+              - 3
+  talk47:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: I believe it.
+  "0020":
+    - text: Wait a second.
+  talk48:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 9
+    - text: "Don't be modest."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " I can tell just looking\nat you."
+  talk49:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 23
+    - text: "You're...a skilled archer."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It was as if time\nstopped with every arrow you let fly."
+  "0022":
+    - text: "Then let's get started."
+  "0024":
+    - text: I can help you.
+  talk32:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "OK, it's time to face\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nNormal arrows won't put a dent in those\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: cannons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You'll need to hit them with\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0025":
+    - text: To rescue Zelda.
+  talk33:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "I'll draw "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s fire."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " That'll be your\nchance to destroy its cannons.\n\nThere are "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: four cannons total
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nThe main body is protected by a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: barrier
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ",\nso there's no use attacking it.\nJust focus on taking out "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: all the cannons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWe'll talk next steps once that's done."
+  "0026":
+    - text: To save Rito Village.
+  "0027":
+    - text: "I can't just watch..."
+  talk35:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "Hold it. You don't have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nHurry up and find one."
+  "0028":
+    - text: Just because.
+  "0029":
+    - text: Preparations?
+  "0010":
+    - text: "What's the plan?"
+  talk38:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "OK. It's time to face\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nCan you "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "handle the cold "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "up there?\nDo you have enough "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 19
+            field_3: 10
+            field_4: 29
+            field_5: 20
+            field_6:
+              - 0
+              - 3
+  talk80:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Really? "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "You don't even have enough\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\n\nYou'll need at least "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "10"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " of them to take\non Medoh."
+  "0012":
+    - text: "I'm Linkle."
+  talk20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "You ran out of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: BOWS
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nPshhh... Come on back."
+  talk81:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "...Right. "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Get on.
+  talk22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "So not only are you wingless...you're\nbrainless too."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Let me fill you in—the only people able\nto enter the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Divine Beasts "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "are the five\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Champions "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "of old.\nAnd unfortunately for us and the rest of\nHyrule, they all died a hundred years\nago.\nIf it hadn't been for "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Ganon
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\n\n\nNever mind."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: " Let's focus on bringing\ndown "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "one step at a time.\n\nIf we approach "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "recklessly, its\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: cannons
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " will blast us out of the sky\nbefore we even get close.\n...So I'm going to need to test you\nbefore I take you with me."
+  "0015":
+    - text: Vah Medoh...
+  talk23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: Bye.
+  "0016":
+    - text: Bye.
+  talk24:
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "Don't forget "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". You'll need\nthem to destroy "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s cannons.\n\nAlso, it's cold up there. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "You'll need\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: something to keep warm
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\nIf you haven't already, think about\nsome warm clothes from Rito Village.\n\nOr cook something to keep yourself warm\nusing that pot over there. Your call."
+  "0017":
+    - text: Actually...
+  talk25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Are you ready to be tested?
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 5
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  "0018":
+    - text: "I've seen a few."
+  talk26:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomLaughNose
+    - text: Hmph...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Shouldn't have gotten my hopes\nup."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Come back once you're serious about\nbringing down "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0019":
+    - text: "I'm ready."
+  talk27:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Time's up. Come on back."
+  "0000":
+    - text: And that is...
+  talk28:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "...I appreciate your enthusiasm, but \nenthusiasm can't shoot arrows."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nCome back once you find yourself a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bow
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0001":
+    - text: "That's right."
+  talk29:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", they sell them\nin Rito Village."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Or if you're on a budget,\nyou could find some lying around."
+  talk70:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 26
+            string: CustomInjury
+    - text: "My leg is in worse shape than I thought.\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 0
+    - text: "And I was so close "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "to stopping\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nDammit!"
+  "0002":
+    - text: "I'm ready."
+  talk10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I've got to tell you, Linkle..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWhen you first showed up, I thought\nsomeone was pulling a prank on me.\nBut after seeing you handle that bow,\nI can tell you're the real deal. You must\nhave seen a battle or two."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 7
+            field_3: 18
+            field_4:
+              - 0
+              - 2
+  talk71:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Zelda
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?\n\n\nBut that's the name of the princess \nRevali served 100 years ago at \n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Hyrule Castle
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nI don't know what she has to do with\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Divine Beast Vah Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", but whatever.\n\nAs long as you're helping me bring down\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", your motivation is fine by me."
+  "0003":
+    - text: Never mind.
+  talk11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 12
+    - text: "It's great that you've made your peace,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nbut you don't have any "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 1
+    - text: "To face off against "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you're going\nto need "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: at least 10 bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...\nprobably more."
+  talk72:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: Rito Village?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " It's not like you'll get\nthe keys to the village, you know.\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Well, that's nice...but no changing your\nmind once you get up there and see\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "Medoh "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: up close.
+  "0004":
+    - text: Yes.
+  talk12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Oh, geez. You think you're ready?\nYou don't even have enough arrows!\n\nSimple math says you need at least five\narrows to hit "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five targets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", right?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWe're so doomed."
+  talk73:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 6
+    - text: "You can't just sit and watch innocent\npeople be terrorized?\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 3
+            - 12
+    - text: "Then imagine how I feel as a proud\nRito warrior..."
+  near00:
+    - text: "*pant...pant*"
+  "0005":
+    - text: Any pointers?
+  talk74:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 20
+    - text: Just...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "because?\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Ha!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " You must be off your rocker to be\nrisking your life on a whim...but I'm not\ncomplaining."
+  near01:
+    - text: "..."
+  "0006":
+    - text: No.
+  talk14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Linkle,"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " was it?"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Why don't you show me\nwhat you're made of?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 2
+            field_3: 5
+            field_4: 3
+            field_5:
+              - 0
+              - 2
+  talk75:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "These are a precious commodity, so\ndon't expect me to do this again, but...\ntake these "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+  "0007":
+    - text: Hundreds of them.
+  talk15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: Out of bounds!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: " Back to the start!"
+  talk16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 6
+    - text: What?
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Quitting already?"
+    - control:
+        one:
+          type5:
+            field_1: 8
+            field_2: 4
+            field_3: 5
+            field_4: 6
+            field_5:
+              - 2
+              - 2
+  talk77:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Don't forget the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: bomb arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+  talk17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 32
+            string: CustomLaughNose
+    - text: Figures...
+  talk78:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Also, it'll be cold up there.\n\n\nYou'll want to prepare a warm meal or\nbring "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: some warm clothes
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "."
+    - control:
+        one:
+          type6:
+            field_1: 10
+            field_2: 19
+            field_3: 10
+            field_4: 29
+            field_5: 20
+            field_6:
+              - 0
+              - 3
+  talk18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - text: "OK! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Come on back!
+  talk79:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Are you serious?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You don't have enough\narrows!\n\nIf you want to break "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five targets
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ","
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " you're \ngoing to need at least "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: five arrows
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ". \nIt's simple math."
+  talk19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Out of arrows?
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nCome on back!"
+  talk60:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 0
+    - text: "All right. "
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "But let me ask you something.\n\n\nWhy are you doing this?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nWhy risk your life to bring down "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: Medoh
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type8:
+            unknown_1: []
+            field_1:
+              - 25
+              - 48
+              - 87
+              - 105
+              - 110
+              - 100
+              - 95
+              - 82
+              - 101
+              - 108
+              - 105
+              - 99
+              - 95
+              - 78
+              - 80
+              - 67
+              - 49
+              - 48
+              - 95
+              - 72
+              - 101
+              - 108
+              - 112
+              - 89
+              - 111
+              - 117
+              - 26
+              - 0
+              - 27
+              - 0
+              - 28
+            field_2:
+              - 0
+              - 0
+              - 0
+              - 3
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 19
+    - text: Huh...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " It's not every day you see topless\nHylians around these parts.\n\nAnyway, I'm busy. Go away."
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 24
+            field_3: 16
+            field_4:
+              - 0
+              - 1
+  talk61:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "That's fair enough..."

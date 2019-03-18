@@ -1,0 +1,1342 @@
+---
+entries:
+  Npc_Gaman01_S2_001:
+    - text: "This "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "contest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "is really tough!\nNo one's passed it yet!"
+  Event_S1_002_03_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - text: "It's where our ancestors trained...\nIt's considered the toughest test known\nto Goron kind!"
+  Npc_Gaman01_S2_002:
+    - text: "Welcome back! Do ya wanna try the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: contest of ultimate endurance
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 2
+            field_3: 3
+            field_4:
+              - 0
+              - 1
+  Event_S1_002_03_02:
+    - text: "That special training area is even harder\nthan the last ring..."
+  Npc_Gaman01_S2_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 4
+    - text: "That's the spirit! Now then, go climb\ninto the ring."
+  Event_S2_001_01_01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: "More heat, brother!"
+  Event_S1_003_03_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 16
+    - text: "It's way too bad things turned out this\nway, brother. But I'm afraid the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "contest\nof endurance"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " ends here."
+  Npc_Gaman01_S2_004:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "The "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: contest of ultimate endurance
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nbegins as soon as ya climb into\nthe ring, brother!"
+  Event_S2_001_01_02:
+    - text: "FIRE, brother!"
+  Npc_Gaman01_S2_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 8
+    - text: "What?! Ya don't wanna challenge\nyourself? Disappointing, brother...\nI was gettin' all fired up too!"
+  Event_S2_001_01_03:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 1
+              - 205
+    - text: "Hot like lava, brother!"
+  Event_S2_002_01_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 21
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: RAAAAARRRGGGGHHH!!
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "SO EPIC, BROTHER!!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_Gaman01_S2_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "This contest won't just challenge you\nwith heat...but also with fire!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "If ya lose your focus, "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "your body will\ncatch fire"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "! Make sure you're prepared\nfor this, brother!"
+  Event_S2_002_01_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 11
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "You won the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "contest of ultimate\nendurance"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", little lady!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "You're amazing!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Event_S2_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "You're standing up there, which can only\nmean one thing... "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "You ready to push\nyourself to your limits, brother?!\nThe rules for this "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "contest of ultimate\nendurance"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are the same as ever.\nLeave the ring or faint, and it's over!\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 3
+    - text: OK! Time for the world famous...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: CONTEST OF ULTIMATE ENDURANCE
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nGOOOOOO!"
+  Npc_Gaman03_R_Near:
+    - text: "I'll do...my best..."
+  Event_S2_001_02_01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: No fear!
+  Event_S2_001_02_02:
+    - text: "Seize the heat, brother!"
+  Npc_Gaman03_S1_001:
+    - text: Are you...any good?
+  Event_S2_001_02_03:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 1
+              - 205
+    - text: "A real trial by fire, brother!"
+  Event_S2_002_02_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 10
+    - text: "What a powerful display! What fire!\nThat was somethin' else, brother!"
+  Event_S1_001_01_01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 34
+              - 205
+    - text: Not yeett!!
+  Event_S1_001_01_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 41
+              - 205
+    - text: Piece of...cake!
+  Npc_Gaman02_S1_001:
+    - text: "That fire in your eyes! I can almost see\nthe passion in your tiny belly!"
+  Event_S1_002_01_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "You're amazing! I never woulda thought\nthe three Goron Blood Brothers could\nlose to you, brother!"
+  Event_S1_002_01_02:
+    - text: "You see the ring behind me? The one\nsurrounded in fire? Do ya feel it in your\ngut—"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: what a bad idea it is to go there?
+  Event_S1_002_01_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 0
+    - text: "It's said that passin' this test will\nreveal a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shrine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "or some such!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - text: "If ya think you're ready, climb into the\nring. Do that, and our special "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "contest\nof ultimate endurance "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: will begin!
+  Event_S1_003_01_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "What's that about, brother?\nWhy'd ya leave the ring?!"
+  Event_S1_003_01_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "What's that about, brother? Ya tried to\nget away from the ring!"
+  Event_S2_001_03_01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: My soul is on FIRE...
+  Npc_Gaman02_R_Near:
+    - text: Not yet! Not yet!
+  Event_S2_001_03_02:
+    - text: Burning...soul...
+  Event_S2_001_03_03:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 0
+              - 205
+    - text: Gonna get...burned out...
+  Talk_00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "PUMP IT UP, BROTHER!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Oh! It's the special Goron Blood Brother!\nThe one who somehow beat our famous\nGut Check Challenge!\nThis is our ancestral training ground,\nlittle lady! We're smack in the middle\nof a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: contest of endurance
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  "0000":
+    - text: "Sure, I'll give it a try."
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "FEEL THE BURN, BROTHER!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "We're trainin' to become even manlier\nGoron men, brother! Right now we're\ncompetin' to see who can "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: beat the heat
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  "0001":
+    - text: Anything but that.
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: So sweaty...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Brother..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Of course, since ya beat the Gut Check\nChallenge, you'll wanna try this too.\n\nWe're Gorons, but we can't really stand\nthis extreme heat either..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "That's why we came here to train!\nAfter this, we'll be able to handle the\nextra heat in Goron City, no problem."
+  "0002":
+    - text: Bring it.
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "PUMP IT UP, BROTHER!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Oh! It's the special Goron Blood Brother!\nThe one who beat our famous Gut Check\nChallenge!"
+  Npc_Gaman01_R_Near:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - text: Uuurrrrggggh!!
+  Event_S1_001_02_01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 34
+              - 205
+    - text: "Someone's wavin'..."
+  "0003":
+    - text: "Actually, no."
+  Talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "PUMP IT UP, BROTHER!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Hm? Ah! You're the little girl who\nattempted the Gut Check Challenge!\n\nThis here is our ancestral training\nground, brother! We're havin' a\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: contest of endurance
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Event_S1_001_02_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: Is that...Grandpa?
+  Talk_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "FEEL THE BURN, BROTHER!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "But does someone who abandoned the\nGut Check Challenge really stand a\nchance of "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "beatin' the heat"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?!"
+  Event_S1_002_02_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - text: "In fact, I'm grantin' you the highest\nhonor—the chance to participate in\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: contest of ULTIMATE endurance
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Npc_Gaman03_S2_001:
+    - text: "A Goron's heart burns with passion...\nCompared to that, fire is nothin'..."
+  Talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 18
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: So sweaty...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Brother..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "You should train here before ya try to\ntake on the Gut Check Challenge.\n\nWe're Gorons, but we can't really stand\nthis extreme heat either..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "That's why we came here to train!\nAfter this, we'll be able to handle the\nextreme heat in Goron City, no problem."
+  Event_S1_002_02_02:
+    - text: "Your gut is dead on, brother!"
+  Event_S1_003_02_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: "The rules say ya have to complete the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "contest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in the ring! Leavin' is the\nexact opposite of that!"
+  Talk_20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "PUMP IT UP, BROTHER!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Hey! You're the little girl who's tryin' to\nbeat the Gut Check Challenge and the\ncontest of endurance!"
+  Event_S1_003_02_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 12
+    - text: "The rules say ya have to complete the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "contest "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "in the ring! Leavin' isn't part\nof it!"
+  Talk_21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 6
+    - text: HUH?!
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Is that heat-resistant gear ya\nhave there, brother?\n\nA real Goron warrior shouldn't have to rely\non wussy stuff like that!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Goron up and\ntake the challenge without any help!"
+  Npc_Gaman01_S1_001:
+    - text: The
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " contest"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " will begin when ya climb\ninto the ring, brother!"
+  Talk_22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: Wait...
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " How did this happen?!"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " When did\nya pull the ol' switcheroo and put on\nheat-resistant gear, brother?"
+  Npc_Gaman01_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "PUMP IT UP, BROTHER!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "This is our ancestral training ground!\nUs three Goron Blood Brothers are in the\nmidst of a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: contest of endurance
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Event_S2_002_03_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 42
+    - text: "Whoa! That's a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: shrine
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "...or some such!\nIt really appeared, just like that!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 1
+    - text: "So the legend is true, brother!!"
+  Talk_23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 12
+    - text: "Our sacred "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: contest of endurance
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is a test\nof grit, brother! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "Use that heat-resistant\nnonsense, and you'll be disqualified!"
+  Npc_Gaman01_R_002:
+    - text: "Hey, I have an idea!"
+  Npc_Gaman02_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "FEEL THE BURN, BROTHER!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "We're trainin' to become strong and\npowerful Gorons! Right now we're\ncompetin' to "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: beat the heat
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Npc_Gaman01_R_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "PUMP IT UP, BROTHER!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Oh, you're the one who was here before!"
+  Npc_Gaman02_R_002:
+    - text: Come join us!
+  Npc_Gaman01_R_004:
+    - text: Good answer!
+  Npc_Gaman03_R_001:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 43
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "So sweaty... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Brother...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "We're Gorons...but the heat is too much\nfor us these days..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - text: "It's too hot to handle in Goron City...\nso we came here to train ourselves..."
+  Npc_Gaman02_R_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: "FEEL THE BURN, BROTHER!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 1
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "If you've come back here, then that\ncan only mean one thing..."
+  Npc_Gaman01_R_005:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 2
+              - 205
+    - text: "When you're ready, step up onto this\nplatform! Then the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: contest of endurance
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nwill commence!"
+  Event_S1_001_03_01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 41
+              - 205
+    - text: Phew! Phew!
+  Npc_Gaman03_R_002:
+    - text: Yeah! Come try the
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: " contest of endurance"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "\nyourself...brother!"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_Gaman02_R_004:
+    - text: "A girl like you has a burning passion\nin her belly!"
+  Npc_Gaman01_R_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "What a wobbly-kneed way of thinkin'!"
+  Event_S1_001_03_02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 32
+              - 205
+    - text: "I can't...go on..."
+  Npc_Gaman03_R_003:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 43
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: So sweaty...
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " Brother..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - text: "Are you in the mood...to test your\nendurance with us...brother?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_Gaman02_R_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 10
+            - 0
+    - text: "And we thought you were a girl who\nhad her priorities straight!"
+  Npc_Gaman01_R_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 1
+    - text: "If ya change your mind, come right\nback here!"
+  Npc_Gaman03_R_004:
+    - text: "It's inspiring...brother!"
+  Npc_Gaman02_R_006:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 8
+            - 1
+    - text: "We'll be here, waitin' on ya to grow\nsome grit."
+  Event_S1_001:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 12
+              - 205
+    - text: "If ya leave the ring or pass out,\nit's all over! You lose! Got it?\n\nOK... Now prepare yourself for the..."
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 1
+              - 205
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: CONTEST OF ENDURANCE
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nGOOOOOO!"
+  Npc_Gaman03_R_005:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 12
+    - text: How could we have...been so wrong?
+  Npc_Gaman02_R_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 2
+            - 14
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: BEYOND MACHO!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_Gaman03_R_006:
+    - text: "When ya do...come show us what...\nyou're made of!"
+  Npc_Gaman03_R_007:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 16
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "I'm a manly Goron man... "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Brother...
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_Gaman02_S2_001:
+    - text: "That place is hotter than a freshly grilled\nrock roast! You really think you can\nhandle it, brother?"

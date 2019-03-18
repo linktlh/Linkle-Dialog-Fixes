@@ -1,0 +1,34 @@
+---
+entries:
+  near01:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 42
+              - 205
+    - text: Gya!
+  near02:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 42
+              - 205
+    - text: Unngh.
+  near00:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 42
+              - 205
+    - text: Ouch.
+  talk00:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: Twee hee!

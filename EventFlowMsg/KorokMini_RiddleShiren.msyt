@@ -1,0 +1,675 @@
+---
+entries:
+  Npc_kokiri002_S020_Talk500:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: This sultry shroom will warm your bones
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ".\nIt makes its home in warmer zones."
+  Npc_kokiri002_R_Near000:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 31
+              - 205
+    - text: Mmmm...
+  Npc_kokiri002_R_Talk040:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: Have you figured it out?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I'm guessing\nyou're more stumped than the base of\na felled tree!\nIf you place the right object on the leaf,\nI'll dance for you!"
+  Npc_kokiri002_F_Talk010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "If you think you know the answer, place\nthe object on the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "leaf "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "there. "
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "If you place\nthe right thing, I'll sing your praises!\n"
+    - control:
+        four:
+          type1:
+            field_1:
+              - 31
+              - 205
+    - text: "But if it's wrong..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nZ"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: z
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: z
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "..."
+  "0000":
+    - text: "I'll try it!"
+  Npc_kokiri002_S030_Talk500:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: "Its scales and tail will zap you, no doubt"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!\nThis shocking swimmer is called a..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: fish.
+  "0001":
+    - text: Not right now...
+  Npc_kokiri002_F_Talk030:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "I knew you could do it, Ms. Hero!\nHere is your reward!"
+  Npc_kokiri002_S040_Talk500:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "If stepped on by this, you will go poof!\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: It starts with an H and ends with an oof
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+  Npc_kokiri002_F_Talk031:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 1
+    - control:
+        four:
+          type2:
+            field_1: 18
+            string: Think_01
+    - text: Hmm?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " You are overflowing with\ndiamonds!\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "I was gonna give you some diamonds\nfor solving my riddles, but...\n\nZ"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: z
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: z
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: z
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: z...
+  Npc_kokiri002_R_Talk010:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "*yawn*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAre you here for the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ultimate trial
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_kokiri002_F_Talk050:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Apple
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " It's an "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: apple
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_kokiri002_F_Talk051:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Fortified pumpkin!
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_kokiri002_R_Talk030:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Fahaha!\nDid I intimidate you?"
+  Npc_kokiri002_S010_Talk500:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: "Kakariko Village's specialty fruit!\nIts "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: rock-hard
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " flesh is quite resolute!"
+  Npc_kokiri002_F_Talk000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 34
+    - text: "...Hrmm?"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\n*yawn*"
+  Npc_kokiri002_F_Talk052:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Sunshroom!
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_kokiri002_F_Talk053:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - text: Voltfin trout!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+  Npc_kokiri002_R_Talk500:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Small
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: red
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: round
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: and sweet
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "!"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nBring me one of this simple treat!"
+  Npc_kokiri002_F_Talk054:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        four:
+          type1:
+            field_1:
+              - 9
+              - 205
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: Lynel hoof!
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_kokiri002_F_Talk020:
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 125
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 26
+    - text: "That's it! "
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "THAT'S IT!"
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 8
+              - 205
+    - text: You got it!
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Npc_kokiri002_F_Talk021:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "*ahem*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThe next riddle is..."
+  Npc_kokiri002_R_Talk000:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 19
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: Hmmmm?
+    - control:
+        zero:
+          type4:
+            field_1: 0
+    - control:
+        four:
+          type1:
+            field_1:
+              - 32
+              - 205
+    - text: "*yawn*"
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nAnd I was having such a nice dream...\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 25
+    - text: "Wait, if you're here..."
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " Does this mean\nyou want to face the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ultimate trial
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Npc_kokiri002_F_Talk022:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: This is the last riddle!
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nPrepare yourself!"
+  Npc_kokiri002_F_Talk040:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 32
+    - text: "I'm fresh out of riddles."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "\nYou've outwhittled me...\nVery impressive!"
+  Npc_kokiri002_R_Talk020:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 6
+            - 18
+    - text: "*ahem*"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nThe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 0
+    - text: ultimate trial
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "..."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: "has begun!\n\nI'll tell you a riddle about an object.\nYour job is to solve the riddle and\nbring me the correct object.\nHere comes your first riddle!"

@@ -1,0 +1,331 @@
+---
+entries:
+  Talk_01:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Good grief... I can't believe the "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: "chief's\nheirloom"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " was stolen by thieves..."
+  Talk_14:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 9
+    - text: "These drinks are for adults, got it?"
+  Talk_02:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Oh, the helmet that was supposed to be\nLady Urbosa's favorite, right?\n\nIt's been handed down from chief to\nchief for generations. Apparently the\n"
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " is pretty distressed."
+  Talk_15:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "The desert gets pretty cold at night,\nyou know...\n\nYou'll be fine dressed like that in town,\nbut if you go outside the walls, you'll\ncatch a cold or worse, for sure!\nIf you don't have a "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: warm doublet
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: ", you'd\nbetter rest at a hotel until morning."
+  Talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Hey, have you heard? Apparently the\nchief's heirloom has been returned!"
+  Talk_16:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: Oh? Who are you again?
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: " I might well\nknow you, but then again... Maybe not!\n\nI've had fun drinking today, too!\nI've got to do this again tomorrow!"
+  Talk_04:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 4
+    - text: "She's still so small, too... Poor thing..."
+  Talk_17:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 80
+    - text: "Urk...I don't feel so good..."
+    - control:
+        zero:
+          type2:
+            field_1: 2
+            field_2: 100
+  Talk_05:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "They have an idea of who committed the\ntheft, but the thieves aren't amateurs...\nI heard they're professional assassins."
+  Talk_18:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 11
+            - 0
+    - text: "Sorry, but can you please keep it down?"
+    - control:
+        five:
+          field_1: 1
+          field_2: 0
+    - text: "\nI've got an awful headache..."
+  Talk_06:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 25
+    - text: "That explains why the barracks have\nbeen noisier than usual."
+  Talk_19:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 0
+    - text: "Nali and I chat every day, but we never\ntire of talking about the same things.\n\nWhen I'm with my vai friends, I feel like\nwe could talk forever."
+  Talk_07:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I heard, I heard!"
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nSomething about an amazing Hylian\nvai, right?\nThat's got to take a lot of weight off\nthe "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: chief
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: "'s shoulders, huh?"
+  Talk_08:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "But there's still a chance that the thieves\nwill come back here, so we've got to\nkeep vigilant for a while, right?"
+  Near_00:
+    - text: Listen to this...
+  Talk_09:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Speaking of which, the Divine Beast\nhas gotten quiet, huh?"
+  "0000":
+    - text: "I'm over 100!"
+  "0001":
+    - text: Good-bye.
+  Near_03:
+    - text: Heeeeehee...
+  Talk_20:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta!"
+  Talk_21:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq!"
+  Talk_22:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 1
+    - control:
+        four:
+          type1:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba!"
+  Talk_10:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "Now that you mention it, I haven't\nnoticed any rocking or shaking at all..."
+  Talk_23:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 9
+            - 0
+    - text: "Sav'otta..."
+  Talk_11:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 4
+    - text: "I wonder if this has something to do with\nthe chief's heirloom being returned..."
+  Talk_24:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 2
+    - text: "Oh, dear..."
+  Talk_12:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 1
+            - 9
+    - text: "You definitely don't look old\nenough to drink here yet...\nHow old are you, really?"
+    - control:
+        one:
+          type4:
+            field_1: 6
+            field_2: 0
+            field_3: 1
+            field_4:
+              - 0
+              - 1
+  Talk_25:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 10
+    - text: "Sav'saaba!"
+  Talk_13:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 0
+            - 10
+    - text: "..."
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\n\n\n"
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 7
+            - 0
+    - text: AH HA HA!
+    - control:
+        five:
+          field_1: 2
+          field_2: 0
+    - text: "\nWhat a funny vai you are! When you're\nolder, let's have a drink together!"

@@ -1,0 +1,58 @@
+---
+entries:
+  talk_03:
+    - control:
+        three:
+          field_1: 1
+          field_2:
+            - 4
+            - 2
+    - text: "Whooooa! You made it all the way here?!\nYou're almost as crazy as Beedle!"
+  TerrorArrow:
+    - text: Please stop!
+  TerrorLightning:
+    - text: AHHH!
+  TerrorBomb:
+    - text: WHOA NOW!
+  TerrorGuardian:
+    - text: Hyeeeeeeehh!
+  TerrorHorse:
+    - text: Whoa!
+  ClearTerrorEnemy:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: Phew...
+  TerrorInsect:
+    - text: NOT BEES! AHHHH!
+  TerrorFire:
+    - text: "I don't like fire!"
+  TerrorExplosion:
+    - text: Haaaaeeeeee!
+  TerrorEnemy:
+    - text: Eeeeeeeeek!
+  TerrorSword:
+    - text: Owww!
+  TerrorAnimal:
+    - text: Get back!
+  ClearTerrorGuardian:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 16
+              - 205
+    - text: That was scary...
+  Near:
+    - control:
+        four:
+          type1:
+            field_1:
+              - 24
+              - 205
+    - text: ♪I also buy stuff!♪
+  TerrorImpulse:
+    - text: Ohhh!

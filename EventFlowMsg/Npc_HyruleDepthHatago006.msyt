@@ -54,7 +54,7 @@ entries:
           field_2:
             - 7
             - 10
-    - text: "So it was true! I met the heroine of Hyrule\nunder this sacred tree!"
+    - text: "So it was true! I met the hero of Hyrule\nunder this sacred tree!"
     - control:
         one:
           type5:
@@ -116,7 +116,7 @@ entries:
             - 2
     - text: Wait!
   "0000":
-    - text: Legendary heroine?
+    - text: Legendary hero?
   Run_Rain00:
     - control:
         three:
@@ -159,7 +159,7 @@ entries:
           field_2:
             - 0
             - 1
-    - text: "If you happen to meet the heroine who\nwields the "
+    - text: "If you happen to meet the hero who\nwields the "
     - control:
         zero:
           type3:
@@ -249,7 +249,7 @@ entries:
               - 0
               - 2
   "0003":
-    - text: I am he.
+    - text: I am she.
   MasterTalk01:
     - control:
         three:

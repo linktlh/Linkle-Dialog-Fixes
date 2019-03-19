@@ -97,7 +97,7 @@ entries:
             field_2: 65535
     - text: " is a word in the Gerudo language\nthat means \"woman.\""
   "0000":
-    - text: What?
+    - text: Voe?
   Npc_oasis010_013:
     - control:
         three:
@@ -389,7 +389,24 @@ entries:
           type3:
             field_1: 2
             field_2: 65535
-    - text: " pass, even if\nit was a mere ant. But you are fine.\nPlease relax and enjoy your time here."
+    - text: " pass, even if\nit were a mere ant."
+    - control:
+        five:
+          field_1: 0
+          field_2: 0
+    - text: " But "
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 2
+    - text: vai
+    - control:
+        zero:
+          type3:
+            field_1: 2
+            field_2: 65535
+    - text: " are fine.\nPlease relax and enjoy your time here."
     - control:
         one:
           type5:

@@ -1519,12 +1519,12 @@ entries:
             field_1:
               - 5
               - 205
-    - text: "Sound the alarm! An outsider is acting indecent and disturbing the peace! "
+    - text: "Sound the alarm! An outsider is acting\nindecent and disturbing the peace!\n"
     - control:
         five:
           field_1: 0
           field_2: 0
-    - text: "Capture her at once!"
+    - text: Capture her at once!
   Npc_oasis003_GetBack_102:
     - control:
         three:
@@ -1648,7 +1648,7 @@ entries:
           field_2:
             - 8
             - 0
-    - text: "Outsiders are forbidden from entering this\ntown. Do you\nunderstand?\nNever come back!"
+    - text: "Outsiders are forbidden from entering this\ntown. Do you understand?\nNever come back!"
   Npc_oasis003_GetBack_106:
     - control:
         zero:
@@ -1730,7 +1730,7 @@ entries:
           field_2:
             - 8
             - 0
-    - text: "Outsiders are forbidden from entering this\ntown. Do you\nunderstand?\nNever come back!"
+    - text: "Outsiders are forbidden from entering this\ntown. Do you understand?\nNever come back!"
   "0123":
     - text: Er... Not right now...
   Npc_oasis003_GetBack_111:
@@ -1789,7 +1789,7 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "Outsiders are forbidden from entering this\ntown. Do you\nunderstand?\nNever come back!"
+    - text: "Outsiders are forbidden from entering this\ntown. Do you understand?\nNever come back!"
   Npc_oasis003_GetBack_112:
     - control:
         three:
@@ -1952,7 +1952,7 @@ entries:
         five:
           field_1: 0
           field_2: 0
-    - text: "what is your name?"
+    - text: what is your name?
   Npc_oasis003_Ready_002:
     - control:
         three:

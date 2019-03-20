@@ -1,7 +1,7 @@
 # Linkle-Dialog-Fixes - Master Branch
 This github holds the source files for the Linkle dialog fixes.<br>
 We do not own anything in this github, nor did we make all the of modifications here.<br>
-All intelectual property is owned by Nintendo.<br>
+All intellectual property is owned by Nintendo.<br>
 This is simply here to track and fix issues with the dialog.<br>
 **All credit goes to Avresa, AnalogMan, Eloeri, polarbunny, linktlh, Kyle Clemens (jkcclemens) and anyone else who worked on this that is not listed.**<br>
 

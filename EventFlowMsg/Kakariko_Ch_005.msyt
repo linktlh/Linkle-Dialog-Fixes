@@ -1,279 +1,277 @@
 ---
+group_count: 17
+atr1_unknown: 4
 entries:
-  Talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: YAAAY!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\nWhat'll it be?\nWhat'll it be?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  Talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: Crunchy crunchables!
-  Talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 19
-    - text: Huh?
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " You're outta room?\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "But that means...I can't give you\nmy salty crunchers..."
-  Talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "When's food?! I'm BORED!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  Talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: Come play with me again sometime!
-  Near01_kakekko:
-    - text: "Run, run!"
-  Talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: YAAAAY!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "I'll go hiiiide!\n\n\nBut I've gotta go home to Sis\nwhen it's dinnertime, OK?"
-  Talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 19
-    - text: "Huh? "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Your pouch is full?\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "But now I can't give you my treasure!"
-  Talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Boo! You found me!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "THAT WAS SO FUN, THOUGH!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n\n\nThis is my secret treasure...\nBut here, you can have it!"
-  Near00:
-    - text: "Run, run!"
-  Talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "But...I'm bored..."
   "0000":
-    - text: Hide-and-seek!
+    attributes: ""
+    contents:
+      - text: Hide-and-seek!
   "0001":
-    - text: Tag!
+    attributes: ""
+    contents:
+      - text: Tag!
+  "0002":
+    attributes: ""
+    contents:
+      - text: "I can't play right now."
+  "0004":
+    attributes: ""
+    contents:
+      - text: Wanna play?
+  "0005":
+    attributes: ""
+    contents:
+      - text: See ya later.
+  Near00:
+    attributes: Npc_Kakariko004
+    contents:
+      - text: "Run, run!"
+  Near01_kakekko:
+    attributes: Npc_Kakariko004
+    contents:
+      - text: "Run, run!"
+  Near01_kakurenbo:
+    attributes: Npc_Kakariko004
+    contents:
+      - text: "I'ma hide!"
+  Talk00:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "When's food?! I'm BORED!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk01:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - control:
+          kind: text_size
+          percent: 125
+      - text: YAAAAY!
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "I'll go hiiiide!\n\n\nBut I've gotta go home to Sis\nwhen it's dinnertime, OK?"
+  Talk02:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Boo! You found me!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "THAT WAS SO FUN, THOUGH!"
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n\nThis is my secret treasure...\nBut here, you can have it!"
+  Talk03:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "But...I'm bored..."
   Talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 19
-    - text: "Huh? "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Your pockets are all filled up!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Huh? "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Your pockets are all filled up!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "Now I can't give you my\nsalty crunchers..."
-  Near01_kakurenbo:
-    - text: "I'ma hide!"
-  "0002":
-    - text: "I can't play right now."
+      - text: "Now I can't give you my\nsalty crunchers..."
   Talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Did you make room?\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Did you make room?\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: "Yay! Now I can give you my\nsalty crunchers!"
+      - text: "Yay! Now I can give you my\nsalty crunchers!"
   Talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: YAAAAY!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - control:
+          kind: text_size
+          percent: 125
+      - text: YAAAAY!
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "I'll start running!\n\n\nBut I've gotta go home to Sis\nwhen it's dinnertime, OK?"
-  "0004":
-    - text: Wanna play?
+      - text: "I'll start running!\n\n\nBut I've gotta go home to Sis\nwhen it's dinnertime, OK?"
   Talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "Boo! You caught me!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Boo! You caught me!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: THAT WAS SO FUN THOUGH!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n\n\nThis is my secret treasure...\nBut here, you can have it!"
-  "0005":
-    - text: See ya later.
+      - control:
+          kind: text_size
+          percent: 125
+      - text: THAT WAS SO FUN THOUGH!
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n\nThis is my secret treasure...\nBut here, you can have it!"
   Talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: "Here, you can have this shiny thing!"
+      - text: "Here, you can have this shiny thing!"
+  Talk10:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - control:
+          kind: text_size
+          percent: 125
+      - text: YAAAY!
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\nWhat'll it be?\nWhat'll it be?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk11:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: Crunchy crunchables!
+  Talk12:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 19
+      - text: Huh?
+      - control:
+          kind: pause
+          length: longer
+      - text: " You're outta room?\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "But that means...I can't give you\nmy salty crunchers..."
+  Talk13:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: Come play with me again sometime!
+  Talk14:
+    attributes: Npc_Kakariko004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 19
+      - text: "Huh? "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Your pouch is full?\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "But now I can't give you my treasure!"

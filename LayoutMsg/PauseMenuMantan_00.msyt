@@ -1,18 +1,28 @@
 ---
+group_count: 7
+atr1_unknown: 0
 entries:
-  "0002":
-    - text: Use
-  "0003":
-    - text: Eat
-  "0004":
-    - text: Drink
-  "0005":
-    - text: You cannot recover any more stamina.
-  "0006":
-    - text: "The currently registered travel gate will\nbe deleted. Place Travel Medallion?"
   "0000":
-    - text: You cannot recover any more hearts.
-  "0007":
-    - text: Place
+    contents:
+      - text: You cannot recover any more hearts.
   "0001":
-    - text: Cancel
+    contents:
+      - text: Cancel
+  "0002":
+    contents:
+      - text: Use
+  "0003":
+    contents:
+      - text: Eat
+  "0004":
+    contents:
+      - text: Drink
+  "0005":
+    contents:
+      - text: You cannot recover any more stamina.
+  "0006":
+    contents:
+      - text: "The currently registered travel gate will\nbe deleted. Place Travel Medallion?"
+  "0007":
+    contents:
+      - text: Place

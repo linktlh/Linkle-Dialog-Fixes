@@ -1,457 +1,458 @@
 ---
+group_count: 23
+atr1_unknown: 4
 entries:
-  talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 6
-    - text: "What's wrong?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Do you need something?"
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 9
-              - 34
-              - 78
-              - 112
-              - 99
-              - 95
-              - 90
-              - 111
-              - 114
-              - 97
-              - 48
-              - 51
-              - 52
-              - 95
-              - 83
-              - 104
-              - 105
-              - 100
-              - 111
-              - 5
-              - 0
-              - 7
-              - 0
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 5
-    - text: Hm.
-  talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "To get to King Dorephan's throne room,\n"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "go up that big staircase and then up\none more floor.\nTake care to mind your manners!"
   "0000":
-    - text: "Yes, please."
+    attributes: ""
+    contents:
+      - text: "Yes, please."
   "0001":
-    - text: Good-bye.
-  talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - text: "I wonder if "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Ruta
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " has stopped spouting\nwater everywhere..."
-  talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 17
-    - text: "A Hylian, eh?"
-  talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Ah, so you're the Hylian that Prince\nSidon brought..."
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 23
-    - text: "Recently the weather "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: has let up a bit.
-  talk23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 16
-    - text: "At any rate,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Prince Sidon summoned\nyou here. Did he not? \n\nIf so, you should hurry to the\nthrone room of King Dorephan."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nDon't you think?"
+    attributes: ""
+    contents:
+      - text: Good-bye.
   "0005":
-    - text: King Dorephan?
-  talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 23
-    - text: "It's been a while since we've seen the\nsun here..."
+    attributes: ""
+    contents:
+      - text: King Dorephan?
   "0006":
-    - text: "You're female, right?"
+    attributes: ""
+    contents:
+      - text: "You're female, right?"
   "0007":
-    - text: How old are you?
+    attributes: ""
+    contents:
+      - text: How old are you?
+  "0009":
+    attributes: ""
+    contents:
+      - text: Prince Sidon?
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "Ah, a Hylian..."
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 23
-    - text: So...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "you're the one who appeased the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Divine Beast Vah Ruta
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n\nI heard from my father..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "that you're\nactually the same Hylian Champion\nfrom 100 years ago. Or something.\nI should have expected as much from the\nHylian Champion..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " I will continue to pray\nfor good fortune in the coming war."
+      - text: "Ah, a Hylian..."
   talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 19
-    - text: "Well, hello there."
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 5
-    - text: "You are no ordinary girl...\n\n\nYou are always welcome here in\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Zora's Domain"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-  "0009":
-    - text: Prince Sidon?
+      - text: "Well, hello there."
   talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 16
-    - text: "It looks like Father was rather excited to\nspeak with you..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Oh, well."
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "King Dorephan is the regal ruler of\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Zora's Domain"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " He is also the father\nof Prince Sidon and Lady Mipha."
+      - text: "It looks like Father was rather excited to\nspeak with you..."
+      - control:
+          kind: pause
+          length: short
+      - text: " Oh, well."
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 19
-    - text: "I believe this is our first meeting, yes?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nMy name is Dunma."
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 6
-            field_3:
-              - 1
-              - 205
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 13
-    - text: "How many times do I have to tell you?!\nI'm less than 100 years old!\n\nYou can tell, can't you?"
+      - text: "I believe this is our first meeting, yes?"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nMy name is Dunma."
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 6
+              field_3:
+                - 1
+                - 205
   talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 14
-    - text: "...My, how observant you are.\nIs there a problem?"
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 7
-            field_3:
-              - 1
-              - 205
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Prince Sidon is King Dorephan's son.\n\n\nDespite his position as true successor \nto the throne...he's very sociable."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThat makes him popular with the youth.\nHowever, there are those among the\nelders"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " who do not comprehend why\nhe behaves as he does."
+      - text: "...My, how observant you are.\nIs there a problem?"
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 7
+              field_3:
+                - 1
+                - 205
   talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 1
-    - text: "That is NOT an appropriate question\nfor us ladies to ask each other!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "That is NOT an appropriate question\nfor us ladies to ask each other!\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 17
-    - text: "*sigh* Let's just say I'm less than\n100 years old. Can't you tell?\n\nI'm so much less formal than the elders...\naren't I?"
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - text: Do you have any more questions?
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 9
-              - 34
-              - 78
-              - 112
-              - 99
-              - 95
-              - 90
-              - 111
-              - 114
-              - 97
-              - 48
-              - 51
-              - 52
-              - 95
-              - 83
-              - 104
-              - 105
-              - 100
-              - 111
-              - 5
-              - 0
-              - 7
-              - 0
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
+      - text: "*sigh* Let's just say I'm less than\n100 years old. Can't you tell?\n\nI'm so much less formal than the elders...\naren't I?"
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 16
-    - text: "At any rate, right now "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Zora's Domain"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nis looking for a Hylian warrior.\n\nFor more detailed information, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "please go\nspeak with King Dorephan in the back."
-  talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "At any rate, right now "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Zora's Domain"
+      - control:
+          kind: reset_colour
+      - control:
+          kind: pause
+          length: short
+      - text: "\nis looking for a Hylian warrior.\n\nFor more detailed information, "
+      - control:
+          kind: pause
+          length: short
+      - text: "please go\nspeak with King Dorephan in the back."
+  talk07:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 6
+      - text: "What's wrong?"
+      - control:
+          kind: pause
+          length: longer
+      - text: " Do you need something?"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 9
+                - 34
+                - 78
+                - 112
+                - 99
+                - 95
+                - 90
+                - 111
+                - 114
+                - 97
+                - 48
+                - 51
+                - 52
+                - 95
+                - 83
+                - 104
+                - 105
+                - 100
+                - 111
+                - 5
+                - 0
+                - 7
+                - 0
+                - 1
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk08:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 5
+      - text: Hm.
+  talk09:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "To get to King Dorephan's throne room,\n"
+      - control:
+          kind: pause
+          length: short
+      - text: "go up that big staircase and then up\none more floor.\nTake care to mind your manners!"
+  talk10:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 23
+      - text: "Recently the weather "
+      - control:
+          kind: pause
+          length: short
+      - text: has let up a bit.
+  talk11:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 23
+      - text: "It's been a while since we've seen the\nsun here..."
+  talk13:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 23
+      - text: So...
+      - control:
+          kind: pause
+          length: short
+      - text: "you're the one who appeased the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Divine Beast Vah Ruta
+      - control:
+          kind: reset_colour
+      - text: "!\n\nI heard from my father..."
+      - control:
+          kind: pause
+          length: short
+      - text: "that you're\nactually the same Hylian Champion\nfrom 100 years ago. Or something.\nI should have expected as much from the\nHylian Champion..."
+      - control:
+          kind: pause
+          length: longer
+      - text: " I will continue to pray\nfor good fortune in the coming war."
+  talk14:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 5
+      - text: "You are no ordinary girl...\n\n\nYou are always welcome here in\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Zora's Domain"
+      - control:
+          kind: reset_colour
+      - text: "!"
+  talk15:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "King Dorephan is the regal ruler of\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Zora's Domain"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: short
+      - text: " He is also the father\nof Prince Sidon and Lady Mipha."
+  talk16:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 13
+      - text: "How many times do I have to tell you?!\nI'm less than 100 years old!\n\nYou can tell, can't you?"
+  talk17:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Prince Sidon is King Dorephan's son.\n\n\nDespite his position as true successor \nto the throne...he's very sociable."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThat makes him popular with the youth.\nHowever, there are those among the\nelders"
+      - control:
+          kind: pause
+          length: short
+      - text: " who do not comprehend why\nhe behaves as he does."
+  talk18:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - text: "By the way, did you need something\nfrom me?"
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 9
-              - 34
-              - 78
-              - 112
-              - 99
-              - 95
-              - 90
-              - 111
-              - 114
-              - 97
-              - 48
-              - 51
-              - 52
-              - 95
-              - 83
-              - 104
-              - 105
-              - 100
-              - 111
-              - 5
-              - 0
-              - 7
-              - 0
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
+      - text: Do you have any more questions?
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 9
+                - 34
+                - 78
+                - 112
+                - 99
+                - 95
+                - 90
+                - 111
+                - 114
+                - 97
+                - 48
+                - 51
+                - 52
+                - 95
+                - 83
+                - 104
+                - 105
+                - 100
+                - 111
+                - 5
+                - 0
+                - 7
+                - 0
+                - 1
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk19:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "By the way, did you need something\nfrom me?"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 9
+                - 34
+                - 78
+                - 112
+                - 99
+                - 95
+                - 90
+                - 111
+                - 114
+                - 97
+                - 48
+                - 51
+                - 52
+                - 95
+                - 83
+                - 104
+                - 105
+                - 100
+                - 111
+                - 5
+                - 0
+                - 7
+                - 0
+                - 1
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk20:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "I wonder if "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Ruta
+      - control:
+          kind: reset_colour
+      - text: " has stopped spouting\nwater everywhere..."
+  talk21:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 17
+      - text: "A Hylian, eh?"
+  talk22:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Ah, so you're the Hylian that Prince\nSidon brought..."
+  talk23:
+    attributes: Npc_Zora037
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 16
+      - text: "At any rate,"
+      - control:
+          kind: pause
+          length: short
+      - text: " Prince Sidon summoned\nyou here. Did he not? \n\nIf so, you should hurry to the\nthrone room of King Dorephan."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nDon't you think?"

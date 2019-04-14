@@ -1,16 +1,25 @@
 ---
+group_count: 5
+atr1_unknown: 0
 entries:
-  "0004":
-    - text: Sorted Material Inventory
   "0000":
-    - text: Sorted Weapon Inventory
-  "0005":
-    - text: Sorted Food Inventory
+    contents:
+      - text: Sorted Weapon Inventory
   "0001":
-    - text: Sorted Bow Inventory
-  "0006":
-    - text: Sorted Key Item Inventory
+    contents:
+      - text: Sorted Bow Inventory
   "0002":
-    - text: Sorted Shield Inventory
+    contents:
+      - text: Sorted Shield Inventory
   "0003":
-    - text: Sorted Armor Inventory
+    contents:
+      - text: Sorted Armor Inventory
+  "0004":
+    contents:
+      - text: Sorted Material Inventory
+  "0005":
+    contents:
+      - text: Sorted Food Inventory
+  "0006":
+    contents:
+      - text: Sorted Key Item Inventory

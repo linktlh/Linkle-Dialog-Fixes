@@ -1,34 +1,40 @@
 ---
+group_count: 3
+atr1_unknown: 4
 entries:
-  near01:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 42
-              - 205
-    - text: Gya!
-  near02:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 42
-              - 205
-    - text: Unngh.
   near00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 42
-              - 205
-    - text: Ouch.
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 42
+            - 205
+      - text: Ouch.
+  near01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 42
+            - 205
+      - text: Gya!
+  near02:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 42
+            - 205
+      - text: Unngh.
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HiddenKorokGround
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: Twee hee!
+      - text: Twee hee!

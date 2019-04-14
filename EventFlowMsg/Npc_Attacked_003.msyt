@@ -1,273 +1,268 @@
 ---
+group_count: 13
+atr1_unknown: 4
 entries:
+  After00:
+    attributes: Npc_Attacked_003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "Go ahead, laugh! I don't care! "
+      - control:
+          kind: pause
+          length: short
+      - text: "Fishing\nis for suckers. "
+      - control:
+          kind: pause
+          length: short
+      - text: "I can make plenty of\nmoney without sitting on a dock all day!"
+  After01:
+    attributes: Npc_Attacked_003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "There I go, needing someone to bail me\nout again."
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "But there's no way I'm going back to\nLurelin Village! I gotta strike it rich so\nI can rub it in everyone's faces!"
+  After02:
+    attributes: Npc_Attacked_003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "The best part about scavenging is you\nnever know what kinda crazy stuff you'll\nfind if you poke around long enough.\nBusted Guardians..."
+      - control:
+          kind: pause
+          length: short
+      - text: "old ruins... "
+      - control:
+          kind: pause
+          length: short
+      - text: "It's all\nchock-full of neat gizmos you can sell\nfor beaucoup bucks!"
+  Atacked00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 42
+      - text: No... All my stuff...
+  Atacked01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "What the— Lady! Not cool! Don't just\nstand there—do something!"
+  Failed00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "Owwww...what did they have to go and\ndo that for?"
+  Failed01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "Ow! Ow ow ow! Ugh...How come nothing\never goes my way?"
   GoodBye00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Attacked_003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "I ran away from Lurelin Village just up\nthe road. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "The whole place stinks of cut-\nup bait and fish guts.\nWell, that's no life for me!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I'm gonna\nmake my living as a scavenger, fishing\naround Hyrule's rubble for neat stuff!\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I ran away from Lurelin Village just up\nthe road. "
+      - control:
+          kind: pause
+          length: short
+      - text: "The whole place stinks of cut-\nup bait and fish guts.\nWell, that's no life for me!"
+      - control:
+          kind: pause
+          length: short
+      - text: " I'm gonna\nmake my living as a scavenger, fishing\naround Hyrule's rubble for neat stuff!\n"
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "Not much choice, really, since I..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: uh...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "can't swim..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+      - text: "Not much choice, really, since I..."
+      - control:
+          kind: pause
+          length: short
+      - text: uh...
+      - control:
+          kind: pause
+          length: short
+      - text: "\n"
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "can't swim..."
+      - control:
+          kind: text_size
+          percent: 100
   Guardian00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Attacked_003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 42
-    - text: Guardian! Guardian coming!
-  After00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "Go ahead, laugh! I don't care! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Fishing\nis for suckers. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I can make plenty of\nmoney without sitting on a dock all day!"
-  Failed00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "Owwww...what did they have to go and\ndo that for?"
-  After01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "There I go, needing someone to bail me\nout again."
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "But there's no way I'm going back to\nLurelin Village! I gotta strike it rich so\nI can rub it in everyone's faces!"
-  Failed01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "Ow! Ow ow ow! Ugh...How come nothing\never goes my way?"
-  After02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "The best part about scavenging is you\nnever know what kinda crazy stuff you'll\nfind if you poke around long enough.\nBusted Guardians..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "old ruins... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "It's all\nchock-full of neat gizmos you can sell\nfor beaucoup bucks!"
+      - text: Guardian! Guardian coming!
+  Near00:
+    attributes: Npc_Attacked_003
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 16
+            - 205
+      - text: That was too close...
+  Near01:
+    attributes: Npc_Attacked_003
+    contents:
+      - text: Where to scrounge next?
   SavedLv1_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: "Whoa... Way to bail me out, ma'am. This is\nall I have for a reward, but it's yours!"
-  SavedLv2_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 12
-    - text: "Whoa. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I was NOT looking forward to the\nrest of my life in that thing's stomach."
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "I don't have any fancy reward for you,\nbut I do have this. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "And now it's yours."
-  SavedLv3_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 9
-    - text: "It blows my mind that anyone bothered\nto save a sad sack like me."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " How can I\never thank you?"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Uh...do you want this?"
+      - text: "Whoa... Way to bail me out, ma'am. This is\nall I have for a reward, but it's yours!"
   SavedLv1_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 19
-    - text: "Dang... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "How did I miss those monsters\ncoming at me? "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "Well, they're gone now,\nand that's what matters. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Thanks, lady!"
-  SavedLv2_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Dang... "
+      - control:
+          kind: pause
+          length: short
+      - text: "How did I miss those monsters\ncoming at me? "
+      - control:
+          kind: pause
+          length: long
+      - text: "Well, they're gone now,\nand that's what matters. "
+      - control:
+          kind: pause
+          length: short
+      - text: "Thanks, lady!"
+  SavedLv2_00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 12
-    - text: "You sure saved my neck... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Whoa. "
+      - control:
+          kind: pause
+          length: short
+      - text: "I was NOT looking forward to the\nrest of my life in that thing's stomach."
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "Too bad I got\nnothing to pay you back with but pocket\nlint. "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Oh, and this, I guess."
-  SavedLv3_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I don't have any fancy reward for you,\nbut I do have this. "
+      - control:
+          kind: pause
+          length: short
+      - text: "And now it's yours."
+  SavedLv2_01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 12
+      - text: "You sure saved my neck... "
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Too bad I got\nnothing to pay you back with but pocket\nlint. "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Oh, and this, I guess."
+  SavedLv3_00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 9
-    - text: "I've never seen ANYONE take down one\nof those things! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Wh-who ARE you?!
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nWell, whoever you are, this is all yours!"
-  Near00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 16
-              - 205
-    - text: That was too close...
-  Near01:
-    - text: Where to scrounge next?
-  Atacked00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 42
-    - text: No... All my stuff...
-  Atacked01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "What the— Lady! Not cool! Don't just\nstand there—do something!"
+      - text: "It blows my mind that anyone bothered\nto save a sad sack like me."
+      - control:
+          kind: pause
+          length: short
+      - text: " How can I\never thank you?"
+      - control:
+          kind: pause
+          length: long
+      - text: " Uh...do you want this?"
+  SavedLv3_01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 9
+      - text: "I've never seen ANYONE take down one\nof those things! "
+      - control:
+          kind: pause
+          length: short
+      - text: Wh-who ARE you?!
+      - control:
+          kind: pause
+          length: long
+      - text: "\nWell, whoever you are, this is all yours!"

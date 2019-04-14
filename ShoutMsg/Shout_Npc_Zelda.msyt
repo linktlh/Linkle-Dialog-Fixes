@@ -1,68 +1,103 @@
 ---
+group_count: 23
+atr1_unknown: 0
 entries:
-  Shout_Zelda_Text039:
-    - text: Aim for a glowing area!
-  Shout_Zelda_Text081:
-    - text: "It's working!"
-  Shout_Zelda_Text082:
-    - text: "We're so close!"
-  Shout_Zelda_Text070:
-    - text: I will hold back the Malice again!
-  Shout_Zelda_Text071:
-    - text: "Prepare yourself, Linkle!"
-  Shout_Zelda_Text072:
-    - text: "Get ready, Linkle!"
-  Shout_Zelda_Text110:
-    - text: "Finish him, Linkle!"
-  Shout_Zelda_Text111:
-    - text: "Now, Linkle!"
-  Shout_Zelda_Text050:
-    - text: Aah!
-  Shout_Zelda_Text112:
-    - text: "Do it, Linkle!"
-  Shout_Zelda_Text051:
-    - text: Kuh...!
-  Shout_Zelda_Text100:
-    - text: Use his attacks to your advantage!
-  Shout_Zelda_Text052:
-    - text: Nng!
-  Shout_Zelda_Text101:
-    - text: "Use the updraft, Linkle!"
-  Shout_Zelda_Text040:
-    - text: "I'm sorry. I can't hold it..."
-  Shout_Zelda_Text041:
-    - text: "I can't hold it much longer..."
-  Shout_Zelda_Text042:
-    - text: Hurry! Please...
-  Shout_Zelda_Text104:
-    - text: Shoot from on high!
-  Shout_Zelda_Text030:
-    - text: "I'm holding back the Malice!"
-  Shout_Zelda_Text031:
-    - text: "Linkle, now!"
-  Shout_Zelda_Text032:
-    - text: Go!
-  Shout_Zelda_Text020:
-    - text: "I will hold the Malice back as much as\nI can, but my power is waning. Attack\nany glowing points that you see!"
-  Shout_Zelda_Text033:
-    - text: "Now's your chance!"
-  Shout_Zelda_Text021:
-    - text: May you be victorious!
-  Shout_Zelda_Text034:
-    - text: Quickly now!
-  Shout_Zelda_Text035:
-    - text: "Hurry, Linkle!"
-  Shout_Zelda_Text090:
-    - text: Linkle! Look up there!
   Shout_Zelda_Text010:
-    - text: "That energy covering Ganon's body is\ncalled Malice. None of your attacks will\nget through as he now is..."
+    contents:
+      - text: "That energy covering Ganon's body is\ncalled Malice. None of your attacks will\nget through as he now is..."
+  Shout_Zelda_Text020:
+    contents:
+      - text: "I will hold the Malice back as much as\nI can, but my power is waning. Attack\nany glowing points that you see!"
+  Shout_Zelda_Text021:
+    contents:
+      - text: May you be victorious!
+  Shout_Zelda_Text030:
+    contents:
+      - text: "I'm holding back the Malice!"
+  Shout_Zelda_Text031:
+    contents:
+      - text: "Linkle, now!"
+  Shout_Zelda_Text032:
+    contents:
+      - text: Go!
+  Shout_Zelda_Text033:
+    contents:
+      - text: "Now's your chance!"
+  Shout_Zelda_Text034:
+    contents:
+      - text: Quickly now!
+  Shout_Zelda_Text035:
+    contents:
+      - text: "Hurry, Linkle!"
   Shout_Zelda_Text036:
-    - text: Hit the glowing area!
-  Shout_Zelda_Text091:
-    - text: "That's the very core of Ganon's being!\nDo what you must, Linkle!"
+    contents:
+      - text: Hit the glowing area!
   Shout_Zelda_Text037:
-    - text: Aim for a glowing area!
+    contents:
+      - text: Aim for a glowing area!
   Shout_Zelda_Text038:
-    - text: Shoot a glowing area!
+    contents:
+      - text: Shoot a glowing area!
+  Shout_Zelda_Text039:
+    contents:
+      - text: Aim for a glowing area!
+  Shout_Zelda_Text040:
+    contents:
+      - text: "I'm sorry. I can't hold it..."
+  Shout_Zelda_Text041:
+    contents:
+      - text: "I can't hold it much longer..."
+  Shout_Zelda_Text042:
+    contents:
+      - text: Hurry! Please...
+  Shout_Zelda_Text050:
+    contents:
+      - text: Aah!
+  Shout_Zelda_Text051:
+    contents:
+      - text: Kuh...!
+  Shout_Zelda_Text052:
+    contents:
+      - text: Nng!
+  Shout_Zelda_Text070:
+    contents:
+      - text: I will hold back the Malice again!
+  Shout_Zelda_Text071:
+    contents:
+      - text: "Prepare yourself, Linkle!"
+  Shout_Zelda_Text072:
+    contents:
+      - text: "Get ready, Linkle!"
   Shout_Zelda_Text080:
-    - text: "Ganon's power is weakening!"
+    contents:
+      - text: "Ganon's power is weakening!"
+  Shout_Zelda_Text081:
+    contents:
+      - text: "It's working!"
+  Shout_Zelda_Text082:
+    contents:
+      - text: "We're so close!"
+  Shout_Zelda_Text090:
+    contents:
+      - text: Linkle! Look up there!
+  Shout_Zelda_Text091:
+    contents:
+      - text: "That's the very core of Ganon's being!\nDo what you must, Linkle!"
+  Shout_Zelda_Text100:
+    contents:
+      - text: Use his attacks to your advantage!
+  Shout_Zelda_Text101:
+    contents:
+      - text: "Use the updraft, Linkle!"
+  Shout_Zelda_Text104:
+    contents:
+      - text: Shoot from on high!
+  Shout_Zelda_Text110:
+    contents:
+      - text: "Finish him, Linkle!"
+  Shout_Zelda_Text111:
+    contents:
+      - text: "Now, Linkle!"
+  Shout_Zelda_Text112:
+    contents:
+      - text: "Do it, Linkle!"

@@ -1,20 +1,20 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
-  QL_Cliff_Maze_Finish:
-    - text: "A cliff maze built by someone.\n\nA shrine, containing a blessing, waited at the\nheart of the challenge."
-  QL_Cliff_Maze_Name:
-    - text: Trial on the Cliff
   QL_Cliff_Maze_Desc:
-    - text: "Upon reaching the ruins in northeast\nTabantha Tundra, I was greeted by a\nmysterious voice.\n\nIt told me that I would receive a blessing if\nI were able to "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: make it past the maze
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+    contents:
+      - text: "Upon reaching the ruins in northeast\nTabantha Tundra, I was greeted by a\nmysterious voice.\n\nIt told me that I would receive a blessing if\nI were able to "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: make it past the maze
+      - control:
+          kind: reset_colour
+      - text: "."
+  QL_Cliff_Maze_Finish:
+    contents:
+      - text: "A cliff maze built by someone.\n\nA shrine, containing a blessing, waited at the\nheart of the challenge."
+  QL_Cliff_Maze_Name:
+    contents:
+      - text: Trial on the Cliff

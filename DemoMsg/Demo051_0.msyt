@@ -1,71 +1,50 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
   sinjyu_demo_after_00:
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 52
-    - text: "..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "\n\n\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 40
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: Linkle...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "\n\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 48
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "Linkle.\n\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 236
-    - text: "That Divine Beast was taken over by\nGanon 100 years ago...\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 220
-    - text: "You must find a way inside in order to\nfree it from Ganon's Malice.\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 75
-    - text: "I believe in you, Linkle."
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 52
+      - text: "..."
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "\n\n\n"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: auto_advance
+          frames: 40
+      - control:
+          kind: text_size
+          percent: 80
+      - text: Linkle...
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 48
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "Linkle.\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 236
+      - text: "That Divine Beast was taken over by\nGanon 100 years ago...\n\n"
+      - control:
+          kind: auto_advance
+          frames: 220
+      - text: "You must find a way inside in order to\nfree it from Ganon's Malice.\n\n"
+      - control:
+          kind: auto_advance
+          frames: 75
+      - text: "I believe in you, Linkle."

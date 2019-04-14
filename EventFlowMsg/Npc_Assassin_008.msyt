@@ -1,179 +1,179 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
-  Talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "How dare you forget the name of the\nman you defeated! Show him honor,\neven in defeat!"
-  Talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 1
-    - text: A dumb...belly?
-  Talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 14
-    - text: "You filth! You have no appreciation for\ntrue beauty!"
-  Talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "So your plan was not simply to defeat\nMaster Kohga but to mock him as well?"
-  Talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 10
-    - text: "I'll ask you as many times as it takes!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nIsn't Master Kohga really dreamy?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  Henshin00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 35
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1077936128
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "I'll take your life!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 60
-  Talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 10
-    - text: "Isn't Master Kohga just so dreamy?\nI could stare at that poochy tummy of his\n"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: all
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " day"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " long..."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
   "0000":
-    - text: Master Kohga?
-  Henshin01:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - text: Master Kohga?
+  "0001":
+    attributes: ""
+    contents:
+      - text: "He's got a dumb belly."
+  Henshin00:
+    attributes: Npc_Assassin_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 35
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1077936128
-    - text: "You can offer your apologies to\nMaster Kohga in person!"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 60
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  "0001":
-    - text: "He's got a dumb belly."
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1077936128
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "I'll take your life!"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: auto_advance
+          frames: 60
+  Henshin01:
+    attributes: Npc_Assassin_008
+    contents:
+      - control:
+          kind: text_size
+          percent: 125
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 35
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1077936128
+      - text: "You can offer your apologies to\nMaster Kohga in person!"
+      - control:
+          kind: auto_advance
+          frames: 60
+      - control:
+          kind: text_size
+          percent: 100
+  Near00:
+    attributes: Npc_Assassin_008
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 7
+            - 205
+      - text: Ehehe...
+  Talk00:
+    attributes: Npc_Assassin_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 10
+      - text: "Isn't Master Kohga just so dreamy?\nI could stare at that poochy tummy of his\n"
+      - control:
+          kind: pause
+          length: longer
+      - text: all
+      - control:
+          kind: pause
+          length: longer
+      - text: " day"
+      - control:
+          kind: pause
+          length: longer
+      - text: " long..."
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   Talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Assassin_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 20
-    - text: "What? There's no way you don't know\nabout him!"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "What? There's no way you don't know\nabout him!"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: " How could anyone not know\nabout him..."
+      - text: " How could anyone not know\nabout him..."
   Talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Assassin_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 8
-    - text: "He's the leader of the Yiga Clan, master\nof countless Sheikah secrets and sworn\nenemy of a hero thought long dead!"
-  Near00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 7
-              - 205
-    - text: Ehehe...
+      - text: "He's the leader of the Yiga Clan, master\nof countless Sheikah secrets and sworn\nenemy of a hero thought long dead!"
+  Talk03:
+    attributes: Npc_Assassin_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "How dare you forget the name of the\nman you defeated! Show him honor,\neven in defeat!"
+  Talk04:
+    attributes: Npc_Assassin_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 1
+      - text: A dumb...belly?
+  Talk05:
+    attributes: Npc_Assassin_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 14
+      - text: "You filth! You have no appreciation for\ntrue beauty!"
+  Talk06:
+    attributes: Npc_Assassin_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "So your plan was not simply to defeat\nMaster Kohga but to mock him as well?"
+  Talk07:
+    attributes: Npc_Assassin_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 10
+      - text: "I'll ask you as many times as it takes!"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nIsn't Master Kohga really dreamy?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6

@@ -1,106 +1,87 @@
 ---
+group_count: 5
+atr1_unknown: 4
 entries:
-  Talk_06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "Is that any way to treat a fragile old\nwoman!"
   Talk_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis039
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "Hey, hey, hey!!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n\n\nOnly someone who has proven\nthemselves may touch that ancient item!\n\nDon't for a moment think you can just\nwalk up and touch it anytime you like!\nIt's not for you!"
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "Hey, hey, hey!!"
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n\nOnly someone who has proven\nthemselves may touch that ancient item!\n\nDon't for a moment think you can just\nwalk up and touch it anytime you like!\nIt's not for you!"
   Talk_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis039
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "Hey, hey!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Hey, hey, hey!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Hey!!!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n\n\nThat item is only for those who have\nproven themselves in the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "sand-seal\nraces"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Hands off!
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "Hey, hey!"
+      - control:
+          kind: pause
+          length: short
+      - text: " Hey, hey, hey!"
+      - control:
+          kind: pause
+          length: long
+      - text: " Hey!!!"
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n\nThat item is only for those who have\nproven themselves in the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "sand-seal\nraces"
+      - control:
+          kind: reset_colour
+      - text: "! "
+      - control:
+          kind: pause
+          length: short
+      - text: Hands off!
   Talk_05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis039
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "Hey, hey! Hey, hey! "
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n\n\nThat "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: sand-seal race
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " trophy is obviously\nonly for those who've proven themselves\nworthy!\nCool it with the grabby grabby!"
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "Hey, hey! Hey, hey! "
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n\nThat "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: sand-seal race
+      - control:
+          kind: reset_colour
+      - text: " trophy is obviously\nonly for those who've proven themselves\nworthy!\nCool it with the grabby grabby!"
+  Talk_06:
+    attributes: Npc_oasis039
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "Is that any way to treat a fragile old\nwoman!"

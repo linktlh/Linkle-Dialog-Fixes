@@ -1,382 +1,366 @@
 ---
+group_count: 17
+atr1_unknown: 4
 entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: Back at ya.
+  "0001":
+    attributes: ""
+    contents:
+      - text: Her name is Mipha.
+  talk00:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 2
+      - text: "Mornin'!"
+  talk01:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 2
+      - text: Hello!
   talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 2
-    - text: Good evening!
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "I've arrived at "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Zora's Domain"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", so now I\ncan take a break and enjoy the sights."
+      - text: Good evening!
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 2
-    - text: Hi there.
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 18
-    - text: "OK, I need to take a break now..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nTime for some sightseeing!"
+      - text: Hi there.
   talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 33
-    - text: "Zzz... "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: Zzz...
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 18
-    - text: I purchased enough for today...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nTime to take a break!"
+      - text: "Zzz... "
+      - control:
+          kind: pause
+          length: long
+      - text: Zzz...
   talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 34
-    - text: "I'm going to sleep now..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nSee ya later."
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - text: "I'm going to work now."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Don't follow me—\nI'd just bore you."
+      - text: "I'm going to sleep now..."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nSee ya later."
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 34
-    - text: "I'm going to bed now."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nPlease don't follow me."
-  talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 16
-    - text: "Work, work, work... Every day..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nHmm, I wonder if the general store has\nanything good today!"
+      - text: "I'm going to bed now."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nPlease don't follow me."
   talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 19
-    - text: "Huh?! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Aren't you..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "that lying little worm\nfrom last time?"
+      - text: "Huh?! "
+      - control:
+          kind: pause
+          length: short
+      - text: "Aren't you..."
+      - control:
+          kind: pause
+          length: short
+      - text: "that lying little worm\nfrom last time?"
   talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 19
-    - text: "It's rare to see a Hylian here."
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 0
-            field_3:
-              - 1
-              - 205
+      - text: "It's rare to see a Hylian here."
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 0
+              field_3:
+                - 1
+                - 205
   talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 18
-    - text: The rain stopped!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " That's why I was\nfinally able to reach "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Zora's Domain"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: The rain stopped!
+      - control:
+          kind: pause
+          length: short
+      - text: " That's why I was\nfinally able to reach "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Zora's Domain"
+      - control:
+          kind: reset_colour
+      - text: "!\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "Now I'm gonna stock up on rare\ngoods at the general store here."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nDon't get in my way, understand?"
-  "0000":
-    - text: Back at ya.
-  "0001":
-    - text: Her name is Mipha.
-  talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Sasan said...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "he was going to stock up on\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Hylian rice
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 16
-    - text: "I didn't have the heart to tell him..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nthey sell that stuff everywhere!"
-  talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: "You can't go wrong by buying some \n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: sizzlefin trout
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " here."
+      - text: "Now I'm gonna stock up on rare\ngoods at the general store here."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nDon't get in my way, understand?"
   talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 19
-    - text: "Huh?! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "You're..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: that girl from last time!
-  talk23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: "If I were to buy something myself, it'd be\nthe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: chillfin trout
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You can't easily find\nthat anywhere else!"
+      - text: "Huh?! "
+      - control:
+          kind: pause
+          length: short
+      - text: "You're..."
+      - control:
+          kind: pause
+          length: short
+      - text: that girl from last time!
   talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 4
-    - text: "I'm a traveling merchant. "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "I'm everywhere!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I'm a traveling merchant. "
+      - control:
+          kind: pause
+          length: long
+      - text: "I'm everywhere!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: "Oh! I should introduce myself...\n\n\nI'm Douma! "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "Nice to meet ya!\n\n\nYa know, it used to rain aaaall the time\naround here."
+      - text: "Oh! I should introduce myself...\n\n\nI'm Douma! "
+      - control:
+          kind: pause
+          length: long
+      - text: "Nice to meet ya!\n\n\nYa know, it used to rain aaaall the time\naround here."
   talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - text: The statue of that girl
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " is pretty cute!"
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 1
-            field_3:
-              - 1
-              - 205
-  talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 2
-    - text: "Mornin'!"
+      - text: The statue of that girl
+      - control:
+          kind: pause
+          length: long
+      - text: " is pretty cute!"
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 1
+              field_3:
+                - 1
+                - 205
   talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 12
-    - text: How would I know?!
-  talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 2
-    - text: Hello!
+      - text: How would I know?!
   talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 14
-    - text: "You don't need to keep telling me that!"
+      - text: "You don't need to keep telling me that!"
+  talk15:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "I've arrived at "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Zora's Domain"
+      - control:
+          kind: reset_colour
+      - text: ", so now I\ncan take a break and enjoy the sights."
+  talk16:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 18
+      - text: "OK, I need to take a break now..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nTime for some sightseeing!"
+  talk17:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 18
+      - text: I purchased enough for today...
+      - control:
+          kind: pause
+          length: short
+      - text: "\nTime to take a break!"
+  talk18:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "I'm going to work now."
+      - control:
+          kind: pause
+          length: long
+      - text: " Don't follow me—\nI'd just bore you."
+  talk19:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 16
+      - text: "Work, work, work... Every day..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nHmm, I wonder if the general store has\nanything good today!"
+  talk21:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Sasan said...
+      - control:
+          kind: pause
+          length: short
+      - text: "he was going to stock up on\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Hylian rice
+      - control:
+          kind: reset_colour
+      - text: ".\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 16
+      - text: "I didn't have the heart to tell him..."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nthey sell that stuff everywhere!"
+  talk22:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: "You can't go wrong by buying some \n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: sizzlefin trout
+      - control:
+          kind: reset_colour
+      - text: " here."
+  talk23:
+    attributes: Npc_Lanayru003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: "If I were to buy something myself, it'd be\nthe "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: chillfin trout
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: short
+      - text: " You can't easily find\nthat anywhere else!"

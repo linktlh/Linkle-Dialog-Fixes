@@ -1,714 +1,655 @@
 ---
+group_count: 29
+atr1_unknown: 4
 entries:
-  Talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: "Heh. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Well, I'll be..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " That "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Champion's tunic"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\ncertainly suits you.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 0
-    - text: "Lady Linkle, "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "I never thought I would\nsee you in that with my own eyes..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nIt's like a dream come true."
-  Talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1060320051
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "Hmm, let's see here..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  Talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 18
-    - text: "Yes, indeed."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Good night."
-  Talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "I'm sorry to have greeted you this way.\n\n\nMy goodness..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " You look exhausted.\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "There's an inn in this village."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nPlease get some rest there."
-  Talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: So...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "you must be Lady Linkle.\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 1
-    - text: Heh. Do not look so surprised.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI know just who you are because of\nthat "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Sheikah Slate "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "on your waist.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: "You've met with Purah, haven't you?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 8
-            field_3: 9
-            field_4:
-              - 0
-              - 1
-  Talk23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: "The princess took special care of that\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Sheikah Slate
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " It carries so many of\nher memories within it.\nI am certain she would be happy to know\nit made its way safely to you."
-  TerrorSword:
-    - text: Show some compassion...
-  Talk19_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1060320051
-    - text: "I'm sorry you had to see me like that.\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 1
-    - text: "..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  Talk24:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: "Forgive me for getting ahead of myself.\n\n\nMy mentor works at the research center\nto the far east of here, in a place called\nHateno Village.\nMy mentor always told me stories about\ndoing extensive research with Princess\nZelda herself.\nI was also told a great deal about what\nhappened...during the Great Calamity."
-  Talk19_2:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1065353216
-    - text: "Say, traveler..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  Talk25:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: So...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "you are Lady Linkle.\n\n\nHeh. Do not look so surprised."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI know just who you are because of\nthat "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Sheikah Slate "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "on your waist.\nMy mentor knows much about it.\nAbout you."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 6
-            field_3: 7
-            field_4:
-              - 0
-              - 1
-  Talk19_3:
-    - text: "Where did you get that...object hanging\nfrom your waist?"
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 5
-            field_3:
-              - 1
-              - 205
-  Talk26:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "My mentor used to work closely with\nPrincess Zelda in her research of\nthat "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Sheikah Slate
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\nGo to the research facility in\nHateno Village, located to the\nfar east of here.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "However...\n\n\nUm...\n\n\nJust know that this mentor of mine is...\na bit odd."
-  Talk27:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: "Heh. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "There's no point trying to deny it."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nYou see, Purah is my mentor.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Through her, I have heard much\nabout what took place during the\nGreat Calamity.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 0
-    - text: "The princess took special care of that\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Sheikah Slate
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " It carries so many of\nher memories within it.\nI am certain she would be happy to know\nit made its way safely to you."
-  Talk28:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Hm?\n\n\nWell, well. Look who's here..."
   "0000":
-    - text: Where is she?
-  Talk29:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Just head toward "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Lantern Falls
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  Talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 12
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1060320051
-    - text: Traveler!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I'm sorry, but I seem to have\ntwisted my ankle..."
+    attributes: ""
+    contents:
+      - text: Where is she?
   "0001":
-    - text: "OK, will do."
-  Talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1060320051
-    - text: "Yes. I see...\n\n\nThat "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Sheikah Slate
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " is a symbol. It means\nyou are the heroine of legend.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 0
-    - text: "Though there are few who know of such\nlegends anymore...\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "But we Sheikah have been waiting\nfor you for a very long time.\n\nPlease...before all else, I must insist that\nyou meet with our leader, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Lady Impa
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  Talk03:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Lady Impa
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "'s house is below\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Lantern Falls
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: —just over there.
+    attributes: ""
+    contents:
+      - text: "OK, will do."
   "0003":
-    - text: Your mentor?
-  Talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: "In any case... It was a real honor to meet\nyou."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Heh, bet you've never\nheard that before, have you?"
+    attributes: ""
+    contents:
+      - text: Your mentor?
   "0004":
-    - text: Good night.
+    attributes: ""
+    contents:
+      - text: Good night.
   "0005":
-    - text: "Well, you see..."
-  Talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: "Before all else, go to "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Lady Impa
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "'s house."
+    attributes: ""
+    contents:
+      - text: "Well, you see..."
   "0006":
-    - text: Mentor?
-  Talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "It seems you haven't yet been able to\nget that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Sheikah Slate "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "fully functioning.\nI'm certain my mentor can help you.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "However...\n\n\nUm...\n\n\nJust know that this mentor of mine is...\na bit odd..."
+    attributes: ""
+    contents:
+      - text: Mentor?
   "0007":
-    - text: "You don't say..."
-  Talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: Heh...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " You see, Purah is my mentor.\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Through her, I have heard much\nabout what took place during the\nGreat Calamity.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 0
-    - text: "The princess took special care of that\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Sheikah Slate
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " It carries so many of\nher memories within it.\nI am certain she would be happy to know\nit made its way safely to you."
-  Talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "My mentor is in Hateno Village.\nIt's to the far east of here.\nI wish you safe travels."
+    attributes: ""
+    contents:
+      - text: "You don't say..."
   "0008":
-    - text: How did you know?
-  Talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "It seems you haven't yet been able to\nget that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Sheikah Slate "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "fully functioning...\nI'm certain my mentor can help you."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 3
-            field_3: 1
-            field_4:
-              - 0
-              - 1
+    attributes: ""
+    contents:
+      - text: How did you know?
   "0009":
-    - text: Nope.
-  Talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Well now, I must thank you for taking\nthe time to come all the way here to\nthis dilapidated place."
+    attributes: ""
+    contents:
+      - text: Nope.
   Near00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 10
-              - 205
-    - text: Ouch...
-  Talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "I'm so sorry you've traveled this far\njust to see me..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "in this state...\n\nIf only I had heeded my mentor's\nwarning...\n\nI may look frightful, but is there\nsomething I can do for you?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 3
-            field_3: 4
-            field_4:
-              - 0
-              - 1
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 10
+            - 205
+      - text: Ouch...
   Near01:
-    - text: Hrm...
+    attributes: Npc_Kakariko015
+    contents:
+      - text: Hrm...
   SupriseHouse:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 0
-    - text: Eek!
+      - text: Eek!
+  Talk01:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 12
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1060320051
+      - text: Traveler!
+      - control:
+          kind: pause
+          length: short
+      - text: " I'm sorry, but I seem to have\ntwisted my ankle..."
+  Talk02:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1060320051
+      - text: "Yes. I see...\n\n\nThat "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Sheikah Slate
+      - control:
+          kind: reset_colour
+      - text: " is a symbol. It means\nyou are the heroine of legend.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 0
+      - text: "Though there are few who know of such\nlegends anymore...\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "But we Sheikah have been waiting\nfor you for a very long time.\n\nPlease...before all else, I must insist that\nyou meet with our leader, "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Lady Impa
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk03:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Lady Impa
+      - control:
+          kind: reset_colour
+      - text: "'s house is below\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Lantern Falls
+      - control:
+          kind: reset_colour
+      - text: —just over there.
+  Talk04:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: "In any case... It was a real honor to meet\nyou."
+      - control:
+          kind: pause
+          length: short
+      - text: " Heh, bet you've never\nheard that before, have you?"
+  Talk05:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: "Before all else, go to "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Lady Impa
+      - control:
+          kind: reset_colour
+      - text: "'s house."
+  Talk06:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "It seems you haven't yet been able to\nget that "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Sheikah Slate "
+      - control:
+          kind: reset_colour
+      - text: "fully functioning.\nI'm certain my mentor can help you.\n"
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "However...\n\n\nUm...\n\n\nJust know that this mentor of mine is...\na bit odd..."
+  Talk07:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: Heh...
+      - control:
+          kind: pause
+          length: long
+      - text: " You see, Purah is my mentor.\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Through her, I have heard much\nabout what took place during the\nGreat Calamity.\n"
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 0
+      - text: "The princess took special care of that\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Sheikah Slate
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: short
+      - text: " It carries so many of\nher memories within it.\nI am certain she would be happy to know\nit made its way safely to you."
+  Talk08:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "My mentor is in Hateno Village.\nIt's to the far east of here.\nI wish you safe travels."
+  Talk09:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "It seems you haven't yet been able to\nget that "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Sheikah Slate "
+      - control:
+          kind: reset_colour
+      - text: "fully functioning...\nI'm certain my mentor can help you."
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk10:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Well now, I must thank you for taking\nthe time to come all the way here to\nthis dilapidated place."
+  Talk11:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "I'm so sorry you've traveled this far\njust to see me..."
+      - control:
+          kind: pause
+          length: long
+      - text: "in this state...\n\nIf only I had heeded my mentor's\nwarning...\n\nI may look frightful, but is there\nsomething I can do for you?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 4
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk14:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: "Heh. "
+      - control:
+          kind: pause
+          length: short
+      - text: "Well, I'll be..."
+      - control:
+          kind: pause
+          length: longer
+      - text: " That "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Champion's tunic"
+      - control:
+          kind: reset_colour
+      - text: "\ncertainly suits you.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 0
+      - text: "Lady Linkle, "
+      - control:
+          kind: pause
+          length: long
+      - text: "I never thought I would\nsee you in that with my own eyes..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nIt's like a dream come true."
+  Talk18:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1060320051
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "Hmm, let's see here..."
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: pause
+          length: longer
+  Talk19_1:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1060320051
+      - text: "I'm sorry you had to see me like that.\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 1
+      - text: "..."
+      - control:
+          kind: pause
+          length: longer
+  Talk19_2:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1065353216
+      - text: "Say, traveler..."
+      - control:
+          kind: pause
+          length: longer
+  Talk19_3:
+    attributes: Npc_Kakariko015
+    contents:
+      - text: "Where did you get that...object hanging\nfrom your waist?"
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 5
+              field_3:
+                - 1
+                - 205
+  Talk20:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 18
+      - text: "Yes, indeed."
+      - control:
+          kind: pause
+          length: short
+      - text: " Good night."
+  Talk21:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "I'm sorry to have greeted you this way.\n\n\nMy goodness..."
+      - control:
+          kind: pause
+          length: long
+      - text: " You look exhausted.\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "There's an inn in this village."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nPlease get some rest there."
+  Talk22:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: So...
+      - control:
+          kind: pause
+          length: longer
+      - text: "you must be Lady Linkle.\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 1
+      - text: Heh. Do not look so surprised.
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI know just who you are because of\nthat "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Sheikah Slate "
+      - control:
+          kind: reset_colour
+      - text: "on your waist.\n"
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: "You've met with Purah, haven't you?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk23:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: "The princess took special care of that\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Sheikah Slate
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: short
+      - text: " It carries so many of\nher memories within it.\nI am certain she would be happy to know\nit made its way safely to you."
+  Talk24:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: "Forgive me for getting ahead of myself.\n\n\nMy mentor works at the research center\nto the far east of here, in a place called\nHateno Village.\nMy mentor always told me stories about\ndoing extensive research with Princess\nZelda herself.\nI was also told a great deal about what\nhappened...during the Great Calamity."
+  Talk25:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: So...
+      - control:
+          kind: pause
+          length: longer
+      - text: "you are Lady Linkle.\n\n\nHeh. Do not look so surprised."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI know just who you are because of\nthat "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Sheikah Slate "
+      - control:
+          kind: reset_colour
+      - text: "on your waist.\nMy mentor knows much about it.\nAbout you."
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk26:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "My mentor used to work closely with\nPrincess Zelda in her research of\nthat "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Sheikah Slate
+      - control:
+          kind: reset_colour
+      - text: ".\nGo to the research facility in\nHateno Village, located to the\nfar east of here.\n"
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "However...\n\n\nUm...\n\n\nJust know that this mentor of mine is...\na bit odd."
+  Talk27:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: "Heh. "
+      - control:
+          kind: pause
+          length: short
+      - text: "There's no point trying to deny it."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nYou see, Purah is my mentor.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Through her, I have heard much\nabout what took place during the\nGreat Calamity.\n"
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 0
+      - text: "The princess took special care of that\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Sheikah Slate
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: short
+      - text: " It carries so many of\nher memories within it.\nI am certain she would be happy to know\nit made its way safely to you."
+  Talk28:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Hm?\n\n\nWell, well. Look who's here..."
+  Talk29:
+    attributes: Npc_Kakariko015
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Just head toward "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Lantern Falls
+      - control:
+          kind: reset_colour
+      - text: "."
   TerrorBomb:
-    - text: Is that—?!
+    attributes: ""
+    contents:
+      - text: Is that—?!
+  TerrorSword:
+    attributes: ""
+    contents:
+      - text: Show some compassion...

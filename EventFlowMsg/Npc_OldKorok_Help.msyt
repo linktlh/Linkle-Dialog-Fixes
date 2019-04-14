@@ -1,261 +1,241 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: Korok Forest?
+  "0001":
+    attributes: ""
+    contents:
+      - text: Who are you?
+  "0002":
+    attributes: ""
+    contents:
+      - text: Korok seeds?
   "0003":
-    - text: Good-bye.
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Thanks for bringing my maracas back!\n\n\nOnce I see you off,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I'm going back home\nto Korok Forest!"
-  talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Korok Forest...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nIt should be somewhere north of here.\n\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Grandpa
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " told me,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " \"If you get lost, follow\nthe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Hylia River
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " and continue north.\"\n\nThat's what he said, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "and Grandpa is no\nliar."
+    attributes: ""
+    contents:
+      - text: Good-bye.
   near00:
-    - text: Shalaka...
-  talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "My name "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "is "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Hestu
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n\n\n♪The most celebrated musician of\nKorok Forest!♪"
-  talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 19
-    - text: Huh?
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " I suppose I should tell you a little\nsomething about myself!"
-  talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 26
-    - text: ♪Shalaka lala!♪
-  talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Korok seeds
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "come from the Korok\nchildren..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "and they're a..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "little bit...\n\n...\n\n\n"
-    - control:
-        four:
-          type2:
-            field_1: 32
-            string: CustomSurpriseS
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Sorry...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " I blew out my voice singing..."
+    attributes: Npc_OldKorok_Help
+    contents:
+      - text: Shalaka...
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_OldKorok_Help
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 1
-    - text: Or did you wanna talk a little more?
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 0
-              - 0
-              - 1
-              - 0
-              - 2
-              - 0
-              - 3
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  "0000":
-    - text: Korok Forest?
+      - text: Or did you wanna talk a little more?
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 0
+                - 0
+                - 1
+                - 0
+                - 2
+                - 0
+                - 3
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
   talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_OldKorok_Help
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Do you wanna talk some more?
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 0
-              - 0
-              - 1
-              - 0
-              - 2
-              - 0
-              - 3
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  "0001":
-    - text: Who are you?
+      - text: Do you wanna talk some more?
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 0
+                - 0
+                - 1
+                - 0
+                - 2
+                - 0
+                - 3
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
   talk02:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_OldKorok_Help
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 2
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "Gather some more "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Korok seeds
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: ", and visit\nme in Korok Forest!"
-  "0002":
-    - text: Korok seeds?
+      - control:
+          kind: reset_colour
+      - text: "Gather some more "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Korok seeds
+      - control:
+          kind: reset_colour
+      - control:
+          kind: pause
+          length: short
+      - text: ", and visit\nme in Korok Forest!"
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_OldKorok_Help
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: ♪Buh-byyyyyyyyye!♪
+      - text: ♪Buh-byyyyyyyyye!♪
+  talk04:
+    attributes: Npc_OldKorok_Help
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Thanks for bringing my maracas back!\n\n\nOnce I see you off,"
+      - control:
+          kind: pause
+          length: short
+      - text: " I'm going back home\nto Korok Forest!"
+  talk05:
+    attributes: Npc_OldKorok_Help
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Korok Forest...
+      - control:
+          kind: pause
+          length: short
+      - text: "\nIt should be somewhere north of here.\n\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Grandpa
+      - control:
+          kind: reset_colour
+      - text: " told me,"
+      - control:
+          kind: pause
+          length: short
+      - text: " \"If you get lost, follow\nthe "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Hylia River
+      - control:
+          kind: reset_colour
+      - text: " and continue north.\"\n\nThat's what he said, "
+      - control:
+          kind: pause
+          length: short
+      - text: "and Grandpa is no\nliar."
+  talk06:
+    attributes: Npc_OldKorok_Help
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "My name "
+      - control:
+          kind: pause
+          length: longer
+      - text: "is "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Hestu
+      - control:
+          kind: reset_colour
+      - text: "!\n\n\n♪The most celebrated musician of\nKorok Forest!♪"
+  talk07:
+    attributes: Npc_OldKorok_Help
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 19
+      - text: Huh?
+      - control:
+          kind: pause
+          length: longer
+      - text: " I suppose I should tell you a little\nsomething about myself!"
+  talk08:
+    attributes: Npc_OldKorok_Help
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 26
+      - text: ♪Shalaka lala!♪
+  talk09:
+    attributes: Npc_OldKorok_Help
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Korok seeds
+      - control:
+          kind: reset_colour
+      - text: "..."
+      - control:
+          kind: pause
+          length: short
+      - text: "come from the Korok\nchildren..."
+      - control:
+          kind: pause
+          length: short
+      - text: "and they're a..."
+      - control:
+          kind: pause
+          length: short
+      - text: "little bit...\n\n...\n\n\n"
+      - control:
+          kind: animation
+          name: CustomSurpriseS
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Sorry...
+      - control:
+          kind: pause
+          length: long
+      - text: " I blew out my voice singing..."

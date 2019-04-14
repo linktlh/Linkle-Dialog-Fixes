@@ -1,108 +1,87 @@
 ---
+group_count: 3
+atr1_unknown: 4
 entries:
-  Talk_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 21
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "Oh, w-w-w-wow!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 3
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "This beautiful lady is totally my type! Don't mess\nthis up, don't mess this up..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 0
-    - text: "H-h-h-hey there! Date you want a go\ndo on to?!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "...*sigh*..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
   Talk_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SmallOasis006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "I waited for a really long time, but...\nI couldn't find the man who was able to\nsneak into Gerudo Town.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I waited for a really long time, but...\nI couldn't find the man who was able to\nsneak into Gerudo Town.\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "The desert can be so unpleasant, and\nwaiting around in it is hard work."
+      - text: "The desert can be so unpleasant, and\nwaiting around in it is hard work."
+  Talk_03:
+    attributes: Npc_SmallOasis006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 21
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "Oh, w-w-w-wow!"
+      - control:
+          kind: pause
+          length: long
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n"
+      - control:
+          kind: set_colour
+          colour: grey
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "This beautiful lady is totally my type! Don't mess\nthis up, don't mess this up..."
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: reset_colour
+      - text: "\n"
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 0
+      - text: "H-h-h-hey there! Date you want a go\ndo on to?!"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n"
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "...*sigh*..."
+      - control:
+          kind: text_size
+          percent: 100
   Talk_04:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SmallOasis006
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 33
-    - text: Gerudo Town...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " So many girls..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+      - text: Gerudo Town...
+      - control:
+          kind: pause
+          length: long
+      - text: " So many girls..."
+      - control:
+          kind: text_size
+          percent: 100

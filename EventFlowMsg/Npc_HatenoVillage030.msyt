@@ -1,884 +1,825 @@
 ---
+group_count: 37
+atr1_unknown: 4
 entries:
-  talk29:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "Are you going north, by any chance?\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "If you happen to run into Hudson\nout in the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Akkala region
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", let him know\nthat Karson says hi!"
-  talk40:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "We just got back to Hateno Village.\n\n\nHudson's wedding"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " was so nice!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " And\nhis wife, Rhondson, is just lovely!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 1
-    - control:
-        four:
-          type2:
-            field_1: 20
-            string: LaughL_00
-    - text: "Those two really make settlin' down\nlook..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: not so bad!
-  "0010":
-    - text: "That's right."
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Workin', as you can see!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "This old house here has been\nabandoned."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Everyone in Hateno Village\nagreed we should demolish it.\nThe old owner apparently went off to \n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "the castle "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: to report for service.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Never\ncame back, never wrote, so away it goes!"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 3
-            field_3: 4
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 10
-    - text: Yep!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " And I wouldn't want it any other\nway, to be honest with ya."
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 20
-    - text: "Well, I'm not into real estate, so I can't\nreally help you out there.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 1
-    - text: "If you're really interested in this place, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nyou're gonna need to talk to the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: boss
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "I got the order to stop from the boss,"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nso demolition is on hold for now..."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 5
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 1
-    - text: "Another day, another rupee!"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  talk49:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 19
-    - text: "That "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: blue flame
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " That's for the \n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: research lab
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", isn't it?"
-  near00:
-    - text: Graah!
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 18
-    - text: Phew...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " This house isn't looking any\nless demolished despite all this effort..."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  near01:
-    - text: Hraah...
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "Oh, yeah, thanks for the big purchase!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 1
-    - text: "Seriously, though. Well done!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Where'd a\nkid like you get that kind of dough?\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Thanks to you, I'm getting a plum bonus!\n\n\nMe and my girlfriend are gonna grab a\ntasty meal!"
-  near02:
-    - text: Zzz...
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 12
-    - text: I finally got some time off...
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 5
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 12
-    - text: Hoo...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: it sure is.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Demolition is seriously\nhard work.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "But there are folks like Hudson who\ncould bust through a house in one day..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThe guy's my hero.\nSo... I overheard you talking to the boss.\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 1
-    - text: "Are you "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: really gonna buy the house?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 6
-            field_3: 7
-            field_4:
-              - 0
-              - 2
-  talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Time for me to hit the hay.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " See ya\ntomorrow, then."
-  talk30:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Zzz...
   "0000":
-    - text: What are you doing?
-  talk31:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Zzz...
+    attributes: ""
+    contents:
+      - text: What are you doing?
   "0001":
-    - text: Who are you?
-  talk32:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "I wonder what it is that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Rhondson "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "likes\nabout Hudson..."
+    attributes: ""
+    contents:
+      - text: Who are you?
   "0002":
-    - text: Bye.
-  talk33:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: Is it his astoundingly silky hair?
+    attributes: ""
+    contents:
+      - text: Bye.
   "0003":
-    - text: "Hard work, huh?"
-  talk34:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: Is it his chiseled physique?
+    attributes: ""
+    contents:
+      - text: "Hard work, huh?"
   "0004":
-    - text: "I'd buy this place!"
-  talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Mornin' there!"
-  talk35:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Hudson is gonna get a promotion to\nhelp expand the business.\n\nAnd he's going off to some place called\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Lake Akkala "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "in the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Akkala region
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\nHey, I think you should go give Hudson\na big congratulations!"
+    attributes: ""
+    contents:
+      - text: "I'd buy this place!"
   "0005":
-    - text: "That's great."
-  talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Hullo there!
-  talk36:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "So I overheard your conversation with\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: the boss
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "... Is Hudson really getting\nmarried, then?"
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 10
-            field_3:
-              - 1
-              - 205
+    attributes: ""
+    contents:
+      - text: "That's great."
   "0006":
-    - text: "Yep, buyin' it!"
-  talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Evenin' there!"
-  talk37:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 1
-    - text: "That's incredible. And you even look\nyounger than me..."
+    attributes: ""
+    contents:
+      - text: "Yep, buyin' it!"
   "0007":
-    - text: "Nah, I'm not."
-  talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Rain...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: yup.
-  talk38:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 1
-    - text: "Good for you, Hudson! "
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 10
-    - text: "I hope I get to\nmeet his wife someday!"
+    attributes: ""
+    contents:
+      - text: "Nah, I'm not."
   "0008":
-    - text: "...Son?"
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Sorry, but I'm done for the day."
-  talk39:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: I hear that Hudson
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " is working hard\nover at the new job site!\n\nAnd he even got married, too! How does\nhe find the time?"
-  talk50:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 16
-    - text: "Hey there, are you taking that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "blue flame\n"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: somewhere to light something special?
+    attributes: ""
+    contents:
+      - text: "...Son?"
   "0009":
-    - text: Where?
+    attributes: ""
+    contents:
+      - text: Where?
+  "0010":
+    attributes: ""
+    contents:
+      - text: "That's right."
+  near00:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - text: Graah!
+  near01:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - text: Hraah...
+  near02:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - text: Zzz...
+  talk00:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Mornin' there!"
+  talk01:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Hullo there!
+  talk02:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Evenin' there!"
+  talk03:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Rain...
+      - control:
+          kind: pause
+          length: long
+      - text: yup.
+  talk04:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Sorry, but I'm done for the day."
   talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Hello!
+      - text: Hello!
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 34
-    - text: So sleepy...
+      - text: So sleepy...
   talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Next time!
+      - text: Next time!
   talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Lookin' mighty free there, eh?"
+      - text: "Lookin' mighty free there, eh?"
   talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - text: I just started at Bolson Construction.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nName is Karson!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: I just started at Bolson Construction.
+      - control:
+          kind: pause
+          length: short
+      - text: "\nName is Karson!\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 1
-    - text: "My trial period is done, and they finally"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nhired me as an official member\nof the Bolson family!\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "My trial period is done, and they finally"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nhired me as an official member\nof the Bolson family!\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "I'm so glad my name happens to end in\n\"son,\" y'know?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 8
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 22
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: Whoa! No way!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I'm so glad my name happens to end in\n\"son,\" y'know?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 8
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk10:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
-            - 9
-    - text: "...But you were considering it?\n\n\nHow many houses would I have to\ndemolish to get that kind of dough?!"
-  talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+            - 0
+      - text: "Workin', as you can see!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "This old house here has been\nabandoned."
+      - control:
+          kind: pause
+          length: short
+      - text: " Everyone in Hateno Village\nagreed we should demolish it.\nThe old owner apparently went off to \n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "the castle "
+      - control:
+          kind: reset_colour
+      - text: to report for service.
+      - control:
+          kind: pause
+          length: short
+      - text: " Never\ncame back, never wrote, so away it goes!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 4
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk11:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 10
-    - text: "Not that it matters. We all have our own\nplace to build."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " I'll just keep workin'\nhard the best way I know how!"
+      - text: Yep!
+      - control:
+          kind: pause
+          length: short
+      - text: " And I wouldn't want it any other\nway, to be honest with ya."
+  talk12:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 20
+      - text: "Well, I'm not into real estate, so I can't\nreally help you out there.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: "If you're really interested in this place, "
+      - control:
+          kind: pause
+          length: short
+      - text: "\nyou're gonna need to talk to the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: boss
+      - control:
+          kind: reset_colour
+      - text: "."
+  talk13:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "I got the order to stop from the boss,"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nso demolition is on hold for now..."
+      - control:
+          kind: choice
+          choice_labels:
+            - 5
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk14:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 1
+      - text: "Another day, another rupee!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk15:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 18
+      - text: Phew...
+      - control:
+          kind: pause
+          length: longer
+      - text: " This house isn't looking any\nless demolished despite all this effort..."
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk16:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "Oh, yeah, thanks for the big purchase!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 1
+      - text: "Seriously, though. Well done!"
+      - control:
+          kind: pause
+          length: short
+      - text: " Where'd a\nkid like you get that kind of dough?\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Thanks to you, I'm getting a plum bonus!\n\n\nMe and my girlfriend are gonna grab a\ntasty meal!"
+  talk17:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 12
+      - text: I finally got some time off...
+      - control:
+          kind: choice
+          choice_labels:
+            - 5
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk18:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 12
+      - text: Hoo...
+      - control:
+          kind: pause
+          length: short
+      - text: it sure is.
+      - control:
+          kind: pause
+          length: longer
+      - text: " Demolition is seriously\nhard work.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "But there are folks like Hudson who\ncould bust through a house in one day..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThe guy's my hero.\nSo... I overheard you talking to the boss.\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 1
+      - text: "Are you "
+      - control:
+          kind: pause
+          length: short
+      - text: really gonna buy the house?
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  talk19:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Time for me to hit the hay.
+      - control:
+          kind: pause
+          length: short
+      - text: " See ya\ntomorrow, then."
+  talk20:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 22
+      - control:
+          kind: text_size
+          percent: 125
+      - text: Whoa! No way!
+      - control:
+          kind: text_size
+          percent: 100
+  talk21:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: "...But you were considering it?\n\n\nHow many houses would I have to\ndemolish to get that kind of dough?!"
+  talk22:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 10
+      - text: "Not that it matters. We all have our own\nplace to build."
+      - control:
+          kind: pause
+          length: long
+      - text: " I'll just keep workin'\nhard the best way I know how!"
   talk23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Yep, you heard me right!"
+      - text: "Yep, you heard me right!"
   talk24:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: So great.
+      - text: So great.
   talk25:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Apparently, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: your name
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " has to end in\n\""
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: son
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\" to work at Bolson Construction.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Apparently, "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: your name
+      - control:
+          kind: reset_colour
+      - text: " has to end in\n\""
+      - control:
+          kind: set_colour
+          colour: red
+      - text: son
+      - control:
+          kind: reset_colour
+      - text: "\" to work at Bolson Construction.\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 19
-    - text: "The boss there was saying he's really\nlooking into expanding the business.\n\nBut I'm wondering—just how many folks\nare out there with "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: names ending in
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\n\""
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: son
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\"?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Maybe lots?"
+      - text: "The boss there was saying he's really\nlooking into expanding the business.\n\nBut I'm wondering—just how many folks\nare out there with "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: names ending in
+      - control:
+          kind: reset_colour
+      - text: "\n\""
+      - control:
+          kind: set_colour
+          colour: red
+      - text: son
+      - control:
+          kind: reset_colour
+      - text: "\"?"
+      - control:
+          kind: pause
+          length: short
+      - text: " Maybe lots?"
   talk26:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: Mr. Hudson just left not too long ago.
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 9
-            field_3: 10
-            field_4: 2
-            field_5:
-              - 0
-              - 2
+      - text: Mr. Hudson just left not too long ago.
+      - control:
+          kind: choice
+          choice_labels:
+            - 9
+            - 10
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   talk27:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "He went to a place north of here in the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Akkala region
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " called "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Lake Akkala
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\nLooking for new and creative ways to\nexpand the business, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "he said.\n\nI wanna help him out, but I'm still green."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nPart of getting better in life is realizing\nhow much you have to learn!"
+      - text: "He went to a place north of here in the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Akkala region
+      - control:
+          kind: reset_colour
+      - text: " called "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Lake Akkala
+      - control:
+          kind: reset_colour
+      - text: ".\n\nLooking for new and creative ways to\nexpand the business, "
+      - control:
+          kind: pause
+          length: short
+      - text: "he said.\n\nI wanna help him out, but I'm still green."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nPart of getting better in life is realizing\nhow much you have to learn!"
   talk28:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "There was tons more that I was still\nhopin' to learn from him."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Hope I get to\nsee him again soon..."
+      - text: "There was tons more that I was still\nhopin' to learn from him."
+      - control:
+          kind: pause
+          length: long
+      - text: " Hope I get to\nsee him again soon..."
+  talk29:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "Are you going north, by any chance?\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "If you happen to run into Hudson\nout in the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Akkala region
+      - control:
+          kind: reset_colour
+      - text: ", let him know\nthat Karson says hi!"
+  talk30:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Zzz...
+  talk31:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Zzz...
+  talk32:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "I wonder what it is that "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Rhondson "
+      - control:
+          kind: reset_colour
+      - text: "likes\nabout Hudson..."
+  talk33:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: Is it his astoundingly silky hair?
+  talk34:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: Is it his chiseled physique?
+  talk35:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Hudson is gonna get a promotion to\nhelp expand the business.\n\nAnd he's going off to some place called\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Lake Akkala "
+      - control:
+          kind: reset_colour
+      - text: "in the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Akkala region
+      - control:
+          kind: reset_colour
+      - text: ".\n\nHey, I think you should go give Hudson\na big congratulations!"
+  talk36:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "So I overheard your conversation with\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: the boss
+      - control:
+          kind: pause
+          length: long
+      - control:
+          kind: reset_colour
+      - text: "... Is Hudson really getting\nmarried, then?"
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 10
+              field_3:
+                - 1
+                - 205
+  talk37:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 1
+      - text: "That's incredible. And you even look\nyounger than me..."
+  talk38:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 1
+      - text: "Good for you, Hudson! "
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 10
+      - text: "I hope I get to\nmeet his wife someday!"
+  talk39:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: I hear that Hudson
+      - control:
+          kind: pause
+          length: short
+      - text: " is working hard\nover at the new job site!\n\nAnd he even got married, too! How does\nhe find the time?"
+  talk40:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "We just got back to Hateno Village.\n\n\nHudson's wedding"
+      - control:
+          kind: pause
+          length: longer
+      - text: " was so nice!"
+      - control:
+          kind: pause
+          length: short
+      - text: " And\nhis wife, Rhondson, is just lovely!\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 1
+      - control:
+          kind: animation
+          name: LaughL_00
+      - text: "Those two really make settlin' down\nlook..."
+      - control:
+          kind: pause
+          length: short
+      - text: not so bad!
+  talk49:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 19
+      - text: "That "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: blue flame
+      - control:
+          kind: reset_colour
+      - text: "..."
+      - control:
+          kind: pause
+          length: short
+      - text: " That's for the \n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: research lab
+      - control:
+          kind: reset_colour
+      - text: ", isn't it?"
+  talk50:
+    attributes: Npc_HatenoVillage030
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 16
+      - text: "Hey there, are you taking that "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "blue flame\n"
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: reset_colour
+      - text: somewhere to light something special?

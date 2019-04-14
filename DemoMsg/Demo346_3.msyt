@@ -1,66 +1,55 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 0
-    - text: We did it...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " See that, goro... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "If we put our\nheads together..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "anything is possible!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: We did it...
+      - control:
+          kind: pause
+          length: longer
+      - text: " See that, goro... "
+      - control:
+          kind: pause
+          length: short
+      - text: "If we put our\nheads together..."
+      - control:
+          kind: pause
+          length: short
+      - text: "anything is possible!\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: That power I got from my ancestor...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "Daruk's Protection"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " It really is\nsomethin' else, isn't it?\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: That power I got from my ancestor...
+      - control:
+          kind: pause
+          length: short
+      - text: "\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Daruk's Protection"
+      - control:
+          kind: reset_colour
+      - text: "..."
+      - control:
+          kind: pause
+          length: short
+      - text: " It really is\nsomethin' else, isn't it?\n"
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 0
-    - text: "Anyhow, I guess my time as a cannonball\nisn't over just yet, goro."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " So let's get a\nmove on and cross that bridge, brother!"
+      - text: "Anyhow, I guess my time as a cannonball\nisn't over just yet, goro."
+      - control:
+          kind: pause
+          length: short
+      - text: " So let's get a\nmove on and cross that bridge, brother!"

@@ -1,70 +1,60 @@
 ---
+group_count: 3
+atr1_unknown: 4
 entries:
   talk_00:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_LakeSideHatago005
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 23
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "Don't you think the waterfall flowing\ndown from "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Lake Floria "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "is the very picture\nof perfection?"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "There is something strange at the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "top of\nthat waterfall"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", though...\n\nAnd even though it has shrunken over\ntime, you can still see a faint glow."
+      - control:
+          kind: reset_colour
+      - text: "Don't you think the waterfall flowing\ndown from "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Lake Floria "
+      - control:
+          kind: reset_colour
+      - text: "is the very picture\nof perfection?"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "There is something strange at the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "top of\nthat waterfall"
+      - control:
+          kind: reset_colour
+      - text: ", though...\n\nAnd even though it has shrunken over\ntime, you can still see a faint glow."
   talk_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_LakeSideHatago005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 17
-    - text: "Maybe I'm just imagining things..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nWas it like that the whole time?"
+      - text: "Maybe I'm just imagining things..."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nWas it like that the whole time?"
   talk_02:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 31
-              - 205
-    - text: Zzz...zzz...
+    attributes: Npc_LakeSideHatago005
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 31
+            - 205
+      - text: Zzz...zzz...

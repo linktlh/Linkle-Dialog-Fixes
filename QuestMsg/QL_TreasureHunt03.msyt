@@ -1,74 +1,53 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
-  QL_TreasureHunt03_Name:
-    - text: EX Ancient Horse Rumors
-  QL_TreasureHunt03_Step01:
-    - text: "I read Super Rumor Mill EX: Volume 3!\nAccording to this special issue, there's a bridle\nthat enhances a horse's skill and a saddle\nthat summons your horse to your side.\nOne is supposedly "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "under a cherry blossom tree\nat a mountain where creatures gather"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", and the\nother is "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: at a spring where a horse spirit resides
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\nI dont know if I can always trust rumors, but it\ncouldnt hurt to keep my eyes out for any\nhidden treasure!\nTreasure chests remaining: "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type2:
-            field_1: 58
-            string: TreasureHunt03_RemainingBox
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
   QL_TreasureHunt03_Desc:
-    - text: "Rumor has it there's a bridle that enhances a\nhorse's skill and a saddle that can summon\nyour horse right to you. Does this supposed\nancient horse gear really exist?\n\nApparently "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Highland Stable
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " has a copy of\nSuper Rumor Mill EX, which details some\nrumors about this rare horse gear."
+    contents:
+      - text: "Rumor has it there's a bridle that enhances a\nhorse's skill and a saddle that can summon\nyour horse right to you. Does this supposed\nancient horse gear really exist?\n\nApparently "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Highland Stable
+      - control:
+          kind: reset_colour
+      - text: " has a copy of\nSuper Rumor Mill EX, which details some\nrumors about this rare horse gear."
   QL_TreasureHunt03_Finish:
-    - text: "I found the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: ancient horse gear
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " at\nSatori Mountain and Malanya Spring!\n\nI can equip a horse with the Ancient Bridle for a\nlonger-lasting gallop. Equip the Ancient Saddle\nand my horse will come running whenever\nI call, no matter how far I am.\nBelieving those rumors really paid off!"
+    contents:
+      - text: "I found the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: ancient horse gear
+      - control:
+          kind: reset_colour
+      - text: " at\nSatori Mountain and Malanya Spring!\n\nI can equip a horse with the Ancient Bridle for a\nlonger-lasting gallop. Equip the Ancient Saddle\nand my horse will come running whenever\nI call, no matter how far I am.\nBelieving those rumors really paid off!"
+  QL_TreasureHunt03_Name:
+    contents:
+      - text: EX Ancient Horse Rumors
+  QL_TreasureHunt03_Step01:
+    contents:
+      - text: "I read Super Rumor Mill EX: Volume 3!\nAccording to this special issue, there's a bridle\nthat enhances a horse's skill and a saddle\nthat summons your horse to your side.\nOne is supposedly "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "under a cherry blossom tree\nat a mountain where creatures gather"
+      - control:
+          kind: reset_colour
+      - text: ", and the\nother is "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: at a spring where a horse spirit resides
+      - control:
+          kind: reset_colour
+      - text: ".\n\nI dont know if I can always trust rumors, but it\ncouldnt hurt to keep my eyes out for any\nhidden treasure!\nTreasure chests remaining: "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 2
+          name: TreasureHunt03_RemainingBox
+      - control:
+          kind: reset_colour

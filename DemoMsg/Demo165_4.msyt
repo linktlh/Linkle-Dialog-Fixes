@@ -1,6 +1,10 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
   Demo165_4_Text001:
-    - text: The blood moon rises once again.
+    contents:
+      - text: The blood moon rises once again.
   Demo165_4_Text002:
-    - text: "Please be careful, Linkle..."
+    contents:
+      - text: "Please be careful, Linkle..."

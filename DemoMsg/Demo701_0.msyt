@@ -1,72 +1,55 @@
 ---
+group_count: 5
+atr1_unknown: 0
 entries:
-  talk02:
-    - text: "Hold the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Sheikah Slate
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " up to the\npedestal. "
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 105
-    - text: That will show you the way.
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 142
-  talk00:
-    - control:
-        four:
-          type2:
-            field_1: 18
-            string: Activate
-    - text: Authenticating...
-  talk01:
-    - control:
-        four:
-          type2:
-            field_1: 18
-            string: Activate
-    - text: Sheikah Slate confirmed.
   OP_DRC05:
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 434
-    - text: Linkle...
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 60
-    - text: " You are the light—"
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 60
-    - text: our light—
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 60
-    - text: "that\nmust shine upon Hyrule once again."
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 125
-    - text: "\nNow, go..."
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 434
+      - text: Linkle...
+      - control:
+          kind: pause
+          frames: 60
+      - text: " You are the light—"
+      - control:
+          kind: pause
+          frames: 60
+      - text: our light—
+      - control:
+          kind: pause
+          frames: 60
+      - text: "that\nmust shine upon Hyrule once again."
+      - control:
+          kind: pause
+          frames: 125
+      - text: "\nNow, go..."
+  talk00:
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: Authenticating...
+  talk01:
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: Sheikah Slate confirmed.
+  talk02:
+    contents:
+      - text: "Hold the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Sheikah Slate
+      - control:
+          kind: reset_colour
+      - text: " up to the\npedestal. "
+      - control:
+          kind: pause
+          frames: 105
+      - text: That will show you the way.
+      - control:
+          kind: pause
+          frames: 142

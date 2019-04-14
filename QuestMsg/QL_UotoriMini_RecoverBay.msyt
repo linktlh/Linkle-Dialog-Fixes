@@ -1,22 +1,23 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
   QL_UotoriMini_RecoverBay_Desc:
-    - text: "Lurelin Village is a fishing village, but the\nresidents have been distressed lately. The\nfisherman Sebasto in particular is in a bind\nbecause a group of "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "monsters "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "have built an\nencampment right on Aris Beach—the best\nfishing spot for miles around.\n\nI have to defeat the monsters on the beach\nso the village can resume its regular fishing."
+    contents:
+      - text: "Lurelin Village is a fishing village, but the\nresidents have been distressed lately. The\nfisherman Sebasto in particular is in a bind\nbecause a group of "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "monsters "
+      - control:
+          kind: reset_colour
+      - text: "have built an\nencampment right on Aris Beach—the best\nfishing spot for miles around.\n\nI have to defeat the monsters on the beach\nso the village can resume its regular fishing."
   QL_UotoriMini_RecoverBay_Exterminate:
-    - text: "I defeated all the monsters occupying the\nencampment on Aris Beach!\n\nNow to go tell Sebasto the good news."
-  QL_UotoriMini_RecoverBay_Name:
-    - text: Take Back the Sea
+    contents:
+      - text: "I defeated all the monsters occupying the\nencampment on Aris Beach!\n\nNow to go tell Sebasto the good news."
   QL_UotoriMini_RecoverBay_Finish:
-    - text: "The monsters that once occupied the\nencampment on Aris Beach have been\ndispatched, and the village's regular\nfishing operations have resumed."
+    contents:
+      - text: "The monsters that once occupied the\nencampment on Aris Beach have been\ndispatched, and the village's regular\nfishing operations have resumed."
+  QL_UotoriMini_RecoverBay_Name:
+    contents:
+      - text: Take Back the Sea

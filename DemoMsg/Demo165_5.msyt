@@ -1,45 +1,46 @@
 ---
+group_count: 5
+atr1_unknown: 0
 entries:
   Demo165_5_Text000:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: Linkle...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: Linkle...
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: Be on your guard.
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "..."
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: text_size
+          percent: 80
+      - text: Linkle...
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: Linkle...
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: Be on your guard.
   Demo165_5_Text001:
-    - text: "Ganon's power grows...it rises to its\npeak under the hour of the blood moon."
+    contents:
+      - text: "Ganon's power grows...it rises to its\npeak under the hour of the blood moon."
   Demo165_5_Text002:
-    - text: "By its glow, the aimless spirits of\nmonsters slain in the name of the light\nreturn to flesh."
+    contents:
+      - text: "By its glow, the aimless spirits of\nmonsters slain in the name of the light\nreturn to flesh."
   Demo165_5_Text003:
-    - text: Linkle...please be careful.
+    contents:
+      - text: Linkle...please be careful.

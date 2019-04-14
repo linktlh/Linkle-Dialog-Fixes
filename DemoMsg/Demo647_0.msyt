@@ -1,43 +1,38 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
-  Demo647_0_Text002:
-    - text: "This seems like a good spot for the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: picture
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " you got from Kass..."
   "0000":
-    - text: Yes.
-  Demo647_0_Text001:
-    - text: "Would you like to display the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: picture
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
+    contents:
+      - text: Yes.
   "0001":
-    - text: No.
+    contents:
+      - text: No.
+  Demo647_0_Text001:
+    contents:
+      - text: "Would you like to display the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: picture
+      - control:
+          kind: reset_colour
+      - text: "?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Demo647_0_Text002:
+    contents:
+      - text: "This seems like a good spot for the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: picture
+      - control:
+          kind: reset_colour
+      - text: " you got from Kass..."

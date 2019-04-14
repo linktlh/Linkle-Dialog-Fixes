@@ -1,319 +1,291 @@
 ---
+group_count: 17
+atr1_unknown: 4
 entries:
-  Talk_300:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Soooo, what do you wanna know?\n\n\nI have info on the pitch-black ruins\nand on what's at the far edge of the\nHebra Mountains."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 10
-            field_3: 11
-            field_4: 12
-            field_5:
-              - 0
-              - 2
-  Talk_301:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "Light is unable to enter these ruins for\nsome reason. It's said that you can't see\nan inch ahead, even during the day!\nThere must be some mysterious power\nbehind this phenomenon, don't\nyou think?\nI can only wonder at what's hiding within\nthose ruins... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "But finding whatever it is\nwould certainly make you famous!\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 4
-    - text: Where is it?
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " It should be past\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Mount Drena
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " if you're heading toward\nthe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Eldin Mountains
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  "0010":
-    - text: Tell me about the ruins.
-  Talk_000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 16
-    - text: "I wonder if "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: bone horses
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " are a real\nthing..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I'd have to see it to believe it,\nbut I really don't like cold places, so..."
-  "0011":
-    - text: "The far edge, eh?"
-  Talk_001:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "If you're seeking the best information in\nHyrule, I, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Juannelle
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", know everything\nthere is to know! You're...Linkle, right?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  Talk_200:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 34
-    - text: "I'm so sleepy."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n*yawn*"
-  "0012":
-    - text: Never mind.
-  Talk_000_slp:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 34
-    - text: "I'm so tired... I've been thinking about\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: bone horses
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " all day.\n\nI've got the info, but I'm all done for\ntoday, I think..."
   "0000":
-    - text: "That's me!"
-  Talk_002:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "I love when I get a straightforward,\nhonest answer!"
-  Talk_201:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 13
-    - text: "I hope you realize how rude it is to wake\nme up when I'm trying to sleep...\n\nI'll forgive you, though. You clearly are\ndesperate for the kind of info only\nI can provide!"
+    attributes: ""
+    contents:
+      - text: "That's me!"
   "0001":
-    - text: "That's Ms. Linkle to you."
-  Talk_003:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: Cute...
+    attributes: ""
+    contents:
+      - text: "That's Ms. Linkle to you."
   "0002":
-    - text: Never heard of him.
-  Talk_004:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "Don't try to act coy with "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Juannelle
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-  Talk_320:
-    - text: See ya.
-  Talk_005:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "Hmm... Sorry, guess I was mistaken."
-  Talk_310:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "There was an adventurer who pledged\nto journey to the northwesternmost\npart of Hyrule...\nTo the very edge of the \nHebra Mountains.\n\nThis adventurer went north of the\nmountain range as far as possible and\nthen west...\nHowever, steep cliffs and "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: raging winds
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nstood in the way. The adventurer was\nforced to turn back.\nUpon returning, I posed a question to\nthe adventurer. I said, \"Why go so\nfar out there?\"\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 23
-    - text: "\"Because I wanted to know what was\nthere!\" was the adventurer's reply.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "I must admit, I don't think that'd be\nenough for me. I can't believe someone\nwould want to go into the cold unknown."
+    attributes: ""
+    contents:
+      - text: Never heard of him.
+  "0010":
+    attributes: ""
+    contents:
+      - text: Tell me about the ruins.
+  "0011":
+    attributes: ""
+    contents:
+      - text: "The far edge, eh?"
+  "0012":
+    attributes: ""
+    contents:
+      - text: Never mind.
   LookPicture:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 7
-    - text: "Wha—? "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "This is the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: bony horse
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?\nThat "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Stalhorse
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "It's a monster!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Wha—? "
+      - control:
+          kind: pause
+          length: long
+      - text: "This is the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: bony horse
+      - control:
+          kind: reset_colour
+      - text: "?\nThat "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Stalhorse
+      - control:
+          kind: reset_colour
+      - text: "... "
+      - control:
+          kind: pause
+          length: short
+      - text: "It's a monster!\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "The sight of this is going to haunt my\ndreams for weeks..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " But the picture is\nstill amazing!"
+      - text: "The sight of this is going to haunt my\ndreams for weeks..."
+      - control:
+          kind: pause
+          length: long
+      - text: " But the picture is\nstill amazing!"
+  Talk_000:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 16
+      - text: "I wonder if "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: bone horses
+      - control:
+          kind: reset_colour
+      - text: " are a real\nthing..."
+      - control:
+          kind: pause
+          length: short
+      - text: " I'd have to see it to believe it,\nbut I really don't like cold places, so..."
+  Talk_000_slp:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 34
+      - text: "I'm so tired... I've been thinking about\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: bone horses
+      - control:
+          kind: reset_colour
+      - text: " all day.\n\nI've got the info, but I'm all done for\ntoday, I think..."
+  Talk_001:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "If you're seeking the best information in\nHyrule, I, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Juannelle
+      - control:
+          kind: reset_colour
+      - text: ", know everything\nthere is to know! You're...Linkle, right?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk_002:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "I love when I get a straightforward,\nhonest answer!"
+  Talk_003:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: Cute...
+  Talk_004:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "Don't try to act coy with "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Juannelle
+      - control:
+          kind: reset_colour
+      - text: "!"
+  Talk_005:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "Hmm... Sorry, guess I was mistaken."
   Talk_100:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - text: Beedle is so very timid...
+      - text: Beedle is so very timid...
+  Talk_200:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 34
+      - text: "I'm so sleepy."
+      - control:
+          kind: pause
+          length: short
+      - text: "\n*yawn*"
+  Talk_201:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 13
+      - text: "I hope you realize how rude it is to wake\nme up when I'm trying to sleep...\n\nI'll forgive you, though. You clearly are\ndesperate for the kind of info only\nI can provide!"
+  Talk_300:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Soooo, what do you wanna know?\n\n\nI have info on the pitch-black ruins\nand on what's at the far edge of the\nHebra Mountains."
+      - control:
+          kind: choice
+          choice_labels:
+            - 10
+            - 11
+            - 12
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk_301:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "Light is unable to enter these ruins for\nsome reason. It's said that you can't see\nan inch ahead, even during the day!\nThere must be some mysterious power\nbehind this phenomenon, don't\nyou think?\nI can only wonder at what's hiding within\nthose ruins... "
+      - control:
+          kind: pause
+          length: short
+      - text: "But finding whatever it is\nwould certainly make you famous!\n"
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 4
+      - text: Where is it?
+      - control:
+          kind: pause
+          length: longer
+      - text: " It should be past\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Mount Drena
+      - control:
+          kind: reset_colour
+      - text: " if you're heading toward\nthe "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Eldin Mountains
+      - control:
+          kind: reset_colour
+      - text: "."
+  Talk_310:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "There was an adventurer who pledged\nto journey to the northwesternmost\npart of Hyrule...\nTo the very edge of the \nHebra Mountains.\n\nThis adventurer went north of the\nmountain range as far as possible and\nthen west...\nHowever, steep cliffs and "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: raging winds
+      - control:
+          kind: reset_colour
+      - text: "\nstood in the way. The adventurer was\nforced to turn back.\nUpon returning, I posed a question to\nthe adventurer. I said, \"Why go so\nfar out there?\"\n"
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 23
+      - text: "\"Because I wanted to know what was\nthere!\" was the adventurer's reply.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "I must admit, I don't think that'd be\nenough for me. I can't believe someone\nwould want to go into the cold unknown."
+  Talk_320:
+    attributes: Npc_Hunters_Lost
+    contents:
+      - text: See ya.

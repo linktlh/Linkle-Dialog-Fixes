@@ -1,604 +1,568 @@
 ---
+group_count: 53
+atr1_unknown: 4
 entries:
-  Failed01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 18
-    - text: I hate this...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " What did I do\nto deserve this?"
-  MSG_Futa_04_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 26
-    - text: "\"The colors of these fabrics are just\nto dye for!\"\n\nIf you ever talk to the owner of the dye\nshop in "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Hateno Village
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: ", you'd better\nhave a high tolerance for lethal puns."
-  MSG_Futa_01_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "If you find yourself getting uncomfortably\nhot or cold,"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " it's probably time you\nconsidered a change of clothes."
-  RetMSG_Futa_03_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - text: "You want me to give you a quick fashion\nassessment? Sure thing. Let me just...\n\n...\n\n\nYeah, sorry."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I don't even know where\nto begin..."
-  Thanks00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 11
-    - text: "Here, this is for rescuing me."
-  RetMSG_Futa_00_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "I don't like to judge people, but...\nOh, who am I kidding? I love judging\npeople!\nTake the folks at Dueling Peaks Stable for\ninstance."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I wish those yokels had at least\na little basic fashion sense."
   Atacked00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 42
-    - text: "Oh, no..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I'm scared..."
+      - text: "Oh, no..."
+      - control:
+          kind: pause
+          length: short
+      - text: " I'm scared..."
   Atacked01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 42
-    - text: "I'm... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I'm ready..."
-  SavedLv1_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 11
-    - text: "You're pretty handy with the killing!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nThanks!"
-  SavedLv1_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 11
-    - text: "I wasn't expecting an ambush!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nThanks for helping me out."
-  MSG_Futa_02_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "If you're looking for a new outfit, you\nshould visit "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Kakariko Village
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Things can\nrun a bit pricey,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " but they're worth it."
-  Rest_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "If you're gonna need saddles and bridles\nanyway..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "you might as well make them\nas stylish as possible, don't you think? \nIf you decide to take my advice and swap\nyour horse's gear, a stable's the place to\ndo it. Your horse will thank you!"
-  RetMSG_Futa_04_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 16
-    - text: "I love this top, but I think I'm just getting\nbored of the colors."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Maybe it's time for a\nstop at the dye shop in "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Hateno Village
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  Rest_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "Here's the secret to keeping dry on a\nrainy day..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " And you can't tell ANYONE..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nSimply don't go outside."
-  Rest_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - text: You mean to tell me you LIKE the rain?
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nThat's ridiculous. Your clothes smell\nlike wet dog!"
-  Near00:
-    - text: Mornings are the WORST.
-  RetMSG_Futa_01_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "You've got a good eye for fashion."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nDo adventurers just not care about\nthat sort of thing anymore?"
-  SavedLv2_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 11
-    - text: "I'm so glad you were here to help..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI can't thank you enough."
-  Near01:
-    - text: I want some new clothes...
-  SavedLv2_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I'm... "
+      - control:
+          kind: pause
+          length: short
+      - text: "I'm ready..."
+  Failed00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 18
-    - text: "If you hadn't come..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " I really don't want\nto think what could have happened."
-  Near02:
-    - text: Hm... What to eat...
-  Near03:
-    - text: My eyes are so tired...
-  MSG_Futa_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: "Dressing for the weather is fine, but be\nsure to express yourself."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Dress how you\nfeel, and let your heart be your stylist!\nWhat's the point in living in such a\nbeautiful world if you don't dress\nbeautifully too?"
-  Near04:
-    - text: Not good...
-  MSG_Futa_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - text: Quick question for you...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " How do you\ndo when the weather gets...extreme?\nYou know, like, too hot or too cold?\nIf you want to stay comfy, the key is \nto change your outfit to match the\ntemperature.\nThat's why you should always pack\na spare change of clothes when\nyou're exploring!"
-  MSG_Futa_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - text: "Why the long face? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI bet I could guess!\n\nYou're in the mood for a new outfit, but\nyou don't know where "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Kakariko Village "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "is.\nAm I right?\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 1
-    - text: "All you need to do is head north! Their\nprices tend to be on the more expensive \nside, but the clothes are top-notch!"
-  RetMSG_Futa_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "You're not like the others."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You're so\nfit, so stylish.\n\nJust between you and me..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "the sorts of\nfolks who visit the Dueling Peaks Stable\naren't exactly the pinnacle of fashion..."
+      - text: "Am... "
+      - control:
+          kind: pause
+          length: short
+      - text: Am I dead?
+      - control:
+          kind: pause
+          length: long
+      - text: " This looks different\nthan I'd expected."
+      - control:
+          kind: pause
+          length: short
+      - text: " Unless I'm still\nalive?"
+  Failed01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 18
+      - text: I hate this...
+      - control:
+          kind: pause
+          length: short
+      - text: " What did I do\nto deserve this?"
   Guardian00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 22
-    - text: Run away! Get out of here!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThere's a Guardian coming!"
-  MSG_Futa_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Run away! Get out of here!
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThere's a Guardian coming!"
+  MSG_Futa_00:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 4
-    - text: "That outfit you're wearing..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " It looks so\ndashing, so heroic!\n\nOh, my outfit?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " It is lovely, isn't it?\nActually, I had this custom made!\n\nThis isn't weird at all to you, is it?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Two\nstrangers on the road, praising one\nanother's impeccable taste?"
-  RetMSG_Futa_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Dressing for the weather is fine, but be\nsure to express yourself."
+      - control:
+          kind: pause
+          length: short
+      - text: " Dress how you\nfeel, and let your heart be your stylist!\nWhat's the point in living in such a\nbeautiful world if you don't dress\nbeautifully too?"
+  MSG_Futa_00_1:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "You've got a real eye for coordinating\nyour, uh...outfit there.\n\nJust take what I say. I have the keenest\neye for fashion in the land."
-  MSG_Futa_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 26
-    - text: Today is a good day...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "to dye!\n\n\nWait, do you not know about the dye\nshop in "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Hateno Village
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? The shopkeeper\nalways has these awful puns...\nBut if you ever want to change up your\nlook, you should swing by. Hue won't\nregret it! HA!"
-  RetMSG_Futa_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 16
-    - text: "My favorite part about traveling is finding\nnew fashions in the places you visit..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI love discovering new looks!\nLike, if you keep taking this path north,\nyou'll wind up in "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Kakariko Village
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " They\nhave some of my favorite clothes ever.\nI'd be there right now, if I hadn't already\nblown my last few rupees on this\nstunning neckerchief..."
-  MSG_Futa_03_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: I get all my clothes custom made.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Not\nthat anyone ever notices... True fashion\nsense is sometimes too subtle for most."
-  RetMSG_Futa_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "When things get bad and the world looks\nbleak, it's important to let your fashion\nshine."
+      - control:
+          kind: pause
+          length: longer
+      - text: " You can't let the sadness win."
+  MSG_Futa_01:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - text: "What is it? Did you want me to\nevaluate your fashion sense?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n\nNo?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Well, fine."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You probably wouldn't\nhave liked what I had to say anyway."
-  RetMSG_Futa_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 16
-    - text: "I don't know..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I'm just so tired of this\ncolor. Maybe I'll visit the dye shop in\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Hateno Village "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: to refresh my look.
-  SavedLv3_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 11
-    - text: "You've saved my life!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " I mean it.\nNo exaggeration here."
-  SavedLv3_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 18
-    - text: "I dread to think what could have\nhappened..."
-  MSG_Futa_00_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Quick question for you...
+      - control:
+          kind: pause
+          length: short
+      - text: " How do you\ndo when the weather gets...extreme?\nYou know, like, too hot or too cold?\nIf you want to stay comfy, the key is \nto change your outfit to match the\ntemperature.\nThat's why you should always pack\na spare change of clothes when\nyou're exploring!"
+  MSG_Futa_01_1:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "When things get bad and the world looks\nbleak, it's important to let your fashion\nshine."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " You can't let the sadness win."
-  RetMSG_Futa_02_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "If you find yourself getting uncomfortably\nhot or cold,"
+      - control:
+          kind: pause
+          length: longer
+      - text: " it's probably time you\nconsidered a change of clothes."
+  MSG_Futa_02:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "Why the long face? "
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI bet I could guess!\n\nYou're in the mood for a new outfit, but\nyou don't know where "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Kakariko Village "
+      - control:
+          kind: reset_colour
+      - text: "is.\nAm I right?\n"
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 1
+      - text: "All you need to do is head north! Their\nprices tend to be on the more expensive \nside, but the clothes are top-notch!"
+  MSG_Futa_02_1:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "If you're looking for a new outfit, you\nshould visit "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Kakariko Village
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: longer
+      - text: " Things can\nrun a bit pricey,"
+      - control:
+          kind: pause
+          length: short
+      - text: " but they're worth it."
+  MSG_Futa_03:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: "That outfit you're wearing..."
+      - control:
+          kind: pause
+          length: short
+      - text: " It looks so\ndashing, so heroic!\n\nOh, my outfit?"
+      - control:
+          kind: pause
+          length: longer
+      - text: " It is lovely, isn't it?\nActually, I had this custom made!\n\nThis isn't weird at all to you, is it?"
+      - control:
+          kind: pause
+          length: short
+      - text: " Two\nstrangers on the road, praising one\nanother's impeccable taste?"
+  MSG_Futa_03_1:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: I get all my clothes custom made.
+      - control:
+          kind: pause
+          length: longer
+      - text: " Not\nthat anyone ever notices... True fashion\nsense is sometimes too subtle for most."
+  MSG_Futa_04:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 26
+      - text: Today is a good day...
+      - control:
+          kind: pause
+          length: long
+      - text: "to dye!\n\n\nWait, do you not know about the dye\nshop in "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Hateno Village
+      - control:
+          kind: reset_colour
+      - text: "? The shopkeeper\nalways has these awful puns...\nBut if you ever want to change up your\nlook, you should swing by. Hue won't\nregret it! HA!"
+  MSG_Futa_04_1:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 26
+      - text: "\"The colors of these fabrics are just\nto dye for!\"\n\nIf you ever talk to the owner of the dye\nshop in "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Hateno Village
+      - control:
+          kind: reset_colour
+      - control:
+          kind: pause
+          length: short
+      - text: ", you'd better\nhave a high tolerance for lethal puns."
+  Near00:
+    attributes: Npc_Road_008
+    contents:
+      - text: Mornings are the WORST.
+  Near01:
+    attributes: Npc_Road_008
+    contents:
+      - text: I want some new clothes...
+  Near02:
+    attributes: Npc_Road_008
+    contents:
+      - text: Hm... What to eat...
+  Near03:
+    attributes: Npc_Road_008
+    contents:
+      - text: My eyes are so tired...
+  Near04:
+    attributes: Npc_Road_008
+    contents:
+      - text: Not good...
+  Rest_00:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "If you're gonna need saddles and bridles\nanyway..."
+      - control:
+          kind: pause
+          length: long
+      - text: "you might as well make them\nas stylish as possible, don't you think? \nIf you decide to take my advice and swap\nyour horse's gear, a stable's the place to\ndo it. Your horse will thank you!"
+  Rest_01:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "Here's the secret to keeping dry on a\nrainy day..."
+      - control:
+          kind: pause
+          length: long
+      - text: " And you can't tell ANYONE..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nSimply don't go outside."
+  Rest_02:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: You mean to tell me you LIKE the rain?
+      - control:
+          kind: pause
+          length: long
+      - text: "\nThat's ridiculous. Your clothes smell\nlike wet dog!"
+  RetMSG_Futa_00:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "You're not like the others."
+      - control:
+          kind: pause
+          length: short
+      - text: " You're so\nfit, so stylish.\n\nJust between you and me..."
+      - control:
+          kind: pause
+          length: short
+      - text: "the sorts of\nfolks who visit the Dueling Peaks Stable\naren't exactly the pinnacle of fashion..."
+  RetMSG_Futa_00_1:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "I don't like to judge people, but...\nOh, who am I kidding? I love judging\npeople!\nTake the folks at Dueling Peaks Stable for\ninstance."
+      - control:
+          kind: pause
+          length: short
+      - text: " I wish those yokels had at least\na little basic fashion sense."
+  RetMSG_Futa_01:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "You've got a real eye for coordinating\nyour, uh...outfit there.\n\nJust take what I say. I have the keenest\neye for fashion in the land."
+  RetMSG_Futa_01_1:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "You've got a good eye for fashion."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nDo adventurers just not care about\nthat sort of thing anymore?"
+  RetMSG_Futa_02:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 16
-    - text: "I'm thinking about picking up some new\nclothes in "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Kakariko Village
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " I just don't\nknow if I can justify the cost..."
-  Failed00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "My favorite part about traveling is finding\nnew fashions in the places you visit..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI love discovering new looks!\nLike, if you keep taking this path north,\nyou'll wind up in "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Kakariko Village
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: short
+      - text: " They\nhave some of my favorite clothes ever.\nI'd be there right now, if I hadn't already\nblown my last few rupees on this\nstunning neckerchief..."
+  RetMSG_Futa_02_1:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 16
+      - text: "I'm thinking about picking up some new\nclothes in "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Kakariko Village
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: longer
+      - text: " I just don't\nknow if I can justify the cost..."
+  RetMSG_Futa_03:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "What is it? Did you want me to\nevaluate your fashion sense?"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n\nNo?"
+      - control:
+          kind: pause
+          length: short
+      - text: " Well, fine."
+      - control:
+          kind: pause
+          length: short
+      - text: " You probably wouldn't\nhave liked what I had to say anyway."
+  RetMSG_Futa_03_1:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "You want me to give you a quick fashion\nassessment? Sure thing. Let me just...\n\n...\n\n\nYeah, sorry."
+      - control:
+          kind: pause
+          length: short
+      - text: " I don't even know where\nto begin..."
+  RetMSG_Futa_04:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 16
+      - text: "I don't know..."
+      - control:
+          kind: pause
+          length: short
+      - text: " I'm just so tired of this\ncolor. Maybe I'll visit the dye shop in\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Hateno Village "
+      - control:
+          kind: reset_colour
+      - text: to refresh my look.
+  RetMSG_Futa_04_1:
+    attributes: Npc_Road_008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 16
+      - text: "I love this top, but I think I'm just getting\nbored of the colors."
+      - control:
+          kind: pause
+          length: short
+      - text: " Maybe it's time for a\nstop at the dye shop in "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Hateno Village
+      - control:
+          kind: reset_colour
+      - text: "."
+  SavedLv1_00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 11
+      - text: "You're pretty handy with the killing!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nThanks!"
+  SavedLv1_01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 11
+      - text: "I wasn't expecting an ambush!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nThanks for helping me out."
+  SavedLv2_00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 11
+      - text: "I'm so glad you were here to help..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI can't thank you enough."
+  SavedLv2_01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 18
-    - text: "Am... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Am I dead?
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " This looks different\nthan I'd expected."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Unless I'm still\nalive?"
+      - text: "If you hadn't come..."
+      - control:
+          kind: pause
+          length: longer
+      - text: " I really don't want\nto think what could have happened."
+  SavedLv3_00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 11
+      - text: "You've saved my life!"
+      - control:
+          kind: pause
+          length: long
+      - text: " I mean it.\nNo exaggeration here."
+  SavedLv3_01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 18
+      - text: "I dread to think what could have\nhappened..."
+  Thanks00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 11
+      - text: "Here, this is for rescuing me."

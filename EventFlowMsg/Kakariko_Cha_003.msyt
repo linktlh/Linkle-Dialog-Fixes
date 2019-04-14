@@ -1,676 +1,570 @@
 ---
+group_count: 17
+atr1_unknown: 4
 entries:
-  Talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 31
-    - text: "Despite all that,"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " only one has returned\nto me!\n\nMy poor little Cuccos..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I'm sure that\nwherever they are, they're as lonely\nas I am... "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Please find them quickly!\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "For their sake...and for mine, as well..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  Talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 20
-    - text: Really?
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  Talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: My poor little Cuccos...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI hope they aren't scared..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "*sniffle*"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  Talk23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: My poor little Cuccos...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThey must feel so alone and afraid.\n\nBah,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I need to get back to work."
-  Talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "The Sheikah tribe has been serving\nHyrule's royal family for ages.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 12
-    - text: "But after the Great Calamity and the\nking's death,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " the Sheikah tribe was\nsplit in two.\nSome became part of the dishonorable\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Yiga Clan
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "and those fiends are after\nour beloved leader, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Lady Impa
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "That's why we stand guard every day.\nWe must protect "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Lady Impa
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 3
-            field_4:
-              - 0
-              - 2
-  Talk12:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 31
-    - text: My poor Cuccos...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  Talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: Thank you so much!!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n\n\nI have "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "10 "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "Cuccos total. Hopefully you'll\nbe able to find them all..."
+  "0000":
+    attributes: ""
+    contents:
+      - text: "I'll go find them!"
+  "0001":
+    attributes: ""
+    contents:
+      - text: "They'll come back..."
+  "0002":
+    attributes: ""
+    contents:
+      - text: Cucco update!
+  "0003":
+    attributes: ""
+    contents:
+      - text: Stay strong.
+  Near00:
+    attributes: Npc_Kakariko005
+    contents:
+      - text: How could this happen...
+  Near01:
+    attributes: Npc_Kakariko005
+    contents:
+      - text: My precious Cuccos...
   Talk01:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 1
-    - text: "Ms... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Ms. Linkle...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  Talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 31
-    - text: "But I don't have even a single one left..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n\n\nSomewhere out there,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " my poor Cuccos\nare lost and lonely..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Please! Hurry up\nand bring them back to me!\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "For their sake...and for mine, as well..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  Talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "I should have "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "10 "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: Cuccos total.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Even just\none unaccounted for won't do!"
-  Near00:
-    - text: How could this happen...
-  Talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 1
-    - text: "Now that my wife wants nothing to do\nwith me,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " my Cuccos are my only\nemotional support...\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "Waaaah... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: What do I doooo...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+      - text: "Ms... "
+      - control:
+          kind: pause
+          length: short
+      - text: Ms. Linkle...
+      - control:
+          kind: pause
+          length: longer
+      - control:
+          kind: text_size
+          percent: 100
   Talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 21
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: WHAAA?!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  Near01:
-    - text: My precious Cuccos...
-  Talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 31
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: AAAARRRRGH!!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 2
-  "0000":
-    - text: "I'll go find them!"
+      - control:
+          kind: text_size
+          percent: 125
+      - text: WHAAA?!
+      - control:
+          kind: text_size
+          percent: 100
   Talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 1
-    - text: "...Oh. "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "I see.\n\n\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: I just want...to go home.
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+      - text: "...Oh. "
+      - control:
+          kind: pause
+          length: longer
+      - text: "I see.\n\n\n"
+      - control:
+          kind: text_size
+          percent: 80
+      - text: I just want...to go home.
+      - control:
+          kind: text_size
+          percent: 100
   Talk05:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 1
-    - text: My Cuccos...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "\nMy precious Cuccos..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  "0001":
-    - text: "They'll come back..."
-  Talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: My little Cuccos...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " They're probably so\nscared and lonely...\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: NO!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I must stay focused."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " I must fulfill\nmy duty no matter what!"
-  Talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 31
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "They haven't come home yet!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
+      - text: My Cuccos...
+      - control:
+          kind: pause
+          length: longer
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n"
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "\nMy precious Cuccos..."
+      - control:
+          kind: pause
+          length: longer
+      - control:
+          kind: text_size
+          percent: 100
   Talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "Waaahhh... "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Ms. Linkle...\n\n\nCould it be that my little Cuccos have\nstopped loving me"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " just like my wife?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n\nMy Cuccos... It can't be so..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nWhere are you, my sweet Cuccos..."
-  "0002":
-    - text: Cucco update!
+      - text: "Waaahhh... "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Ms. Linkle...\n\n\nCould it be that my little Cuccos have\nstopped loving me"
+      - control:
+          kind: pause
+          length: short
+      - text: " just like my wife?"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n\nMy Cuccos... It can't be so..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nWhere are you, my sweet Cuccos..."
   Talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "I should have "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "10 "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: Cuccos total.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Even just\none unaccounted for won't do!"
-  "0003":
-    - text: Stay strong.
+      - text: "I should have "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "10 "
+      - control:
+          kind: reset_colour
+      - text: Cuccos total.
+      - control:
+          kind: pause
+          length: short
+      - text: " Even just\none unaccounted for won't do!"
   Talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "I should have "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "10 "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: Cuccos total.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Even just\none unaccounted for won't do!"
+      - text: "I should have "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "10 "
+      - control:
+          kind: reset_colour
+      - text: Cuccos total.
+      - control:
+          kind: pause
+          length: short
+      - text: " Even just\none unaccounted for won't do!"
   Talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: My wife left me a while ago...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nAll this time I've been waiting\nfor her to come back.\nHa. Joke's on me."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n\n\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: Ha... Ha ha...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  Talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: My wife left me a while ago...
+      - control:
+          kind: pause
+          length: short
+      - text: "\nAll this time I've been waiting\nfor her to come back.\nHa. Joke's on me."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n\n\n"
+      - control:
+          kind: text_size
+          percent: 80
+      - text: Ha... Ha ha...
+      - control:
+          kind: text_size
+          percent: 100
+  Talk10:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: My poor little Cuccos...
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI hope they aren't scared..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\n"
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "*sniffle*"
+      - control:
+          kind: text_size
+          percent: 100
+  Talk11:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "The Sheikah tribe has been serving\nHyrule's royal family for ages.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 12
+      - text: "But after the Great Calamity and the\nking's death,"
+      - control:
+          kind: pause
+          length: short
+      - text: " the Sheikah tribe was\nsplit in two.\nSome became part of the dishonorable\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Yiga Clan
+      - control:
+          kind: reset_colour
+      - text: "..."
+      - control:
+          kind: pause
+          length: short
+      - text: "and those fiends are after\nour beloved leader, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Lady Impa
+      - control:
+          kind: reset_colour
+      - text: ".\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "That's why we stand guard every day.\nWe must protect "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Lady Impa
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  Talk12:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 31
-    - text: "Sadly, only "
-    - control:
-        two:
-          type15:
-            field_1: 48
-            string: Kakariko_Kokko_Counter
-            field_3: 0
-    - text: " have returned to me."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n\n\nTo think that somewhere out there,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\neven one of my poor Cuccos\ncould be lost and lonely..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nPlease! Hurry up and bring them back to\nme!\n\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "For their sake...and for mine, as well..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+      - text: My poor Cuccos...
+      - control:
+          kind: pause
+          length: longer
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk13:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - control:
+          kind: text_size
+          percent: 125
+      - text: Thank you so much!!
+      - control:
+          kind: pause
+          length: longer
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n\nI have "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "10 "
+      - control:
+          kind: reset_colour
+      - text: "Cuccos total. Hopefully you'll\nbe able to find them all..."
+  Talk14:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 31
+      - text: "But I don't have even a single one left..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n\n\nSomewhere out there,"
+      - control:
+          kind: pause
+          length: short
+      - text: " my poor Cuccos\nare lost and lonely..."
+      - control:
+          kind: pause
+          length: longer
+      - text: " Please! Hurry up\nand bring them back to me!\n"
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "For their sake...and for mine, as well..."
+      - control:
+          kind: text_size
+          percent: 100
+  Talk15:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "I should have "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "10 "
+      - control:
+          kind: reset_colour
+      - text: Cuccos total.
+      - control:
+          kind: pause
+          length: short
+      - text: " Even just\none unaccounted for won't do!"
+  Talk16:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 1
+      - text: "Now that my wife wants nothing to do\nwith me,"
+      - control:
+          kind: pause
+          length: short
+      - text: " my Cuccos are my only\nemotional support...\n"
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "Waaaah... "
+      - control:
+          kind: pause
+          length: short
+      - text: What do I doooo...
+      - control:
+          kind: text_size
+          percent: 100
+  Talk17:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 31
+      - control:
+          kind: text_size
+          percent: 125
+      - text: AAAARRRRGH!!
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: pause
+          length: longer
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  Talk18:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: My little Cuccos...
+      - control:
+          kind: pause
+          length: longer
+      - text: " They're probably so\nscared and lonely...\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: NO!
+      - control:
+          kind: pause
+          length: short
+      - text: " I must stay focused."
+      - control:
+          kind: pause
+          length: longer
+      - text: " I must fulfill\nmy duty no matter what!"
+  Talk19:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 31
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "They haven't come home yet!"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: pause
+          length: longer
+  Talk20:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 31
+      - text: "Sadly, only "
+      - control:
+          kind: variable
+          variable_kind: 15
+          name: Kakariko_Kokko_Counter
+      - text: " have returned to me."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n\n\nTo think that somewhere out there,"
+      - control:
+          kind: pause
+          length: short
+      - text: "\neven one of my poor Cuccos\ncould be lost and lonely..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nPlease! Hurry up and bring them back to\nme!\n\n"
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "For their sake...and for mine, as well..."
+      - control:
+          kind: text_size
+          percent: 100
+  Talk21:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 31
+      - text: "Despite all that,"
+      - control:
+          kind: pause
+          length: longer
+      - text: " only one has returned\nto me!\n\nMy poor little Cuccos..."
+      - control:
+          kind: pause
+          length: short
+      - text: " I'm sure that\nwherever they are, they're as lonely\nas I am... "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Please find them quickly!\n"
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "For their sake...and for mine, as well..."
+      - control:
+          kind: text_size
+          percent: 100
+  Talk22:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 20
+      - text: Really?
+      - control:
+          kind: pause
+          length: longer
+  Talk23:
+    attributes: Npc_Kakariko005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: My poor little Cuccos...
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThey must feel so alone and afraid.\n\nBah,"
+      - control:
+          kind: pause
+          length: short
+      - text: " I need to get back to work."

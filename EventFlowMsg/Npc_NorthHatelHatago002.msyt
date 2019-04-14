@@ -1,270 +1,284 @@
 ---
+group_count: 17
+atr1_unknown: 4
 entries:
+  "0002":
+    attributes: ""
+    contents:
+      - text: I have to go.
+  "0003":
+    attributes: ""
+    contents:
+      - text: "What's the matter?"
+  "0004":
+    attributes: ""
+    contents:
+      - text: Directions?
+  "0005":
+    attributes: ""
+    contents:
+      - text: "What's to the east?"
+  "0006":
+    attributes: ""
+    contents:
+      - text: "What's to the west?"
+  "0007":
+    attributes: ""
+    contents:
+      - text: "What's to the north?"
   "0008":
-    - text: Yeah.
-  talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Zzz...
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Great question, Ms. Perceptive.\nHyrule Castle.\n\n"
-    - control:
-        four:
-          type1:
-            field_1:
-              - 2
-              - 205
-    - text: "There's a hidden escape route from\nHyrule Castle called the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: East Passage
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\nI hear it leads directly into the castle.\nIt was made for the old royal family\nthough, so who knows if it's still usable."
+    attributes: ""
+    contents:
+      - text: Yeah.
   "0009":
-    - text: "No, thanks..."
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - text: "No, thanks..."
+  talk02:
+    attributes: Npc_NorthHatelHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: You know—
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Death Mountain
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " and some\nother junk. "
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: See you around...
+      - text: Zzz...
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_NorthHatelHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "My older brothers Izra and Yolero play\nall day long, but I have to stay here and\ngive directions."
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 4
-            field_3:
-              - 1
-              - 205
+      - text: "My older brothers Izra and Yolero play\nall day long, but I have to stay here and\ngive directions."
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 4
+              field_3:
+                - 1
+                - 205
   talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_NorthHatelHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: Hah...
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 3
-            field_3:
-              - 1
-              - 205
+      - text: Hah...
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 3
+              field_3:
+                - 1
+                - 205
   talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_NorthHatelHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: Yeah.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Chapter four, article nine of the \nStable Association Regulations states:\n\n\"Each stable must have personnel\nready to give directions to visitors\nat all times.\"\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Yeah.
+      - control:
+          kind: pause
+          length: longer
+      - text: " Chapter four, article nine of the \nStable Association Regulations states:\n\n\"Each stable must have personnel\nready to give directions to visitors\nat all times.\"\n"
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "And somehow I got stuck with this dumb\njob instead of playing like my brothers.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "And somehow I got stuck with this dumb\njob instead of playing like my brothers.\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "I guess that's what I get for being the\nonly person at Wetland Stable with a\ngrasp on geography..."
+      - text: "I guess that's what I get for being the\nonly person at Wetland Stable with a\ngrasp on geography..."
   talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_NorthHatelHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 18
-    - text: "OK, let's get this over with.\nWhat do you want to know about the\nsurrounding area?"
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 5
-              - 0
-              - 6
-              - 0
-              - 7
-              - 0
-              - 2
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  "0002":
-    - text: I have to go.
-  "0003":
-    - text: "What's the matter?"
+      - text: "OK, let's get this over with.\nWhat do you want to know about the\nsurrounding area?"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 5
+                - 0
+                - 6
+                - 0
+                - 7
+                - 0
+                - 2
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
   talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_NorthHatelHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: All right. Next.
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 5
-              - 0
-              - 6
-              - 0
-              - 7
-              - 0
-              - 2
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  "0004":
-    - text: Directions?
+      - text: All right. Next.
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 5
+                - 0
+                - 6
+                - 0
+                - 7
+                - 0
+                - 2
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
   talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_NorthHatelHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "You want to know what's south of\nhere?"
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
+      - text: "You want to know what's south of\nhere?"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
+                - 8
+                - 0
+                - 9
+              field_2:
                 - 0
                 - 0
-              - - 255
-                - 255
                 - 0
-                - 0
-            field_1:
-              - 8
-              - 0
-              - 9
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  "0005":
-    - text: "What's to the east?"
+                - 3
   talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_NorthHatelHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Me too,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " but I never get to leave this\nstable."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " If you really want to know, you\nshould go ask at "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Riverside Stable
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  "0006":
-    - text: "What's to the west?"
+      - text: "Me too,"
+      - control:
+          kind: pause
+          length: short
+      - text: " but I never get to leave this\nstable."
+      - control:
+          kind: pause
+          length: long
+      - text: " If you really want to know, you\nshould go ask at "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Riverside Stable
+      - control:
+          kind: reset_colour
+      - text: "."
   talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_NorthHatelHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: My life is a joke.
-  "0007":
-    - text: "What's to the north?"
+      - text: My life is a joke.
   talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_NorthHatelHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Zora's Domain."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nThat's about it."
+      - text: "Zora's Domain."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nThat's about it."
+  talk15:
+    attributes: Npc_NorthHatelHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Great question, Ms. Perceptive.\nHyrule Castle.\n\n"
+      - control:
+          kind: sound2
+          unknown:
+            - 2
+            - 205
+      - text: "There's a hidden escape route from\nHyrule Castle called the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: East Passage
+      - control:
+          kind: reset_colour
+      - text: ".\n\nI hear it leads directly into the castle.\nIt was made for the old royal family\nthough, so who knows if it's still usable."
+  talk16:
+    attributes: Npc_NorthHatelHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: You know—
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Death Mountain
+      - control:
+          kind: reset_colour
+      - text: " and some\nother junk. "
+  talk17:
+    attributes: Npc_NorthHatelHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: See you around...

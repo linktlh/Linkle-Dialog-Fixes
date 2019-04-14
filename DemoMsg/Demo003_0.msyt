@@ -1,21 +1,20 @@
 ---
+group_count: 5
+atr1_unknown: 0
 entries:
   Demo003_0_Text000:
-    - control:
-        four:
-          type2:
-            field_1: 18
-            string: Activate
-    - text: Sheikah Slate authenticated.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nDistilling rune..."
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: Sheikah Slate authenticated.
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nDistilling rune..."
   Demo003_0_Text005:
-    - control:
-        four:
-          type2:
-            field_1: 18
-            string: Activate
-    - text: Rune extracted.
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: Rune extracted.

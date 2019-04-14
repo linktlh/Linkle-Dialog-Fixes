@@ -1,6 +1,10 @@
 ---
+group_count: 11
+atr1_unknown: 0
 entries:
   T_Text_00:
-    - text: "Tap here to play on the\nWii U GamePad only."
+    contents:
+      - text: "Tap here to play on the\nWii U GamePad only."
   T_Text_01:
-    - text: Tap the touch screen on the Wii U GamePad to play on the TV.
+    contents:
+      - text: Tap the touch screen on the Wii U GamePad to play on the TV.

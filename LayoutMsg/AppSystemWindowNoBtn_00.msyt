@@ -1,17 +1,21 @@
 ---
+group_count: 5
+atr1_unknown: 0
 entries:
   "0000":
-    - text: "Searching for\n"
-    - control:
-        two:
-          type11:
-            field_1: 56
-            string: ActorName_SeakSensor_Slot0
-            field_3: 0
-    - text: "."
+    contents:
+      - text: "Searching for\n"
+      - control:
+          kind: variable
+          variable_kind: 11
+          name: ActorName_SeakSensor_Slot0
+      - text: "."
   "0001":
-    - text: Searching for shrines.
+    contents:
+      - text: Searching for shrines.
   "0002":
-    - text: Choose image to delete.
+    contents:
+      - text: Choose image to delete.
   "0003":
-    - text: Sheikah Sensor disabled.
+    contents:
+      - text: Sheikah Sensor disabled.

@@ -1,20 +1,20 @@
 ---
+group_count: 5
+atr1_unknown: 0
 entries:
-  QL_DontDamageFlower_Finish:
-    - text: "I reached the shrine amidst the flowers\nthat Magda had planted.\n\nI'll try not to step on any flowers from here on out!"
-  QL_DontDamageFlower_Name:
-    - text: Watch Out for the Flowers
   QL_DontDamageFlower_Desc:
-    - text: "Magda planted flowers all around the\nancient shrine.\n\nI should proceed with care so I "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "don't\ndamage the flowers"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+    contents:
+      - text: "Magda planted flowers all around the\nancient shrine.\n\nI should proceed with care so I "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "don't\ndamage the flowers"
+      - control:
+          kind: reset_colour
+      - text: "."
+  QL_DontDamageFlower_Finish:
+    contents:
+      - text: "I reached the shrine amidst the flowers\nthat Magda had planted.\n\nI'll try not to step on any flowers from here on out!"
+  QL_DontDamageFlower_Name:
+    contents:
+      - text: Watch Out for the Flowers

@@ -1,381 +1,320 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
-  Npc_Kokiri007_R_Talk010:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "Hey, Ms. Heroine!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nI wanna see a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Blupee
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 1
-    - text: "It's that blue hoppy thing that glows\nin the dark! Just about Peeks's size!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+  "0000":
+    attributes: ""
+    contents:
+      - text: "I'll help you out."
+  "0001":
+    attributes: ""
+    contents:
+      - text: "I can't right now..."
+  Npc_Kokiri007_F_Talk000:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
+            - 0
+      - text: "I don't know where they live,"
+      - control:
+          kind: pause
+          length: long
+      - text: " but there\nare little blue glowing critters around\nHyrule that are quick and hoppy...\n"
+      - control:
+          kind: sound
+          unknown:
+            - 7
             - 1
-    - text: "I just really want to see a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Blupee
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\nEven if it's just a picture or whatever."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  Npc_Kokiri007_R_Talk040:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Apparently they're called "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Blupees
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nI wonder how glowy they are!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nAren't you curious?\nI REALLY want to see one.\nEven a picture is enough.\nThank you!"
+  Npc_Kokiri007_F_Talk010:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: HUH?!
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "Wait, wait!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nYou have it already?!"
-  Npc_Kokiri007_F_Talk000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "I don't know where they live,"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " but there\nare little blue glowing critters around\nHyrule that are quick and hoppy...\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 1
-    - text: "Apparently they're called "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Blupees
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nI wonder how glowy they are!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nAren't you curious?\nI REALLY want to see one.\nEven a picture is enough.\nThank you!"
+      - text: Oh! Ms. Hero! Did you bring it for me?
   Npc_Kokiri007_F_Talk030:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: "Wow! It's even more beautiful than "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Peeks
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nimagined!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Wow! It's even more beautiful than "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Peeks
+      - control:
+          kind: reset_colour
+      - text: "\nimagined!\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Thanks so much, Ms. Heroine!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nNow I'm content!\n\n..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "Oh! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "And here's a little thank-you gift!\nPeeks didn't forget!"
+      - text: "Thanks so much, Ms. Hero!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nNow I'm content!\n\n..."
+      - control:
+          kind: pause
+          length: long
+      - text: "Oh! "
+      - control:
+          kind: pause
+          length: short
+      - text: "And here's a little thank-you gift!\nPeeks didn't forget!"
+  Npc_Kokiri007_F_Talk040:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Oh, yeah! "
+      - control:
+          kind: pause
+          length: short
+      - text: "Ms. Hero needs rupees \nsometimes, right?\n\nIf you desperately need rupees..."
+      - control:
+          kind: pause
+          length: long
+      - text: "you\nshould shoot an arrow at a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: blupee
+      - control:
+          kind: reset_colour
+      - text: "!\n\nI hear they drop lots of rupees if you hit\nthem.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "Oh, man! "
+      - control:
+          kind: pause
+          length: short
+      - text: "I'm so glad I got to see\nsomething so cool! Peeks is so happy\nright now!"
   Npc_Kokiri007_R_Near000:
-    - text: Glowy hoppy!
+    attributes: Npc_Kokiri007
+    contents:
+      - text: Glowy hoppy!
+  Npc_Kokiri007_R_Talk000:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "Peeks thought of a trial that will \nmake Ms. Hero stronger! You won't have\nto fight,"
+      - control:
+          kind: pause
+          length: short
+      - text: " and it's not scary!\nBUT you'll need to be extra careful!\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: So...
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI wanna see a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Blupee
+      - control:
+          kind: reset_colour
+      - text: "!\n"
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 1
+      - text: "It's a blue, glowy, hoppy thing that\nglows in the dark! Just about Peeks's\nsize!\n"
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 1
+      - text: "I just really want to see a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Blupee
+      - control:
+          kind: reset_colour
+      - text: "!\nEven if it's just a picture of one."
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Npc_Kokiri007_R_Talk010:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "Hey, Ms. Hero!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nI wanna see a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Blupee
+      - control:
+          kind: reset_colour
+      - text: "!\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 1
+      - text: "It's that blue hoppy thing that glows\nin the dark! Just about Peeks's size!\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 1
+      - text: "I just really want to see a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Blupee
+      - control:
+          kind: reset_colour
+      - text: "!\nEven if it's just a picture or whatever."
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   Npc_Kokiri007_R_Talk020:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 9
-    - text: "I knew you were a nice girl, Ms. Hero!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nThanks for listening to Peeks's request!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I knew you were a nice girl, Ms. Hero!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nThanks for listening to Peeks's request!\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 1
-    - text: "So...I don't know where they live, but \nI heard there are little blue glowing\ncritters hopping around Hyrule.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "So...I don't know where they live, but \nI heard there are little blue glowing\ncritters hopping around Hyrule.\n"
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: "Apparently they're called "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Blupees
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nI wonder how glowy they are!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nAren't you curious?\nIf you show me a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Blupee
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", I'll be sure to\nthank you with a gift! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Good luck!
-  Npc_Kokiri007_F_Talk010:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Apparently they're called "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Blupees
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nI wonder how glowy they are!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nAren't you curious?\nIf you show me a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Blupee
+      - control:
+          kind: reset_colour
+      - text: ", I'll be sure to\nthank you with a gift! "
+      - control:
+          kind: pause
+          length: short
+      - text: Good luck!
+  Npc_Kokiri007_R_Talk030:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "Ms. Hero doesn't care about Peeks?"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nOh... OK."
+  Npc_Kokiri007_R_Talk040:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 0
-    - text: Oh! Ms. Heroine! Did you bring it for me?
-  Npc_Kokiri007_F_Talk040:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Oh, yeah! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Ms. Hero needs rupees \nsometimes, right?\n\nIf you desperately need rupees..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "you\nshould shoot an arrow at a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: blupee
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n\nI hear they drop lots of rupees if you hit\nthem.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "Oh, man! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I'm so glad I got to see\nsomething so cool! Peeks is so happy\nright now!"
-  Npc_Kokiri007_R_Talk000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "Peeks thought of a trial that will \nmake Ms. Heroine stronger! You won't have\nto fight,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " and it's not scary!\nBUT you'll need to be extra careful!\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: So...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI wanna see a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Blupee
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 1
-    - text: "It's a blue, glowy, hoppy thing that\nglows in the dark! Just about Peeks's\nsize!\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 1
-    - text: "I just really want to see a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Blupee
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\nEven if it's just a picture of one."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  "0000":
-    - text: "I'll help you out."
-  Npc_Kokiri007_R_Talk030:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "Ms. Heroine doesn't care about Peeks?"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nOh... OK."
-  "0001":
-    - text: "I can't right now..."
+      - control:
+          kind: text_size
+          percent: 125
+      - text: HUH?!
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "Wait, wait!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nYou have it already?!"

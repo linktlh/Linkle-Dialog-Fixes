@@ -1,12 +1,19 @@
 ---
+group_count: 5
+atr1_unknown: 0
 entries:
-  T_Text_02:
-    - text: "Playing on\nTelevision"
-  T_Text_03:
-    - text: "Playing on\nWii U GamePad"
-  T_Text_04:
-    - text: "You can't change play modes now."
   T_Text_00:
-    - text: "Control with\nWii U GamePad"
+    contents:
+      - text: "Control with\nWii U GamePad"
   T_Text_01:
-    - text: "Control with\nWii U Pro Controller"
+    contents:
+      - text: "Control with\nWii U Pro Controller"
+  T_Text_02:
+    contents:
+      - text: "Playing on\nTelevision"
+  T_Text_03:
+    contents:
+      - text: "Playing on\nWii U GamePad"
+  T_Text_04:
+    contents:
+      - text: "You can't change play modes now."

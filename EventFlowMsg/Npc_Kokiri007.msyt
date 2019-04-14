@@ -1,223 +1,201 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
-  Npc_Kokiri007_Before_Talk004:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Hey, Ms. Heroine! Have you seen my friend\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Hestu
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " anywhere?\n\nHe left to look for Korok seeds, but he's\nbeen gone for a while now.\n\nI think he said that he was going to a\nplace called Kakariko Village first...\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "But Hestu is really good at getting lost,\nso he could be anywhere.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "If you find him, please ask him to come\nhome soon!"
-  Npc_Kokiri007_Before_Talk100:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "If any monsters show up, I'm counting on\nyou to save me, Ms. Heroine! "
-  Npc_Kokiri007_Talk000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 0
-    - text: "I wonder if "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Blupees
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " sparkle because\nthey're too full of rupees...\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 1
-    - text: "Where did they get all of those rupees\nanyway? Do they make all the rupees in\nthe world?"
-  Npc_Kokiri007_Before_Talk000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "How are you, Ms. Heroine?\nI'm doing great!\n\nHey, I might yell for you if I see any\nmonsters around, OK?"
-  Npc_Kokiri007_Before_Talk001:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "Hmm... Hestu hasn't come home yet.\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 1
-    - text: "Have you met Hestu yet, Ms. Heroine?\n\n\nHe left to go look for Korok seeds, but\nthat was a long time ago.\n\nI think he said he was going to\nKakariko Village first.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "Hestu gets lost easily,"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " so he could be\nanywhere.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 1
-    - text: "If you run into him, please tell him to\ncome back home soon!"
   LookPicture:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 19
-              - 205
-    - text: W-
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: w-
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: wait a minute!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "Is that a real "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Blupee
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?!"
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 19
+            - 205
+      - text: W-
+      - control:
+          kind: pause
+          length: short
+      - text: w-
+      - control:
+          kind: pause
+          length: short
+      - text: wait a minute!
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "Is that a real "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Blupee
+      - control:
+          kind: reset_colour
+      - text: "?!"
+  Npc_Kokiri007_Before_Talk000:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "How are you, Ms. Hero?\nI'm doing great!\n\nHey, I might yell for you if I see any\nmonsters around, OK?"
+  Npc_Kokiri007_Before_Talk001:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "Hmm... Hestu hasn't come home yet.\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 1
+      - text: "Have you met Hestu yet, Ms. Hero?\n\n\nHe left to go look for Korok seeds, but\nthat was a long time ago.\n\nI think he said he was going to\nKakariko Village first.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "Hestu gets lost easily,"
+      - control:
+          kind: pause
+          length: long
+      - text: " so he could be\nanywhere.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: "If you run into him, please tell him to\ncome back home soon!"
+  Npc_Kokiri007_Before_Talk002:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "If any monsters show up, I'm counting on\nyou to save me, Ms. Hero! "
+  Npc_Kokiri007_Before_Talk003:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Ms. Hero! If you run into Hestu, please\nask him to come home soon!\n\nHe said he was going to Kakariko Village,\nbut he's very good at getting lost."
+  Npc_Kokiri007_Before_Talk004:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Hey, Ms. Hero! Have you seen my friend\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Hestu
+      - control:
+          kind: reset_colour
+      - text: " anywhere?\n\nHe left to look for Korok seeds, but he's\nbeen gone for a while now.\n\nI think he said that he was going to a\nplace called Kakariko Village first...\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "But Hestu is really good at getting lost,\nso he could be anywhere.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "If you find him, please ask him to come\nhome soon!"
+  Npc_Kokiri007_Before_Talk100:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "If any monsters show up, I'm counting on\nyou to save me, Ms. Hero! "
   Npc_Kokiri007_FirstTalk000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 0
-    - text: "It's..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "it's..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "it's..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nIT'S MS. HEROINE!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "It's..."
+      - control:
+          kind: pause
+          length: short
+      - text: "it's..."
+      - control:
+          kind: pause
+          length: short
+      - text: "it's..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nIT'S MS. HERO!\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 1
-    - text: "YAAAAAAAAY! Ms. Hero came to visit us\nin the forest! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: What took you so long?!
-  Npc_Kokiri007_Before_Talk002:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "If any monsters show up, I'm counting on\nyou to save me, Ms. Heroine! "
+      - text: "YAAAAAAAAY! Ms. Hero came to visit us\nin the forest! "
+      - control:
+          kind: pause
+          length: longer
+      - text: What took you so long?!
   Npc_Kokiri007_FirstTalk001:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Your "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "sword "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "is right over there, Ms. Heroine.\nGo on, now!"
-  Npc_Kokiri007_Before_Talk003:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Your "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "sword "
+      - control:
+          kind: reset_colour
+      - text: "is right over there, Ms. Hero.\nGo on, now!"
+  Npc_Kokiri007_Talk000:
+    attributes: Npc_Kokiri007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
             - 0
-            - 0
-    - text: "Ms. Heroine! If you run into Hestu, please\nask him to come home soon!\n\nHe said he was going to Kakariko Village,\nbut he's very good at getting lost."
+      - text: "I wonder if "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Blupees
+      - control:
+          kind: reset_colour
+      - text: " sparkle because\nthey're too full of rupees...\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 1
+      - text: "Where did they get all of those rupees\nanyway? Do they make all the rupees in\nthe world?"

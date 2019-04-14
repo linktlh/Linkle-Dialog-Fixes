@@ -1,8 +1,13 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
-  T_Text_02:
-    - text: Breath of the Wild
   T_Text_00:
-    - text: Nintendo Presents
+    contents:
+      - text: Nintendo Presents
   T_Text_01:
-    - text: The Legend of Zelda
+    contents:
+      - text: The Legend of Zelda
+  T_Text_02:
+    contents:
+      - text: Breath of the Wild

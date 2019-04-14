@@ -1,130 +1,97 @@
 ---
+group_count: 7
+atr1_unknown: 0
 entries:
-  QL_Water_Relic_Step1:
-    - text: "I asked Muzu where to get the arrows, but\nhe refuses to help because I'm a Hylian.\nHowever, he seems willing to cooperate if\nI can somehow prove that I was special\nto Mipha.\n\nI have the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "Zora armor "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "Mipha "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "made\nfor me. Maybe it will be proof enough."
-  QL_Water_Relic_Step1_1:
-    - text: "According to Muzu, I can get shock arrows\nfrom Ploymus Mountain.\n\nWearing the Zora armor allows me to "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "swim\nup waterfalls"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", so swimming up the waterfall\neast of Zora's Domain will make for a nice\nshortcut.\n\nFirst, I'll need to collect 20 shock arrows."
-  QL_Water_Relic_Step1_2:
-    - text: "I collected the 20 shock arrows I'll need\nto face the Divine Beast. Now I'll head to\nEast Reservoir Lake and meet with Sidon.\n\nThe lake is "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: directly below Shatterback Point
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nthe peak of Ploymus Mountain."
-  QL_Water_Relic_Step2:
-    - text: "I met up with Sidon at East Reservoir Lake\nand I'm ready to put those shock arrows to\nuse. Their electricity can "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: activate the devices
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\non Divine Beast Vah Ruta's back."
-  QL_Water_Relic_Name:
-    - text: Divine Beast Vah Ruta
   QL_Water_Relic_Desc:
-    - text: "I've been asked to help appease Vah Ruta,\nDivine Beast of Water. The task will require\na great many shock arrows.\n\nMuzu in "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "Zora's Domain square"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " can help\nme find out where to get them."
-  QL_Water_Relic_Step3:
-    - text: "I met up with Sidon at East Reservoir Lake\nand I'm ready to put those shock arrows to\nuse. Their electricity can "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: activate the devices
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\non Divine Beast Vah Ruta's back."
+    contents:
+      - text: "I've been asked to help appease Vah Ruta,\nDivine Beast of Water. The task will require\na great many shock arrows.\n\nMuzu in "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Zora's Domain square"
+      - control:
+          kind: reset_colour
+      - text: " can help\nme find out where to get them."
   QL_Water_Relic_Finish:
-    - text: "I told King Dorephan everything that's\nhappened so far, and now it seems even\nmembers of the Zora's Domain council\nhave accepted me.\n\nI've also earned one of the Champion's\ncharms, Mipha's Grace.\n\nDivine Beast Vah Ruta has enshrined itself in\npreparation for the battle with Calamity Ganon."
+    contents:
+      - text: "I told King Dorephan everything that's\nhappened so far, and now it seems even\nmembers of the Zora's Domain council\nhave accepted me.\n\nI've also earned one of the Champion's\ncharms, Mipha's Grace.\n\nDivine Beast Vah Ruta has enshrined itself in\npreparation for the battle with Calamity Ganon."
+  QL_Water_Relic_Name:
+    contents:
+      - text: Divine Beast Vah Ruta
+  QL_Water_Relic_Step1:
+    contents:
+      - text: "I asked Muzu where to get the arrows, but\nhe refuses to help because I'm a Hylian.\nHowever, he seems willing to cooperate if\nI can somehow prove that I was special\nto Mipha.\n\nI have the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Zora armor "
+      - control:
+          kind: reset_colour
+      - text: "that "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Mipha "
+      - control:
+          kind: reset_colour
+      - text: "made\nfor me. Maybe it will be proof enough."
+  QL_Water_Relic_Step1_1:
+    contents:
+      - text: "According to Muzu, I can get shock arrows\nfrom Ploymus Mountain.\n\nWearing the Zora armor allows me to "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "swim\nup waterfalls"
+      - control:
+          kind: reset_colour
+      - text: ", so swimming up the waterfall\neast of Zora's Domain will make for a nice\nshortcut.\n\nFirst, I'll need to collect 20 shock arrows."
+  QL_Water_Relic_Step1_2:
+    contents:
+      - text: "I collected the 20 shock arrows I'll need\nto face the Divine Beast. Now I'll head to\nEast Reservoir Lake and meet with Sidon.\n\nThe lake is "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: directly below Shatterback Point
+      - control:
+          kind: reset_colour
+      - text: ",\nthe peak of Ploymus Mountain."
+  QL_Water_Relic_Step2:
+    contents:
+      - text: "I met up with Sidon at East Reservoir Lake\nand I'm ready to put those shock arrows to\nuse. Their electricity can "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: activate the devices
+      - control:
+          kind: reset_colour
+      - text: "\non Divine Beast Vah Ruta's back."
+  QL_Water_Relic_Step3:
+    contents:
+      - text: "I met up with Sidon at East Reservoir Lake\nand I'm ready to put those shock arrows to\nuse. Their electricity can "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: activate the devices
+      - control:
+          kind: reset_colour
+      - text: "\non Divine Beast Vah Ruta's back."
   QL_Water_Relic_Step4:
-    - text: "I activated the devices on\nDivine Beast Vah Ruta's back,\nhalting its barrage.\n\nNow's my chance to head inside\nand "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: take back the Divine Beast
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
+    contents:
+      - text: "I activated the devices on\nDivine Beast Vah Ruta's back,\nhalting its barrage.\n\nNow's my chance to head inside\nand "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: take back the Divine Beast
+      - control:
+          kind: reset_colour
+      - text: "!"
   QL_Water_Relic_Step5:
-    - text: "I defeated Waterblight Ganon, which\nhad taken control of Divine Beast Vah Ruta.\n\nDivine Beast Vah Ruta has been enshrined\nto the west of Lanayru Great Spring.\n\nNow to return to Zora's Domain and report to\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: King Dorephan
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+    contents:
+      - text: "I defeated Waterblight Ganon, which\nhad taken control of Divine Beast Vah Ruta.\n\nDivine Beast Vah Ruta has been enshrined\nto the west of Lanayru Great Spring.\n\nNow to return to Zora's Domain and report to\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: King Dorephan
+      - control:
+          kind: reset_colour
+      - text: "."

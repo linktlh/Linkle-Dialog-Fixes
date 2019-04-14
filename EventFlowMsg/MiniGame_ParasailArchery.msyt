@@ -1,757 +1,696 @@
 ---
+group_count: 37
+atr1_unknown: 4
 entries:
-  talk29:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: Oooooh!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " That's really cool!"
-  "0010":
-    - text: "Hey, Tulin!"
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Yeah, it's just like I said!"
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 16
-    - text: Is that really all you got?
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 19
-    - text: Huh?
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You don't have a bow, Linkle?"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "You should go find a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: bow
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " somewhere!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThen you can come back and show me\nyour neat bow tricks!"
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 3
-    - text: "Your "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: bow
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " is gone?!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Wait, come back\nreal quick!"
-  near00:
-    - text: Yaaay!
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 3
-    - text: "You're out of "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: arrows
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Wait, come back\nreal quick!"
-  near01:
-    - text: Good luck!
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 3
-    - text: "Time's up!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Come back!"
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 3
-    - text: "Uh-oh, you went too far! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Come back\nreal quick!"
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 19
-    - text: Huh?
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " But...you're not carrying any\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: arrows
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " at all!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "Go get some "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "arrows "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "somewhere so you\ncan show me your neat bow tricks!"
-  talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 6
-    - text: "What's wrong?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Are you quitting?!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 7
-            field_3: 9
-            field_4:
-              - 0
-              - 1
-  talk30:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: Wooooow!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You're amazing!"
   "0000":
-    - text: Of course!
+    attributes: ""
+    contents:
+      - text: Of course!
   "0001":
-    - text: "I'm all right."
+    attributes: ""
+    contents:
+      - text: "I'm all right."
   "0002":
-    - text: Sure!
+    attributes: ""
+    contents:
+      - text: Sure!
   "0003":
-    - text: Is that all the rules?
+    attributes: ""
+    contents:
+      - text: Is that all the rules?
   "0004":
-    - text: Maybe next time.
+    attributes: ""
+    contents:
+      - text: Maybe next time.
+  "0007":
+    attributes: ""
+    contents:
+      - text: Yes.
+  "0009":
+    attributes: ""
+    contents:
+      - text: No.
+  "0010":
+    attributes: ""
+    contents:
+      - text: "Hey, Tulin!"
+  near00:
+    attributes: Npc_HighMountain001
+    contents:
+      - text: Yaaay!
+  near01:
+    attributes: Npc_HighMountain001
+    contents:
+      - text: Good luck!
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 2
-    - text: "Hey! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Hey, Linkle!"
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 10
-            field_3:
-              - 1
-              - 205
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Hey! "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Hey, Linkle!"
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 10
+              field_3:
+                - 1
+                - 205
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 6
-    - text: "You're Linkle, right?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " My dad told me\nabout you! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Also, he said you're REAL\ngood with a bow! Is that true?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 2
+      - text: "You're Linkle, right?"
+      - control:
+          kind: pause
+          length: longer
+      - text: " My dad told me\nabout you! "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Also, he said you're REAL\ngood with a bow! Is that true?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
   talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 11
-    - text: "Wow! That's so neat!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Wow! That's so neat!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: You gotta show me!
-  "0007":
-    - text: Yes.
+      - text: You gotta show me!
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 0
-    - text: Nuh-uh!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Dad said you were great, and\nDad never lies, so it must be true!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Nuh-uh!
+      - control:
+          kind: pause
+          length: longer
+      - text: " Dad said you were great, and\nDad never lies, so it must be true!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Come on, show me!"
+      - text: "Come on, show me!"
+  talk05:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "I'll count down, and you'll break all the\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "targets "
+      - control:
+          kind: reset_colour
+      - text: "before time's up!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "When you break a bunch, I'll give you\na prize!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 4
+      - text: Are you ready yet?!
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+            - 4
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk06:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Ooh! "
+      - control:
+          kind: pause
+          length: short
+      - text: On your mark...
+  talk07:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Aww...
+      - control:
+          kind: pause
+          length: short
+      - text: " You don't wanna?"
+  talk09:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 10
+      - text: Linkle!
+      - control:
+          kind: pause
+          length: longer
+      - text: " Will you show me what you can do\nwith a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: bow
+      - control:
+          kind: reset_colour
+      - text: "?"
+  talk10:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Yeah, it's just like I said!"
   talk100:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_ValleyVillage010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 2
-    - text: "It's you..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Haven't seen you in a while."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nNow that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Medoh
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "'s calmed down,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I've\nstarted training Tulin again.\nIf you have the time, would you mind\nshowing Tulin how you handle a bow?"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "He gets his bluntness from me, but he\ndoesn't mean anything by it."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Don't let\nwhatever he says get to you."
+      - text: "It's you..."
+      - control:
+          kind: pause
+          length: longer
+      - text: " Haven't seen you in a while."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nNow that "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Medoh
+      - control:
+          kind: reset_colour
+      - text: "'s calmed down,"
+      - control:
+          kind: pause
+          length: short
+      - text: " I've\nstarted training Tulin again.\nIf you have the time, would you mind\nshowing Tulin how you handle a bow?"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "He gets his bluntness from me, but he\ndoesn't mean anything by it."
+      - control:
+          kind: pause
+          length: long
+      - text: " Don't let\nwhatever he says get to you."
   talk101:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_ValleyVillage010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 0
-    - text: "Would you mind showing Tulin how you\nhandle a bow?"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "Watching a master at work and trying to\ncopy their techniques is a good start\nwhen it comes to training, after all."
-  "0009":
-    - text: No.
-  talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "I'll count down, and you'll break all the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "targets "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "before time's up!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "When you break a bunch, I'll give you\na prize!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 4
-    - text: Are you ready yet?!
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 2
-            field_3: 3
-            field_4: 4
-            field_5:
-              - 0
-              - 2
+      - text: "Would you mind showing Tulin how you\nhandle a bow?"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "Watching a master at work and trying to\ncopy their techniques is a good start\nwhen it comes to training, after all."
   talk102:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_ValleyVillage010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 0
-    - text: Show Tulin how you handle a bow.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " It\ncould set a good example for him."
-  talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Ooh! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: On your mark...
+      - text: Show Tulin how you handle a bow.
+      - control:
+          kind: pause
+          length: longer
+      - text: " It\ncould set a good example for him."
   talk103:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_ValleyVillage010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - text: Is something wrong?
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " If you want to stop,\nthen take it up with Tulin."
-  talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Is something wrong?
+      - control:
+          kind: pause
+          length: longer
+      - text: " If you want to stop,\nthen take it up with Tulin."
+  talk12:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 16
+      - text: Is that really all you got?
+  talk13:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 19
+      - text: Huh?
+      - control:
+          kind: pause
+          length: short
+      - text: " You don't have a bow, Linkle?"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "You should go find a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: bow
+      - control:
+          kind: reset_colour
+      - text: " somewhere!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThen you can come back and show me\nyour neat bow tricks!"
+  talk14:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
-            - 1
-    - text: Aww...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You don't wanna?"
-  talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 10
-    - text: Linkle!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Will you show me what you can do\nwith a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: bow
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-  talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+            - 3
+      - text: "Your "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: bow
+      - control:
+          kind: reset_colour
+      - text: " is gone?!"
+      - control:
+          kind: pause
+          length: longer
+      - text: " Wait, come back\nreal quick!"
+  talk15:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
-            - 1
-    - text: OK!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Go break those "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: targets
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-  talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 20
-    - text: "You're amazing, Linkle!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " When you fired\nyour bow, it was like time stopped!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "Oh, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Dad
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " told me to give you "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "this "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "to \nthank you."
-  talk23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 10
-    - text: "Yaaay! I knew you could do it, Linkle!\nI'll remember the way you shoot when\nI practice!\nOh, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Dad
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " told me to give you "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: this
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " to\nthank you."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Come back to show me\nyour neat tricks again anytime!"
-  talk24:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+            - 3
+      - text: "You're out of "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: arrows
+      - control:
+          kind: reset_colour
+      - text: "?!"
+      - control:
+          kind: pause
+          length: longer
+      - text: " Wait, come back\nreal quick!"
+  talk16:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 3
+      - text: "Time's up!"
+      - control:
+          kind: pause
+          length: longer
+      - text: " Come back!"
+  talk17:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 3
+      - text: "Uh-oh, you went too far! "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Come back\nreal quick!"
+  talk18:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 19
+      - text: Huh?
+      - control:
+          kind: pause
+          length: longer
+      - text: " But...you're not carrying any\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: arrows
+      - control:
+          kind: reset_colour
+      - text: " at all!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "Go get some "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "arrows "
+      - control:
+          kind: reset_colour
+      - text: "somewhere so you\ncan show me your neat bow tricks!"
+  talk19:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 6
+      - text: "What's wrong?"
+      - control:
+          kind: pause
+          length: short
+      - text: " Are you quitting?!"
+      - control:
+          kind: choice
+          choice_labels:
             - 7
             - 9
-    - text: "That was nifty, Linkle!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "Oh, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Dad
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " told me to give you "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: this
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " to\nthank you."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Come back and try again\nanytime!"
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk20:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: OK!
+      - control:
+          kind: pause
+          length: longer
+      - text: " Go break those "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: targets
+      - control:
+          kind: reset_colour
+      - text: "!"
+  talk22:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 20
+      - text: "You're amazing, Linkle!"
+      - control:
+          kind: pause
+          length: longer
+      - text: " When you fired\nyour bow, it was like time stopped!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "Oh, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Dad
+      - control:
+          kind: reset_colour
+      - text: " told me to give you "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "this "
+      - control:
+          kind: reset_colour
+      - text: "to \nthank you."
+  talk23:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 10
+      - text: "Yaaay! I knew you could do it, Linkle!\nI'll remember the way you shoot when\nI practice!\nOh, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Dad
+      - control:
+          kind: reset_colour
+      - text: " told me to give you "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: this
+      - control:
+          kind: reset_colour
+      - text: " to\nthank you."
+      - control:
+          kind: pause
+          length: longer
+      - text: " Come back to show me\nyour neat tricks again anytime!"
+  talk24:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 9
+      - text: "That was nifty, Linkle!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "Oh, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Dad
+      - control:
+          kind: reset_colour
+      - text: " told me to give you "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: this
+      - control:
+          kind: reset_colour
+      - text: " to\nthank you."
+      - control:
+          kind: pause
+          length: longer
+      - text: " Come back and try again\nanytime!"
   talk25:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 4
-    - text: "You had some trouble, but that's OK.\nI have trouble too sometimes. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I still\nlearned a lot watching you!\nOh, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Dad
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " told me to give you "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: this
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " to\nthank you."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Come back and show me\nmore anytime!"
+      - text: "You had some trouble, but that's OK.\nI have trouble too sometimes. "
+      - control:
+          kind: pause
+          length: short
+      - text: "I still\nlearned a lot watching you!\nOh, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Dad
+      - control:
+          kind: reset_colour
+      - text: " told me to give you "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: this
+      - control:
+          kind: reset_colour
+      - text: " to\nthank you."
+      - control:
+          kind: pause
+          length: longer
+      - text: " Come back and show me\nmore anytime!"
   talk26:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 0
-    - text: Huh?
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Um..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "what was such a big deal\nabout that?"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Huh?
+      - control:
+          kind: pause
+          length: short
+      - text: " Um..."
+      - control:
+          kind: pause
+          length: short
+      - text: "what was such a big deal\nabout that?"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "Next time, make sure you show me\nsomething a lot cooler, OK?"
+      - text: "Next time, make sure you show me\nsomething a lot cooler, OK?"
   talk27:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: Whooooooa!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Awesome!"
+      - text: Whooooooa!
+      - control:
+          kind: pause
+          length: short
+      - text: " Awesome!"
   talk28:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: Oooooh!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Look at that!"
+      - text: Oooooh!
+      - control:
+          kind: pause
+          length: short
+      - text: " Look at that!"
+  talk29:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: Oooooh!
+      - control:
+          kind: pause
+          length: short
+      - text: " That's really cool!"
+  talk30:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: Wooooow!
+      - control:
+          kind: pause
+          length: short
+      - text: " You're amazing!"

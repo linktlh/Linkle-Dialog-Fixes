@@ -1,37 +1,52 @@
 ---
+group_count: 11
+atr1_unknown: 0
 entries:
-  Demo117_0_Text021:
-    - text: That thing is history!
-  Demo117_0_Text022:
-    - text: "Bad news, Linkle."
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: It looks like I got hit pretty good back there...
-  Demo117_0_Text023:
-    - text: I think...
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: I think I need to get back to the Flight Range.
   Demo117_0_Text001:
-    - text: " "
-  Demo117_0_Text024:
-    - text: I just hope that...
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: I can make it back...
-  Demo117_0_Text025:
-    - text: You head down to Medoh.
-  Demo117_0_Text026:
-    - text: Good luck!
-  Demo117_0_Text027:
-    - text: "It's all you!"
+    contents:
+      - text: " "
   Demo117_0_Text005:
-    - text: " "
+    contents:
+      - text: " "
   Demo117_0_Text020:
-    - text: "Well done, Linkle!"
+    contents:
+      - text: "Well done, Linkle!"
+  Demo117_0_Text021:
+    contents:
+      - text: That thing is history!
+  Demo117_0_Text022:
+    contents:
+      - text: "Bad news, Linkle."
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: It looks like I got hit pretty good back there...
+  Demo117_0_Text023:
+    contents:
+      - text: I think...
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: I think I need to get back to the Flight Range.
+  Demo117_0_Text024:
+    contents:
+      - text: I just hope that...
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: I can make it back...
+  Demo117_0_Text025:
+    contents:
+      - text: You head down to Medoh.
+  Demo117_0_Text026:
+    contents:
+      - text: Good luck!
+  Demo117_0_Text027:
+    contents:
+      - text: "It's all you!"

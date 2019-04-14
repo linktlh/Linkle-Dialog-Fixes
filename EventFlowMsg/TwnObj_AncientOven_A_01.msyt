@@ -1,174 +1,178 @@
 ---
+group_count: 13
+atr1_unknown: 4
 entries:
-  talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 14
-    - text: "Insufficient materials available\nfor exchange."
   "0002":
-    - text: Make exchange.
-  talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 14
-    - text: "Insufficient rupees available\nfor exchange."
+    attributes: ""
+    contents:
+      - text: Make exchange.
   "0003":
-    - text: Change exchange.
-  talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 14
-    - text: No room in inventory.
-  talk09:
-    - text: OK.
+    attributes: ""
+    contents:
+      - text: Change exchange.
+  near00:
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - text: "*zzzzzzrt*"
+  near01:
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - text: Materials required.
+  near02:
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - text: Systems green.
+  near03:
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - text: Optimal conditions.
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 2
-    - text: "Hello, *zzzt*, "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: FamiliarNameMissing!
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nWelcome!"
-  talk10:
-    - text: "Hey hey, *beep*,"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " FamiliarNameMissing!"
-  near00:
-    - text: "*zzzzzzrt*"
+      - text: "Hello, *zzzt*, "
+      - control:
+          kind: pause
+          length: longer
+      - text: FamiliarNameMissing!
+      - control:
+          kind: pause
+          length: long
+      - text: "\nWelcome!"
   talk01:
-    - text: Insert materials and rupees.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nReceive ancient equipment in exchange."
-  near01:
-    - text: Materials required.
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - text: Insert materials and rupees.
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nReceive ancient equipment in exchange."
   talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 11
-    - text: Thanks for your time.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Come\nagain, *bwop*,"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " FamiliarNameMissing!"
-  near02:
-    - text: Systems green.
+      - text: Thanks for your time.
+      - control:
+          kind: pause
+          length: short
+      - text: " Come\nagain, *bwop*,"
+      - control:
+          kind: pause
+          length: longer
+      - text: " FamiliarNameMissing!"
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 16
-    - text: "Exchange for "
-    - control:
-        two:
-          type11:
-            field_1: 42
-            string: Shop_SelectItemName
-            field_3: 0
-    - text: "?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 3
-            field_4:
-              - 0
-              - 1
-  near03:
-    - text: Optimal conditions.
+      - text: "Exchange for "
+      - control:
+          kind: variable
+          variable_kind: 11
+          name: Shop_SelectItemName
+      - text: "?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk04:
-    - text: "Exchanging... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "*beeeeeep beep*"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nExchanging... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "*beeeeeep beep*"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - text: "Exchanging... "
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "*beeeeeep beep*"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nExchanging... "
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "*beeeeeep beep*"
+      - control:
+          kind: text_size
+          percent: 100
   talk05:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - control:
+          kind: text_size
+          percent: 125
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 11
-    - text: Results available.
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\n*bweep* "
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+      - text: Results available.
+      - control:
+          kind: pause
+          length: long
+      - text: "\n*bweep* "
+      - control:
+          kind: text_size
+          percent: 100
+  talk06:
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 14
+      - text: "Insufficient materials available\nfor exchange."
+  talk07:
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 14
+      - text: "Insufficient rupees available\nfor exchange."
+  talk08:
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 14
+      - text: No room in inventory.
+  talk09:
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - text: OK.
+  talk10:
+    attributes: TwnObj_AncientOven_A_01
+    contents:
+      - text: "Hey hey, *beep*,"
+      - control:
+          kind: pause
+          length: longer
+      - text: " FamiliarNameMissing!"

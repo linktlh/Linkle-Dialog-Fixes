@@ -1,20 +1,20 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
-  QL_MacuseIseki_Finish:
-    - text: "I discovered the hero's trial by carrying the\norb to the center of Rist Peninsula."
-  QL_MacuseIseki_Name:
-    - text: Into the Vortex
   QL_MacuseIseki_Desc:
-    - text: "\"Only a hero bearing this "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: ancient orb
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " shall\nbe granted the right of trial on Rist Peninsula.\"\n\nRecalling these words engraved on the stone\ntablet, I ponder their meaning again."
+    contents:
+      - text: "\"Only a hero bearing this "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: ancient orb
+      - control:
+          kind: reset_colour
+      - text: " shall\nbe granted the right of trial on Rist Peninsula.\"\n\nRecalling these words engraved on the stone\ntablet, I ponder their meaning again."
+  QL_MacuseIseki_Finish:
+    contents:
+      - text: "I discovered the hero's trial by carrying the\norb to the center of Rist Peninsula."
+  QL_MacuseIseki_Name:
+    contents:
+      - text: Into the Vortex

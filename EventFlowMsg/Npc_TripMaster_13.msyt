@@ -1,79 +1,106 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
-  talk_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 2
-    - text: Yah! We meet again!
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "I didn't really dress for the weather here,"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nbut the world needs Beedle's goods!"
-  TerrorArrow:
-    - text: Please stop!
-  TerrorLightning:
-    - text: AHHH!
-  TerrorBomb:
-    - text: WHOA NOW!
-  TerrorGuardian:
-    - text: Hyeeeeeeehh!
-  TerrorHorse:
-    - text: Whoa!
   ClearTerrorEnemy:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 16
-              - 205
-    - text: Phew...
-  TerrorInsect:
-    - text: NOT BEES! AHHHH!
-  TerrorFire:
-    - text: "I don't like fire!"
-  TerrorExplosion:
-    - text: Haaaaeeeeee!
-  TerrorEnemy:
-    - text: Eeeeeeeeek!
-  TerrorSword:
-    - text: Owww!
-  TerrorAnimal:
-    - text: Get back!
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 16
+            - 205
+      - text: Phew...
   ClearTerrorGuardian:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 16
-              - 205
-    - text: That was scary...
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 16
+            - 205
+      - text: That was scary...
   Near:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TripMaster_13
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 1
-    - control:
-        four:
-          type2:
-            field_1: 22
-            string: CustomCold
-    - text: Brrrrrrrrrrrr...
+      - control:
+          kind: animation
+          name: CustomCold
+      - text: Brrrrrrrrrrrr...
+  TerrorAnimal:
+    attributes: ""
+    contents:
+      - text: Get back!
+  TerrorArrow:
+    attributes: ""
+    contents:
+      - text: Please stop!
+  TerrorBomb:
+    attributes: ""
+    contents:
+      - text: WHOA NOW!
+  TerrorEnemy:
+    attributes: ""
+    contents:
+      - text: Eeeeeeeeek!
+  TerrorExplosion:
+    attributes: ""
+    contents:
+      - text: Haaaaeeeeee!
+  TerrorFire:
+    attributes: ""
+    contents:
+      - text: "I don't like fire!"
+  TerrorGuardian:
+    attributes: ""
+    contents:
+      - text: Hyeeeeeeehh!
+  TerrorHorse:
+    attributes: ""
+    contents:
+      - text: Whoa!
   TerrorImpulse:
-    - text: Ohhh!
+    attributes: ""
+    contents:
+      - text: Ohhh!
+  TerrorInsect:
+    attributes: ""
+    contents:
+      - text: NOT BEES! AHHHH!
+  TerrorLightning:
+    attributes: ""
+    contents:
+      - text: AHHH!
+  TerrorSword:
+    attributes: ""
+    contents:
+      - text: Owww!
+  talk_03:
+    attributes: Self
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 2
+      - text: Yah! We meet again!
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "I didn't really dress for the weather here,"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nbut the world needs Beedle's goods!"

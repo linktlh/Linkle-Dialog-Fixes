@@ -1,813 +1,758 @@
 ---
+group_count: 41
+atr1_unknown: 4
 entries:
-  Npc_kokiri003_Sell010b:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 25
-    - text: "I'm so glad I prepared a variety of\nitems!"
-  Npc_kokiri003_Sell030:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "Thanks for letting me help you save\nHyrule, Ms. Heroine!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "I'll make sure to prepare a variety of\nitems again for next time."
-  "5503":
-    - text: Never mind.
-  Npc_kokiri003_Sell010c:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: Thanks!
-  Npc_kokiri003_Talk000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Well, look who we have here! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Hello,\nMs. Heroine, and welcome to the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: General Shoppe
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\nI sell a lot of stuff here—things that I\ngather in the forest..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "things\nthat I don't gather in the forest.\nPlease choose anything you want!\nOr..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: have you come to sell?
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  Npc_kokiri003_Sell010d:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 25
-    - text: "I was able to help Ms. Heroine!\nYesssssssss!"
-  "5507":
-    - text: "I'll take 'em all!"
-  Npc_kokiri003_Talk020:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Good evening,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Ms. Heroine.\nWould you like to sell something?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  Com_Talk_00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 4
-              - 205
-    - text: What do you want to sell?
-  "5508":
-    - text: All of them.
-  Npc_kokiri003_Near000:
-    - text: Useful items here!
-  Com_Talk_01:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        four:
-          type3:
-            field_1: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "Does "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type18:
-            field_1: 32
-            string: ShopTradePrice
-            field_3: 0
-    - text: " rupees"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " sound OK?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5500
-            field_3: 5501
-            field_4:
-              - 0
-              - 1
   "0000":
-    - text: I want to sell.
-  Com_Talk_02:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 7
-              - 205
-    - text: "Thank you very much!\nWould you like to sell anything else?"
+    attributes: ""
+    contents:
+      - text: I want to sell.
   "0001":
-    - text: What do you sell?
-  Npc_kokiri003_Talk040:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "If there's anything you don't need,\nplease let me see it.\n\nI love seeing things from outside the\nforest."
+    attributes: ""
+    contents:
+      - text: What do you sell?
   "0002":
-    - text: Good-bye.
-  Npc_kokiri003_Near020:
-    - text: My shop is empty...
+    attributes: ""
+    contents:
+      - text: Good-bye.
+  "5500":
+    attributes: ""
+    contents:
+      - text: OK.
+  "5501":
+    attributes: ""
+    contents:
+      - text: Never mind.
+  "5502":
+    attributes: ""
+    contents:
+      - text: Buy.
+  "5503":
+    attributes: ""
+    contents:
+      - text: Never mind.
+  "5507":
+    attributes: ""
+    contents:
+      - text: "I'll take 'em all!"
+  "5508":
+    attributes: ""
+    contents:
+      - text: All of them.
+  Com_Talk_00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 4
+            - 205
+      - text: What do you want to sell?
+  Com_Talk_01:
+    attributes: ""
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: raw
+          four:
+            three:
+              field_1: 0
+      - control:
+          kind: reset_colour
+      - text: "Does "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: " rupees"
+      - control:
+          kind: reset_colour
+      - text: " sound OK?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_02:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 7
+            - 205
+      - text: "Thank you very much!\nWould you like to sell anything else?"
+  Com_Talk_02b:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 9
+            - 205
+      - text: Will you sell me more things?
+  Com_Talk_02c:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 11
+      - text: "I want more of Ms. Hero's things!"
+  Com_Talk_02d:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 7
+            - 205
+      - text: "I'm so happy I can buy things from \nMs. Hero!"
   Com_Talk_04:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 10
-              - 205
-    - text: "Oh, you changed your mind? OK."
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 10
+            - 205
+      - text: "Oh, you changed your mind? OK."
   Com_Talk_05:
-    - control:
-        four:
-          type3:
-            field_1: 0
-    - text: "If you're selling, I'm buying."
+    attributes: ""
+    contents:
+      - control:
+          kind: raw
+          four:
+            three:
+              field_1: 0
+      - text: "If you're selling, I'm buying."
+  Com_Talk_05b:
+    attributes: ""
+    contents:
+      - control:
+          kind: raw
+          four:
+            three:
+              field_1: 0
+      - text: "Do you have things from outside the \nforest?"
+  Com_Talk_05c:
+    attributes: ""
+    contents:
+      - control:
+          kind: raw
+          four:
+            three:
+              field_1: 0
+      - text: What will you sell me?
+  Com_Talk_05d:
+    attributes: ""
+    contents:
+      - control:
+          kind: raw
+          four:
+            three:
+              field_1: 0
+      - text: "Aha! "
+      - control:
+          kind: pause
+          length: long
+      - text: "So this is the inside of \nMs. Hero's stash!"
+  Com_Talk_13:
+    attributes: Npc_Kakariko010
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: raw
+          four:
+            three:
+              field_1: 0
+      - control:
+          kind: reset_colour
+      - text: How many would you like to sell?
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5508
+            - 5503
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Com_Talk_14:
+    attributes: Npc_Kakariko010
+    contents:
+      - control:
+          kind: raw
+          four:
+            three:
+              field_1: 0
+      - text: "If you want to sell "
+      - control:
+          kind: variable
+          variable_kind: 15
+          name: Shop_TradeItemNum
+      - text: "...\nHow does "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: " rupees "
+      - control:
+          kind: reset_colour
+      - text: sound?
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_15:
+    attributes: Npc_Kakariko010
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 14
+            - 205
+      - text: "Oh, I can't do anything with that at this\nshop."
+  Com_Talk_16:
+    attributes: Npc_Kakariko010
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 2
+            - 205
+      - text: "I'll need you to take that off before\nselling it to me."
+  Com_Talk_33:
+    attributes: Npc_Kakariko010
+    contents:
+      - control:
+          kind: raw
+          four:
+            three:
+              field_1: 0
+      - text: "I can give you "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: " rupees"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_34:
+    attributes: ""
+    contents:
+      - control:
+          kind: raw
+          four:
+            three:
+              field_1: 0
+      - text: OK.
+      - control:
+          kind: pause
+          length: short
+      - text: " I've got "
+      - control:
+          kind: variable
+          variable_kind: 15
+          name: Shop_TradeItemNum
+      - text: " of them, so that'll be\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: " rupees"
+      - control:
+          kind: reset_colour
+      - text: ", please!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_35:
+    attributes: ""
+    contents:
+      - control:
+          kind: raw
+          four:
+            three:
+              field_1: 0
+      - text: "You want to sell all of them?\nI'll buy "
+      - control:
+          kind: variable
+          variable_kind: 15
+          name: Shop_TradeItemNum
+      - text: " of them off you for\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: " rupees"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_50:
+    attributes: ""
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 6
+      - control:
+          kind: reset_colour
+      - text: "That'll be "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: " rupees"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_51:
+    attributes: ""
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 6
+      - control:
+          kind: reset_colour
+      - text: How many were you thinking?
+      - control:
+          kind: choice
+          choice_labels:
+            - 5502
+            - 5507
+            - 5503
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Com_Talk_52:
+    attributes: ""
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: raw
+          four:
+            three:
+              field_1: 0
+      - control:
+          kind: reset_colour
+      - text: "So "
+      - control:
+          kind: variable
+          variable_kind: 15
+          name: Shop_TradeItemNum
+      - text: "?\nThat'll be "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: " rupees"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_53:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Oh?
+      - control:
+          kind: pause
+          length: short
+      - text: " You changed your mind?\nOK."
+  Com_Talk_54:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 16
+      - text: "It looks like you don't have enough\nrupees..."
+  Com_Talk_55:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 16
+      - text: "You're already carrying too much stuff.\nDon't hurt yourself!"
+  Com_Talk_56:
+    attributes: Npc_Kakariko010
+    contents:
+      - control:
+          kind: raw
+          four:
+            three:
+              field_1: 0
+      - text: "That'll be "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: " rupees"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 5502
+            - 5503
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Npc_kokiri003_Near000:
+    attributes: Npc_kokiri003
+    contents:
+      - text: Useful items here!
+  Npc_kokiri003_Near020:
+    attributes: Npc_kokiri003
+    contents:
+      - text: My shop is empty...
+  Npc_kokiri003_Sell000:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "I heard you'd be coming, Ms. Hero.\nThat's why I opened the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: General Shoppe
+      - control:
+          kind: reset_colour
+      - text: "!\nYou're my only customer, so if you want\nto buy or sell something, just let me\nknow!"
+  Npc_kokiri003_Sell010:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 18
+      - text: Thank you!
+  Npc_kokiri003_Sell010b:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 25
+      - text: "I'm so glad I prepared a variety of\nitems!"
+  Npc_kokiri003_Sell010c:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: Thanks!
+  Npc_kokiri003_Sell010d:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 25
+      - text: "I was able to help Ms. Hero!\nYesssssssss!"
+  Npc_kokiri003_Sell020:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "Yaaaay! Thanks for letting me help\nyou save Hyrule!\n\nI heard you'd be coming, Ms. Hero.\nThat's why I opened the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: General Shoppe
+      - control:
+          kind: reset_colour
+      - text: "!\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "You're my only customer, so if you want\nto buy or sell something, just let me\nknow!"
+  Npc_kokiri003_Sell030:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "Thanks for letting me help you save\nHyrule, Ms. Hero!\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "I'll make sure to prepare a variety of\nitems again for next time."
+  Npc_kokiri003_Talk000:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Well, look who we have here! "
+      - control:
+          kind: pause
+          length: short
+      - text: "Hello,\nMs. Hero, and welcome to the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: General Shoppe
+      - control:
+          kind: reset_colour
+      - text: "!\nI sell a lot of stuff here—things that I\ngather in the forest..."
+      - control:
+          kind: pause
+          length: short
+      - text: "things\nthat I don't gather in the forest.\nPlease choose anything you want!\nOr..."
+      - control:
+          kind: pause
+          length: short
+      - text: have you come to sell?
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Npc_kokiri003_Talk010:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Welcome to the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: General Shoppe
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nPlease browse to your heart's desire.\n\nOr... "
+      - control:
+          kind: pause
+          length: short
+      - text: Would you rather sell something?
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Npc_kokiri003_Talk020:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Good evening,"
+      - control:
+          kind: pause
+          length: short
+      - text: " Ms. Hero.\nWould you like to sell something?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Npc_kokiri003_Talk030:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "I'm sorry..."
+      - control:
+          kind: pause
+          length: short
+      - text: " We're completely sold out at\nthe moment. But if you want to sell\nsomething, I'm all ears!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Npc_kokiri003_Talk040:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "If there's anything you don't need,\nplease let me see it.\n\nI love seeing things from outside the\nforest."
+  Npc_kokiri003_Talk050:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 18
+      - text: Ms. Hero!
+      - control:
+          kind: pause
+          length: short
+      - text: " Please be careful walking\nthrough the forest at night. Night tends\nto bring out the nastier monsters."
   Npc_kokiri003_Talk060:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 25
-    - text: Thank you kindly.
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nI'll need to restock my wares."
-  Com_Talk_05b:
-    - control:
-        four:
-          type3:
-            field_1: 0
-    - text: "Do you have things from outside the \nforest?"
-  Com_Talk_05c:
-    - control:
-        four:
-          type3:
-            field_1: 0
-    - text: What will you sell me?
-  Com_Talk_05d:
-    - control:
-        four:
-          type3:
-            field_1: 0
-    - text: "Aha! "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "So this is the inside of \nMs. Heroine's stash!"
-  Npc_kokiri003_Sell000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "I heard you'd be coming, Ms. Heroine.\nThat's why I opened the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: General Shoppe
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\nYou're my only customer, so if you want\nto buy or sell something, just let me\nknow!"
-  Npc_kokiri003_Sell020:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "Yaaaay! Thanks for letting me help\nyou save Hyrule!\n\nI heard you'd be coming, Ms. Heroine.\nThat's why I opened the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: General Shoppe
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "You're my only customer, so if you want\nto buy or sell something, just let me\nknow!"
-  Npc_kokiri003_Talk010:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Welcome to the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: General Shoppe
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nPlease browse to your heart's desire.\n\nOr... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Would you rather sell something?
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  Npc_kokiri003_Talk030:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "I'm sorry..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " We're completely sold out at\nthe moment. But if you want to sell\nsomething, I'm all ears!"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  Com_Talk_02b:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 9
-              - 205
-    - text: Will you sell me more things?
-  Com_Talk_02c:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 11
-    - text: "I want more of Ms. Heroine's things!"
-  Com_Talk_02d:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 7
-              - 205
-    - text: "I'm so happy I can buy things from \nMs. Heroine!"
-  Npc_kokiri003_Talk050:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 18
-    - text: Ms. Heroine!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Please be careful walking\nthrough the forest at night. Night tends\nto bring out the nastier monsters."
-  Com_Talk_13:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        four:
-          type3:
-            field_1: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: How many would you like to sell?
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 5500
-            field_3: 5508
-            field_4: 5503
-            field_5:
-              - 0
-              - 2
-  Com_Talk_14:
-    - control:
-        four:
-          type3:
-            field_1: 0
-    - text: "If you want to sell "
-    - control:
-        two:
-          type15:
-            field_1: 38
-            string: Shop_TradeItemNum
-            field_3: 0
-    - text: "...\nHow does "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type18:
-            field_1: 32
-            string: ShopTradePrice
-            field_3: 0
-    - text: " rupees "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: sound?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5500
-            field_3: 5501
-            field_4:
-              - 0
-              - 1
-  Com_Talk_15:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 14
-              - 205
-    - text: "Oh, I can't do anything with that at this\nshop."
+      - text: Thank you kindly.
+      - control:
+          kind: pause
+          length: long
+      - text: "\nI'll need to restock my wares."
   Npc_kokiri003_Talk070:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_kokiri003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 9
-    - text: "I've prepared some arrows and food"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " that\nI thought may prove useful to you,\nMs. Heroine!\nIf you use a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: shock arrow
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " when it's\nraining, it does extra damage.\nI highly recommend it."
-  Com_Talk_16:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 2
-              - 205
-    - text: "I'll need you to take that off before\nselling it to me."
-  Com_Talk_33:
-    - control:
-        four:
-          type3:
-            field_1: 0
-    - text: "I can give you "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type18:
-            field_1: 32
-            string: ShopTradePrice
-            field_3: 0
-    - text: " rupees"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5500
-            field_3: 5501
-            field_4:
-              - 0
-              - 1
-  Com_Talk_50:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 6
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "That'll be "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type18:
-            field_1: 32
-            string: ShopTradePrice
-            field_3: 0
-    - text: " rupees"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5500
-            field_3: 5501
-            field_4:
-              - 0
-              - 1
-  Com_Talk_34:
-    - control:
-        four:
-          type3:
-            field_1: 0
-    - text: OK.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I've got "
-    - control:
-        two:
-          type15:
-            field_1: 38
-            string: Shop_TradeItemNum
-            field_3: 0
-    - text: " of them, so that'll be\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type18:
-            field_1: 32
-            string: ShopTradePrice
-            field_3: 0
-    - text: " rupees"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", please!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5500
-            field_3: 5501
-            field_4:
-              - 0
-              - 1
-  Com_Talk_51:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 6
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: How many were you thinking?
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 5502
-            field_3: 5507
-            field_4: 5503
-            field_5:
-              - 0
-              - 2
-  Com_Talk_35:
-    - control:
-        four:
-          type3:
-            field_1: 0
-    - text: "You want to sell all of them?\nI'll buy "
-    - control:
-        two:
-          type15:
-            field_1: 38
-            string: Shop_TradeItemNum
-            field_3: 0
-    - text: " of them off you for\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type18:
-            field_1: 32
-            string: ShopTradePrice
-            field_3: 0
-    - text: " rupees"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5500
-            field_3: 5501
-            field_4:
-              - 0
-              - 1
-  Com_Talk_52:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        four:
-          type3:
-            field_1: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "So "
-    - control:
-        two:
-          type15:
-            field_1: 38
-            string: Shop_TradeItemNum
-            field_3: 0
-    - text: "?\nThat'll be "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type18:
-            field_1: 32
-            string: ShopTradePrice
-            field_3: 0
-    - text: " rupees"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5500
-            field_3: 5501
-            field_4:
-              - 0
-              - 1
-  Com_Talk_53:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Oh?
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You changed your mind?\nOK."
-  Com_Talk_54:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 16
-    - text: "It looks like you don't have enough\nrupees..."
-  Npc_kokiri003_Sell010:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 18
-    - text: Thank you!
-  Com_Talk_55:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 16
-    - text: "You're already carrying too much stuff.\nDon't hurt yourself!"
-  "5500":
-    - text: OK.
-  Com_Talk_56:
-    - control:
-        four:
-          type3:
-            field_1: 0
-    - text: "That'll be "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type18:
-            field_1: 32
-            string: ShopTradePrice
-            field_3: 0
-    - text: " rupees"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5502
-            field_3: 5503
-            field_4:
-              - 0
-              - 1
-  "5501":
-    - text: Never mind.
-  "5502":
-    - text: Buy.
+      - text: "I've prepared some arrows and food"
+      - control:
+          kind: pause
+          length: short
+      - text: " that\nI thought may prove useful to you,\nMs. Hero!\nIf you use a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: shock arrow
+      - control:
+          kind: reset_colour
+      - text: " when it's\nraining, it does extra damage.\nI highly recommend it."

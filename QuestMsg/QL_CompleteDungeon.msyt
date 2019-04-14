@@ -1,8 +1,13 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
-  QL_CompleteDungeon_Finish:
-    - text: "I've accepted the gift from the monks at the\nForgotten Temple.\n\nInside, I found a special green outfit made\nespecially for the hero who braved the\nwilderness alone.\n\nWill donning this outfit help me to become\nthe land's true hero?"
-  QL_CompleteDungeon_Name:
-    - text: A Gift from the Monks
   QL_CompleteDungeon_Desc:
-    - text: "I've conquered all of the shrine trials.\nThe monks have prepared a gift for just such\nan occasion.\n\nI must head to the Forgotten Temple where the\noldest statue of the Goddess stands to see\nwhat they have left for me there."
+    contents:
+      - text: "I've conquered all of the shrine trials.\nThe monks have prepared a gift for just such\nan occasion.\n\nI must head to the Forgotten Temple where the\noldest statue of the Goddess stands to see\nwhat they have left for me there."
+  QL_CompleteDungeon_Finish:
+    contents:
+      - text: "I've accepted the gift from the monks at the\nForgotten Temple.\n\nInside, I found a special green outfit made\nespecially for the hero who braved the\nwilderness alone.\n\nWill donning this outfit help me to become\nthe land's true hero?"
+  QL_CompleteDungeon_Name:
+    contents:
+      - text: A Gift from the Monks

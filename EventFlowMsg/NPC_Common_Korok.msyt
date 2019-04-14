@@ -1,86 +1,172 @@
 ---
+group_count: 29
+atr1_unknown: 4
 entries:
-  TerrorLightning_01:
-    - text: Zap zap!
-  TerrorInsect_00:
-    - text: Buzz buzz buzz!
-  TerrorLightning_02:
-    - text: Hya wah wah!
-  TerrorInsect_01:
-    - text: "Oh, nooooo!"
-  TerrorInsect_02:
-    - text: Wah!
-  TerrorEnemy_00:
-    - text: Scary!
-  TerrorEnemy_01:
-    - text: Nooo!
-  TerrorEnemy_02:
-    - text: "Help me, Ms. Heroine!"
-  TerrorImpulse_00:
-    - text: Heeeeeh!
-  TerrorHorse_00:
-    - text: So biiiig!
-  TerrorImpulse_01:
-    - text: Waaaah!
-  TerrorHorse_01:
-    - text: Neeeeeigh!
-  TerrorImpulse_02:
-    - text: Gyaaaah!
-  TerrorHorse_02:
-    - text: Yah! Yah!
-  TerrorGuardian_00:
-    - text: Scarrry!
-  TerrorGuardian_01:
-    - text: Noooo!
-  TerrorGuardian_02:
-    - text: "Help me, Ms. Heroine!"
-  TerrorSword_00:
-    - text: Wah?
-  TerrorSword_01:
-    - text: Pyah!
-  TerrorSword_02:
-    - text: Hya!
-  TerrorAnimal_00:
-    - text: Scaaaary!
   ClearTerrorEnemy_00:
-    - text: Hee...
-  TerrorBomb_00:
-    - text: Boom?!
-  TerrorAnimal_01:
-    - text: "Oh, nooooo!"
+    attributes: ""
+    contents:
+      - text: Hee...
   ClearTerrorEnemy_01:
-    - text: Phew...
-  TerrorBomb_01:
-    - text: Sparkles?!
-  TerrorAnimal_02:
-    - text: "Help me, Ms. Heroine!"
+    attributes: ""
+    contents:
+      - text: Phew...
   ClearTerrorEnemy_02:
-    - text: "Phew, hee..."
-  TerrorBomb_02:
-    - text: Heeeh!
-  TerrorFire_00:
-    - text: Ouch ouch!
-  TerrorFire_01:
-    - text: Kyaah! Kyaaah!
-  TerrorFire_02:
-    - text: Scary...
+    attributes: ""
+    contents:
+      - text: "Phew, hee..."
   ClearTerrorGuardian_00:
-    - text: Hee...
-  TerrorArrow_00:
-    - text: Yayaya!
+    attributes: ""
+    contents:
+      - text: Hee...
   ClearTerrorGuardian_01:
-    - text: Phew...
-  TerrorArrow_01:
-    - text: Ah wawah...
+    attributes: ""
+    contents:
+      - text: Phew...
   ClearTerrorGuardian_02:
-    - text: "Phew, hee..."
+    attributes: ""
+    contents:
+      - text: "Phew, hee..."
+  TerrorAnimal_00:
+    attributes: ""
+    contents:
+      - text: Scaaaary!
+  TerrorAnimal_01:
+    attributes: ""
+    contents:
+      - text: "Oh, nooooo!"
+  TerrorAnimal_02:
+    attributes: ""
+    contents:
+      - text: "Help me, Ms. Hero!"
+  TerrorArrow_00:
+    attributes: ""
+    contents:
+      - text: Yayaya!
+  TerrorArrow_01:
+    attributes: ""
+    contents:
+      - text: Ah wawah...
   TerrorArrow_02:
-    - text: Mmkya!
+    attributes: ""
+    contents:
+      - text: Mmkya!
+  TerrorBomb_00:
+    attributes: ""
+    contents:
+      - text: Boom?!
+  TerrorBomb_01:
+    attributes: ""
+    contents:
+      - text: Sparkles?!
+  TerrorBomb_02:
+    attributes: ""
+    contents:
+      - text: Heeeh!
+  TerrorEnemy_00:
+    attributes: ""
+    contents:
+      - text: Scary!
+  TerrorEnemy_01:
+    attributes: ""
+    contents:
+      - text: Nooo!
+  TerrorEnemy_02:
+    attributes: ""
+    contents:
+      - text: "Help me, Ms. Hero!"
   TerrorExplosion_00:
-    - text: Bada boom!
+    attributes: ""
+    contents:
+      - text: Bada boom!
   TerrorExplosion_01:
-    - text: Hyah!
+    attributes: ""
+    contents:
+      - text: Hyah!
   TerrorExplosion_02:
-    - text: Ngya!
+    attributes: ""
+    contents:
+      - text: Ngya!
+  TerrorFire_00:
+    attributes: ""
+    contents:
+      - text: Ouch ouch!
+  TerrorFire_01:
+    attributes: ""
+    contents:
+      - text: Kyaah! Kyaaah!
+  TerrorFire_02:
+    attributes: ""
+    contents:
+      - text: Scary...
+  TerrorGuardian_00:
+    attributes: ""
+    contents:
+      - text: Scarrry!
+  TerrorGuardian_01:
+    attributes: ""
+    contents:
+      - text: Noooo!
+  TerrorGuardian_02:
+    attributes: ""
+    contents:
+      - text: "Help me, Ms. Hero!"
+  TerrorHorse_00:
+    attributes: ""
+    contents:
+      - text: So biiiig!
+  TerrorHorse_01:
+    attributes: ""
+    contents:
+      - text: Neeeeeigh!
+  TerrorHorse_02:
+    attributes: ""
+    contents:
+      - text: Yah! Yah!
+  TerrorImpulse_00:
+    attributes: ""
+    contents:
+      - text: Heeeeeh!
+  TerrorImpulse_01:
+    attributes: ""
+    contents:
+      - text: Waaaah!
+  TerrorImpulse_02:
+    attributes: ""
+    contents:
+      - text: Gyaaaah!
+  TerrorInsect_00:
+    attributes: ""
+    contents:
+      - text: Buzz buzz buzz!
+  TerrorInsect_01:
+    attributes: ""
+    contents:
+      - text: "Oh, nooooo!"
+  TerrorInsect_02:
+    attributes: ""
+    contents:
+      - text: Wah!
   TerrorLightning_00:
-    - text: "Oooh, flaaash!"
+    attributes: ""
+    contents:
+      - text: "Oooh, flaaash!"
+  TerrorLightning_01:
+    attributes: ""
+    contents:
+      - text: Zap zap!
+  TerrorLightning_02:
+    attributes: ""
+    contents:
+      - text: Hya wah wah!
+  TerrorSword_00:
+    attributes: ""
+    contents:
+      - text: Wah?
+  TerrorSword_01:
+    attributes: ""
+    contents:
+      - text: Pyah!
+  TerrorSword_02:
+    attributes: ""
+    contents:
+      - text: Hya!

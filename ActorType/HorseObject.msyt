@@ -1,32 +1,54 @@
 ---
+group_count: 11
+atr1_unknown: 0
 entries:
-  Horse_Link_Mane_09_Name:
-    - text: Floral Mane
-  Horse_Link_Mane_04_Name:
-    - text: Braided Mane
-  Horse_Link_Mane_02_Name:
-    - text: Mohawk Mane
+  Horse_Link_Mane_01_Desc:
+    contents: []
   Horse_Link_Mane_01_Name:
-    - text: Long Mane
-  Horse_Link_Mane_08_Name:
-    - text: Long Purple Mane
-  Horse_Link_Mane_06_Name:
-    - text: Long Blue Mane
-  Horse_Link_Mane_05_Name:
-    - text: Long Red Mane
+    contents:
+      - text: Long Mane
+  Horse_Link_Mane_02_Desc:
+    contents: []
+  Horse_Link_Mane_02_Name:
+    contents:
+      - text: Mohawk Mane
+  Horse_Link_Mane_03_Desc:
+    contents: []
   Horse_Link_Mane_03_Name:
-    - text: French-Braided Mane
+    contents:
+      - text: French-Braided Mane
+  Horse_Link_Mane_04_Desc:
+    contents: []
+  Horse_Link_Mane_04_Name:
+    contents:
+      - text: Braided Mane
+  Horse_Link_Mane_05_Desc:
+    contents: []
+  Horse_Link_Mane_05_Name:
+    contents:
+      - text: Long Red Mane
+  Horse_Link_Mane_06_Desc:
+    contents: []
+  Horse_Link_Mane_06_Name:
+    contents:
+      - text: Long Blue Mane
+  Horse_Link_Mane_07_Desc:
+    contents: []
   Horse_Link_Mane_07_Name:
-    - text: Long Green Mane
-  Horse_Link_Mane_04_Desc: []
-  Horse_Link_Mane_02_Desc: []
-  Horse_Link_Mane_01_Desc: []
-  Horse_Link_Mane_08_Desc: []
-  Horse_Link_Mane_06_Desc: []
-  Horse_Link_Mane_05_Desc: []
-  Horse_Link_Mane_03_Desc: []
-  Horse_Link_Mane_07_Desc: []
+    contents:
+      - text: Long Green Mane
+  Horse_Link_Mane_08_Desc:
+    contents: []
+  Horse_Link_Mane_08_Name:
+    contents:
+      - text: Long Purple Mane
+  Horse_Link_Mane_09_Desc:
+    contents: []
+  Horse_Link_Mane_09_Name:
+    contents:
+      - text: Floral Mane
+  Horse_Link_Mane_Desc:
+    contents: []
   Horse_Link_Mane_Name:
-    - text: Normal Mane
-  Horse_Link_Mane_09_Desc: []
-  Horse_Link_Mane_Desc: []
+    contents:
+      - text: Normal Mane

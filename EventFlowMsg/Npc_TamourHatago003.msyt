@@ -1,371 +1,329 @@
 ---
+group_count: 13
+atr1_unknown: 4
 entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: Sounds yummy.
   "0001":
-    - text: "No, thanks."
-  talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 1
-    - text: "Oh, one thing to note... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Akkala buns
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\ngo bad fast since they're made of\nfresh ingredients.\nSo you'll have to eat it here, that way we\ncan ensure its quality. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: That OK?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 3
-            field_4:
-              - 0
-              - 1
+    attributes: ""
+    contents:
+      - text: "No, thanks."
   "0002":
-    - text: OK.
-  talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 1
-    - text: "That'll be "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: 10 rupees
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", please!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 3
-            field_4:
-              - 0
-              - 1
+    attributes: ""
+    contents:
+      - text: OK.
   "0003":
-    - text: Never mind.
-  talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 35
-    - text: "Heheh, thanks for your business!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nNow then, close your eyes and open\nyour mouth "
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: wiiiiiiiiiiiide...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+    attributes: ""
+    contents:
+      - text: Never mind.
   "0004":
-    - text: Here ya go.
-  talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 1
-    - text: Come back soon!
-  talk00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 1
-              - 205
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 1
-    - text: Helloooo!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n\n\nWelcome to "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: East Akkala Stable
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\nThe premiere stable of the east!"
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 17
-    - text: "Ohhh, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "ma'am..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " I'm sorry, but you don't\nhave enough rupees!"
+    attributes: ""
+    contents:
+      - text: Here ya go.
   near00:
-    - text: Welcome!
+    attributes: Npc_TamourHatago003
+    contents:
+      - text: Welcome!
+  talk00:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 1
+            - 205
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: Helloooo!
+      - control:
+          kind: pause
+          length: short
+      - text: "\n\n\nWelcome to "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: East Akkala Stable
+      - control:
+          kind: reset_colour
+      - text: "!\nThe premiere stable of the east!"
   talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 15
-    - text: See you around!
-  talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Now just
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " MUNCH 'N' CRUNCH!\n\n\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: And down the hatch it goes...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+      - text: See you around!
   talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "By the way, ma'am..."
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 9
-    - text: So how was it?!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Amazing, right?"
+      - text: "By the way, ma'am..."
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "The outside is crunchy while the inside\nis chewy."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Take one bite, and your "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "energy\nwill go through the roof"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "The outside is crunchy while the inside\nis chewy."
+      - control:
+          kind: pause
+          length: short
+      - text: " Take one bite, and your "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "energy\nwill go through the roof"
+      - control:
+          kind: reset_colour
+      - text: "!\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "Go on! Try one of our "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Akkala buns
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThey're a delicacy straight from\nthe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: East Akkala Stable
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Go on! Try one of our "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Akkala buns
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThey're a delicacy straight from\nthe "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: East Akkala Stable
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: choice
+          choice_labels:
             - 0
             - 1
-    - text: "Care to buy an "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Akkala bun
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 35
-    - text: Thank you soooo much!
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "Hm? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "That's odd.\n\n\nYour "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "energy "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "didn't "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: go through the roof
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-  "0000":
-    - text: Sounds yummy.
+      - text: Thank you soooo much!
   talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 4
-    - text: Welcome!
+      - text: Welcome!
+  talk06:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: "Oh, one thing to note... "
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Akkala buns
+      - control:
+          kind: reset_colour
+      - text: "\ngo bad fast since they're made of\nfresh ingredients.\nSo you'll have to eat it here, that way we\ncan ensure its quality. "
+      - control:
+          kind: pause
+          length: short
+      - text: That OK?
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk07:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 1
+      - text: "That'll be "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 10 rupees
+      - control:
+          kind: reset_colour
+      - text: ", please!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 3
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk08:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 35
+      - text: "Heheh, thanks for your business!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nNow then, close your eyes and open\nyour mouth "
+      - control:
+          kind: text_size
+          percent: 125
+      - text: wiiiiiiiiiiiide...
+      - control:
+          kind: text_size
+          percent: 100
+  talk09:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: Come back soon!
+  talk10:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 17
+      - text: "Ohhh, "
+      - control:
+          kind: pause
+          length: short
+      - text: "ma'am..."
+      - control:
+          kind: pause
+          length: longer
+      - text: " I'm sorry, but you don't\nhave enough rupees!"
+  talk11:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Now just
+      - control:
+          kind: pause
+          length: short
+      - text: " MUNCH 'N' CRUNCH!\n\n\n"
+      - control:
+          kind: text_size
+          percent: 125
+      - text: And down the hatch it goes...
+      - control:
+          kind: text_size
+          percent: 100
+  talk12:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 9
+      - text: So how was it?!
+      - control:
+          kind: pause
+          length: longer
+      - text: " Amazing, right?"
+  talk13:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Care to buy an "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Akkala bun
+      - control:
+          kind: reset_colour
+      - text: "?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk14:
+    attributes: Npc_TamourHatago003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "Hm? "
+      - control:
+          kind: pause
+          length: short
+      - text: "That's odd.\n\n\nYour "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "energy "
+      - control:
+          kind: reset_colour
+      - text: "didn't "
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: set_colour
+          colour: red
+      - text: go through the roof
+      - control:
+          kind: reset_colour
+      - text: "?"

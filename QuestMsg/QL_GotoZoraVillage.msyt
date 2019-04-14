@@ -1,34 +1,30 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
-  QL_GotoZoraVillage_Name:
-    - text: "Reach Zora's Domain"
   QL_GotoZoraVillage_Desc:
-    - text: "Sidon, prince of the Zora, invited me to\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "come to Zora's Domain"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\nHe warned me that owing to the heavy rains,\nthe rocks along the path are dangerously\nslippery."
-  QL_GotoZoraVillage_Step1:
-    - text: "I arrived at Zora's Domain. The next step\nis to visit King Dorephan in the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: throne room
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\non the top floor."
+    contents:
+      - text: "Sidon, prince of the Zora, invited me to\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "come to Zora's Domain"
+      - control:
+          kind: reset_colour
+      - text: ".\n\nHe warned me that owing to the heavy rains,\nthe rocks along the path are dangerously\nslippery."
   QL_GotoZoraVillage_Finish:
-    - text: "I arrived at the throne room in\nZora's Domain.\n\nAccording to Sidon, Zora's Domain is in\ndanger, and they need the help of a strong\nHylian."
+    contents:
+      - text: "I arrived at the throne room in\nZora's Domain.\n\nAccording to Sidon, Zora's Domain is in\ndanger, and they need the help of a strong\nHylian."
+  QL_GotoZoraVillage_Name:
+    contents:
+      - text: "Reach Zora's Domain"
+  QL_GotoZoraVillage_Step1:
+    contents:
+      - text: "I arrived at Zora's Domain. The next step\nis to visit King Dorephan in the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: throne room
+      - control:
+          kind: reset_colour
+      - text: "\non the top floor."

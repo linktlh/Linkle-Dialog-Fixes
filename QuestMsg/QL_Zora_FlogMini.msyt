@@ -1,43 +1,33 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
-  QL_Zora_FlogMini_Finish:
-    - text: "Tumbo gave me an armoranth in exchange for\nfive hot-footed frogs. He seemed pretty\npleased with the whole arrangement."
-  QL_Zora_FlogMini_Name:
-    - text: Frog Catching
   QL_Zora_FlogMini_Desc:
-    - text: "Tumbo in Zora's Domain wants me to donate\nfive "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "hot-footed frogs "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "to his cause.\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nApparently hot-footed frogs are pretty easy to\nfind on "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: rainy days
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+    contents:
+      - text: "Tumbo in Zora's Domain wants me to donate\nfive "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "hot-footed frogs "
+      - control:
+          kind: reset_colour
+      - text: "to his cause.\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: reset_colour
+      - text: "\nApparently hot-footed frogs are pretty easy to\nfind on "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: rainy days
+      - control:
+          kind: reset_colour
+      - text: "."
+  QL_Zora_FlogMini_Finish:
+    contents:
+      - text: "Tumbo gave me an armoranth in exchange for\nfive hot-footed frogs. He seemed pretty\npleased with the whole arrangement."
+  QL_Zora_FlogMini_Name:
+    contents:
+      - text: Frog Catching

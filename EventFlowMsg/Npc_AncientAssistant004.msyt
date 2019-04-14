@@ -1,802 +1,725 @@
 ---
+group_count: 29
+atr1_unknown: 4
 entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: Yes.
+  "0001":
+    attributes: ""
+    contents:
+      - text: Not at all.
+  "0002":
+    attributes: ""
+    contents:
+      - text: Who are you?
+  "0004":
+    attributes: ""
+    contents:
+      - text: About Robbie...
+  "0005":
+    attributes: ""
+    contents:
+      - text: Gotta go!
+  "0006":
+    attributes: ""
+    contents:
+      - text: "You're married?"
+  "0007":
+    attributes: ""
+    contents:
+      - text: Your son...
+  "0008":
+    attributes: ""
+    contents:
+      - text: I saw him!
+  "0009":
+    attributes: ""
+    contents:
+      - text: "I haven't seen him."
+  near00:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - text: ♪Hm...hmm...♪
+  talk00:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Heya! "
+      - control:
+          kind: pause
+          length: short
+      - text: "♪I'm Jerrin!♪"
+  talk01:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - text: "..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "How was that? I figured I'd give an\nimpression of "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Hateno Ancient Tech Lab
+      - control:
+          kind: reset_colour
+      - text: "'s\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: director
+      - control:
+          kind: reset_colour
+      - text: ", Purah, a shot.\nMaybe it was a bit much for the first time\nmeeting you, though?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  talk02:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 10
+      - text: "Linkle, don't worry about it! "
+      - control:
+          kind: pause
+          length: longer
+      - text: "It's all OK!"
+  talk03:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 11
+      - text: "Aww, Linkle, "
+      - control:
+          kind: pause
+          length: short
+      - text: "I'm really glad you're such\na friendly girl!"
+  talk04:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "So "
+      - control:
+          kind: pause
+          length: short
+      - text: what do you need from me?
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 7
+                - 44
+                - 65
+                - 110
+                - 99
+                - 105
+                - 101
+                - 110
+                - 116
+                - 76
+                - 97
+                - 98
+                - 111
+                - 95
+                - 78
+                - 80
+                - 67
+                - 48
+                - 48
+                - 50
+                - 95
+                - 83
+                - 111
+                - 110
+                - 2
+                - 0
+                - 4
+                - 0
+                - 5
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk05:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Oh, Robbie..."
+      - control:
+          kind: pause
+          length: short
+      - text: " We're a half-century \napart, agewise, but we never let that get\nin the way. "
+      - control:
+          kind: pause
+          length: short
+      - text: He and I are married!
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 6
+              field_3:
+                - 1
+                - 205
+  talk06:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Aaaaand...
+  talk07:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Robbie is one of the researchers of\nancient civilizations.\n\nHe was studying "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Guardians
+      - control:
+          kind: reset_colour
+      - text: " at\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Hyrule Castle "
+      - control:
+          kind: reset_colour
+      - text: 100 years ago.
+  talk08:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Have you got any other questions?
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 7
+                - 44
+                - 65
+                - 110
+                - 99
+                - 105
+                - 101
+                - 110
+                - 116
+                - 76
+                - 97
+                - 98
+                - 111
+                - 95
+                - 78
+                - 80
+                - 67
+                - 48
+                - 48
+                - 50
+                - 95
+                - 83
+                - 111
+                - 110
+                - 2
+                - 0
+                - 4
+                - 0
+                - 5
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk09:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: See you later!
+  talk10:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: "Yes, indeed!"
+      - control:
+          kind: pause
+          length: long
+      - text: " Together, we run the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Akkala Ancient Tech Lab
+      - control:
+          kind: reset_colour
+      - text: ". I've got a son,\nas well!"
+  talk11:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "That's right, I've got one son."
+      - control:
+          kind: pause
+          length: longer
+      - text: " His name\nis Granté.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 6
+      - text: Have you seen him in your travels?
+      - control:
+          kind: choice
+          choice_labels:
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  talk12:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Robbie is a premier researcher of\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Guardians
+      - control:
+          kind: reset_colour
+      - text: ","
+      - control:
+          kind: pause
+          length: short
+      - text: " and he's also my husband.\n\nHe was engaged in research with\nDirector Purah at "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Hyrule Castle
+      - control:
+          kind: reset_colour
+      - text: ","
+      - control:
+          kind: pause
+          length: short
+      - text: " but that\nwas 100 years ago."
+  talk13:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: set_colour
+          colour: grey
+      - text: "You said, \"I saw him,\" earlier, though..."
+      - control:
+          kind: reset_colour
+      - control:
+          kind: text_size
+          percent: 100
+  talk14:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: set_colour
+          colour: grey
+      - text: "You said, \"I haven't seen him,\" earlier, though..."
+      - control:
+          kind: reset_colour
+      - control:
+          kind: text_size
+          percent: 100
   talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 3
-    - text: Check it out!
+      - text: Check it out!
   talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Heya! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "It's me!"
+      - text: "Heya! "
+      - control:
+          kind: pause
+          length: longer
+      - text: "It's me!"
   talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: You look good!
+      - text: You look good!
   talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "I'm an amateur scholar of ancient history.\nTo be honest...I've been focusing a lot of\nmy research"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " on "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: shrines
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I'm an amateur scholar of ancient history.\nTo be honest...I've been focusing a lot of\nmy research"
+      - control:
+          kind: pause
+          length: short
+      - text: " on "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: shrines
+      - control:
+          kind: reset_colour
+      - text: ".\n"
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 19
-    - text: "...Oh, that reminds me! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Linkle, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "there's\nsomewhere you need to go. Umm...\nThe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: left eye of Skull Lake
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
+      - text: "...Oh, that reminds me! "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Linkle, "
+      - control:
+          kind: pause
+          length: short
+      - text: "there's\nsomewhere you need to go. Umm...\nThe "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: left eye of Skull Lake
+      - control:
+          kind: reset_colour
+      - text: "!"
   talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "I'm not going to sleep yet."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI'm powering through."
+      - text: "I'm not going to sleep yet."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI'm powering through."
   talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "I was just about to drift off into\na peaceful slumber."
+      - text: "I was just about to drift off into\na peaceful slumber."
   talk23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 42
-    - text: "You saw me before I had a chance to\nput my face on..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nUgh, how embarrassing..."
+      - text: "You saw me before I had a chance to\nput my face on..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nUgh, how embarrassing..."
   talk24:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 12
-    - text: Do not disturb...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nUgh, what a drag..."
+      - text: Do not disturb...
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nUgh, what a drag..."
   talk25:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Morning!
-  near00:
-    - text: ♪Hm...hmm...♪
+      - text: Morning!
   talk26:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "G'day!"
+      - text: "G'day!"
   talk27:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Evening!
+      - text: Evening!
   talk28:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "So you went to the left eye\nof "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Skull Lake
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?\n\n...\n\n\nOh, you don't have to tell me anything."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nMy magical Sheikah nose implant gives\nme a supernatural sense of smell.\nJust one sniff tells me everything you did\nyesterday and what you ate for dinner\nlast night.\n...\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - control:
+          kind: reset_colour
+      - text: "So you went to the left eye\nof "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Skull Lake
+      - control:
+          kind: reset_colour
+      - text: "?\n\n...\n\n\nOh, you don't have to tell me anything."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nMy magical Sheikah nose implant gives\nme a supernatural sense of smell.\nJust one sniff tells me everything you did\nyesterday and what you ate for dinner\nlast night.\n...\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 9
-    - text: "Just kidding.\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Just kidding.\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "But judging by your dormant sense of\nhumor, I'm guessing things didn't go as\nsmoothly as you had hoped.\nIn any case, thanks for the report. I wish\nI could give you a reward, but we're\nshort on funding as it is.\nThat's life in Hyrule for ya!"
-  talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Heya! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "♪I'm Jerrin!♪"
+      - text: "But judging by your dormant sense of\nhumor, I'm guessing things didn't go as\nsmoothly as you had hoped.\nIn any case, thanks for the report. I wish\nI could give you a reward, but we're\nshort on funding as it is.\nThat's life in Hyrule for ya!"
   talk29:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Linkle, "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "check out the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: left eye of Skull Lake
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  "0000":
-    - text: Yes.
-  talk01:
-    - text: "..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "How was that? I figured I'd give an\nimpression of "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Hateno Ancient Tech Lab
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "'s\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: director
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", Purah, a shot.\nMaybe it was a bit much for the first time\nmeeting you, though?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 2
+      - text: "Linkle, "
+      - control:
+          kind: pause
+          length: longer
+      - text: "check out the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: left eye of Skull Lake
+      - control:
+          kind: reset_colour
+      - text: "."
   talk30:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "I know there's a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: shrine
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " there, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "but\nit's a challenge to get to it...\n\nThe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "left eye "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "of "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "Skull Lake "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: is higher up.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nThe right one is lower down. If you run\ninto "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Kilton
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", you're on the wrong eye!"
-  "0001":
-    - text: Not at all.
-  talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 10
-    - text: "Linkle, don't worry about it! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "It's all OK!"
+      - text: "I know there's a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: shrine
+      - control:
+          kind: reset_colour
+      - text: " there, "
+      - control:
+          kind: pause
+          length: short
+      - text: "but\nit's a challenge to get to it...\n\nThe "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "left eye "
+      - control:
+          kind: reset_colour
+      - text: "of "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Skull Lake "
+      - control:
+          kind: reset_colour
+      - text: is higher up.
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nThe right one is lower down. If you run\ninto "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Kilton
+      - control:
+          kind: reset_colour
+      - text: ", you're on the wrong eye!"
   talk31:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Linkle, "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "thanks for investigating the left eye\nof "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Skull Lake
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\nI'm afraid I have no reward for you..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nThe laboratory is woefully underfunded,\nso I can't afford to pay you. Sorry."
-  "0002":
-    - text: Who are you?
-  talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 11
-    - text: "Aww, Linkle, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I'm really glad you're such\na friendly girl!"
+      - text: "Linkle, "
+      - control:
+          kind: pause
+          length: longer
+      - text: "thanks for investigating the left eye\nof "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Skull Lake
+      - control:
+          kind: reset_colour
+      - text: ".\n\nI'm afraid I have no reward for you..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nThe laboratory is woefully underfunded,\nso I can't afford to pay you. Sorry."
   talk32:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Really...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Well, if you see him, be nice to\nhim, OK?"
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "So "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: what do you need from me?
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 7
-              - 44
-              - 65
-              - 110
-              - 99
-              - 105
-              - 101
-              - 110
-              - 116
-              - 76
-              - 97
-              - 98
-              - 111
-              - 95
-              - 78
-              - 80
-              - 67
-              - 48
-              - 48
-              - 50
-              - 95
-              - 83
-              - 111
-              - 110
-              - 2
-              - 0
-              - 4
-              - 0
-              - 5
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
+      - text: Really...
+      - control:
+          kind: pause
+          length: long
+      - text: " Well, if you see him, be nice to\nhim, OK?"
   talk33:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 11
-    - text: "Ooh! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Well that's good to hear!\n\n\nGranté is still a...work in progress.\n\n\nOnce he's done studying armor, I'm\nhoping to convince him to take over\nmy research."
-  "0004":
-    - text: About Robbie...
-  talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Oh, Robbie..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " We're a half-century \napart, agewise, but we never let that get\nin the way. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: He and I are married!
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 6
-            field_3:
-              - 1
-              - 205
+      - text: "Ooh! "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Well that's good to hear!\n\n\nGranté is still a...work in progress.\n\n\nOnce he's done studying armor, I'm\nhoping to convince him to take over\nmy research."
   talk34:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 6
-    - text: "Who are you?!\n\n\nUnless you're an acquaintance of\nRobbie's, I can't talk to you."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nTrade secrets, ya know."
-  "0005":
-    - text: Gotta go!
-  talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Aaaaand...
+      - text: "Who are you?!\n\n\nUnless you're an acquaintance of\nRobbie's, I can't talk to you."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nTrade secrets, ya know."
   talk35:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientAssistant004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 0
-    - text: "Hmm, you're pretty suspicious...\n\n\nIf you ARE an acquaintance of Robbie's,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nyou'll have to prove it to him."
-  "0006":
-    - text: "You're married?"
-  talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Robbie is one of the researchers of\nancient civilizations.\n\nHe was studying "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Guardians
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " at\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Hyrule Castle "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: 100 years ago.
-  "0007":
-    - text: Your son...
-  talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Have you got any other questions?
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 7
-              - 44
-              - 65
-              - 110
-              - 99
-              - 105
-              - 101
-              - 110
-              - 116
-              - 76
-              - 97
-              - 98
-              - 111
-              - 95
-              - 78
-              - 80
-              - 67
-              - 48
-              - 48
-              - 50
-              - 95
-              - 83
-              - 111
-              - 110
-              - 2
-              - 0
-              - 4
-              - 0
-              - 5
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  "0008":
-    - text: I saw him!
-  talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: See you later!
-  "0009":
-    - text: "I haven't seen him."
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: "Yes, indeed!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Together, we run the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Akkala Ancient Tech Lab
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ". I've got a son,\nas well!"
-  talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "That's right, I've got one son."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " His name\nis Granté.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 6
-    - text: Have you seen him in your travels?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 8
-            field_3: 9
-            field_4:
-              - 0
-              - 2
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Robbie is a premier researcher of\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Guardians
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ","
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " and he's also my husband.\n\nHe was engaged in research with\nDirector Purah at "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Hyrule Castle
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ","
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " but that\nwas 100 years ago."
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 3
-    - text: "You said, \"I saw him,\" earlier, though..."
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 3
-    - text: "You said, \"I haven't seen him,\" earlier, though..."
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+      - text: "Hmm, you're pretty suspicious...\n\n\nIf you ARE an acquaintance of Robbie's,"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nyou'll have to prove it to him."

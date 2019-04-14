@@ -1,10 +1,16 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
-  QL_Drag_Hero_Name:
-    - text: Forbidden City Entry
-  QL_Drag_Hero_Finish:
-    - text: "I snuck into Gerudo Town successfully!\n\nI was able to fool the town guards by\ndisguising myself in a Gerudo outfit."
   QL_Drag_Hero_Desc:
-    - text: "I heard of a man at the Kara Kara Bazaar\nwho found a way to sneak into Gerudo Town,\na place men are forbidden from entering.\n\nI'll try and locate some people who know\nhis whereabouts."
+    contents:
+      - text: "I heard of a man at the Kara Kara Bazaar\nwho found a way to sneak into Gerudo Town,\na place men are forbidden from entering.\n\nI'll try and locate some people who know\nhis whereabouts."
+  QL_Drag_Hero_Finish:
+    contents:
+      - text: "I snuck into Gerudo Town successfully!\n\nI was able to fool the town guards by\ndisguising myself in a Gerudo outfit."
+  QL_Drag_Hero_Name:
+    contents:
+      - text: Forbidden City Entry
   QL_Drag_Hero_Step1:
-    - text: "I was able to find the man who snuck into\nGerudo Town, and I got a Gerudo outfit\nfrom him.\n\nI can now pass as a Gerudo!"
+    contents:
+      - text: "I was able to find the man who snuck into\nGerudo Town, and I got a Gerudo outfit\nfrom him.\n\nI can now pass as a Gerudo!"

@@ -1,39 +1,51 @@
 ---
+group_count: 7
+atr1_unknown: 4
 entries:
-  Talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Hmm... Though she was known for her\nkindness, it seems the Zora princess\ncould be quite strict when necessary."
-  TerrorFire:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 20
-              - 205
-    - text: Yikes!
-  TerrorExplosion:
-    - text: WAAAH!
-  TerrorSword:
-    - text: Stop this madness!
-  TerrorArrow:
-    - text: "Please don't do that!"
-  TerrorHorse:
-    - text: Whoa there!
   Challenge000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: "Ah, we meet again!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI trust you're doing well?"
+      - text: "Ah, we meet again!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI trust you're doing well?"
+  Talk00:
+    attributes: Npc_Musician_AoC_HeroZora
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Hmm... Though she was known for her\nkindness, it seems the Zora princess\ncould be quite strict when necessary."
+  TerrorArrow:
+    attributes: ""
+    contents:
+      - text: "Please don't do that!"
+  TerrorExplosion:
+    attributes: ""
+    contents:
+      - text: WAAAH!
+  TerrorFire:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 20
+            - 205
+      - text: Yikes!
+  TerrorHorse:
+    attributes: ""
+    contents:
+      - text: Whoa there!
+  TerrorSword:
+    attributes: ""
+    contents:
+      - text: Stop this madness!

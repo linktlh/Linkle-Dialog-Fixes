@@ -1,82 +1,74 @@
 ---
+group_count: 5
+atr1_unknown: 4
 entries:
-  Talk_005:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: A man that snuck into Gerudo Town
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 1
-    - text: "Sorry, that's not me. I've only got eyes\nfor that sandstorm that has stopped..."
   Talk_001:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SmallOasis007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: The sandstorm never seems to let up...
+      - text: The sandstorm never seems to let up...
   Talk_002:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "Not sleeping...\nNot...sleeping..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+    attributes: Npc_SmallOasis007
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "Not sleeping...\nNot...sleeping..."
+      - control:
+          kind: text_size
+          percent: 100
   Talk_003:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SmallOasis007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: The man that snuck into Gerudo Town
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - control:
+          kind: set_colour
+          colour: red
+      - text: The man that snuck into Gerudo Town
+      - control:
+          kind: reset_colour
+      - text: "?\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 1
-    - text: "Sorry, that's not me. I'm just interested\nin the sandstorms."
+      - text: "Sorry, that's not me. I'm just interested\nin the sandstorms."
   Talk_004:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SmallOasis007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 19
-    - text: The sandstorm stopped!
+      - text: The sandstorm stopped!
+  Talk_005:
+    attributes: Npc_SmallOasis007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - control:
+          kind: set_colour
+          colour: red
+      - text: A man that snuck into Gerudo Town
+      - control:
+          kind: reset_colour
+      - text: "?\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 1
+      - text: "Sorry, that's not me. I've only got eyes\nfor that sandstorm that has stopped..."

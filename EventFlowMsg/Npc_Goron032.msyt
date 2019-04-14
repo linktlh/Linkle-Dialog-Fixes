@@ -1,307 +1,275 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Hmph. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "A Hylian tourist, eh?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Lukewarm.\n\n\nI'd like to find some reeeally hot water to\nrelax in..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "but those fallin' rocks make it\nway too dangerous."
-  talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Hmph.
-  talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "It's rare to see a tourist like you"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nequipped to stand up to this heat.\n\nBy the way, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Rudania "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "has settled down,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nso feel free to take your time soakin'\nin the hot springs."
+  "0000":
+    attributes: ""
+    contents:
+      - text: "How's the water?"
+  "0001":
+    attributes: ""
+    contents:
+      - text: Um...sorry.
   near00:
-    - text: ♪
+    attributes: Npc_Goron032
+    contents:
+      - text: ♪
+  talk00:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "Who's there?! "
+      - control:
+          kind: pause
+          length: short
+      - text: "Who's disturbing my\nmornin' bath?"
+  talk01:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "Who's there?!"
+  talk02:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "Who's there?!"
+      - control:
+          kind: pause
+          length: short
+      - text: " Who's disturbing\nmy bath?"
+  talk03:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "Who's there?!"
+      - control:
+          kind: pause
+          length: short
+      - text: " You're ruinin'\nmy evening bath..."
+  talk04:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Hmph. "
+      - control:
+          kind: pause
+          length: short
+      - text: "A Hylian tourist, eh?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk05:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Hmph.
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Bah. Lukewarm.\n\n\nI'd like to relax in some reeeeally hot \nwater. A LOT hotter than this nonsense."
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "In any case, gettin' across the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Bridge of Eldin
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "is impossible\nright now.\nThe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Boss
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " probably raised "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: the bridge
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " to\nkeep"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: " Rudania"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " from comin' over here."
+      - text: "Bah. Lukewarm.\n\n\nI'd like to relax in some reeeeally hot \nwater. A LOT hotter than this nonsense."
   talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: But a Hylian like you
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " should stay away\nfrom any place hotter than here.\n\nThat goes double for the area past the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Bridge of Eldin
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " It's scorching there!"
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Even still, don't you go near "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Rudania
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\nIf ya do, no matter how well prepared\nya are..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "you'll be burned to ashes!"
+      - text: But a Hylian like you
+      - control:
+          kind: pause
+          length: short
+      - text: " should stay away\nfrom any place hotter than here.\n\nThat goes double for the area past the\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Bridge of Eldin
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: short
+      - text: " It's scorching there!"
   talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "By the way, I don't see many tourists like\nyou equipped to stand up to this heat."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI'm impressed!"
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Never go near "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Rudania
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ". "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Get too close\nand you'll be a pile of ashes before\nya know what hit ya!"
+      - text: "By the way, I don't see many tourists like\nyou equipped to stand up to this heat."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI'm impressed!"
   talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 2
-    - text: "...What is it?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "...What is it?"
+      - control:
+          kind: choice
+          choice_labels:
             - 0
-            - 6
-    - text: "Who's there?! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Who's disturbing my\nmornin' bath?"
-  "0000":
-    - text: "How's the water?"
-  talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk10:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
-            - 6
-    - text: "Who's there?!"
-  "0001":
-    - text: Um...sorry.
-  talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
             - 0
-            - 6
-    - text: "Who's there?!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Who's disturbing\nmy bath?"
-  talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Lukewarm.\n\n\nI'd like to find some reeeally hot water to\nrelax in..."
+      - control:
+          kind: pause
+          length: short
+      - text: "but those fallin' rocks make it\nway too dangerous."
+  talk11:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
-            - 6
-    - text: "Who's there?!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You're ruinin'\nmy evening bath..."
+            - 0
+      - text: "It's rare to see a tourist like you"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nequipped to stand up to this heat.\n\nBy the way, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Rudania "
+      - control:
+          kind: reset_colour
+      - text: "has settled down,"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nso feel free to take your time soakin'\nin the hot springs."
+  talk12:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "In any case, gettin' across the\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Bridge of Eldin
+      - control:
+          kind: pause
+          length: short
+      - text: " "
+      - control:
+          kind: reset_colour
+      - text: "is impossible\nright now.\nThe "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Boss
+      - control:
+          kind: reset_colour
+      - text: " probably raised "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: the bridge
+      - control:
+          kind: reset_colour
+      - text: " to\nkeep"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: " Rudania"
+      - control:
+          kind: reset_colour
+      - text: " from comin' over here."
+  talk13:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Even still, don't you go near "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Rudania
+      - control:
+          kind: reset_colour
+      - text: ".\nIf ya do, no matter how well prepared\nya are..."
+      - control:
+          kind: pause
+          length: short
+      - text: "you'll be burned to ashes!"
+  talk14:
+    attributes: Npc_Goron032
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Never go near "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Rudania
+      - control:
+          kind: reset_colour
+      - text: ". "
+      - control:
+          kind: pause
+          length: short
+      - text: "Get too close\nand you'll be a pile of ashes before\nya know what hit ya!"

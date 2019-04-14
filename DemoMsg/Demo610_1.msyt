@@ -1,366 +1,280 @@
 ---
+group_count: 17
+atr1_unknown: 0
 entries:
-  Npc_Musician_AoC_HeroRitoRelief_205:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Thankfully, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Teba
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " and the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Rito Village
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nelder, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Kaneli
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", told me some wonderful\nstories of the Rito Champion."
-  Npc_Musician_AoC_HeroRitoRelief_100:
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 275
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1053609165
-    - text: "♪Wind's ally soars "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: the land of cloud.
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 66
-    - text: "\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Medoh
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "'s Champion, "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: swift and proud.♪
-  Npc_Musician_AoC_HeroRitoRelief_101:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 1
-    - control:
-        four:
-          type2:
-            field_1: 16
-            string: Ease_00
-    - text: "Ah, sweet joy! How glorious to sing this\nsong in front of the real "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: monument
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-  Npc_Musician_AoC_HeroRitoRelief_102:
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 300
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1053609165
-    - text: "♪The hero's power "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: shall grow.
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 84
-    - text: "\nSeek trials "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: monuments
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " show.♪"
-  Npc_Musician_AoC_HeroRitoRelief_103:
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 275
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1053609165
-    - text: "♪One, "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "shoot the flame dragon's horn"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 73
-    - text: "\nTwo, "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: race down a peak rings adorn
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".♪"
-  Npc_Musician_AoC_HeroRitoRelief_104:
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 330
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1053609165
-    - text: "♪Three, "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: shoot four targets to win
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 84
-    - text: "\nChampion, "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: the trials begin!♪
-  Npc_Musician_AoC_HeroRitoRelief_105:
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 140
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 0
-    - text: "The song my teacher left behind...\nThere's "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: a verse
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " about the trials that\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Champion Revali "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "overcame.\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 40
-    - text: Allow me to sing it for you...
   Npc_DungeonPriest_HeroRitoRelief_001:
-    - text: "I applaud your courage in coming here.\n\n\nThe locations that will be revealed to\nyou are of trials that will enhance\nthe power sleeping within.\nDo not let your guard down..."
-  Npc_Musician_AoC_HeroRitoRelief_201:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 1
-    - text: "The confidence it must have taken to\nmaster a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Divine Beast
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "... How inspiring."
+    contents:
+      - text: "I applaud your courage in coming here.\n\n\nThe locations that will be revealed to\nyou are of trials that will enhance\nthe power sleeping within.\nDo not let your guard down..."
   Npc_Musician_AoC_HeroRitoRelief_003:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 6
-    - text: Hm?
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " How long have you been here?"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nI didn't even notice your arrival!"
+      - text: Hm?
+      - control:
+          kind: pause
+          length: short
+      - text: " How long have you been here?"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nI didn't even notice your arrival!"
+  Npc_Musician_AoC_HeroRitoRelief_004:
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 1
+      - text: "Ah, we meet again! And it seems you\ncaught me...well, talking to myself."
+  Npc_Musician_AoC_HeroRitoRelief_100:
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 275
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1053609165
+      - text: "♪Wind's ally soars "
+      - control:
+          kind: pause
+          length: long
+      - text: the land of cloud.
+      - control:
+          kind: pause
+          frames: 66
+      - text: "\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Medoh
+      - control:
+          kind: reset_colour
+      - text: "'s Champion, "
+      - control:
+          kind: pause
+          length: long
+      - text: swift and proud.♪
+  Npc_Musician_AoC_HeroRitoRelief_101:
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 1
+      - control:
+          kind: animation
+          name: Ease_00
+      - text: "Ah, sweet joy! How glorious to sing this\nsong in front of the real "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: monument
+      - control:
+          kind: reset_colour
+      - text: "..."
+  Npc_Musician_AoC_HeroRitoRelief_102:
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 300
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1053609165
+      - text: "♪The hero's power "
+      - control:
+          kind: pause
+          length: long
+      - text: shall grow.
+      - control:
+          kind: pause
+          frames: 84
+      - text: "\nSeek trials "
+      - control:
+          kind: pause
+          length: long
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: monuments
+      - control:
+          kind: reset_colour
+      - text: " show.♪"
+  Npc_Musician_AoC_HeroRitoRelief_103:
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 275
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1053609165
+      - text: "♪One, "
+      - control:
+          kind: pause
+          length: long
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "shoot the flame dragon's horn"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          frames: 73
+      - text: "\nTwo, "
+      - control:
+          kind: pause
+          length: long
+      - control:
+          kind: set_colour
+          colour: red
+      - text: race down a peak rings adorn
+      - control:
+          kind: reset_colour
+      - text: ".♪"
+  Npc_Musician_AoC_HeroRitoRelief_104:
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 330
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1053609165
+      - text: "♪Three, "
+      - control:
+          kind: pause
+          length: long
+      - control:
+          kind: set_colour
+          colour: red
+      - text: shoot four targets to win
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          frames: 84
+      - text: "\nChampion, "
+      - control:
+          kind: pause
+          length: long
+      - text: the trials begin!♪
+  Npc_Musician_AoC_HeroRitoRelief_105:
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 140
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 0
+      - text: "The song my teacher left behind...\nThere's "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: a verse
+      - control:
+          kind: reset_colour
+      - text: " about the trials that\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Champion Revali "
+      - control:
+          kind: reset_colour
+      - text: "overcame.\n"
+      - control:
+          kind: auto_advance
+          frames: 40
+      - text: Allow me to sing it for you...
+  Npc_Musician_AoC_HeroRitoRelief_201:
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 1
+      - text: "The confidence it must have taken to\nmaster a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Divine Beast
+      - control:
+          kind: reset_colour
+      - text: "... How inspiring."
   Npc_Musician_AoC_HeroRitoRelief_202:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 11
-    - text: "My teacher's dream is now mine to fulfill.\nAn "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: unfinished song
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " weighs heavily on\na bard's soul... I won't allow it."
-  Npc_Musician_AoC_HeroRitoRelief_004:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 1
-    - text: "Ah, we meet again! And it seems you\ncaught me...well, talking to myself."
+      - text: "My teacher's dream is now mine to fulfill.\nAn "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: unfinished song
+      - control:
+          kind: reset_colour
+      - text: " weighs heavily on\na bard's soul... I won't allow it."
   Npc_Musician_AoC_HeroRitoRelief_203:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "But in order to see this dream to fruition,\nI must learn more about the Champions\nof long ago..."
+      - text: "But in order to see this dream to fruition,\nI must learn more about the Champions\nof long ago..."
   Npc_Musician_AoC_HeroRitoRelief_204:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "Yet this unfinished song still pulls at\nmy heart. And so, my hometown is but\na stopping point on this journey of mine."
+      - text: "Yet this unfinished song still pulls at\nmy heart. And so, my hometown is but\na stopping point on this journey of mine."
+  Npc_Musician_AoC_HeroRitoRelief_205:
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Thankfully, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Teba
+      - control:
+          kind: reset_colour
+      - text: " and the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Rito Village
+      - control:
+          kind: reset_colour
+      - text: "\nelder, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Kaneli
+      - control:
+          kind: reset_colour
+      - text: ", told me some wonderful\nstories of the Rito Champion."

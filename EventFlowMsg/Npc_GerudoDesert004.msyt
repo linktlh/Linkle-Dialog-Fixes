@@ -1,82 +1,85 @@
 ---
+group_count: 5
+atr1_unknown: 4
 entries:
-  Talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "It WAS you who saved me, right?\nI'm not mistaken?"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "I was so frustrated after being captured\nthat your face didn't quite register with\nme, but I definitely remember your voice.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "You have no idea how embarrassed I am\nfor getting an outsider caught up in our\nbusiness.\nAfter the stern talking-to I got from my\ncaptain, I think I'll stay on my best\nbehavior for a while."
-  Talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Hmm... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Aren't you the one who broke\ninto the Yiga Clan's hideout?"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "They spread their forces so thin looking\nfor you that I managed to bust out and\nreturn here. I owe you my life!\n"
   Near_Raimei_001:
-    - text: "Ah, the Thunder Helm!"
+    attributes: Npc_GerudoDesert004
+    contents:
+      - text: "Ah, the Thunder Helm!"
   Talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_GerudoDesert004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 4
-    - text: "Thanks to your break-in at the bandits'\nhideout, they spread their forces thin\nlooking for you.\nIt was just the opening I needed to bust\nout and return here. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: I owe you my life!
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Thanks to your break-in at the bandits'\nhideout, they spread their forces thin\nlooking for you.\nIt was just the opening I needed to bust\nout and return here. "
+      - control:
+          kind: pause
+          length: short
+      - text: I owe you my life!
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "Seriously... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "If you hadn't shown up..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nBest case scenario, I'd have been\ndoomed to an all-banana diet."
+      - text: "Seriously... "
+      - control:
+          kind: pause
+          length: short
+      - text: "If you hadn't shown up..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nBest case scenario, I'd have been\ndoomed to an all-banana diet."
+  Talk01:
+    attributes: Npc_GerudoDesert004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "It WAS you who saved me, right?\nI'm not mistaken?"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "I was so frustrated after being captured\nthat your face didn't quite register with\nme, but I definitely remember your voice.\n"
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "You have no idea how embarrassed I am\nfor getting an outsider caught up in our\nbusiness.\nAfter the stern talking-to I got from my\ncaptain, I think I'll stay on my best\nbehavior for a while."
+  Talk02:
+    attributes: Npc_GerudoDesert004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Hmm... "
+      - control:
+          kind: pause
+          length: short
+      - text: "Aren't you the one who broke\ninto the Yiga Clan's hideout?"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "They spread their forces so thin looking\nfor you that I managed to bust out and\nreturn here. I owe you my life!\n"

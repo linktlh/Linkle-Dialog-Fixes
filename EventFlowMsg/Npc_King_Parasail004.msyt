@@ -1,590 +1,570 @@
 ---
+group_count: 37
+atr1_unknown: 4
 entries:
-  Appear16:
-    - text: "Since I'm feeling generous, I will also\nteach you a trick for finding shrines.\n\nIt's always best to survey the area by\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: looking around from a high point
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n"
-    - control:
-        four:
-          type1:
-            field_1:
-              - 14
-              - 205
-    - text: "Let's see here..."
-  Kotsu01:
-    - text: "Open the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: map
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " on your "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Sheikah Slate
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nand select the blue tower icon.\n\n"
-    - control:
-        four:
-          type1:
-            field_1:
-              - 7
-              - 205
-    - text: "You'll be able to travel there instantly\nthat way."
-  Appear17:
-    - text: "How about you make your way to the top\nof that tower again?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5
-            field_3: 6
-            field_4:
-              - 0
-              - 2
-  Appear18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 1
-    - control:
-        four:
-          type2:
-            field_1: 24
-            string: CustomLaugh
-    - text: "Oho ho!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "I am afraid not. But do not worry!\nI have another little trick to share\nwith you for your effort."
-  "1000":
-    - text: You sure know a lot...
-  Appear19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 1
-    - control:
-        four:
-          type2:
-            field_1: 24
-            string: CustomLaugh
-    - text: "I admire your eagerness! "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "But allow me to\nteach you something else before you go."
-  Talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: Try traveling to the top of the tower.
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nFrom there, you should be able to scout\nthe location of another shrine."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 1000
-            field_3: 1001
-            field_4:
-              - 0
-              - 1
-  "1001":
-    - text: Bye.
-  Talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 2
-    - text: "Go on! Get to the top of that tower,\nand find those remaining shrines!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 1002
-            field_3: 1001
-            field_4:
-              - 0
-              - 1
-  "1002":
-    - text: What do I do?
-  TerrorBomb:
-    - text: What is it?!
-  TerrorEnemy:
-    - text: Whoa!
-  Appear01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "It seems you managed to get your hands\non a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Spirit Orb
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ". "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: Well done!
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 2
-  Appear02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "Clairvoyance! "
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "Oho, or perhaps just\nsomething similar."
-  TerrorArrow:
-    - text: What is this?!
-  Appear03:
-    - text: "As one gets older, it can become more\ndifficult to see what is right before\none's own eyes...\nHowever, that which was once hidden\nfrom view can often be crystal clear."
-  Appear04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 1
-    - control:
-        four:
-          type1:
-            field_1:
-              - 8
-              - 205
-    - text: "But perhaps that is not true for\neveryone!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Oho ho!"
-  Appear05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: "I encourage you to slow down for\na moment, my courageous friend."
-  Appear06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "The appearance of those towers and\nthe awakening of this shrine..."
   "0000":
-    - text: How did you know?!
-  Appear07:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 14
-              - 205
-    - text: "It is all connected to that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Sheikah Slate
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nyou carry on your hip there."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 1
-            field_4:
-              - 0
-              - 2
+    attributes: ""
+    contents:
+      - text: How did you know?!
   "0001":
-    - text: "Paraglider, please?"
+    attributes: ""
+    contents:
+      - text: "Paraglider, please?"
+  "0002":
+    attributes: ""
+    contents:
+      - text: What do you mean?
+  "0003":
+    attributes: ""
+    contents:
+      - text: "That wasn't the deal!"
+  "0004":
+    attributes: ""
+    contents:
+      - text: So I need more now?
+  "0005":
+    attributes: ""
+    contents:
+      - text: Are you joking?
+  "0006":
+    attributes: ""
+    contents:
+      - text: Got it!
+  "1000":
+    attributes: ""
+    contents:
+      - text: You sure know a lot...
+  "1001":
+    attributes: ""
+    contents:
+      - text: Bye.
+  "1002":
+    attributes: ""
+    contents:
+      - text: What do I do?
+  Appear01:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "It seems you managed to get your hands\non a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Spirit Orb
+      - control:
+          kind: reset_colour
+      - text: ". "
+      - control:
+          kind: pause
+          length: long
+      - text: Well done!
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  Appear02:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "Clairvoyance! "
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: pause
+          length: long
+      - text: "Oho, or perhaps just\nsomething similar."
+  Appear03:
+    attributes: Npc_King_Parasail004
+    contents:
+      - text: "As one gets older, it can become more\ndifficult to see what is right before\none's own eyes...\nHowever, that which was once hidden\nfrom view can often be crystal clear."
+  Appear04:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 1
+      - control:
+          kind: sound2
+          unknown:
+            - 8
+            - 205
+      - text: "But perhaps that is not true for\neveryone!"
+      - control:
+          kind: pause
+          length: long
+      - text: " Oho ho!"
+  Appear05:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: "I encourage you to slow down for\na moment, my courageous friend."
+  Appear06:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "The appearance of those towers and\nthe awakening of this shrine..."
+  Appear07:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 14
+            - 205
+      - text: "It is all connected to that "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Sheikah Slate
+      - control:
+          kind: reset_colour
+      - text: "\nyou carry on your hip there."
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 1
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
   Appear08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "It has been quite some time since I have\nseen that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Sheikah Slate
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-  "0002":
-    - text: What do you mean?
+      - text: "It has been quite some time since I have\nseen that "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Sheikah Slate
+      - control:
+          kind: reset_colour
+      - text: "..."
   Appear09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 14
-    - text: I have yet to finish speaking!
-  Appear20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Take a look at the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: map
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " on your\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Sheikah Slate
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  "0003":
-    - text: "That wasn't the deal!"
-  Appear21:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 2
-              - 205
-    - text: See those
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: " blue icons"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? You should\nrecognize the cave where you woke,\nthe shrine you came from, and the tower."
-  TerrorImpulse:
-    - text: Whoa!
-  TerrorInsect:
-    - text: Whoa!
-  "0004":
-    - text: So I need more now?
-  Appear22:
-    - text: "You can travel instantly to any of those\nplaces with the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Sheikah Slate
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  "0005":
-    - text: Are you joking?
-  Appear23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 13
-    - text: Or so I heard quite some time ago...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nI do not know if it actually works\nas such."
-  "0006":
-    - text: Got it!
-  ClearTerrorEnemy:
-    - text: Hmm...
-  Near00:
-    - control:
-        four:
-          type2:
-            field_1: 24
-            string: CustomLaugh
-    - text: Oho ho!
-  TerrorExplosion:
-    - text: Huh?!
-  NakedPlayer:
-    - text: "Aren't you...a bit chilly?"
-  TerrorSword:
-    - text: Easy there!
-  TerrorGuardian:
-    - text: A Guardian!
-  TerrorFire:
-    - text: Toasty...
-  ClearTerrorGuardian:
-    - text: That was close...
+      - text: I have yet to finish speaking!
   Appear10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "Long ago, a highly advanced tribe known\nas the Sheikah inhabited these lands.\n\nThe great power of their wisdom saved\nthis kingdom time and time again."
+      - text: "Long ago, a highly advanced tribe known\nas the Sheikah inhabited these lands.\n\nThe great power of their wisdom saved\nthis kingdom time and time again."
   Appear11:
-    - text: "But their ancient technology disappeared\nlong ago..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Or so it is said.\n\nIt is interesting, however, to think..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nhow something like that survived all\nthis time, hidden away in a shrine."
+    attributes: Npc_King_Parasail004
+    contents:
+      - text: "But their ancient technology disappeared\nlong ago..."
+      - control:
+          kind: pause
+          length: short
+      - text: " Or so it is said.\n\nIt is interesting, however, to think..."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nhow something like that survived all\nthis time, hidden away in a shrine."
   Appear12:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 0
-              - 205
-    - text: "These shrines are tucked away in\nnumerous places all across this land."
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 0
+            - 205
+      - text: "These shrines are tucked away in\nnumerous places all across this land."
   Appear13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 0
-    - text: "On this plateau alone, I believe there are\nstill "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: three
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " more.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "On this plateau alone, I believe there are\nstill "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: three
+      - control:
+          kind: reset_colour
+      - text: " more.\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 1
-    - control:
-        four:
-          type2:
-            field_1: 24
-            string: CustomLaugh
-    - text: "Bring me the treasure from each of\nthose shrines..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "and I will give you\nmy "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: paraglider
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 3
-            field_3: 4
-            field_4:
-              - 0
-              - 2
+      - control:
+          kind: animation
+          name: CustomLaugh
+      - text: "Bring me the treasure from each of\nthose shrines..."
+      - control:
+          kind: pause
+          length: long
+      - text: "and I will give you\nmy "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: paraglider
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 4
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
   Appear14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "Oh? Well, I suppose I changed my mind."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nI'm sure that won't be a problem for a\nyoung go-getter like you!"
-  GoodBye00:
-    - text: Go on. Time is of the essence!
+      - text: "Oh? Well, I suppose I changed my mind."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nI'm sure that won't be a problem for a\nyoung go-getter like you!"
   Appear15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - text: "I said \"treasure,\" but I never said there\nwould only be one treasure.\n\nWhether it's one treasure or four,\nwhat's the difference for a young\ngo-getter like yourself?"
-  Kotsu00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I said \"treasure,\" but I never said there\nwould only be one treasure.\n\nWhether it's one treasure or four,\nwhat's the difference for a young\ngo-getter like yourself?"
+  Appear16:
+    attributes: Npc_King_Parasail004
+    contents:
+      - text: "Since I'm feeling generous, I will also\nteach you a trick for finding shrines.\n\nIt's always best to survey the area by\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: looking around from a high point
+      - control:
+          kind: reset_colour
+      - text: ".\n"
+      - control:
+          kind: sound2
+          unknown:
+            - 14
+            - 205
+      - text: "Let's see here..."
+  Appear17:
+    attributes: Npc_King_Parasail004
+    contents:
+      - text: "How about you make your way to the top\nof that tower again?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5
+            - 6
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  Appear18:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 1
-    - control:
-        four:
-          type2:
-            field_1: 24
-            string: CustomLaugh
-    - text: Oho ho!
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " When you have been around\nas long as I have, you pick up a thing\nor two. "
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - control:
+          kind: animation
+          name: CustomLaugh
+      - text: "Oho ho!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "Go on, why not try it out?"
-  GoodBye01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I am afraid not. But do not worry!\nI have another little trick to share\nwith you for your effort."
+  Appear19:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 1
-    - control:
-        four:
-          type1:
-            field_1:
-              - 8
-              - 205
-    - text: Oho ho!
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " If you still wish to acquire the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: paraglider
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", you must put in the effort.\nI will not simply give it away, you see."
+      - control:
+          kind: animation
+          name: CustomLaugh
+      - text: "I admire your eagerness! "
+      - control:
+          kind: pause
+          length: long
+      - text: "But allow me to\nteach you something else before you go."
+  Appear20:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Take a look at the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: map
+      - control:
+          kind: reset_colour
+      - text: " on your\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Sheikah Slate
+      - control:
+          kind: reset_colour
+      - text: "."
+  Appear21:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 2
+            - 205
+      - text: See those
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: " blue icons"
+      - control:
+          kind: reset_colour
+      - text: "? You should\nrecognize the cave where you woke,\nthe shrine you came from, and the tower."
+  Appear22:
+    attributes: Npc_King_Parasail004
+    contents:
+      - text: "You can travel instantly to any of those\nplaces with the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Sheikah Slate
+      - control:
+          kind: reset_colour
+      - text: "."
+  Appear23:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 13
+      - text: Or so I heard quite some time ago...
+      - control:
+          kind: pause
+          length: long
+      - text: "\nI do not know if it actually works\nas such."
+  ClearTerrorEnemy:
+    attributes: ""
+    contents:
+      - text: Hmm...
+  ClearTerrorGuardian:
+    attributes: ""
+    contents:
+      - text: That was close...
+  GoodBye00:
+    attributes: Npc_King_Parasail004
+    contents:
+      - text: Go on. Time is of the essence!
+  GoodBye01:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 1
+      - control:
+          kind: sound2
+          unknown:
+            - 8
+            - 205
+      - text: Oho ho!
+      - control:
+          kind: pause
+          length: long
+      - text: " If you still wish to acquire the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: paraglider
+      - control:
+          kind: reset_colour
+      - text: ", you must put in the effort.\nI will not simply give it away, you see."
+  Kotsu00:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 1
+      - control:
+          kind: animation
+          name: CustomLaugh
+      - text: Oho ho!
+      - control:
+          kind: pause
+          length: long
+      - text: " When you have been around\nas long as I have, you pick up a thing\nor two. "
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Go on, why not try it out?"
+  Kotsu01:
+    attributes: Npc_King_Parasail004
+    contents:
+      - text: "Open the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: map
+      - control:
+          kind: reset_colour
+      - text: " on your "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Sheikah Slate
+      - control:
+          kind: reset_colour
+      - text: ",\nand select the blue tower icon.\n\n"
+      - control:
+          kind: sound2
+          unknown:
+            - 7
+            - 205
+      - text: "You'll be able to travel there instantly\nthat way."
+  NakedPlayer:
+    attributes: ""
+    contents:
+      - text: "Aren't you...a bit chilly?"
+  Near00:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: animation
+          name: CustomLaugh
+      - text: Oho ho!
+  Talk00:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: Try traveling to the top of the tower.
+      - control:
+          kind: pause
+          length: long
+      - text: "\nFrom there, you should be able to scout\nthe location of another shrine."
+      - control:
+          kind: choice
+          choice_labels:
+            - 1000
+            - 1001
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk01:
+    attributes: Npc_King_Parasail004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 2
+      - text: "Go on! Get to the top of that tower,\nand find those remaining shrines!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 1002
+            - 1001
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  TerrorArrow:
+    attributes: ""
+    contents:
+      - text: What is this?!
+  TerrorBomb:
+    attributes: ""
+    contents:
+      - text: What is it?!
+  TerrorEnemy:
+    attributes: ""
+    contents:
+      - text: Whoa!
+  TerrorExplosion:
+    attributes: ""
+    contents:
+      - text: Huh?!
+  TerrorFire:
+    attributes: ""
+    contents:
+      - text: Toasty...
+  TerrorGuardian:
+    attributes: ""
+    contents:
+      - text: A Guardian!
+  TerrorImpulse:
+    attributes: ""
+    contents:
+      - text: Whoa!
+  TerrorInsect:
+    attributes: ""
+    contents:
+      - text: Whoa!
+  TerrorSword:
+    attributes: ""
+    contents:
+      - text: Easy there!

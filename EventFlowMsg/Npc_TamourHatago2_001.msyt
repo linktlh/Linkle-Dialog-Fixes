@@ -1,422 +1,400 @@
 ---
+group_count: 19
+atr1_unknown: 4
 entries:
-  talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "Whoa. "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "That "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: sword
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " you have there.\nCould it be..."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 8
-            field_3: 9
-            field_4:
-              - 0
-              - 2
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Anyway...
   "0000":
-    - text: "I'm a humble traveler."
-  talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 4
-    - text: Hmm?
+    attributes: ""
+    contents:
+      - text: "I'm a humble traveler."
   "0001":
-    - text: "..."
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 4
-    - text: "Oh. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "It's you."
+    attributes: ""
+    contents:
+      - text: "..."
   "0002":
-    - text: "I'm the best!"
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "I take it you're looking for"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " the fabled\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: sword of legend
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " too?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 6
-            field_3: 7
-            field_4:
-              - 0
-              - 1
+    attributes: ""
+    contents:
+      - text: "I'm the best!"
   "0003":
-    - text: "No, not at all."
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "Well, I'm not lettin' you have it!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "In fact, I think I'll just go ahead and\nmosey over to the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Woodland Stable
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+    attributes: ""
+    contents:
+      - text: "No, not at all."
   "0004":
-    - text: Legendary sword?
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Then get outta my face!
+    attributes: ""
+    contents:
+      - text: Legendary sword?
   "0005":
-    - text: "I'm not interested."
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Hmm... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Maybe I'll just mosey over to\nthe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Woodland Stable
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
+    attributes: ""
+    contents:
+      - text: "I'm not interested."
   "0006":
-    - text: Yes.
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 10
-    - text: "HA! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: You must be joking!
+    attributes: ""
+    contents:
+      - text: Yes.
   "0007":
-    - text: No.
+    attributes: ""
+    contents:
+      - text: No.
+  "0008":
+    attributes: ""
+    contents:
+      - text: "It's legendary."
+  "0009":
+    attributes: ""
+    contents:
+      - text: "It's a fake."
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 2
-    - text: Heyo. Who are you?!
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 2
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Heyo. Who are you?!
+      - control:
+          kind: choice
+          choice_labels:
             - 0
             - 1
-    - text: Right?!
-  "0008":
-    - text: "It's legendary."
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
   talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 14
-    - text: "*tsk*"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Ignoring me, I see."
-  "0009":
-    - text: "It's a fake."
+      - text: "*tsk*"
+      - control:
+          kind: pause
+          length: short
+      - text: " Ignoring me, I see."
   talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "Hmph. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Show-off.
-  talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "I hear the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: legendary sword
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " is hidden\ndeep in a forest."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " But no one has ever\nreturned from that forest..."
+      - text: "Hmph. "
+      - control:
+          kind: pause
+          length: short
+      - text: Show-off.
   talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 0
-    - text: Traveling alone to a place like this?
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nYou must be a woman who sets her mind\non something and then gets it done!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 3
-            field_4:
-              - 0
-              - 2
-  talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: How could a twig like you find it?!
+      - text: Traveling alone to a place like this?
+      - control:
+          kind: pause
+          length: short
+      - text: "\nYou must be a woman who sets her mind\non something and then gets it done!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
   talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: Your modesty is overwhelming...
-  talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "I'm gonna go after that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: legendary sword
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ","
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nso just stay outta my way!"
+      - text: Your modesty is overwhelming...
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 9
-    - text: "That's why I thought, if I can get that\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: legendary sword
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ","
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " maybe a new path\nwill open up for me! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: Whaddaya think?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 5
-            field_4:
-              - 0
-              - 1
+      - text: "That's why I thought, if I can get that\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: legendary sword
+      - control:
+          kind: reset_colour
+      - text: ","
+      - control:
+          kind: pause
+          length: short
+      - text: " maybe a new path\nwill open up for me! "
+      - control:
+          kind: pause
+          length: longer
+      - text: Whaddaya think?
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 11
-    - text: "That's right!\n\n\nI finally figured out that it's near\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Death Mountain
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ". However..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "it doesn't\nseem to be in this direction.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "That's right!\n\n\nI finally figured out that it's near\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Death Mountain
+      - control:
+          kind: reset_colour
+      - text: ". However..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "it doesn't\nseem to be in this direction.\n"
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 0
-    - text: "Maybe it's on the opposite side,\ncloser to the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Woodland Stable
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
+      - text: "Maybe it's on the opposite side,\ncloser to the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Woodland Stable
+      - control:
+          kind: reset_colour
+      - text: "..."
   talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "I was really into sword fighting,\nbut I'm in a bit of a rut with it.\n\nDoesn't help that the sword I'm using\nright now is way too blunt."
+      - text: "I was really into sword fighting,\nbut I'm in a bit of a rut with it.\n\nDoesn't help that the sword I'm using\nright now is way too blunt."
+  talk09:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "Whoa. "
+      - control:
+          kind: pause
+          length: longer
+      - text: "That "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: sword
+      - control:
+          kind: reset_colour
+      - text: " you have there.\nCould it be..."
+      - control:
+          kind: choice
+          choice_labels:
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  talk10:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Anyway...
+  talk11:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 4
+      - text: Hmm?
+  talk12:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 4
+      - text: "Oh. "
+      - control:
+          kind: pause
+          length: short
+      - text: "It's you."
+  talk13:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "I take it you're looking for"
+      - control:
+          kind: pause
+          length: short
+      - text: " the fabled\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: sword of legend
+      - control:
+          kind: reset_colour
+      - text: " too?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk14:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "Well, I'm not lettin' you have it!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "In fact, I think I'll just go ahead and\nmosey over to the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Woodland Stable
+      - control:
+          kind: reset_colour
+      - text: "."
+  talk15:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Then get outta my face!
+  talk16:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Hmm... "
+      - control:
+          kind: pause
+          length: short
+      - text: "Maybe I'll just mosey over to\nthe "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Woodland Stable
+      - control:
+          kind: reset_colour
+      - text: "..."
+  talk17:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 10
+      - text: "HA! "
+      - control:
+          kind: pause
+          length: longer
+      - text: You must be joking!
+  talk18:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Right?!
+  talk20:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "I hear the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: legendary sword
+      - control:
+          kind: reset_colour
+      - text: " is hidden\ndeep in a forest."
+      - control:
+          kind: pause
+          length: longer
+      - text: " But no one has ever\nreturned from that forest..."
+  talk21:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: How could a twig like you find it?!
+  talk22:
+    attributes: Npc_TamourHatago2_001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "I'm gonna go after that "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: legendary sword
+      - control:
+          kind: reset_colour
+      - text: ","
+      - control:
+          kind: pause
+          length: short
+      - text: "\nso just stay outta my way!"

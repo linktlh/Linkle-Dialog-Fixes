@@ -1,67 +1,48 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
   Demo600_0_000:
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 55
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "...\n\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 60
-    - text: "Linkle...\n\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 80
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "Linkle...\n\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 170
-    - text: "I have witnessed your journey.\nYou have overcome every challenge\nlaid before you.\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 95
-    - text: "Ruta.\nRudania.\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 110
-    - text: "Medoh.\nNaboris.\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 150
-    - text: "All of the Divine Beasts are now free.\n\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 250
-    - text: "With the strength you have attained,\nI am certain you can unlock the\npowerful force hidden within.\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 210
-    - text: "Go to the Shrine of Resurrection\nand return the Sheikah Slate to\nits terminal."
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 55
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "...\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 60
+      - text: "Linkle...\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 80
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "Linkle...\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 170
+      - text: "I have witnessed your journey.\nYou have overcome every challenge\nlaid before you.\n"
+      - control:
+          kind: auto_advance
+          frames: 95
+      - text: "Ruta.\nRudania.\n\n"
+      - control:
+          kind: auto_advance
+          frames: 110
+      - text: "Medoh.\nNaboris.\n\n"
+      - control:
+          kind: auto_advance
+          frames: 150
+      - text: "All of the Divine Beasts are now free.\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 250
+      - text: "With the strength you have attained,\nI am certain you can unlock the\npowerful force hidden within.\n"
+      - control:
+          kind: auto_advance
+          frames: 210
+      - text: "Go to the Shrine of Resurrection\nand return the Sheikah Slate to\nits terminal."

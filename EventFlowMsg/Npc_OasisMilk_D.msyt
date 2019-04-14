@@ -1,100 +1,99 @@
 ---
+group_count: 5
+atr1_unknown: 4
 entries:
-  talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 37
-    - text: "\"I like to be the one to do the cooking.\""
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nJerk waits until AFTER I take the\ncooking class to tell me this..."
-  talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 37
-    - text: "\"I really like shorter hair...\""
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nI grew my hair out because he said he\nliked LONG hair!"
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 37
-    - text: "\"I'm engaged.\""
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n\n\n"
-    - control:
-        four:
-          type1:
-            field_1:
-              - 35
-              - 205
-    - text: "*sigh*"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nI can't even be angry at that one..."
   near00:
-    - text: Ugh...
+    attributes: Npc_OasisMilk_D
+    contents:
+      - text: Ugh...
+  near01:
+    attributes: Npc_OasisMilk_D
+    contents:
+      - text: Zzz... Zzz...
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_OasisMilk_D
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 37
-    - text: "\"I don't like girls twice my height...\""
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nWhat's he mean by that?!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " "
-    - control:
-        four:
-          type1:
-            field_1:
-              - 35
-              - 205
-    - text: "I'm only\neight feet tall!"
-  near01:
-    - text: Zzz... Zzz...
+      - text: "\"I don't like girls twice my height...\""
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nWhat's he mean by that?!"
+      - control:
+          kind: pause
+          length: long
+      - text: " "
+      - control:
+          kind: sound2
+          unknown:
+            - 35
+            - 205
+      - text: "I'm only\neight feet tall!"
   talk01:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 31
-              - 205
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: Stupid voe... Who needs them...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+    attributes: Npc_OasisMilk_D
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 31
+            - 205
+      - control:
+          kind: text_size
+          percent: 80
+      - text: Stupid voe... Who needs them...
+      - control:
+          kind: text_size
+          percent: 100
+  talk02:
+    attributes: Npc_OasisMilk_D
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 37
+      - text: "\"I like to be the one to do the cooking.\""
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nJerk waits until AFTER I take the\ncooking class to tell me this..."
+  talk03:
+    attributes: Npc_OasisMilk_D
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 37
+      - text: "\"I really like shorter hair...\""
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nI grew my hair out because he said he\nliked LONG hair!"
+  talk04:
+    attributes: Npc_OasisMilk_D
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 37
+      - text: "\"I'm engaged.\""
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n\n\n"
+      - control:
+          kind: sound2
+          unknown:
+            - 35
+            - 205
+      - text: "*sigh*"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nI can't even be angry at that one..."

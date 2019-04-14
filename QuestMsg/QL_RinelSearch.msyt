@@ -1,44 +1,34 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
-  QL_RinelSearch_Finish:
-    - text: "I showed Laflat a picture of a red-maned\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Lynel
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\nShe gave me her Zora greaves as a reward."
-  QL_RinelSearch_Name:
-    - text: Lynel Safari
   QL_RinelSearch_Desc:
-    - text: "Laflat asked that I "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: show her
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " a picture of a\nred-maned "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Lynel
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " if I see one. The nearest\none she knows of is on Ploymus Mountain.\n\nI'm to use whatever means I have at my\ndisposal to give her a look."
+    contents:
+      - text: "Laflat asked that I "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: show her
+      - control:
+          kind: reset_colour
+      - text: " a picture of a\nred-maned "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Lynel
+      - control:
+          kind: reset_colour
+      - text: " if I see one. The nearest\none she knows of is on Ploymus Mountain.\n\nI'm to use whatever means I have at my\ndisposal to give her a look."
+  QL_RinelSearch_Finish:
+    contents:
+      - text: "I showed Laflat a picture of a red-maned\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Lynel
+      - control:
+          kind: reset_colour
+      - text: ".\n\nShe gave me her Zora greaves as a reward."
+  QL_RinelSearch_Name:
+    contents:
+      - text: Lynel Safari

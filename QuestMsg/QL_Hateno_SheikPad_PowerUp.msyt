@@ -1,82 +1,58 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
-  QL_Hateno_SheikPad_PowerUp_Name:
-    - text: Slated for Upgrades
-  QL_Hateno_SheikPad_PowerUp_Finish:
-    - text: "Purah powered up my Sheikah Sensor,\nRemote Bombs, and Stasis!\n\nPurah claims that she's now pushed my\nrunes as far as they can go."
   QL_Hateno_SheikPad_PowerUp_Desc:
-    - text: "Purah has offered to help me out in exchange\nfor some "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: ancient components
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\nJust what are these ancient components?\nAnd who is "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Robbie
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? I'll have to ask Purah\nfor the answers."
+    contents:
+      - text: "Purah has offered to help me out in exchange\nfor some "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: ancient components
+      - control:
+          kind: reset_colour
+      - text: ".\n\nJust what are these ancient components?\nAnd who is "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Robbie
+      - control:
+          kind: reset_colour
+      - text: "? I'll have to ask Purah\nfor the answers."
   QL_Hateno_SheikPad_PowerUp_Explain:
-    - text: "If I provide Purah with "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: ancient components
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nshe can use them to strengthen my runes.\n\nThe Sheikah Sensor takes "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "three \nancient screws"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", Remote Bombs\nrequire "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: three ancient shafts
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", and\nStasis needs "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: three ancient cores
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+    contents:
+      - text: "If I provide Purah with "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: ancient components
+      - control:
+          kind: reset_colour
+      - text: ",\nshe can use them to strengthen my runes.\n\nThe Sheikah Sensor takes "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "three \nancient screws"
+      - control:
+          kind: reset_colour
+      - text: ", Remote Bombs\nrequire "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: three ancient shafts
+      - control:
+          kind: reset_colour
+      - text: ", and\nStasis needs "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: three ancient cores
+      - control:
+          kind: reset_colour
+      - text: "."
+  QL_Hateno_SheikPad_PowerUp_Finish:
+    contents:
+      - text: "Purah powered up my Sheikah Sensor,\nRemote Bombs, and Stasis!\n\nPurah claims that she's now pushed my\nrunes as far as they can go."
+  QL_Hateno_SheikPad_PowerUp_Name:
+    contents:
+      - text: Slated for Upgrades

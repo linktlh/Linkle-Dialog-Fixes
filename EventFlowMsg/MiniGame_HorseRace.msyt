@@ -1,903 +1,887 @@
 ---
+group_count: 37
+atr1_unknown: 4
 entries:
-  talk40:
-    - text: "Do well...and there may be a nice prize\nin it for you."
-  talk29:
-    - text: Faster...
-  talk41:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "It's an obstacle course,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " but on\nhorseback!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "There are 10 obstacles to navigate.\nBest time wins."
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "If you're not an ace in the saddle when\nthe game starts,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I guarantee you'll be\none by the time it's through!"
-  talk42:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 4
-    - text: "All right, hunker down and listen up."
-  talk43:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: You need a rundown of the rules?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 8
-            field_3: 1
-            field_4:
-              - 0
-              - 2
-  talk44:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Let's get started! Giddyap!"
-  talk45:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "You'll never make it over life's obstacles\nwithout facing them head on. It's the\nsame with this course."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Your poor horse..."
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 21
-    - text: "Holy smoke, would you look at that?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nNever thought I'd see the day..."
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "But a man's gotta abide by his word, so\nhere's that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: horse gear
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " I promised."
-  talk46:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "You can't plow through everything with a\ngallop and some steel nerves. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "You've got\nto adjust your speed to the challenge."
-  talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 23
-    - text: "Now that's a good run! You get better\nevery time you ride!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "Here's that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: horse gear
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " I promised you."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nKeep at it, and maybe someday you'll\nbe on my level!"
-  talk47:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Your horse may balk when you spur it on\nright in front of an obstacle."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I would too!"
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 9
-    - text: "Brush up on your skills and take another\nrun at it, all right?"
-  talk48:
-    - text: "There are "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: 10 obstacles
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", all told. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "You\ndon't get to cross the finish line 'til\nyou've jumped them all."
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "You don't have the dough to race."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nCome back when you get"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: " 20 rupees"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-  talk49:
-    - text: "When you clear the last one, ride back\nhere."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Simple, right?"
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Wanna try again?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 2
-            field_4:
-              - 0
-              - 1
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Well shoot, missy. You can't enter a horse\nrace without a horse to ride!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "Go mount up and come back to me when\nyou're serious."
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "That horse you're riding isn't properly"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "registered "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: yet.
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "Go take care of the paperwork at the\nstable counter before you come to\nchallenge my best time."
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "Once you pay the entry fee, you're\nlocked in, so be real sure first."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5
-            field_3: 7
-            field_4:
-              - 0
-              - 1
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Giddyap and go! Time's a-wasting!"
-  talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "Well, that's a plumb shame."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Come back\nagain sometime, missy!"
-  talk30:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Sorry, I'm hitting the hay."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Whatever you\nneed, it can wait 'til morning."
-  talk31:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Don't dismount your horse, or you're out\nof the running. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Not that you need telling,\nright?"
   "0000":
-    - text: "Let's do it."
-  talk32:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 13
-    - text: "You still don't miss a trick, do you?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI'll have to get up twice as early to put\none over on you.\nI already gave you the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: extravagant saddle
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", but you\ncan have this instead."
+    attributes: ""
+    contents:
+      - text: "Let's do it."
   "0001":
-    - text: How do we play?
-  talk33:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 23
-    - text: Just who taught you to ride?!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nYou're a firecracker in the saddle, missy!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "You already got that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: extravagant bridle
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nso here, take this instead."
+    attributes: ""
+    contents:
+      - text: How do we play?
   "0002":
-    - text: "No, thanks."
-  talk34:
-    - text: "If you can beat my personal best time,\nI'll give you some mighty fine "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: horse gear
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+    attributes: ""
+    contents:
+      - text: "No, thanks."
   "0003":
-    - text: Here you go.
-  talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: You a nomad?
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " S'pose you've already\nseen the horses 'round this prairie, then."
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "I grew up taming horses 'round these\nparts."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I'm confident there's not a rider in\nHyrule better'n me.\nAnd I got just the way to prove it—a li'l\ngame to test which of us is better in the\nsaddle."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " One I almost never lose.\nWhat do you think?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You got the grit to\nstep up and challenge the master?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  talk35:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 9
-    - text: "You might not've beaten my time, missy,\nbut that wasn't bad. "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "Have a consolation\nprize, and try again sometime!"
+    attributes: ""
+    contents:
+      - text: Here you go.
   "0004":
-    - text: "I'll pass."
-  talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Wanna try to beat my time again?
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  talk36:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 0
-    - text: "I'll admit—I'm feeling lowdown after\nall that. "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "But someday I'll be back on\ntop. You'll see!"
+    attributes: ""
+    contents:
+      - text: "I'll pass."
   "0005":
-    - text: "I'm dropping out."
-  talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Great! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "There's just the little matter of the\nentry fee. That'll be "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: 20 rupees
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 3
-            field_3: 4
-            field_4:
-              - 0
-              - 1
-  talk37:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 7
-              - 205
-    - text: "My best time's "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: 1 minute 15 seconds
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\nThink you can beat that?"
+    attributes: ""
+    contents:
+      - text: "I'm dropping out."
   "0006":
-    - text: Never mind.
-  talk38:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - text: Never mind.
+  "0007":
+    attributes: ""
+    contents:
+      - text: "No, I'll keep going."
+  "0008":
+    attributes: ""
+    contents:
+      - text: No need.
+  Near00:
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: Faster...
+  Near01:
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: Zzz...
+  Near02:
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: I need some shut-eye.
+  Near03:
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: "Why's it always gotta rain?"
+  talk00:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: You a nomad?
+      - control:
+          kind: pause
+          length: short
+      - text: " S'pose you've already\nseen the horses 'round this prairie, then."
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "I grew up taming horses 'round these\nparts."
+      - control:
+          kind: pause
+          length: short
+      - text: " I'm confident there's not a rider in\nHyrule better'n me.\nAnd I got just the way to prove it—a li'l\ngame to test which of us is better in the\nsaddle."
+      - control:
+          kind: pause
+          length: long
+      - text: " One I almost never lose.\nWhat do you think?"
+      - control:
+          kind: pause
+          length: short
+      - text: " You got the grit to\nstep up and challenge the master?"
+      - control:
+          kind: choice
+          choice_labels:
             - 0
             - 1
-    - text: "Your time was "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type19:
-            field_1: 66
-            string: MiniGame_HorseRace_ResultMinute
-            field_3: 0
-    - text: ":"
-    - control:
-        two:
-          type19:
-            field_1: 66
-            string: MiniGame_HorseRace_ResultSecond
-            field_3: 0
-    - text: "."
-    - control:
-        two:
-          type1:
-            field_1: 38
-            string: ScoreStringBuffer
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", huh..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-  "0007":
-    - text: "No, I'll keep going."
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk01:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Wanna try to beat my time again?
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk02:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Great! "
+      - control:
+          kind: pause
+          length: short
+      - text: "There's just the little matter of the\nentry fee. That'll be "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 20 rupees
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 4
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 9
-    - text: Good luck!
-  talk50:
-    - text: "You can't just abandon the race!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You\ngotta get back in that saddle!"
-  "0008":
-    - text: No need.
+      - text: Good luck!
   talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "I thought you had harder bark on you\nthan that."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Well, you ever change your\nmind, come back and see me."
-  talk51:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "Well, that's a plumb shame."
-  Near00:
-    - text: Faster...
+      - text: "I thought you had harder bark on you\nthan that."
+      - control:
+          kind: pause
+          length: short
+      - text: " Well, you ever change your\nmind, come back and see me."
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Ride your horse around this grassy field
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nwhile jumping the obstacles."
-  talk52:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Come back again sometime, missy!"
-  Near01:
-    - text: Zzz...
+      - text: Ride your horse around this grassy field
+      - control:
+          kind: pause
+          length: short
+      - text: "\nwhile jumping the obstacles."
   talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 7
-    - text: Something eating you?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5
-            field_3: 6
-            field_4:
-              - 0
-              - 1
-  talk53:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "See here, missy. This is a HORSE race."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nIf you want in, you gotta be on a horse."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nNot...whatever's happening here."
-  Near02:
-    - text: I need some shut-eye.
-  talk54:
-    - text: "Why don't you aim for "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "1 minute\n30 seconds "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: first?
+      - text: Something eating you?
+      - control:
+          kind: choice
+          choice_labels:
+            - 5
+            - 6
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 13
-    - text: "Keep riding until you've got some hearty\nsaddle sores. Lotta work ahead of you!"
-  Near03:
-    - text: "Why's it always gotta rain?"
+      - text: "Keep riding until you've got some hearty\nsaddle sores. Lotta work ahead of you!"
   talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 9
-    - text: "Nice riding, missy!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " You didn't beat my\ntime, but I'm impressed all the same.\nHere, this is for your hardworking friend."
-  talk55:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Nice riding, missy!"
+      - control:
+          kind: pause
+          length: long
+      - text: " You didn't beat my\ntime, but I'm impressed all the same.\nHere, this is for your hardworking friend."
+  talk10:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
-            - 13
-    - text: Quick as lightning...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " I know when I'm\nbeaten. I'll give you that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: horse gear
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nI promised."
+            - 21
+      - text: "Holy smoke, would you look at that?"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nNever thought I'd see the day..."
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "But a man's gotta abide by his word, so\nhere's that "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: horse gear
+      - control:
+          kind: reset_colour
+      - text: " I promised."
+  talk11:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 23
+      - text: "Now that's a good run! You get better\nevery time you ride!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "Here's that "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: horse gear
+      - control:
+          kind: reset_colour
+      - text: " I promised you."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nKeep at it, and maybe someday you'll\nbe on my level!"
+  talk12:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 9
+      - text: "Brush up on your skills and take another\nrun at it, all right?"
+  talk13:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "You don't have the dough to race."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nCome back when you get"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: " 20 rupees"
+      - control:
+          kind: reset_colour
+      - text: "!"
+  talk14:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Wanna try again?
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 2
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk15:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Well shoot, missy. You can't enter a horse\nrace without a horse to ride!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "Go mount up and come back to me when\nyou're serious."
+  talk16:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "That horse you're riding isn't properly"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "registered "
+      - control:
+          kind: reset_colour
+      - text: yet.
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "Go take care of the paperwork at the\nstable counter before you come to\nchallenge my best time."
+  talk17:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "Once you pay the entry fee, you're\nlocked in, so be real sure first."
+      - control:
+          kind: choice
+          choice_labels:
+            - 5
+            - 7
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk18:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Giddyap and go! Time's a-wasting!"
+  talk19:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "Well, that's a plumb shame."
+      - control:
+          kind: pause
+          length: short
+      - text: " Come back\nagain sometime, missy!"
   talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: How about it?
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You think you got what\nit takes?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 2
-            field_4:
-              - 0
-              - 1
-  talk56:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: How about it?
+      - control:
+          kind: pause
+          length: short
+      - text: " You think you got what\nit takes?"
+      - control:
+          kind: choice
+          choice_labels:
             - 0
-            - 4
-    - text: "The difficult part about this is the fact\nthat you can't just try to recklessly ride\nas fast as you can.\nIn order to clear the obstacles on the\npath, you have to be able to control\nyour horse very well."
+            - 2
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 0
-    - text: "Hah, I knew you'd be back."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Come to\nunseat the champion?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  talk57:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Hah, I knew you'd be back."
+      - control:
+          kind: pause
+          length: short
+      - text: " Come to\nunseat the champion?"
+      - control:
+          kind: choice
+          choice_labels:
             - 0
-            - 6
-    - text: Oh! Before you go!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Remember that it's\nnot all about speed. You must control\nyour horse effectively at all times."
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   talk22:
-    - text: You made it!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: You made it!
+      - control:
+          kind: pause
+          length: short
   talk23:
-    - text: "You can't finish the race on foot,\nyou clodhopper!"
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: "You can't finish the race on foot,\nyou clodhopper!"
   talk24:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 13
-    - text: "Something eating you? You'll need a full\nattitude adjustment to beat me!"
+      - text: "Something eating you? You'll need a full\nattitude adjustment to beat me!"
   talk25:
-    - text: "Time's up already, missy! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Come on back!
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: "Time's up already, missy! "
+      - control:
+          kind: pause
+          length: short
+      - text: Come on back!
   talk26:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "I'm in no mood to run the course when\nits raining. If you want to beat my time,\ncome back when the sun's out."
+      - text: "I'm in no mood to run the course when\nits raining. If you want to beat my time,\ncome back when the sun's out."
   talk27:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "Nothing's worse than a slippery saddle."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nSure hope this rain clears up so I can\nget some riding in..."
+      - text: "Nothing's worse than a slippery saddle."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nSure hope this rain clears up so I can\nget some riding in..."
   talk28:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Sorry, I'm all tuckered out."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " 'Sides which,\nit's too dark to see at night. You won't\nbeat anyone's time that way.\nCome back tomorrow, and we'll see if\nyou can unseat the reigning horse\nmaster then!"
+      - text: "Sorry, I'm all tuckered out."
+      - control:
+          kind: pause
+          length: short
+      - text: " 'Sides which,\nit's too dark to see at night. You won't\nbeat anyone's time that way.\nCome back tomorrow, and we'll see if\nyou can unseat the reigning horse\nmaster then!"
+  talk29:
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: Faster...
+  talk30:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Sorry, I'm hitting the hay."
+      - control:
+          kind: pause
+          length: short
+      - text: " Whatever you\nneed, it can wait 'til morning."
+  talk31:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Don't dismount your horse, or you're out\nof the running. "
+      - control:
+          kind: pause
+          length: short
+      - text: "Not that you need telling,\nright?"
+  talk32:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 13
+      - text: "You still don't miss a trick, do you?"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI'll have to get up twice as early to put\none over on you.\nI already gave you the\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: extravagant saddle
+      - control:
+          kind: reset_colour
+      - text: ", but you\ncan have this instead."
+  talk33:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 23
+      - text: Just who taught you to ride?!
+      - control:
+          kind: pause
+          length: short
+      - text: "\nYou're a firecracker in the saddle, missy!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "You already got that "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: extravagant bridle
+      - control:
+          kind: reset_colour
+      - text: ",\nso here, take this instead."
+  talk34:
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: "If you can beat my personal best time,\nI'll give you some mighty fine "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: horse gear
+      - control:
+          kind: reset_colour
+      - text: "."
+  talk35:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 9
+      - text: "You might not've beaten my time, missy,\nbut that wasn't bad. "
+      - control:
+          kind: pause
+          length: long
+      - text: "Have a consolation\nprize, and try again sometime!"
+  talk36:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 0
+      - text: "I'll admit—I'm feeling lowdown after\nall that. "
+      - control:
+          kind: pause
+          length: long
+      - text: "But someday I'll be back on\ntop. You'll see!"
+  talk37:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 7
+            - 205
+      - text: "My best time's "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 1 minute 15 seconds
+      - control:
+          kind: reset_colour
+      - text: ".\nThink you can beat that?"
+  talk38:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Your time was "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 19
+          name: MiniGame_HorseRace_ResultMinute
+      - text: ":"
+      - control:
+          kind: variable
+          variable_kind: 19
+          name: MiniGame_HorseRace_ResultSecond
+      - text: "."
+      - control:
+          kind: variable
+          variable_kind: 1
+          name: ScoreStringBuffer
+      - control:
+          kind: reset_colour
+      - text: ", huh..."
+      - control:
+          kind: pause
+          length: long
+  talk40:
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: "Do well...and there may be a nice prize\nin it for you."
+  talk41:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "It's an obstacle course,"
+      - control:
+          kind: pause
+          length: short
+      - text: " but on\nhorseback!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "There are 10 obstacles to navigate.\nBest time wins."
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "If you're not an ace in the saddle when\nthe game starts,"
+      - control:
+          kind: pause
+          length: short
+      - text: " I guarantee you'll be\none by the time it's through!"
+  talk42:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 4
+      - text: "All right, hunker down and listen up."
+  talk43:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: You need a rundown of the rules?
+      - control:
+          kind: choice
+          choice_labels:
+            - 8
+            - 1
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  talk44:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Let's get started! Giddyap!"
+  talk45:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "You'll never make it over life's obstacles\nwithout facing them head on. It's the\nsame with this course."
+      - control:
+          kind: pause
+          length: long
+      - text: " Your poor horse..."
+  talk46:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "You can't plow through everything with a\ngallop and some steel nerves. "
+      - control:
+          kind: pause
+          length: short
+      - text: "You've got\nto adjust your speed to the challenge."
+  talk47:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Your horse may balk when you spur it on\nright in front of an obstacle."
+      - control:
+          kind: pause
+          length: short
+      - text: " I would too!"
+  talk48:
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: "There are "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 10 obstacles
+      - control:
+          kind: reset_colour
+      - text: ", all told. "
+      - control:
+          kind: pause
+          length: short
+      - text: "You\ndon't get to cross the finish line 'til\nyou've jumped them all."
+  talk49:
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: "When you clear the last one, ride back\nhere."
+      - control:
+          kind: pause
+          length: short
+      - text: " Simple, right?"
+  talk50:
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: "You can't just abandon the race!"
+      - control:
+          kind: pause
+          length: short
+      - text: " You\ngotta get back in that saddle!"
+  talk51:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "Well, that's a plumb shame."
+  talk52:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Come back again sometime, missy!"
+  talk53:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "See here, missy. This is a HORSE race."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nIf you want in, you gotta be on a horse."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nNot...whatever's happening here."
+  talk54:
+    attributes: Npc_FaronWoods010
+    contents:
+      - text: "Why don't you aim for "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "1 minute\n30 seconds "
+      - control:
+          kind: reset_colour
+      - text: first?
+  talk55:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 13
+      - text: Quick as lightning...
+      - control:
+          kind: pause
+          length: long
+      - text: " I know when I'm\nbeaten. I'll give you that "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: horse gear
+      - control:
+          kind: reset_colour
+      - text: "\nI promised."
+  talk56:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "The difficult part about this is the fact\nthat you can't just try to recklessly ride\nas fast as you can.\nIn order to clear the obstacles on the\npath, you have to be able to control\nyour horse very well."
+  talk57:
+    attributes: Npc_FaronWoods010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: Oh! Before you go!
+      - control:
+          kind: pause
+          length: short
+      - text: " Remember that it's\nnot all about speed. You must control\nyour horse effectively at all times."

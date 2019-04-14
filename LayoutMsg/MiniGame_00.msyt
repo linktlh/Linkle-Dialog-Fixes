@@ -1,16 +1,25 @@
 ---
+group_count: 11
+atr1_unknown: 0
 entries:
-  Pa_Distance_00-T_Unit_00:
-    - text: m
-  Pa_Golf_00-T_Unit_00:
-    - text: Hits
-  Pa_Golf_00-T_Haifun_00:
-    - text: ：
-  Pa_Finish_00-T_Finish_00:
-    - text: Finish!
   "0000":
-    - text: New Record!
+    contents:
+      - text: New Record!
   "0001":
-    - text: Challenge Failed
+    contents:
+      - text: Challenge Failed
+  Pa_Distance_00-T_Unit_00:
+    contents:
+      - text: m
   Pa_Distance_00-T_Unit_00_EURu:
-    - text: м
+    contents:
+      - text: м
+  Pa_Finish_00-T_Finish_00:
+    contents:
+      - text: Finish!
+  Pa_Golf_00-T_Haifun_00:
+    contents:
+      - text: ：
+  Pa_Golf_00-T_Unit_00:
+    contents:
+      - text: Hits

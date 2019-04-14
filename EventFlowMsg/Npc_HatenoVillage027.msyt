@@ -1,621 +1,566 @@
 ---
+group_count: 23
+atr1_unknown: 4
 entries:
-  near02:
-    - text: Umm...
-  talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: Is there really
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: girl
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " there?"
-  near03:
-    - text: Retreat!
-  talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "There aren't any "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: girls
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " around here..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nWas Karin lying to us?"
-  near04:
-    - text: Zzz... Zzz...
-  talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 0
-    - text: "Ahh... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I've seen this before..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nThe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: director
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " was carrying it."
   "0000":
-    - text: What?
+    attributes: ""
+    contents:
+      - text: What?
   "0001":
-    - text: Sorry.
-  talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 1
-    - text: "I can't see anything if you stand there..."
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
-                - 0
-                - 0
-              - - 255
-                - 255
-                - 0
-                - 0
-            field_1:
-              - 0
-              - 0
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 1
-    - text: "I can't see! Move!"
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
-                - 0
-                - 0
-              - - 255
-                - 255
-                - 0
-                - 0
-            field_1:
-              - 0
-              - 0
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Ya... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Yeah.
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "Hey, lady, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "how do you know the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: director
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Heehee..."
-  talk23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 11
-    - text: "I heard that there is a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Sheikah-tribe girl
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nwho is super cute with really big eyes.\nKarin said as much!"
-  talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 3
-    - text: Sefaro!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " How do things look over there?"
-  talk24:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 12
-    - text: "I'd like to go visit that"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: " Sheikah-tribe girl"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nbut I really hate fighting the rain..."
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "No luck! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "There's nothing here!"
-  talk25:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 12
-    - text: "I wonder if I can see that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "Sheikah-tribe\ngirl "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: once the sun comes out...
-  talk00:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 0
-    - text: Whoa! Keep your space!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Us spies are on a top-secret mission!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nDon't follow us or you'll blow our cover!"
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 34
-    - text: "Ughh... I'm so sleepy..."
-  talk26:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "It's hard enough to see with just the\nrain,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " but you're also in the way!"
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
-                - 0
-                - 0
-              - - 255
-                - 255
-                - 0
-                - 0
-            field_1:
-              - 0
-              - 0
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 0
-    - text: "Ahh... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I've seen this before..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nOl' granny Purah was carrying it."
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: "We're playing spies. I love espi'nage!"
-  talk27:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 1
-    - text: "You're ruining a beautiful, sunny time\nby just standing there, y'know?"
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
-                - 0
-                - 0
-              - - 255
-                - 255
-                - 0
-                - 0
-            field_1:
-              - 0
-              - 0
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "Hey, lady..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Just how do you know\nPurah, anyway?"
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: "I wonder if we'll see her today...\nThat "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: girl
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", I mean..."
-  talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 34
-    - text: "I'm sleepy, so I'm going home..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nLet's be spies some more tomorrow."
-  talk16:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 3
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "The "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: girl
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "... "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "She won't come out!"
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 34
-    - text: "I'm sleepy, so I'm going home..."
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 3
-    - text: Sefaro!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Have you seen the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: girl
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
+    attributes: ""
+    contents:
+      - text: Sorry.
   near00:
-    - text: Hee hee...
+    attributes: Npc_HatenoVillage027
+    contents:
+      - text: Hee hee...
+  near02:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - text: Umm...
+  near03:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - text: Retreat!
+  near04:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - text: Zzz... Zzz...
+  talk00:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: text_size
+          percent: 125
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 0
+      - text: Whoa! Keep your space!
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Us spies are on a top-secret mission!
+      - control:
+          kind: pause
+          length: short
+      - text: "\nDon't follow us or you'll blow our cover!"
+  talk01:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 0
+      - text: "Ahh... "
+      - control:
+          kind: pause
+          length: short
+      - text: "I've seen this before..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nOl' granny Purah was carrying it."
+  talk02:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "Hey, lady..."
+      - control:
+          kind: pause
+          length: short
+      - text: " Just how do you know\nPurah, anyway?"
+  talk03:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 34
+      - text: "I'm sleepy, so I'm going home..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nLet's be spies some more tomorrow."
+  talk04:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 34
+      - text: "I'm sleepy, so I'm going home..."
   talk05:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 33
-    - text: "A "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: girl
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Zzz...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: Ummm...
+      - text: "A "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: girl
+      - control:
+          kind: reset_colour
+      - text: "... "
+      - control:
+          kind: pause
+          length: short
+      - text: Zzz...
+      - control:
+          kind: text_size
+          percent: 100
   talk06:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 33
-    - text: "At the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: research lab
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "There's a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: girl
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "At the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: research lab
+      - control:
+          kind: reset_colour
+      - text: "... "
+      - control:
+          kind: pause
+          length: short
+      - text: "There's a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: girl
+      - control:
+          kind: reset_colour
+      - text: "..."
+      - control:
+          kind: text_size
+          percent: 100
+  talk07:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: Is there really
+      - control:
+          kind: pause
+          length: short
+      - text: " a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: girl
+      - control:
+          kind: reset_colour
+      - text: " there?"
+  talk08:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "There aren't any "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: girls
+      - control:
+          kind: reset_colour
+      - text: " around here..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nWas Karin lying to us?"
+  talk09:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 0
+      - text: "Ahh... "
+      - control:
+          kind: pause
+          length: short
+      - text: "I've seen this before..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nThe "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: director
+      - control:
+          kind: reset_colour
+      - text: " was carrying it."
+  talk10:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "Hey, lady, "
+      - control:
+          kind: pause
+          length: short
+      - text: "how do you know the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: director
+      - control:
+          kind: reset_colour
+      - text: "?"
+      - control:
+          kind: pause
+          length: longer
+      - text: " Heehee..."
+  talk11:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 3
+      - text: Sefaro!
+      - control:
+          kind: pause
+          length: longer
+      - text: " How do things look over there?"
+  talk12:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "No luck! "
+      - control:
+          kind: pause
+          length: longer
+      - text: "There's nothing here!"
+  talk13:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 34
+      - text: "Ughh... I'm so sleepy..."
+  talk14:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: "We're playing spies. I love espi'nage!"
+  talk15:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: "I wonder if we'll see her today...\nThat "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: girl
+      - control:
+          kind: reset_colour
+      - text: ", I mean..."
+  talk16:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 3
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "The "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: girl
+      - control:
+          kind: reset_colour
+      - text: "... "
+      - control:
+          kind: pause
+          length: longer
+      - text: "She won't come out!"
+  talk17:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 3
+      - text: Sefaro!
+      - control:
+          kind: pause
+          length: longer
+      - text: " Have you seen the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: girl
+      - control:
+          kind: reset_colour
+      - text: "?"
+  talk18:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "Hey, hey..."
+      - text: Ummm...
+  talk19:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: "Hey, hey..."
+  talk20:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 1
+      - text: "I can't see anything if you stand there..."
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
+                - 0
+                - 0
+                - 1
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk21:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 1
+      - text: "I can't see! Move!"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
+                - 0
+                - 0
+                - 1
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk22:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Ya... "
+      - control:
+          kind: pause
+          length: short
+      - text: Yeah.
+  talk23:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 11
+      - text: "I heard that there is a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Sheikah-tribe girl
+      - control:
+          kind: reset_colour
+      - text: "\nwho is super cute with really big eyes.\nKarin said as much!"
+  talk24:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 12
+      - text: "I'd like to go visit that"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: " Sheikah-tribe girl"
+      - control:
+          kind: reset_colour
+      - text: ",\nbut I really hate fighting the rain..."
+  talk25:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 12
+      - text: "I wonder if I can see that "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Sheikah-tribe\ngirl "
+      - control:
+          kind: reset_colour
+      - text: once the sun comes out...
+  talk26:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "It's hard enough to see with just the\nrain,"
+      - control:
+          kind: pause
+          length: short
+      - text: " but you're also in the way!"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
+                - 0
+                - 0
+                - 1
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk27:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 1
+      - text: "You're ruining a beautiful, sunny time\nby just standing there, y'know?"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
+                - 0
+                - 0
+                - 1
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3

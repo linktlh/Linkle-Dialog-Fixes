@@ -1,24 +1,26 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
   Notify_00:
-    - text: Tips and Tricks
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "Check this screen for hints that will surely aid you on your journey.\nThe adventurous heart must never stop seeking knowledge!"
+    contents:
+      - text: Tips and Tricks
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "Check this screen for hints that will surely aid you on your journey.\nThe adventurous heart must never stop seeking knowledge!"
   Notify_01:
-    - text: Aim Controls
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "Some items, like bows, allow you to target things by tilting "
-    - control:
-        one:
-          type7:
-            field_1: 2
-            field_2:
-              - 36
-              - 205
-    - text: ".\nRemember to be aware of your surroundings when doing this."
+    contents:
+      - text: Aim Controls
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "Some items, like bows, allow you to target things by tilting "
+      - control:
+          kind: icon
+          icon: gamepad
+      - text: ".\nRemember to be aware of your surroundings when doing this."

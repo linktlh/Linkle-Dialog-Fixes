@@ -1,178 +1,183 @@
 ---
+group_count: 13
+atr1_unknown: 4
 entries:
-  "0001":
-    - text: "..."
-  "0002":
-    - text: What do you need?
-  "0003":
-    - text: "..."
-  "0004":
-    - text: You...what?
-  Talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 42
-    - text: "*sniffle*"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  "0005":
-    - text: "..."
-  Talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 42
-    - text: "*sniffle*"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " I want... I need..."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 3
-            field_4:
-              - 0
-              - 1
-  Talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: I need...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: grilled
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " salmon."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  Talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: And also...
-  Talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 42
-    - text: "*sniffle*"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " What I really want...\nWhat I really need is..."
-  Henshin00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 35
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1077936128
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "the Heroine's life!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 60
-  Talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 42
-    - text: "*sniffle* "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "I'll never see him again..."
-  Henshin01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 35
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1077936128
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "Begone, enemy of my master!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 60
-  Near00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 40
-              - 205
-    - text: "*sniffle*"
   "0000":
-    - text: "What's wrong?"
+    attributes: ""
+    contents:
+      - text: "What's wrong?"
+  "0001":
+    attributes: ""
+    contents:
+      - text: "..."
+  "0002":
+    attributes: ""
+    contents:
+      - text: What do you need?
+  "0003":
+    attributes: ""
+    contents:
+      - text: "..."
+  "0004":
+    attributes: ""
+    contents:
+      - text: You...what?
+  "0005":
+    attributes: ""
+    contents:
+      - text: "..."
+  Henshin00:
+    attributes: Npc_Assassin_004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 35
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1077936128
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "the Heroine's life!"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: auto_advance
+          frames: 60
+  Henshin01:
+    attributes: Npc_Assassin_004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 35
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1077936128
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "Begone, enemy of my master!"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: auto_advance
+          frames: 60
+  Near00:
+    attributes: Npc_Assassin_004
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 40
+            - 205
+      - text: "*sniffle*"
+  Talk00:
+    attributes: Npc_Assassin_004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 42
+      - text: "*sniffle*"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk01:
+    attributes: Npc_Assassin_004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 42
+      - text: "*sniffle*"
+      - control:
+          kind: pause
+          length: long
+      - text: " I want... I need..."
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk02:
+    attributes: Npc_Assassin_004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: I need...
+      - control:
+          kind: pause
+          length: longer
+      - text: grilled
+      - control:
+          kind: pause
+          length: long
+      - text: " salmon."
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk03:
+    attributes: Npc_Assassin_004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: And also...
+  Talk04:
+    attributes: Npc_Assassin_004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 42
+      - text: "*sniffle*"
+      - control:
+          kind: pause
+          length: long
+      - text: " What I really want...\nWhat I really need is..."
+  Talk05:
+    attributes: Npc_Assassin_004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 42
+      - text: "*sniffle* "
+      - control:
+          kind: pause
+          length: long
+      - text: "I'll never see him again..."

@@ -1,266 +1,245 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: Will do!
+  "0001":
+    attributes: ""
+    contents:
+      - text: What is this place?
+  "0002":
+    attributes: ""
+    contents:
+      - text: See ya.
   "0003":
-    - text: Yes.
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
+    attributes: ""
+    contents:
+      - text: Yes.
+  near00:
+    attributes: Npc_goron026
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 1
+            - 205
+      - text: "Stay at my inn, friend!"
+  talk00:
+    attributes: Npc_goron026
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
-    - text: "But to make up for that, I can offer you\na mostly pain-free massage session.\nYou'll feel as loose as gravel afterward!\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
             - 0
+      - text: A traveler! Perfect!
+      - control:
+          kind: pause
+          length: longer
+      - text: " Hey, why don'tcha\nstay here and rest your weary head?"
+      - control:
+          kind: choice
+          choice_labels:
             - 0
-    - text: "Yep, I think you should definitely\nstay here, friend!"
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
             - 1
             - 2
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "Gotcha covered, little lady!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "Perfect! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Thanks, sister!"
-  near00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 1
-              - 205
-    - text: "Stay at my inn, friend!"
-  talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 3
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "HEY! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "We've got a customer\ncomin' through!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: A traveler! Perfect!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Hey, did ya notice\nthat the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: magma bombs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " have stopped\nfallin' from the sky?"
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 3
-            field_3:
-              - 1
-              - 205
-  talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: And that means...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Well, hordes of tourists\nshould start rollin' in soon, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "which means\nbusiness is set to explode!\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "I'll be busy as a rollin' stone in no time!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nIf you're itchin' for a massage without\na reservation..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "now's your last chance!\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "So how about it? Why don'tcha stay here\nand rest your weary head?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: A traveler! Perfect!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Hey, why don'tcha\nstay here and rest your weary head?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  "0000":
-    - text: Will do!
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_goron026
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 0
-    - text: "Don't forget to rest now and then!"
-  "0001":
-    - text: What is this place?
+      - text: "Don't forget to rest now and then!"
   talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_goron026
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: "This is the distinguished Goron\nestablishment, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Rollin' Inn"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-  "0002":
-    - text: See ya.
+      - text: "This is the distinguished Goron\nestablishment, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Rollin' Inn"
+      - control:
+          kind: reset_colour
+      - text: "!"
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_goron026
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "See that! What a lovely view of\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Death Mountain
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "See that! What a lovely view of\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Death Mountain
+      - control:
+          kind: reset_colour
+      - text: "!\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "Er...that's what I'd like to say, anyway.\nBut "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Boss
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "'s house is kinda in the way."
+      - text: "Er...that's what I'd like to say, anyway.\nBut "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Boss
+      - control:
+          kind: reset_colour
+      - text: "'s house is kinda in the way."
+  talk04:
+    attributes: Npc_goron026
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "But to make up for that, I can offer you\na mostly pain-free massage session.\nYou'll feel as loose as gravel afterward!\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Yep, I think you should definitely\nstay here, friend!"
+  talk05:
+    attributes: Npc_goron026
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "Perfect! "
+      - control:
+          kind: pause
+          length: short
+      - text: "Thanks, sister!"
+  talk06:
+    attributes: Npc_goron026
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 3
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "HEY! "
+      - control:
+          kind: pause
+          length: short
+      - text: "We've got a customer\ncomin' through!"
+      - control:
+          kind: text_size
+          percent: 100
+  talk08:
+    attributes: Npc_goron026
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: A traveler! Perfect!
+      - control:
+          kind: pause
+          length: longer
+      - text: " Hey, did ya notice\nthat the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: magma bombs
+      - control:
+          kind: reset_colour
+      - text: " have stopped\nfallin' from the sky?"
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 3
+              field_3:
+                - 1
+                - 205
+  talk09:
+    attributes: Npc_goron026
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: And that means...
+      - control:
+          kind: pause
+          length: longer
+      - text: " Well, hordes of tourists\nshould start rollin' in soon, "
+      - control:
+          kind: pause
+          length: short
+      - text: "which means\nbusiness is set to explode!\n"
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "I'll be busy as a rollin' stone in no time!"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nIf you're itchin' for a massage without\na reservation..."
+      - control:
+          kind: pause
+          length: short
+      - text: "now's your last chance!\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "So how about it? Why don'tcha stay here\nand rest your weary head?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk10:
+    attributes: Npc_goron026
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 2
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "Gotcha covered, little lady!"
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: text_size
+          percent: 100

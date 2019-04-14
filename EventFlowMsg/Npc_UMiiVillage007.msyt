@@ -1,775 +1,693 @@
 ---
+group_count: 19
+atr1_unknown: 4
 entries:
-  talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Oh... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Is that so?
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "By the way... I don't suppose you came\nto "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Tarrey Town
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " to purchase a\nholiday home, did you?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 3
-            field_4:
-              - 0
-              - 2
   "0000":
-    - text: Just a traveler...
-  talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Anyway, please be careful.\n\n\nMy husband is taking great care of this\narea, but there seem to be a lot of\nstrange folks just outside of town."
+    attributes: ""
+    contents:
+      - text: Just a traveler...
   "0001":
-    - text: No one important...
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Do you need me for something?
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 6
-              - 46
-              - 85
-              - 77
-              - 105
-              - 105
-              - 86
-              - 105
-              - 108
-              - 108
-              - 97
-              - 103
-              - 101
-              - 95
-              - 78
-              - 80
-              - 67
-              - 48
-              - 48
-              - 56
-              - 95
-              - 67
-              - 111
-              - 111
-              - 107
-              - 8
-              - 58
-              - 85
-              - 77
-              - 105
-              - 105
-              - 86
-              - 105
-              - 108
-              - 108
-              - 97
-              - 103
-              - 101
-              - 95
-              - 78
-              - 80
-              - 67
-              - 48
-              - 50
-              - 55
-              - 95
-              - 77
-              - 97
-              - 109
-              - 111
-              - 110
-              - 111
-              - 67
-              - 97
-              - 107
-              - 101
-              - 4
-              - 0
-              - 5
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
+    attributes: ""
+    contents:
+      - text: No one important...
   "0002":
-    - text: "That's right."
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Strange plants and guys with ugly faces
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nlive just outside the village. There are\na lot of them, right?\nEspecially the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: big flower
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " that's to the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: southeast
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " of "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Tarrey Town
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n\nI was chatting with my husband"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " about\nhow there's a huge flower out there."
+    attributes: ""
+    contents:
+      - text: "That's right."
   "0003":
-    - text: Um... No.
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - text: Um... No.
+  "0004":
+    attributes: ""
+    contents:
+      - text: Any strange things?
+  "0005":
+    attributes: ""
+    contents:
+      - text: Good-bye.
+  "0006":
+    attributes: ""
+    contents:
+      - text: "You're a chef?"
+  "0007":
+    attributes: ""
+    contents:
+      - text: "\"Also\" what?"
+  "0008":
+    attributes: ""
+    contents:
+      - text: Monster-cake recipe?
+  talk00:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "The "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: big flower
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " that's to the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: southeast
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " of\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Tarrey Town
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Shall we talk about something else?
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 6
+                - 46
+                - 85
+                - 77
+                - 105
+                - 105
+                - 86
+                - 105
+                - 108
+                - 108
+                - 97
+                - 103
+                - 101
+                - 95
+                - 78
+                - 80
+                - 67
+                - 48
+                - 48
+                - 56
+                - 95
+                - 67
+                - 111
+                - 111
+                - 107
+                - 8
+                - 58
+                - 85
+                - 77
+                - 105
+                - 105
+                - 86
+                - 105
+                - 108
+                - 108
+                - 97
+                - 103
+                - 101
+                - 95
+                - 78
+                - 80
+                - 67
+                - 48
+                - 50
+                - 55
+                - 95
+                - 77
+                - 97
+                - 109
+                - 111
+                - 110
+                - 111
+                - 67
+                - 97
+                - 107
+                - 101
+                - 4
+                - 0
+                - 5
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk01:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: And who might you be?
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  talk02:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Oh, good morning."
+  talk03:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Oh, hello."
+  talk04:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Oh, good evening."
+  talk05:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Yes, yes."
+  talk06:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: So...sleepy...
+  talk07:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: I have to get ready for bed.
+      - control:
+          kind: pause
+          length: short
+      - text: "\nYou should do the same."
+  talk08:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Now then, I've got to get to bed."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nIt's rough on my body if I don't get a\ngood night's rest."
+  talk09:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Oh... "
+      - control:
+          kind: pause
+          length: short
+      - text: Is that so?
+  talk10:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "By the way... I don't suppose you came\nto "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Tarrey Town
+      - control:
+          kind: reset_colour
+      - text: " to purchase a\nholiday home, did you?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  talk11:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Anyway, please be careful.\n\n\nMy husband is taking great care of this\narea, but there seem to be a lot of\nstrange folks just outside of town."
+  talk12:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Do you need me for something?
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 6
+                - 46
+                - 85
+                - 77
+                - 105
+                - 105
+                - 86
+                - 105
+                - 108
+                - 108
+                - 97
+                - 103
+                - 101
+                - 95
+                - 78
+                - 80
+                - 67
+                - 48
+                - 48
+                - 56
+                - 95
+                - 67
+                - 111
+                - 111
+                - 107
+                - 8
+                - 58
+                - 85
+                - 77
+                - 105
+                - 105
+                - 86
+                - 105
+                - 108
+                - 108
+                - 97
+                - 103
+                - 101
+                - 95
+                - 78
+                - 80
+                - 67
+                - 48
+                - 50
+                - 55
+                - 95
+                - 77
+                - 97
+                - 109
+                - 111
+                - 110
+                - 111
+                - 67
+                - 97
+                - 107
+                - 101
+                - 4
+                - 0
+                - 5
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk13:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Strange plants and guys with ugly faces
+      - control:
+          kind: pause
+          length: short
+      - text: "\nlive just outside the village. There are\na lot of them, right?\nEspecially the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: big flower
+      - control:
+          kind: reset_colour
+      - text: " that's to the\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: southeast
+      - control:
+          kind: reset_colour
+      - text: " of "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Tarrey Town
+      - control:
+          kind: reset_colour
+      - text: "..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\n\nI was chatting with my husband"
+      - control:
+          kind: pause
+          length: short
+      - text: " about\nhow there's a huge flower out there."
+  talk14:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "The "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: big flower
+      - control:
+          kind: reset_colour
+      - text: " that's to the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: southeast
+      - control:
+          kind: reset_colour
+      - text: " of\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Tarrey Town
+      - control:
+          kind: reset_colour
+      - text: "..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 16
-    - text: "We saw it while walking the path here,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nand it's really quite awful..."
-  "0004":
-    - text: Any strange things?
+      - text: "We saw it while walking the path here,"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nand it's really quite awful..."
   talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: See you later.
-  "0005":
-    - text: Good-bye.
+      - text: See you later.
   talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "You really shouldn't mess with things\nyou don't understand..."
-  "0006":
-    - text: "You're a chef?"
+      - text: "You really shouldn't mess with things\nyou don't understand..."
   talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - text: "Cooking? Oh, my, where did you hear\nabout that?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " It was from my husband,\nwasn't it?\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Cooking? Oh, my, where did you hear\nabout that?"
+      - control:
+          kind: pause
+          length: longer
+      - text: " It was from my husband,\nwasn't it?\n"
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 1
-    - text: "That man can be so misleading about\nthings sometimes..."
-  "0007":
-    - text: "\"Also\" what?"
-  talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Shall we talk about something else?
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 6
-              - 46
-              - 85
-              - 77
-              - 105
-              - 105
-              - 86
-              - 105
-              - 108
-              - 108
-              - 97
-              - 103
-              - 101
-              - 95
-              - 78
-              - 80
-              - 67
-              - 48
-              - 48
-              - 56
-              - 95
-              - 67
-              - 111
-              - 111
-              - 107
-              - 8
-              - 58
-              - 85
-              - 77
-              - 105
-              - 105
-              - 86
-              - 105
-              - 108
-              - 108
-              - 97
-              - 103
-              - 101
-              - 95
-              - 78
-              - 80
-              - 67
-              - 48
-              - 50
-              - 55
-              - 95
-              - 77
-              - 97
-              - 109
-              - 111
-              - 110
-              - 111
-              - 67
-              - 97
-              - 107
-              - 101
-              - 4
-              - 0
-              - 5
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
+      - text: "That man can be so misleading about\nthings sometimes..."
   talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: "But...you don't look like someone who\nneeds sweets.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "But...you don't look like someone who\nneeds sweets.\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: You should eat a lot of food
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " and put\nsome meat on your bones first!"
-  "0008":
-    - text: Monster-cake recipe?
-  talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: And who might you be?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 2
+      - text: You should eat a lot of food
+      - control:
+          kind: pause
+          length: short
+      - text: " and put\nsome meat on your bones first!"
   talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "For example, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: carrot cake
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " or\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: pumpkin pie
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Also..."
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 7
-            field_3:
-              - 1
-              - 205
-  talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Oh, good morning."
-  talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Oh, hello."
+      - text: "For example, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: carrot cake
+      - control:
+          kind: reset_colour
+      - text: " or\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: pumpkin pie
+      - control:
+          kind: reset_colour
+      - text: "..."
+      - control:
+          kind: pause
+          length: short
+      - text: " Also..."
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 7
+              field_3:
+                - 1
+                - 205
   talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "Well, I was taught how to make\nsomething called a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: monster cake
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " too.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Well, I was taught how to make\nsomething called a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: monster cake
+      - control:
+          kind: reset_colour
+      - text: " too.\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 0
-    - text: "It's easy to make."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " You just need\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Tabantha wheat
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ","
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: cane sugar
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ","
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " and\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: goat butter
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "It's easy to make."
+      - control:
+          kind: pause
+          length: longer
+      - text: " You just need\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Tabantha wheat
+      - control:
+          kind: reset_colour
+      - text: ","
+      - control:
+          kind: pause
+          length: short
+      - text: " "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: cane sugar
+      - control:
+          kind: reset_colour
+      - text: ","
+      - control:
+          kind: pause
+          length: short
+      - text: " and\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: goat butter
+      - control:
+          kind: reset_colour
+      - text: "..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\n"
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 1
-    - text: "And you also have to add some\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: monster extract
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: ", but that's been\ntough to come by lately..."
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Oh, good evening."
+      - text: "And you also have to add some\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: monster extract
+      - control:
+          kind: reset_colour
+      - control:
+          kind: pause
+          length: short
+      - text: ", but that's been\ntough to come by lately..."
   talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "Sure, I can keep from burning water, but\nmy real gift is baking cakes and sweets\nand the like.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Sure, I can keep from burning water, but\nmy real gift is baking cakes and sweets\nand the like.\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 11
-    - text: My grandmother
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: —wonderful woman—
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nran a sweet shop for the royal family.\nShe taught me everything I know!"
-  talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Yes, yes."
+      - text: My grandmother
+      - control:
+          kind: pause
+          length: short
+      - text: —wonderful woman—
+      - control:
+          kind: pause
+          length: short
+      - text: "\nran a sweet shop for the royal family.\nShe taught me everything I know!"
   talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: Sure...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: sure...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nI'll teach you as many times as you like.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Sure...
+      - control:
+          kind: pause
+          length: short
+      - text: sure...
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nI'll teach you as many times as you like.\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "You need to add some "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: monster extract
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nto some "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Tabantha wheat
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ","
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: cane sugar
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ","
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nand "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: goat butter
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: So...sleepy...
+      - text: "You need to add some "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: monster extract
+      - control:
+          kind: reset_colour
+      - control:
+          kind: pause
+          length: short
+      - text: "\nto some "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Tabantha wheat
+      - control:
+          kind: reset_colour
+      - text: ","
+      - control:
+          kind: pause
+          length: short
+      - text: " "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: cane sugar
+      - control:
+          kind: reset_colour
+      - text: ","
+      - control:
+          kind: pause
+          length: short
+      - text: "\nand "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: goat butter
+      - control:
+          kind: reset_colour
+      - text: "."
   talk23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Monster cake
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " may look a little gross"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nand smell a little nauseating,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " but it'll fill\nyou right up!"
-  talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: I have to get ready for bed.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nYou should do the same."
-  talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Now then, I've got to get to bed."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nIt's rough on my body if I don't get a\ngood night's rest."
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Monster cake
+      - control:
+          kind: reset_colour
+      - text: " may look a little gross"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nand smell a little nauseating,"
+      - control:
+          kind: pause
+          length: short
+      - text: " but it'll fill\nyou right up!"

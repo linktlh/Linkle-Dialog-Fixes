@@ -1,58 +1,44 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
-  QL_HatenoMini_CameraBoy_Name:
-    - text: Sunshroom Sensing
   QL_HatenoMini_CameraBoy_Desc:
-    - text: "The Sheikah Sensor + can detect anything\nalready registered in the Hyrule Compendium.\nTo demonstrate the possibilities, Symin gave\nme some fieldwork.\n\nHe said to use the Camera to register a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: sunshroom
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nbehind the Hateno Ancient Tech Lab, and then\nreport back to him."
-  QL_HatenoMini_CameraBoy_Shot:
-    - text: "Now that I've registered a sunshroom in the\nHyrule Compendium, the Sheikah Sensor + can\ndetect sunshrooms wherever I go.\n\nNorth of Hateno Village in "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Retsam Forest
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nI need to find "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: three
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " wild "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: sunshrooms
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\nWhen I have all three, I just have to turn them over\nto Symin."
+    contents:
+      - text: "The Sheikah Sensor + can detect anything\nalready registered in the Hyrule Compendium.\nTo demonstrate the possibilities, Symin gave\nme some fieldwork.\n\nHe said to use the Camera to register a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: sunshroom
+      - control:
+          kind: reset_colour
+      - text: "\nbehind the Hateno Ancient Tech Lab, and then\nreport back to him."
   QL_HatenoMini_CameraBoy_Finish:
-    - text: "I gave Symin the three sunshrooms he\nrequested.\n\nSymin helped me see how valuable registering\nthings to my Hyrule Compendium can be.\nIf I have an item registered in my\ncompendium, it's easy to find with the\nSheikah Sensor +."
+    contents:
+      - text: "I gave Symin the three sunshrooms he\nrequested.\n\nSymin helped me see how valuable registering\nthings to my Hyrule Compendium can be.\nIf I have an item registered in my\ncompendium, it's easy to find with the\nSheikah Sensor +."
+  QL_HatenoMini_CameraBoy_Name:
+    contents:
+      - text: Sunshroom Sensing
+  QL_HatenoMini_CameraBoy_Shot:
+    contents:
+      - text: "Now that I've registered a sunshroom in the\nHyrule Compendium, the Sheikah Sensor + can\ndetect sunshrooms wherever I go.\n\nNorth of Hateno Village in "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Retsam Forest
+      - control:
+          kind: reset_colour
+      - text: ",\nI need to find "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: three
+      - control:
+          kind: reset_colour
+      - text: " wild "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: sunshrooms
+      - control:
+          kind: reset_colour
+      - text: ".\nWhen I have all three, I just have to turn them over\nto Symin."

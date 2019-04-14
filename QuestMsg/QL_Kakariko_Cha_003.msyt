@@ -1,22 +1,23 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
-  QL_Kakariko_Cha_003_Desc:
-    - text: "Cado's beloved Cuccos made it over the fence\nand escaped.\n\nBefore the breakout, Cado had "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: 10 Cuccos
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nin total. He needs me to find all of them, and\nreturn them to their enclosure."
   QL_Kakariko_Cha_003_10kokko:
-    - text: "Cado's beloved Cuccos made it over the fence\nand escaped. It took a thorough search of the\nvillage, but I found them all.\n\nNow I should hurry and let Cado know so he\ncan breathe easier."
-  QL_Kakariko_Cha_003_Name:
-    - text: Flown the Coop
+    contents:
+      - text: "Cado's beloved Cuccos made it over the fence\nand escaped. It took a thorough search of the\nvillage, but I found them all.\n\nNow I should hurry and let Cado know so he\ncan breathe easier."
+  QL_Kakariko_Cha_003_Desc:
+    contents:
+      - text: "Cado's beloved Cuccos made it over the fence\nand escaped.\n\nBefore the breakout, Cado had "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 10 Cuccos
+      - control:
+          kind: reset_colour
+      - text: "\nin total. He needs me to find all of them, and\nreturn them to their enclosure."
   QL_Kakariko_Cha_003_Finish:
-    - text: "Cado's beloved Cuccos made it over the fence\nand escaped. It took a thorough search of the\nvillage, but I found them all.\n\nCado now has a better understanding of how\nmuch his Cuccos mean to him...as well as\nhis love for his wife."
+    contents:
+      - text: "Cado's beloved Cuccos made it over the fence\nand escaped. It took a thorough search of the\nvillage, but I found them all.\n\nCado now has a better understanding of how\nmuch his Cuccos mean to him...as well as\nhis love for his wife."
+  QL_Kakariko_Cha_003_Name:
+    contents:
+      - text: Flown the Coop

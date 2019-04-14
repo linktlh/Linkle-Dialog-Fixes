@@ -1,8 +1,13 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
-  QL_GodTree_Name:
-    - text: Trial of Second Sight
   QL_GodTree_Desc:
-    - text: "I've accepted Zooki's Korok Trial.\nThe only hint:\n\n\"The hungry trees will show you the way.\nSpy their iron to win the day.\""
+    contents:
+      - text: "I've accepted Zooki's Korok Trial.\nThe only hint:\n\n\"The hungry trees will show you the way.\nSpy their iron to win the day.\""
   QL_GodTree_Finish:
-    - text: "\"The hungry trees will show you the way.\nSpy their iron to win the day.\"\n\nI discovered an ancient shrine just beyond\nthe trees with iron orbs in their mouths."
+    contents:
+      - text: "\"The hungry trees will show you the way.\nSpy their iron to win the day.\"\n\nI discovered an ancient shrine just beyond\nthe trees with iron orbs in their mouths."
+  QL_GodTree_Name:
+    contents:
+      - text: Trial of Second Sight

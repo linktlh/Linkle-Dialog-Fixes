@@ -1,74 +1,97 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
-  Talk_020:
-    - text: Egads!
-  Talk_015:
-    - text: "I happened to notice that a section of\nthe cliff face there in the distance looks\nalmost man-made."
-  Talk_016:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: "My clever girl, tell me... You can see it\ntoo, yes? I would take a closer look\nif I could get there on my own."
-  Talk_017:
-    - text: "Ah, well if it isn't my clever girl."
+  "0000":
+    attributes: ""
+    contents:
+      - text: Whatcha looking at?
+  "0001":
+    attributes: ""
+    contents:
+      - text: You look busy.
   Talk_001:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HyruleDepthHatago004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - text: "Hmm?\nWhat is it, my clever girl?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  Talk_018:
-    - text: "That section of cliff, off in the distance...\nIt almost looks man-made, no?"
+      - text: "Hmm?\nWhat is it, my clever girl?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   Talk_002:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HyruleDepthHatago004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: Hmm... What could it be?
-  Talk_019:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: "If I was as chock-full of energy as an\nadventurer, I would climb that cliff\nand take a closer look in a heartbeat."
-  "0000":
-    - text: Whatcha looking at?
-  Talk_100:
-    - text: "My clever girl... Are you enjoying your\nday to the fullest?"
+      - text: Hmm... What could it be?
   Talk_006:
-    - text: "Hmm...\nWell, if you need anything, let me know."
+    attributes: Npc_HyruleDepthHatago004
+    contents:
+      - text: "Hmm...\nWell, if you need anything, let me know."
   Talk_012:
-    - text: "Hmm?\nDo you need something?"
-  "0001":
-    - text: You look busy.
-  Talk_101:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HyruleDepthHatago004
+    contents:
+      - text: "Hmm?\nDo you need something?"
+  Talk_015:
+    attributes: Npc_HyruleDepthHatago004
+    contents:
+      - text: "I happened to notice that a section of\nthe cliff face there in the distance looks\nalmost man-made."
+  Talk_016:
+    attributes: Npc_HyruleDepthHatago004
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 9
-    - text: My clever girl...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " For inquisitive minds\nsuch as ours, solving a mystery is\nmore important than stable work."
+      - text: "My clever girl, tell me... You can see it\ntoo, yes? I would take a closer look\nif I could get there on my own."
+  Talk_017:
+    attributes: Npc_HyruleDepthHatago004
+    contents:
+      - text: "Ah, well if it isn't my clever girl."
+  Talk_018:
+    attributes: Npc_HyruleDepthHatago004
+    contents:
+      - text: "That section of cliff, off in the distance...\nIt almost looks man-made, no?"
+  Talk_019:
+    attributes: Npc_HyruleDepthHatago004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: "If I was as chock-full of energy as an\nadventurer, I would climb that cliff\nand take a closer look in a heartbeat."
+  Talk_020:
+    attributes: Npc_HyruleDepthHatago004
+    contents:
+      - text: Egads!
+  Talk_100:
+    attributes: Npc_HyruleDepthHatago004
+    contents:
+      - text: "My clever girl... Are you enjoying your\nday to the fullest?"
+  Talk_101:
+    attributes: Npc_HyruleDepthHatago004
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: My clever girl...
+      - control:
+          kind: pause
+          length: long
+      - text: " For inquisitive minds\nsuch as ours, solving a mystery is\nmore important than stable work."

@@ -1,110 +1,199 @@
 ---
+group_count: 37
+atr1_unknown: 4
 entries:
-  TerrorExplosion_01:
-    - text: Gyaah!
-  TerrorInsect_02:
-    - text: Yikes!
-  TerrorHorse_00:
-    - text: Look out!
-  TerrorExplosion_02:
-    - text: Gahhhh!
-  TerrorHorse_01:
-    - text: What are you doing?!
-  TerrorBomb_00:
-    - text: What the?
-  TerrorHorse_02:
-    - text: Yikes!
-  TerrorBomb_01:
-    - text: Hm?
-  TerrorBomb_02:
-    - text: Wah!
-  TerrorArrow_00:
-    - text: "That's dangerous!"
-  TerrorArrow_01:
-    - text: Stop it!
-  TerrorImpulse_00:
-    - text: Aieeee!
-  TerrorArrow_02:
-    - text: Whyyy?
-  TerrorImpulse_01:
-    - text: Yikes!
-  TerrorLightning_00:
-    - text: Uwaah!
-  TerrorImpulse_02:
-    - text: Gyah!
-  TerrorLightning_01:
-    - text: Gyaah!
-  TerrorLightning_02:
-    - text: Wauuugh!
-  TerrorAnimal_00:
-    - text: Run awaaay!
-  TerrorGuardian_00:
-    - text: A Guardian!
-  TerrorAnimal_01:
-    - text: Gyaah!
-  TerrorGuardian_01:
-    - text: Save meeee!
-  TerrorAnimal_02:
-    - text: Nyaaaah!
-  TerrorGuardian_02:
-    - text: Gyaah!
-  NakedPlayer_00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 17
-              - 205
-    - text: Hm. Put some clothes on lady!
-  NakedPlayer_01:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 17
-              - 205
-    - text: Uwaah...
-  NakedPlayer_02:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 17
-              - 205
-    - text: Where are her clothes...
   ClearTerrorEnemy_00:
-    - text: Phew...
+    attributes: ""
+    contents:
+      - text: Phew...
   ClearTerrorEnemy_01:
-    - text: That was a close one...
-  TerrorFire_00:
-    - text: Hot!
+    attributes: ""
+    contents:
+      - text: That was a close one...
   ClearTerrorEnemy_02:
-    - text: Wow...
-  TerrorFire_01:
-    - text: "That's hot!"
-  TerrorFire_02:
-    - text: Yikes!
-  TerrorSword_00:
-    - text: Hold it!
-  TerrorEnemy_00:
-    - text: Help meee!
-  TerrorSword_01:
-    - text: Aaaah!
-  TerrorEnemy_01:
-    - text: Gyaah!
-  TerrorSword_02:
-    - text: Hey!
-  TerrorEnemy_02:
-    - text: Heeeeelp!
+    attributes: ""
+    contents:
+      - text: Wow...
   ClearTerrorGuardian_00:
-    - text: "Phew... I'm saved..."
-  TerrorInsect_00:
-    - text: Aaaaagh!
+    attributes: ""
+    contents:
+      - text: "Phew... I'm saved..."
   ClearTerrorGuardian_01:
-    - text: Phew...
-  TerrorExplosion_00:
-    - text: Uwaah!
-  TerrorInsect_01:
-    - text: Gyah!
+    attributes: ""
+    contents:
+      - text: Phew...
   ClearTerrorGuardian_02:
-    - text: That was close...
+    attributes: ""
+    contents:
+      - text: That was close...
+  NakedPlayer_00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 17
+            - 205
+      - text: Hm. Put some clothes on lady!
+  NakedPlayer_01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 17
+            - 205
+      - text: Uwaah...
+  NakedPlayer_02:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 17
+            - 205
+      - text: Where are her clothes...
+  TerrorAnimal_00:
+    attributes: ""
+    contents:
+      - text: Run awaaay!
+  TerrorAnimal_01:
+    attributes: ""
+    contents:
+      - text: Gyaah!
+  TerrorAnimal_02:
+    attributes: ""
+    contents:
+      - text: Nyaaaah!
+  TerrorArrow_00:
+    attributes: ""
+    contents:
+      - text: "That's dangerous!"
+  TerrorArrow_01:
+    attributes: ""
+    contents:
+      - text: Stop it!
+  TerrorArrow_02:
+    attributes: ""
+    contents:
+      - text: Whyyy?
+  TerrorBomb_00:
+    attributes: ""
+    contents:
+      - text: What the?
+  TerrorBomb_01:
+    attributes: ""
+    contents:
+      - text: Hm?
+  TerrorBomb_02:
+    attributes: ""
+    contents:
+      - text: Wah!
+  TerrorEnemy_00:
+    attributes: ""
+    contents:
+      - text: Help meee!
+  TerrorEnemy_01:
+    attributes: ""
+    contents:
+      - text: Gyaah!
+  TerrorEnemy_02:
+    attributes: ""
+    contents:
+      - text: Heeeeelp!
+  TerrorExplosion_00:
+    attributes: ""
+    contents:
+      - text: Uwaah!
+  TerrorExplosion_01:
+    attributes: ""
+    contents:
+      - text: Gyaah!
+  TerrorExplosion_02:
+    attributes: ""
+    contents:
+      - text: Gahhhh!
+  TerrorFire_00:
+    attributes: ""
+    contents:
+      - text: Hot!
+  TerrorFire_01:
+    attributes: ""
+    contents:
+      - text: "That's hot!"
+  TerrorFire_02:
+    attributes: ""
+    contents:
+      - text: Yikes!
+  TerrorGuardian_00:
+    attributes: ""
+    contents:
+      - text: A Guardian!
+  TerrorGuardian_01:
+    attributes: ""
+    contents:
+      - text: Save meeee!
+  TerrorGuardian_02:
+    attributes: ""
+    contents:
+      - text: Gyaah!
+  TerrorHorse_00:
+    attributes: ""
+    contents:
+      - text: Look out!
+  TerrorHorse_01:
+    attributes: ""
+    contents:
+      - text: What are you doing?!
+  TerrorHorse_02:
+    attributes: ""
+    contents:
+      - text: Yikes!
+  TerrorImpulse_00:
+    attributes: ""
+    contents:
+      - text: Aieeee!
+  TerrorImpulse_01:
+    attributes: ""
+    contents:
+      - text: Yikes!
+  TerrorImpulse_02:
+    attributes: ""
+    contents:
+      - text: Gyah!
+  TerrorInsect_00:
+    attributes: ""
+    contents:
+      - text: Aaaaagh!
+  TerrorInsect_01:
+    attributes: ""
+    contents:
+      - text: Gyah!
+  TerrorInsect_02:
+    attributes: ""
+    contents:
+      - text: Yikes!
+  TerrorLightning_00:
+    attributes: ""
+    contents:
+      - text: Uwaah!
+  TerrorLightning_01:
+    attributes: ""
+    contents:
+      - text: Gyaah!
+  TerrorLightning_02:
+    attributes: ""
+    contents:
+      - text: Wauuugh!
+  TerrorSword_00:
+    attributes: ""
+    contents:
+      - text: Hold it!
+  TerrorSword_01:
+    attributes: ""
+    contents:
+      - text: Aaaah!
+  TerrorSword_02:
+    attributes: ""
+    contents:
+      - text: Hey!

@@ -1,20 +1,20 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
-  QL_Gerudo_Ch_Helmet_Finish:
-    - text: "I solved the problems of everyone in town!\n\nRiju gave me the Gerudo's symbol of\nfriendship, and I got the Thunder Helm!"
-  QL_Gerudo_Ch_Helmet_Name:
-    - text: The Thunder Helm
   QL_Gerudo_Ch_Helmet_Desc:
-    - text: "The Thunder Helm has been passed down as\na prized treasure of the Gerudo since Urbosa's\ntime. It doesn't seem like they'll just give it to\nme, but if I'm able to "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "solve all "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "the town's\nproblems, they'll at least lend it to me."
+    contents:
+      - text: "The Thunder Helm has been passed down as\na prized treasure of the Gerudo since Urbosa's\ntime. It doesn't seem like they'll just give it to\nme, but if I'm able to "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "solve all "
+      - control:
+          kind: reset_colour
+      - text: "the town's\nproblems, they'll at least lend it to me."
+  QL_Gerudo_Ch_Helmet_Finish:
+    contents:
+      - text: "I solved the problems of everyone in town!\n\nRiju gave me the Gerudo's symbol of\nfriendship, and I got the Thunder Helm!"
+  QL_Gerudo_Ch_Helmet_Name:
+    contents:
+      - text: The Thunder Helm

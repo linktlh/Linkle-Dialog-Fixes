@@ -1,234 +1,217 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: Shield what now?
+  "0001":
+    attributes: ""
+    contents:
+      - text: Nope.
+  "0002":
+    attributes: ""
+    contents:
+      - text: Totally!
+  "0003":
+    attributes: ""
+    contents:
+      - text: Nah.
+  Talk_00:
+    attributes: NPC_Lanayru002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 2
+      - text: "Hey, laaady!"
+      - control:
+          kind: pause
+          length: short
+      - text: " What's that? "
+      - control:
+          kind: pause
+          length: short
+      - text: "You're dyin'\nfor some "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: shield-surfing
+      - control:
+          kind: reset_colour
+      - text: " action, that it?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   Talk_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: NPC_Lanayru002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: "Chill out, babe."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You don't need to\nworry about the details!"
-  "0003":
-    - text: Nah.
+      - text: "Chill out, babe."
+      - control:
+          kind: pause
+          length: short
+      - text: " You don't need to\nworry about the details!"
   Talk_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: NPC_Lanayru002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 1
-    - text: "My best bud is standin' over there\nbeneath that tree!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " He can show you\nthe ropes."
+      - text: "My best bud is standin' over there\nbeneath that tree!"
+      - control:
+          kind: pause
+          length: short
+      - text: " He can show you\nthe ropes."
   Talk_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: NPC_Lanayru002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 1
-    - text: "So you gonna go up there or not,\nbabe?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 3
-            field_4:
-              - 0
-              - 1
+      - text: "So you gonna go up there or not,\nbabe?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   Talk_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: NPC_Lanayru002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 12
-    - text: "What's your DEAL, girl?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You're really\ncrampin' my vibe right now!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Come back\nafter you chill out."
+      - text: "What's your DEAL, girl?"
+      - control:
+          kind: pause
+          length: short
+      - text: " You're really\ncrampin' my vibe right now!"
+      - control:
+          kind: pause
+          length: long
+      - text: " Come back\nafter you chill out."
   Talk_05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: NPC_Lanayru002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 11
-    - text: Epic!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " That's the spirit! After all,\nshields were made to be surfed on!"
+      - text: Epic!
+      - control:
+          kind: pause
+          length: short
+      - text: " That's the spirit! After all,\nshields were made to be surfed on!"
   Talk_06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: NPC_Lanayru002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 2
-    - text: "Hey, laaady!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Back for some more\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: shield surfing
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
+      - text: "Hey, laaady!"
+      - control:
+          kind: pause
+          length: short
+      - text: " Back for some more\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: shield surfing
+      - control:
+          kind: reset_colour
+      - text: "?"
   Talk_07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: NPC_Lanayru002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 2
-    - text: "Hey, laaady!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " So you're a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: shield-surfing
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\njunkie now, eh?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 3
-            field_4:
-              - 0
-              - 1
+      - text: "Hey, laaady!"
+      - control:
+          kind: pause
+          length: short
+      - text: " So you're a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: shield-surfing
+      - control:
+          kind: reset_colour
+      - text: "\njunkie now, eh?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   Talk_08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: NPC_Lanayru002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 1
-    - text: "My best bud is beneath that tree\nover there!"
-  "0000":
-    - text: Shield what now?
+      - text: "My best bud is beneath that tree\nover there!"
   Talk_09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: NPC_Lanayru002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 2
-    - text: "Hey, laaady!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I heard it all from "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Russ
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nBack for more "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: shield surfing
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", yeah?"
+      - text: "Hey, laaady!"
+      - control:
+          kind: pause
+          length: short
+      - text: " I heard it all from "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Russ
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nBack for more "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: shield surfing
+      - control:
+          kind: reset_colour
+      - text: ", yeah?"
   near_00:
-    - text: "I bet he's slacking off..."
-  "0001":
-    - text: Nope.
-  Talk_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 2
-    - text: "Hey, laaady!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " What's that? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "You're dyin'\nfor some "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: shield-surfing
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " action, that it?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  "0002":
-    - text: Totally!
+    attributes: NPC_Lanayru002
+    contents:
+      - text: "I bet he's slacking off..."

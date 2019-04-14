@@ -1,10 +1,16 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
-  QL_OldKorok_Help_Finish:
-    - text: "I returned Hestu's maracas after getting\nthem back from the monsters.\n\nWhen I returned the Korok seeds that I\nfound, he allowed me to carry more things."
   QL_OldKorok_Help_Desc:
-    - text: "The forest spirit Hestu has asked me to retrieve\nthe maracas that were stolen from him by a\ngroup of monsters camping nearby.\n\nHestu claims that he is unable to use his vast\npowers without the maracas."
+    contents:
+      - text: "The forest spirit Hestu has asked me to retrieve\nthe maracas that were stolen from him by a\ngroup of monsters camping nearby.\n\nHestu claims that he is unable to use his vast\npowers without the maracas."
+  QL_OldKorok_Help_Finish:
+    contents:
+      - text: "I returned Hestu's maracas after getting\nthem back from the monsters.\n\nWhen I returned the Korok seeds that I\nfound, he allowed me to carry more things."
   QL_OldKorok_Help_Maracus:
-    - text: "I've safely returned the maracas, but now\nHestu is asking me to find the Korok seeds\nthat were once inside.\n\nThe more Korok seeds I find, the more\npower will return to Hestu's maracas, which\nhe can use to allow me to carry more things."
+    contents:
+      - text: "I've safely returned the maracas, but now\nHestu is asking me to find the Korok seeds\nthat were once inside.\n\nThe more Korok seeds I find, the more\npower will return to Hestu's maracas, which\nhe can use to allow me to carry more things."
   QL_OldKorok_Help_Name:
-    - text: The Priceless Maracas
+    contents:
+      - text: The Priceless Maracas

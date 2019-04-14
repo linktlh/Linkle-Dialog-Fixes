@@ -1,272 +1,202 @@
 ---
+group_count: 5
+atr1_unknown: 0
 entries:
-  Npc_Musician_AoC_HeroRito_001:
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 110
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - control:
-        four:
-          type2:
-            field_1: 28
-            string: Understand_01
-    - text: "I've written a song...to try and capture\nthe essence of "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Champion Revali
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-  Npc_Musician_AoC_HeroRito_501:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "So? What do you think of\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Champion Revali's Song"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?\n\nBy writing a song that highlights the\nhidden feelings of Champion Revali, I feel\ncloser than ever to my dear teacher."
   Npc_Musician_AoC_HeroRito_000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 1
-    - text: "Ah! Wandering around here and listening\nto anecdotes about "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Champion Revali
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nhas truly invigorated me.\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        four:
-          type2:
-            field_1: 32
-            string: TalkPositive_01
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "In fact, it has inspired me to honor\nhim in my own way, separate from\nmy teacher's "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: unfinished song
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Ah! Wandering around here and listening\nto anecdotes about "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Champion Revali
+      - control:
+          kind: reset_colour
+      - text: "\nhas truly invigorated me.\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: animation
+          name: TalkPositive_01
+      - control:
+          kind: reset_colour
+      - text: "In fact, it has inspired me to honor\nhim in my own way, separate from\nmy teacher's "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: unfinished song
+      - control:
+          kind: reset_colour
+      - text: ".\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "That is why I felt inclined to roost here,\nnear the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Divine Beast Vah Medoh
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nwhich "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Revali "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: himself mastered.
+      - text: "That is why I felt inclined to roost here,\nnear the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Divine Beast Vah Medoh
+      - control:
+          kind: reset_colour
+      - text: ",\nwhich "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Revali "
+      - control:
+          kind: reset_colour
+      - text: himself mastered.
+  Npc_Musician_AoC_HeroRito_001:
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 110
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - control:
+          kind: animation
+          name: Understand_01
+      - text: "I've written a song...to try and capture\nthe essence of "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Champion Revali
+      - control:
+          kind: reset_colour
+      - text: "..."
   Npc_Musician_AoC_HeroRito_100:
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 324
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1050253722
-    - text: "♪Recall "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Medoh
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "'s"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1045220557
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "Champion of flight,"
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 60
-    - text: "\n"
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1050253722
-    - text: "before he fell "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: to his fateful plight.♪
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 327
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1045220557
-    - text: ♪
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Revali
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "'s feat "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "was a wonder to see,"
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 48
-    - text: "\n"
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1050253722
-    - text: "so the princess "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: made her plea.♪
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 324
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1050253722
+      - text: "♪Recall "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Medoh
+      - control:
+          kind: reset_colour
+      - text: "'s"
+      - control:
+          kind: pause
+          length: long
+      - text: " "
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1045220557
+      - control:
+          kind: reset_colour
+      - text: "Champion of flight,"
+      - control:
+          kind: pause
+          frames: 60
+      - text: "\n"
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1050253722
+      - text: "before he fell "
+      - control:
+          kind: pause
+          length: long
+      - text: to his fateful plight.♪
+      - control:
+          kind: pause
+          length: long
+      - text: "\n\n"
+      - control:
+          kind: auto_advance
+          frames: 327
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1045220557
+      - text: ♪
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Revali
+      - control:
+          kind: reset_colour
+      - text: "'s feat "
+      - control:
+          kind: pause
+          length: long
+      - text: "was a wonder to see,"
+      - control:
+          kind: pause
+          frames: 48
+      - text: "\n"
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1050253722
+      - text: "so the princess "
+      - control:
+          kind: pause
+          length: long
+      - text: made her plea.♪
+      - control:
+          kind: pause
+          length: longer
   Npc_Musician_AoC_HeroRito_500:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - control:
-        four:
-          type2:
-            field_1: 16
-            string: Sigh_00
-    - text: "Hmm... It seems the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Rito Champion
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nwas not one to share his feelings."
+      - control:
+          kind: animation
+          name: Sigh_00
+      - text: "Hmm... It seems the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Rito Champion
+      - control:
+          kind: reset_colour
+      - text: "\nwas not one to share his feelings."
+  Npc_Musician_AoC_HeroRito_501:
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "So? What do you think of\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Champion Revali's Song"
+      - control:
+          kind: reset_colour
+      - text: "?\n\nBy writing a song that highlights the\nhidden feelings of Champion Revali, I feel\ncloser than ever to my dear teacher."

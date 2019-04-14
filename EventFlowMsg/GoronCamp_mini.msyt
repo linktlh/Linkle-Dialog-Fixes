@@ -1,641 +1,595 @@
 ---
+group_count: 19
+atr1_unknown: 4
 entries:
-  Talk_05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 9
-    - text: "Our Gut Check Challenge training\nprogram costs "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: 50 rupees
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " per try!"
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 5
-              - 0
-              - 7
-              - 56
-              - 71
-              - 111
-              - 114
-              - 111
-              - 110
-              - 67
-              - 97
-              - 109
-              - 112
-              - 95
-              - 109
-              - 105
-              - 110
-              - 105
-              - 95
-              - 67
-              - 104
-              - 111
-              - 105
-              - 99
-              - 101
-              - 69
-              - 120
-              - 99
-              - 108
-              - 117
-              - 100
-              - 101
-              - 6
-              - 0
-              - 65535
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 2
-  Talk_22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 9
-    - text: "For passing the Gut Check Challenge,\nI'm gonna award ya with this fancy\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: rushroom
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-  Talk_06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 9
-    - text: "The Super Gut Check Challenge training\nprogram will cost ya "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: 100 rupees
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nper try, brother!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5
-            field_3: 6
-            field_4:
-              - 0
-              - 1
-  Talk_23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 19
-    - text: "...That's what I was plannin' on, anyway.\nBut ya seem to have plenty already.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
+  "0000":
+    attributes: ""
+    contents:
+      - text: "I'm pumped, brother!"
+  "0001":
+    attributes: ""
+    contents:
+      - text: "I'm not pumped."
+  "0002":
+    attributes: ""
+    contents:
+      - text: Explain the rules.
+  "0003":
+    attributes: ""
+    contents:
+      - text: Gut Check Challenge.
+  "0004":
+    attributes: ""
+    contents:
+      - text: Super Gut Check.
+  "0005":
+    attributes: ""
+    contents:
+      - text: "Let's DO THIS!"
+  "0006":
+    attributes: ""
+    contents:
+      - text: "I'd rather not..."
+  "0007":
+    attributes: ""
+    contents:
+      - text: Did the price go up?
+  Talk_00:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
             - 0
-    - text: "I know! Take this instead, brother!"
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "PUMP IT UP, BLOOD BROTHER!"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 1
+      - text: "You cleared our training program like\nit was nothin'!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 1
+      - text: "But! I know your type. Your type is MY\ntype. You can't be satisfied with just\none victory. Can you, brother?\n"
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 1
+      - text: "To be a true Goron warrior, you've gotta\nbe unflinchingly dedicated to training!\nNo flinching whatsoever!\nLucky for you, I've prepared a training\nprogram to help you ascend to even\ngreater heights! I call it..."
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - control:
+          kind: text_size
+          percent: 125
+      - text: Super Gut Check Challenge!!
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 1
+      - text: "So? Ready to take your training to the\nnext level of hard-core, my sister?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 2
+            - 1
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk_01:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "I KNEW IT! Good answer, sister!\nI'm gonna train ya to smithereens,\nso I hope you're ready!\nYou already beat "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Gut Check Challenge
+      - control:
+          kind: reset_colour
+      - text: ",\nso that wouldn't be enough of a trial\nfor a sister like you."
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: reset_colour
+      - text: "\nI recommend our hardest training\nprogram of all time. I call it...\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Super Gut Check Challenge
+      - control:
+          kind: reset_colour
+      - text: "!"
+  Talk_02:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 1
+      - text: So? Which training program will it be?
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 4
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  Talk_03:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 0
+      - text: "What?! You...DON'T wanna train?!\nI don't understand such things, sister."
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "When ya change your mind, come back.\nI'll be waitin' for ya to find your grit\nand rise to the challenge, little lady!"
+  Talk_04:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "The rules are simple, sister!"
+  Talk_05:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 9
+      - text: "Our Gut Check Challenge training\nprogram costs "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 50 rupees
+      - control:
+          kind: reset_colour
+      - text: " per try!"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 5
+                - 0
+                - 7
+                - 56
+                - 71
+                - 111
+                - 114
+                - 111
+                - 110
+                - 67
+                - 97
+                - 109
+                - 112
+                - 95
+                - 109
+                - 105
+                - 110
+                - 105
+                - 95
+                - 67
+                - 104
+                - 111
+                - 105
+                - 99
+                - 101
+                - 69
+                - 120
+                - 99
+                - 108
+                - 117
+                - 100
+                - 101
+                - 6
+                - 0
+                - 65535
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 2
+  Talk_06:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 9
+      - text: "The Super Gut Check Challenge training\nprogram will cost ya "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 100 rupees
+      - control:
+          kind: reset_colour
+      - text: "\nper try, brother!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5
+            - 6
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   Talk_07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 4
-    - text: "You've gotta collect "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: 100 rupees
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " as you\ntrain! But if you're bringin' the heat like\na true Goron, that should be no problem.\nEven if ya reach the goal within the\ntime limit, without those rupees,\nyou fail. So don't fail, brother!\nNow then..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " It's finally time for..."
+      - text: "You've gotta collect "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 100 rupees
+      - control:
+          kind: reset_colour
+      - text: " as you\ntrain! But if you're bringin' the heat like\na true Goron, that should be no problem.\nEven if ya reach the goal within the\ntime limit, without those rupees,\nyou fail. So don't fail, brother!\nNow then..."
+      - control:
+          kind: pause
+          length: longer
+      - text: " It's finally time for..."
   Talk_08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "Pathetic answer, brother! I'm extremely\ndisappointed with your lack of grit.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Pathetic answer, brother! I'm extremely\ndisappointed with your lack of grit.\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 0
-    - text: "If ya change your mind, come on back!\nI'll be waitin' for ya to rethink your life\nand rise to the challenge!"
-  "0000":
-    - text: "I'm pumped, brother!"
+      - text: "If ya change your mind, come on back!\nI'll be waitin' for ya to rethink your life\nand rise to the challenge!"
   Talk_09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 45
-    - text: "That was the new recruit price! That offer\nhas expired, brother. I have my reasons...\nProtein doesn't buy itself, little lady."
-  "0001":
-    - text: "I'm not pumped."
-  "0002":
-    - text: Explain the rules.
+      - text: "That was the new recruit price! That offer\nhas expired, brother. I have my reasons...\nProtein doesn't buy itself, little lady."
   Talk_10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 0
-    - text: "You've gotta collect "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: 300 rupees
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " as\nyou train! Go on, show me how\nmuch of a Goron you really are!\nEven if ya reach the goal within the\ntime limit, without those rupees,\nyou fail. So don't fail, brother!\nNow then..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " It's finally time for..."
-  "0003":
-    - text: Gut Check Challenge.
+      - text: "You've gotta collect "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 300 rupees
+      - control:
+          kind: reset_colour
+      - text: " as\nyou train! Go on, show me how\nmuch of a Goron you really are!\nEven if ya reach the goal within the\ntime limit, without those rupees,\nyou fail. So don't fail, brother!\nNow then..."
+      - control:
+          kind: pause
+          length: longer
+      - text: " It's finally time for..."
   Talk_11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 45
-    - text: "Don't doubt yourself, brother! I believe\nin you and your tiny little muscles!"
-  "0004":
-    - text: Super Gut Check.
+      - text: "Don't doubt yourself, brother! I believe\nin you and your tiny little muscles!"
   Talk_12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "PUMP IT UP, BROTHER!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  "0005":
-    - text: "Let's DO THIS!"
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "PUMP IT UP, BROTHER!"
+      - control:
+          kind: text_size
+          percent: 100
   Talk_13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 0
-    - text: "Time for a gut check, tiny Hylian!\nYou ready to challenge yourself\nwith our extreme training program?!"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 2
-            field_4: 1
-            field_5:
-              - 0
-              - 2
-  "0006":
-    - text: "I'd rather not..."
+      - text: "Time for a gut check, tiny Hylian!\nYou ready to challenge yourself\nwith our extreme training program?!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 2
+            - 1
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   Talk_14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 10
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: Unbelievable!!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - control:
+          kind: text_size
+          percent: 125
+      - text: Unbelievable!!
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: text_size
+          percent: 125
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 1
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "You annihilated our training like it was\na mere warm up, brother!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "I knew I was right about you! You've got\nthe body of a bitty baby but the heart\nof a Goron warrior!"
-  "0007":
-    - text: Did the price go up?
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "You annihilated our training like it was\na mere warm up, brother!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "I knew I was right about you! You've got\nthe body of a bitty baby but the heart\nof a Goron warrior!"
   Talk_15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 22
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "NO WAY!! So close and yet\nso far, brother!!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "Sorry, but you're just barely short of the\nminimum rupee goal."
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "Tough luck, little lady! But no worries.\nI'll be waitin', so come back when\nyou're ready to challenge yourself again!"
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "NO WAY!! So close and yet\nso far, brother!!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "Sorry, but you're just barely short of the\nminimum rupee goal."
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "Tough luck, little lady! But no worries.\nI'll be waitin', so come back when\nyou're ready to challenge yourself again!"
   Talk_16:
-    - text: "Prove your grit, brother!"
+    attributes: Npc_Goron_Camp001
+    contents:
+      - text: "Prove your grit, brother!"
   Talk_17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 1
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: Gut Check Challenge!!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        four:
-          type1:
-            field_1:
-              - 9
-              - 205
-    - text: "Ready?! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: GOOOOOO!!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  Talk_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "PUMP IT UP, BLOOD BROTHER!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 1
-    - text: "You cleared our training program like\nit was nothin'!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 1
-    - text: "But! I know your type. Your type is MY\ntype. You can't be satisfied with just\none victory. Can you, brother?\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 1
-    - text: "To be a true Goron warrior, you've gotta\nbe unflinchingly dedicated to training!\nNo flinching whatsoever!\nLucky for you, I've prepared a training\nprogram to help you ascend to even\ngreater heights! I call it..."
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: Super Gut Check Challenge!!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 1
-    - text: "So? Ready to take your training to the\nnext level of hard-core, my sister?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 2
-            field_4: 1
-            field_5:
-              - 0
-              - 2
+      - control:
+          kind: text_size
+          percent: 125
+      - text: Gut Check Challenge!!
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound2
+          unknown:
+            - 9
+            - 205
+      - text: "Ready?! "
+      - control:
+          kind: pause
+          length: short
+      - text: GOOOOOO!!
+      - control:
+          kind: text_size
+          percent: 100
   Talk_18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 1
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: Super Gut Check Challenge!!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        four:
-          type1:
-            field_1:
-              - 9
-              - 205
-    - text: "Ready?! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: GOOOOOO!!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  Talk_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "I KNEW IT! Good answer, sister!\nI'm gonna train ya to smithereens,\nso I hope you're ready!\nYou already beat "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Gut Check Challenge
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nso that wouldn't be enough of a trial\nfor a sister like you."
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nI recommend our hardest training\nprogram of all time. I call it...\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Super Gut Check Challenge
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
+      - control:
+          kind: text_size
+          percent: 125
+      - text: Super Gut Check Challenge!!
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound2
+          unknown:
+            - 9
+            - 205
+      - text: "Ready?! "
+      - control:
+          kind: pause
+          length: short
+      - text: GOOOOOO!!
+      - control:
+          kind: text_size
+          percent: 100
   Talk_19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "PUMP IT UP, SISTER!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "PUMP IT UP, SISTER!"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 1
-    - text: "Ya showed some real grit out there,\ntiny Hylian! In fact, I've got a new\nchallenge I'd like to run by ya.\nLemme know when you're ready to go,\nand I'll get to explainin', my sister.\nDon't keep me waitin' forever!"
-  Talk_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 1
-    - text: So? Which training program will it be?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 3
-            field_3: 4
-            field_4:
-              - 0
-              - 2
-  Talk_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 0
-    - text: "What?! You...DON'T wanna train?!\nI don't understand such things, sister."
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "When ya change your mind, come back.\nI'll be waitin' for ya to find your grit\nand rise to the challenge, little lady!"
+      - text: "Ya showed some real grit out there,\ntiny Hylian! In fact, I've got a new\nchallenge I'd like to run by ya.\nLemme know when you're ready to go,\nand I'll get to explainin', my sister.\nDon't keep me waitin' forever!"
   Talk_20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 9
-    - text: "Take this training as many times as ya\nwant, sister! In fact, I'll be waitin' here\nfor ya to challenge yourself again!"
-  Talk_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "The rules are simple, sister!"
+      - text: "Take this training as many times as ya\nwant, sister! In fact, I'll be waitin' here\nfor ya to challenge yourself again!"
   Talk_21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 4
-    - text: "For passing our famous Super Gut Check\nChallenge, I'm gonna reward ya with an\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: endura shroom
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "! It's yours, sister!"
+      - text: "For passing our famous Super Gut Check\nChallenge, I'm gonna reward ya with an\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: endura shroom
+      - control:
+          kind: reset_colour
+      - text: "! It's yours, sister!"
+  Talk_22:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 9
+      - text: "For passing the Gut Check Challenge,\nI'm gonna award ya with this fancy\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: rushroom
+      - control:
+          kind: reset_colour
+      - text: "!"
+  Talk_23:
+    attributes: Npc_Goron_Camp001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 19
+      - text: "...That's what I was plannin' on, anyway.\nBut ya seem to have plenty already.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 0
+      - text: "I know! Take this instead, brother!"

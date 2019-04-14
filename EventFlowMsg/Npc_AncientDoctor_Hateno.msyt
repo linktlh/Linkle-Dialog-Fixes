@@ -1,285 +1,268 @@
 ---
+group_count: 17
+atr1_unknown: 4
 entries:
-  talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Good morning.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nThis morning really is quite good..."
-  talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Good day.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nAnd a good day it is."
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Good evening.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nYes, yes, I would describe this evening\nas good."
-  talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "But I think it's unwise"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " to try and make\nthe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Guardians "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "our allies now... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nJust...too difficult...\nI think I'll offer you ancient equipment"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nin exchange for "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Guardian "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "parts, instead."
-  talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "What's up? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: How are you doing?
-  TerrorArrow:
-    - text: What?!
-  talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: By the way...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nDid you need something from me?"
-    - control:
-        one:
-          type6:
-            field_1: 10
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5: 3
-            field_6:
-              - 0
-              - 3
-  talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Good afternoon.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nOr is it good morning?"
   "0000":
-    - text: Who are you?
+    attributes: ""
+    contents:
+      - text: Who are you?
   "0001":
-    - text: "What's a Guardian?"
+    attributes: ""
+    contents:
+      - text: "What's a Guardian?"
   "0002":
-    - text: Cherry?
+    attributes: ""
+    contents:
+      - text: Cherry?
   "0003":
-    - text: Good-bye.
+    attributes: ""
+    contents:
+      - text: Good-bye.
+  NakedPlayer:
+    attributes: ""
+    contents:
+      - text: Hm?
+  TerrorArrow:
+    attributes: ""
+    contents:
+      - text: What?!
   TerrorBomb:
-    - text: Remote Bombs...
+    attributes: ""
+    contents:
+      - text: Remote Bombs...
   TerrorExplosion:
-    - text: Goodness gracious!
+    attributes: ""
+    contents:
+      - text: Goodness gracious!
+  TerrorSword:
+    attributes: ""
+    contents:
+      - text: What?!
+  talk00:
+    attributes: Npc_AncientDoctor_Hateno
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: "Cherry "
+      - control:
+          kind: reset_colour
+      - text: "is safely back to work. All that's\nleft is for you to destroy the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Calamity
+      - control:
+          kind: reset_colour
+      - text: "."
+  talk01:
+    attributes: Npc_AncientDoctor_Hateno
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Bye-bye.
+  talk02:
+    attributes: Npc_AncientDoctor_Hateno
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Good morning.
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nThis morning really is quite good..."
+  talk03:
+    attributes: Npc_AncientDoctor_Hateno
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Good day.
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nAnd a good day it is."
+  talk04:
+    attributes: Npc_AncientDoctor_Hateno
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Good evening.
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nYes, yes, I would describe this evening\nas good."
+  talk06:
+    attributes: Npc_AncientDoctor_Hateno
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "But I think it's unwise"
+      - control:
+          kind: pause
+          length: short
+      - text: " to try and make\nthe "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Guardians "
+      - control:
+          kind: reset_colour
+      - text: "our allies now... "
+      - control:
+          kind: pause
+          length: short
+      - text: "\nJust...too difficult...\nI think I'll offer you ancient equipment"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nin exchange for "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Guardian "
+      - control:
+          kind: reset_colour
+      - text: "parts, instead."
+  talk07:
+    attributes: Npc_AncientDoctor_Hateno
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "What's up? "
+      - control:
+          kind: pause
+          length: short
+      - text: How are you doing?
+  talk08:
+    attributes: Npc_AncientDoctor_Hateno
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: By the way...
+      - control:
+          kind: pause
+          length: short
+      - text: "\nDid you need something from me?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 3
+          unknown: 10
+  talk09:
+    attributes: Npc_AncientDoctor_Hateno
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Good afternoon.
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nOr is it good morning?"
   talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientDoctor_Hateno
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "The "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Guardians
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " are self-guided weapons\nbuilt to fight Calamity Ganon and\ndeveloped by our Sheikah ancestors.\nFor many years, the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Guardians
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " were kept\nbelow "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Hyrule Castle
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ". "
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "The "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Guardians
+      - control:
+          kind: reset_colour
+      - text: " are self-guided weapons\nbuilt to fight Calamity Ganon and\ndeveloped by our Sheikah ancestors.\nFor many years, the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Guardians
+      - control:
+          kind: reset_colour
+      - text: " were kept\nbelow "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Hyrule Castle
+      - control:
+          kind: reset_colour
+      - text: ". "
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "However, when the\nCalamity struck, they were stolen away.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "However, when the\nCalamity struck, they were stolen away.\n"
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 1
-    - text: "I've been researching ways to take\nthem back..."
+      - text: "I've been researching ways to take\nthem back..."
   talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientDoctor_Hateno
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Have you got any other questions?
-    - control:
-        one:
-          type6:
-            field_1: 10
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5: 3
-            field_6:
-              - 0
-              - 3
+      - text: Have you got any other questions?
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 3
+          unknown: 10
   talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_AncientDoctor_Hateno
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "When one receives such scars on\ntheir body..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Well, they can leave\nlasting memories in their mind as well."
-  NakedPlayer:
-    - text: Hm?
-  TerrorSword:
-    - text: What?!
-  talk00:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: "Cherry "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "is safely back to work. All that's\nleft is for you to destroy the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Calamity
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Bye-bye.
+      - text: "When one receives such scars on\ntheir body..."
+      - control:
+          kind: pause
+          length: short
+      - text: " Well, they can leave\nlasting memories in their mind as well."

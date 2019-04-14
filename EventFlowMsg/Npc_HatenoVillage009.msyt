@@ -1,359 +1,335 @@
 ---
+group_count: 17
+atr1_unknown: 4
 entries:
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 18
-    - text: "I'm the hardest working greeter there is."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nThough it hardly seems like work when\nthe weather's so nice..."
-  near00:
-    - text: Zzz... Zzzmmm...
-  talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 3
-    - text: "HON, IT'S A CUSTOMERRRR! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nLooks like she's hungry to have her\nclothes "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: dyed
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I'll leave it to you!"
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - text: "That's the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "director's blue flame"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "...\n\n\nShouldn't you take it up to the \n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: research center
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " right away?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n\nUnless you don't want to. In which case,\nwhatever, I guess."
-  near01:
-    - text: Heyyyy!
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 33
-    - text: SNRRRRHH...
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "That "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: blue flame
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " The "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "director "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "used\nto carry it around all the time."
-  near02:
-    - text: "Let's see..."
-  talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 33
-    - text: "Snrrk... "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Gotta greet better... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Mmmmmh...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\n\n\nGotta make the hubby proud... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nMore enthusiasmmmmm..."
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 1
-    - text: "You know, I haven't seen the director\ncome down to the village recently."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI wonder what that's all about."
-  near03:
-    - text: Whew...
-  talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - text: "Hey, that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "blue flame "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "belongs to \n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Grandma Purah
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", right?"
-  near04:
-    - text: Haah...
-  talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Mmm, that "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: blue flame
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Grandma Purah\nused to carry it around all the time \nback in the day."
-  talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 18
-    - text: "Yeah, yeah, you're a customer. I get it."
   "0000":
-    - text: "That's right."
+    attributes: ""
+    contents:
+      - text: "That's right."
   "0002":
-    - text: My mistake.
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Yeah, yeah. OK."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " See you later..."
-  talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "If you want to get your clothes dyed,\npop inside and talk to my husband."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " \nTrust me, you can't miss him."
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Yup! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Today's greeting work is done!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nAnd I've got to say—I NAILED it.\nCompletely pro greeting!"
+    attributes: ""
+    contents:
+      - text: My mistake.
+  near00:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - text: Zzz... Zzzmmm...
+  near01:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - text: Heyyyy!
+  near02:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - text: "Let's see..."
+  near03:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - text: Whew...
+  near04:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - text: Haah...
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 12
-    - text: "OK, OK, I've got this. Greeting time.\nYou're a customer, right?"
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
+      - text: "OK, OK, I've got this. Greeting time.\nYou're a customer, right?"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
                 - 0
                 - 0
-              - - 255
-                - 255
+                - 2
+              field_2:
                 - 0
                 - 0
-            field_1:
-              - 0
-              - 0
-              - 2
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "I'm done greeting for the day!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nTalk to the boss."
+                - 0
+                - 3
   talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "I don't know about any mistake,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " but if\nyou don't need anything, move on, OK?\nI've got greeting to do."
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I don't know about any mistake,"
+      - control:
+          kind: pause
+          length: short
+      - text: " but if\nyou don't need anything, move on, OK?\nI've got greeting to do."
+  talk03:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 3
+      - text: "HON, IT'S A CUSTOMERRRR! "
+      - control:
+          kind: pause
+          length: short
+      - text: "\nLooks like she's hungry to have her\nclothes "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: dyed
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: pause
+          length: short
+      - text: " I'll leave it to you!"
+  talk04:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 33
+      - text: SNRRRRHH...
+  talk05:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 33
+      - text: "Snrrk... "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Gotta greet better... "
+      - control:
+          kind: pause
+          length: short
+      - text: Mmmmmh...
+      - control:
+          kind: pause
+          length: long
+      - text: "\n\n\nGotta make the hubby proud... "
+      - control:
+          kind: pause
+          length: short
+      - text: "\nMore enthusiasmmmmm..."
+  talk06:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "Hey, that "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "blue flame "
+      - control:
+          kind: reset_colour
+      - text: "belongs to \n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Grandma Purah
+      - control:
+          kind: reset_colour
+      - text: ", right?"
+  talk07:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Mmm, that "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: blue flame
+      - control:
+          kind: reset_colour
+      - text: "..."
+      - control:
+          kind: pause
+          length: short
+      - text: " Grandma Purah\nused to carry it around all the time \nback in the day."
+  talk08:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 18
-    - text: "Job's not always easy, but do I care?"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nNot even weather like this can stop my\ngreetings from ringing out!"
+      - text: "Yeah, yeah, you're a customer. I get it."
+  talk10:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Yeah, yeah. OK."
+      - control:
+          kind: pause
+          length: short
+      - text: " See you later..."
+  talk11:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "If you want to get your clothes dyed,\npop inside and talk to my husband."
+      - control:
+          kind: pause
+          length: long
+      - text: " \nTrust me, you can't miss him."
+  talk12:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Yup! "
+      - control:
+          kind: pause
+          length: short
+      - text: "Today's greeting work is done!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nAnd I've got to say—I NAILED it.\nCompletely pro greeting!"
+  talk13:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "I'm done greeting for the day!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nTalk to the boss."
+  talk14:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 18
+      - text: "Job's not always easy, but do I care?"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nNot even weather like this can stop my\ngreetings from ringing out!"
+  talk15:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 18
+      - text: "I'm the hardest working greeter there is."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nThough it hardly seems like work when\nthe weather's so nice..."
+  talk16:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "That's the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "director's blue flame"
+      - control:
+          kind: reset_colour
+      - text: "...\n\n\nShouldn't you take it up to the \n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: research center
+      - control:
+          kind: reset_colour
+      - text: " right away?"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n\nUnless you don't want to. In which case,\nwhatever, I guess."
+  talk17:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "That "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: blue flame
+      - control:
+          kind: reset_colour
+      - text: "..."
+      - control:
+          kind: pause
+          length: short
+      - text: " The "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "director "
+      - control:
+          kind: reset_colour
+      - text: "used\nto carry it around all the time."
+  talk18:
+    attributes: Npc_HatenoVillage009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: "You know, I haven't seen the director\ncome down to the village recently."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI wonder what that's all about."

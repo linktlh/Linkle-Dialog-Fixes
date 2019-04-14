@@ -1,96 +1,91 @@
 ---
+group_count: 5
+atr1_unknown: 4
 entries:
+  Near00:
+    attributes: Npc_Goron109
+    contents:
+      - text: Hrnggggghhh...
+  Talk00:
+    attributes: Npc_Goron109
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 24
+            - 205
+      - text: "Dig, dig, dig! All's I wanna do is dig!\nYou hear dat, world? I won't stop 'til\nI find more! Make me filthy rich!"
   Talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron109
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 1
-    - text: "As you can see, things are goin' great!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "As you can see, things are goin' great!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "And it's not just the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: secret of the hero
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nbut also the secret musings of the hero,\nand the secret moments of the hero too!\n"
-    - control:
-        four:
-          type1:
-            field_1:
-              - 7
-              - 205
-    - text: "If it can be dug up, I'll dig it up!\nJust watch!"
+      - text: "And it's not just the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: secret of the hero
+      - control:
+          kind: reset_colour
+      - text: ",\nbut also the secret musings of the hero,\nand the secret moments of the hero too!\n"
+      - control:
+          kind: sound2
+          unknown:
+            - 7
+            - 205
+      - text: "If it can be dug up, I'll dig it up!\nJust watch!"
   Talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron109
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "What's up? You want me to dig up\nyour secrets too?\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "What's up? You want me to dig up\nyour secrets too?\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: "Impossible! Delicate things like that are\nbound to get broken!"
+      - text: "Impossible! Delicate things like that are\nbound to get broken!"
   Talk03:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 31
-              - 205
-    - text: "I sure am tired from all this diggin'..."
-  Near00:
-    - text: Hrnggggghhh...
+    attributes: Npc_Goron109
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 31
+            - 205
+      - text: "I sure am tired from all this diggin'..."
   Talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron109
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "It's not just the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: secret of the hero
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " either,\nbut also the secret musings of the hero,\nand the secret moments of the hero too!\n"
-    - control:
-        four:
-          type1:
-            field_1:
-              - 7
-              - 205
-    - text: "If it can be dug up, I'll dig it up!\nJust watch!"
-  Talk00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 24
-              - 205
-    - text: "Dig, dig, dig! All's I wanna do is dig!\nYou hear dat, world? I won't stop 'til\nI find more! Make me filthy rich!"
+      - text: "It's not just the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: secret of the hero
+      - control:
+          kind: reset_colour
+      - text: " either,\nbut also the secret musings of the hero,\nand the secret moments of the hero too!\n"
+      - control:
+          kind: sound2
+          unknown:
+            - 7
+            - 205
+      - text: "If it can be dug up, I'll dig it up!\nJust watch!"

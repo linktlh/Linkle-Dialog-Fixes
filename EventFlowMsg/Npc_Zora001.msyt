@@ -1,457 +1,432 @@
 ---
+group_count: 19
+atr1_unknown: 4
 entries:
-  talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 45
-    - text: Farewell!
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "At the top of these stairs is the throne\nroom of King Dorephan and his son,\nPrince Sidon."
-  talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 6
-    - text: Me?
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: My name is Tottika.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I'm a novice soldier."
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 19
-    - text: By the way...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: HYLIAN...
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 6
-            field_3:
-              - 1
-              - 205
   "0003":
-    - text: What is this place?
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "You managed to make it to "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Zora's Domain"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nall by yourself, eh?\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "That would mean you've got a pretty\nreliable weapon on you, yes?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 7
-            field_3: 9
-            field_4:
-              - 0
-              - 1
+    attributes: ""
+    contents:
+      - text: What is this place?
   "0004":
-    - text: Who are you?
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 16
-    - text: "I see.\n\n\nI've been supplied a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: silverscale spear
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI have no complaints about it, but...\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: "There are rumors of a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: legendary blade
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\none that chooses its wielder."
+    attributes: ""
+    contents:
+      - text: Who are you?
   "0005":
-    - text: Good-bye.
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 1
-    - text: I want to become an important soldier...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\none who's worthy of being chosen by\na legendary weapon!"
+    attributes: ""
+    contents:
+      - text: Good-bye.
   "0006":
-    - text: What?
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 20
-    - text: Hylian!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Have you seen?!\n\n\nThe rain that has been falling ever since\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Divine Beast Vah Ruta
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " was angered..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nhas finally stopped!\nWas that you and Prince Sidon?"
+    attributes: ""
+    contents:
+      - text: What?
   "0007":
-    - text: Yes.
+    attributes: ""
+    contents:
+      - text: Yes.
+  "0009":
+    attributes: ""
+    contents:
+      - text: "It's not much."
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 20
-    - text: "Oh! "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "You're that Hylian I met at\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Zora River
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Oh! "
+      - control:
+          kind: pause
+          length: long
+      - text: "You're that Hylian I met at\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Zora River
+      - control:
+          kind: reset_colour
+      - text: "!\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "Are you here at Prince Sidon's request?\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Are you here at Prince Sidon's request?\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "Well, King Dorephan and Prince Sidon\nare waiting for you."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Please help them!"
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 20
-    - text: "Oh! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Hylian!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You have done us a\ngreat service!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 1
-    - text: Captain Bazz filled me in.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " He told me you\nare the Champion who visited Zora's\nDomain 100 years ago. Or...something."
+      - text: "Well, King Dorephan and Prince Sidon\nare waiting for you."
+      - control:
+          kind: pause
+          length: long
+      - text: " Please help them!"
   talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 4
-    - text: "Ohoho... "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "So you're back."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nYou're that Hylian our Prince Sidon\nbrought here, aren't you?\nPlease go and meet with him right away."
-  talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 20
-    - text: Great Hylian Champion...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Thank you so\nmuch for all you have done for us."
-  "0009":
-    - text: "It's not much."
+      - text: "Ohoho... "
+      - control:
+          kind: pause
+          length: long
+      - text: "So you're back."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nYou're that Hylian our Prince Sidon\nbrought here, aren't you?\nPlease go and meet with him right away."
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 2
-    - text: Good morning.
-  talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Now, even the elders who were so down\non you are likely looking upon you with\nregard and triumph!"
+      - text: Good morning.
   talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 2
-    - text: Good day.
-  talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Because of your glorious deeds, I'm sure\nthe elders will be content to let the\nsubject of Mipha finally wash away."
+      - text: Good day.
   talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 2
-    - text: Good evening.
-  talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Here in "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Zora's Domain"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", we're currently\nrecruiting warriors to join Prince Sidon\nin his noble struggle.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 16
-    - text: "However, the elders are...stubborn."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThey are wholly against outsiders\ngetting involved in Zora affairs.\nBut King Dorephan, as well as the young\nfolk, are ready to accept anyone's help..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nWell, so long as they are trustworthy.\nIf you wish to learn more, please go and\nspeak with King Dorephan directly."
+      - text: Good evening.
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 45
-    - text: "Yes, ma'am! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Nothing to report, ma'am!"
+      - text: "Yes, ma'am! "
+      - control:
+          kind: pause
+          length: short
+      - text: "Nothing to report, ma'am!"
   talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "...Yes? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Did you need something?
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
+      - text: "...Yes? "
+      - control:
+          kind: pause
+          length: short
+      - text: Did you need something?
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
+                - 3
+                - 0
+                - 4
+                - 0
+                - 5
+              field_2:
                 - 0
                 - 0
-            field_1:
-              - 3
-              - 0
-              - 4
-              - 0
-              - 5
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
+                - 0
+                - 3
   talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "Ohoho, a Hylian, eh?"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " The path\nto "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Zora's Domain"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " is paved with\nmonsters, is it not?\nHere in the domain, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "we are currently\nrecruiting warriors to join Prince Sidon\nin his fight.\nPlease hurry up and meet with him."
+      - text: "Ohoho, a Hylian, eh?"
+      - control:
+          kind: pause
+          length: long
+      - text: " The path\nto "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Zora's Domain"
+      - control:
+          kind: reset_colour
+      - text: " is paved with\nmonsters, is it not?\nHere in the domain, "
+      - control:
+          kind: pause
+          length: short
+      - text: "we are currently\nrecruiting warriors to join Prince Sidon\nin his fight.\nPlease hurry up and meet with him."
+  talk09:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 45
+      - text: Farewell!
+  talk10:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "At the top of these stairs is the throne\nroom of King Dorephan and his son,\nPrince Sidon."
+  talk11:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 6
+      - text: Me?
+  talk12:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: My name is Tottika.
+      - control:
+          kind: pause
+          length: short
+      - text: " I'm a novice soldier."
+  talk13:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 19
+      - text: By the way...
+      - control:
+          kind: pause
+          length: short
+      - text: HYLIAN...
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 6
+              field_3:
+                - 1
+                - 205
+  talk14:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "You managed to make it to "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Zora's Domain"
+      - control:
+          kind: reset_colour
+      - text: "\nall by yourself, eh?\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "That would mean you've got a pretty\nreliable weapon on you, yes?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 7
+            - 9
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk15:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 16
+      - text: "I see.\n\n\nI've been supplied a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: silverscale spear
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI have no complaints about it, but...\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: "There are rumors of a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: legendary blade
+      - control:
+          kind: reset_colour
+      - text: "..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\none that chooses its wielder."
+  talk16:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 1
+      - text: I want to become an important soldier...
+      - control:
+          kind: pause
+          length: short
+      - text: "\none who's worthy of being chosen by\na legendary weapon!"
+  talk17:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 20
+      - text: Hylian!
+      - control:
+          kind: pause
+          length: short
+      - text: " Have you seen?!\n\n\nThe rain that has been falling ever since\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Divine Beast Vah Ruta
+      - control:
+          kind: reset_colour
+      - text: " was angered..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nhas finally stopped!\nWas that you and Prince Sidon?"
+  talk18:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 20
+      - text: "Oh! "
+      - control:
+          kind: pause
+          length: short
+      - text: Hylian!
+      - control:
+          kind: pause
+          length: short
+      - text: " You have done us a\ngreat service!\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 1
+      - text: Captain Bazz filled me in.
+      - control:
+          kind: pause
+          length: short
+      - text: " He told me you\nare the Champion who visited Zora's\nDomain 100 years ago. Or...something."
+  talk19:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 20
+      - text: Great Hylian Champion...
+      - control:
+          kind: pause
+          length: short
+      - text: " Thank you so\nmuch for all you have done for us."
+  talk20:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Now, even the elders who were so down\non you are likely looking upon you with\nregard and triumph!"
+  talk21:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Because of your glorious deeds, I'm sure\nthe elders will be content to let the\nsubject of Mipha finally wash away."
+  talk22:
+    attributes: Npc_Zora001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Here in "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Zora's Domain"
+      - control:
+          kind: reset_colour
+      - text: ", we're currently\nrecruiting warriors to join Prince Sidon\nin his noble struggle.\n"
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 16
+      - text: "However, the elders are...stubborn."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThey are wholly against outsiders\ngetting involved in Zora affairs.\nBut King Dorephan, as well as the young\nfolk, are ready to accept anyone's help..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nWell, so long as they are trustworthy.\nIf you wish to learn more, please go and\nspeak with King Dorephan directly."

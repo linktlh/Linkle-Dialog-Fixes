@@ -1,153 +1,112 @@
 ---
+group_count: 5
+atr1_unknown: 4
 entries:
   Talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Self
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 0
-    - text: "I've been all over the world, but this\nplace is truly the hottest of them all.\nI'd die here without a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: fireproof elixir
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\nYeah, I'm not sure I'll be able to draw\nanything here... So I'll just burn this\nscenery into my memory."
+      - text: "I've been all over the world, but this\nplace is truly the hottest of them all.\nI'd die here without a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: fireproof elixir
+      - control:
+          kind: reset_colour
+      - text: ".\nYeah, I'm not sure I'll be able to draw\nanything here... So I'll just burn this\nscenery into my memory."
   Talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Self
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 4
-    - text: Hmm...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " I can see "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Hyrule Castle "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "and the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Great Hyrule Forest
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", which neighbors\nit to the north.\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Hmm...
+      - control:
+          kind: pause
+          length: long
+      - text: " I can see "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Hyrule Castle "
+      - control:
+          kind: reset_colour
+      - text: "and the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Great Hyrule Forest
+      - control:
+          kind: reset_colour
+      - text: ", which neighbors\nit to the north.\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "Looking down on the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Great Hyrule Forest
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nfrom the southeast, you can see scenery\nlike this."
+      - control:
+          kind: reset_colour
+      - text: "Looking down on the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Great Hyrule Forest
+      - control:
+          kind: reset_colour
+      - text: "\nfrom the southeast, you can see scenery\nlike this."
   Talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Self
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "That reminds me... If you travel south\nof here, you'll find a stable called\nthe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Woodland Stable
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "That reminds me... If you travel south\nof here, you'll find a stable called\nthe "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Woodland Stable
+      - control:
+          kind: reset_colour
+      - text: ".\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 1
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "I hear there's some high ground\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: north of the Woodland Stable
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nwith an incredible view.\n"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - control:
+          kind: reset_colour
+      - text: "I hear there's some high ground\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: north of the Woodland Stable
+      - control:
+          kind: reset_colour
+      - text: "\nwith an incredible view.\n"
+      - control:
+          kind: pause
+          length: long
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 16
-    - text: Sorry...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " That's all I know."
+      - text: Sorry...
+      - control:
+          kind: pause
+          length: short
+      - text: " That's all I know."

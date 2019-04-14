@@ -1,640 +1,566 @@
 ---
+group_count: 17
+atr1_unknown: 4
 entries:
-  talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: Good morning.
-  near00:
-    - text: A sacred article...
-  talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: Hello.
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 1
-    - text: "Sorry! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I haven't introduced myself."
-  near01:
-    - text: To the Spring of Power...
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: Good evening.
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 18
-    - text: "Yes, yes..."
-  near02:
-    - text: "The princess's ritual..."
-  talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "I've traveled everywhere, but at the end\nof the day,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I like "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Akkala "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: best of all.
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "There's a lighthouse-lookin' home "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: north
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nof here."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 16
-    - text: " No one was there when I last\nstopped by, though..."
-  talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 34
-    - text: You woke me up...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " I guess that's OK."
-  talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 16
-    - text: "I'm not quite sure...\n\n\nI've been hearing clanging and banging\nby "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Lake Akkala
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ". "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "That's "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: south
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " of here."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nWhy don't you go check it out?"
-  talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "That's why I'm pretty familiar"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " with stuff\naround here."
-  talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 1
-    - text: Is there something you wanna know?
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 0
-              - 62
-              - 77
-              - 105
-              - 110
-              - 97
-              - 107
-              - 107
-              - 97
-              - 114
-              - 101
-              - 72
-              - 97
-              - 116
-              - 97
-              - 103
-              - 111
-              - 95
-              - 78
-              - 80
-              - 67
-              - 48
-              - 48
-              - 50
-              - 95
-              - 73
-              - 99
-              - 104
-              - 105
-              - 107
-              - 97
-              - 114
-              - 97
-              - 1
-              - 0
-              - 4
-              - 0
-              - 3
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 25
-    - text: "Let's see..."
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " If you go "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: west
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " of the stable,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nthere's a sacred place called the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Spring of Power
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n\"Offer the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "sacred article "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "to the\nSpring of Power.\" "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "That's what\nthe legend says"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n"
-    - control:
-        four:
-          type2:
-            field_1: 18
-            string: Think_00
-    - text: "Maybe it was part of a ritual the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: princess
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nof "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Hyrule Castle "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: used to perform?
   "0000":
-    - text: You know Hudson?
-  talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 25
-    - text: "The "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Spring of Power
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: " "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: west
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " of the stable "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "is\nwhere the princess used to go to perform\nher cleansing rituals.\nThere's even a legend that says,\n\"Offer the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "sacred article "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "to the\nSpring of Power.\"\nMaybe the princess "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "used this "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "sacred\narticle "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: in her rituals...
+    attributes: ""
+    contents:
+      - text: You know Hudson?
   "0001":
-    - text: This area?
-  talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 1
-    - text: "West of this stable there's—\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 20
-    - text: Huh?
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " You already went to the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Spring of Power
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 1
-    - text: "I've actually never been there..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nWhen you live so close to it,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nit's easy to procrastinate."
+    attributes: ""
+    contents:
+      - text: This area?
   "0002":
-    - text: Who are you?
+    attributes: ""
+    contents:
+      - text: Who are you?
   "0003":
-    - text: Good-bye.
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: See ya!
+    attributes: ""
+    contents:
+      - text: Good-bye.
   "0004":
-    - text: Farther areas?
-  talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: "I'm Nobo."
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 1
-    - text: What is it?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 3
-            field_4:
-              - 0
-              - 1
+    attributes: ""
+    contents:
+      - text: Farther areas?
+  near00:
+    attributes: Npc_TamourHatago002
+    contents:
+      - text: A sacred article...
+  near01:
+    attributes: Npc_TamourHatago002
+    contents:
+      - text: To the Spring of Power...
+  near02:
+    attributes: Npc_TamourHatago002
+    contents:
+      - text: "The princess's ritual..."
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 19
-    - text: Oh...
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 6
-    - text: Hudson?
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Who's that? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "He's a carpenter?"
+      - text: Oh...
   talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 19
-    - text: "Hm? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I haven't seen you around here.\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Hm? "
+      - control:
+          kind: pause
+          length: short
+      - text: "I haven't seen you around here.\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Wow, you sure have strange tastes. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nYou look like someone who has traveled\nwilly-nilly all over the world."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 3
-            field_4:
-              - 0
-              - 1
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Wow, you sure have strange tastes. "
+      - control:
+          kind: pause
+          length: short
+      - text: "\nYou look like someone who has traveled\nwilly-nilly all over the world."
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk02:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: Good morning.
+  talk03:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: Hello.
+  talk04:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: Good evening.
+  talk05:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "I've traveled everywhere, but at the end\nof the day,"
+      - control:
+          kind: pause
+          length: short
+      - text: " I like "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Akkala "
+      - control:
+          kind: reset_colour
+      - text: best of all.
+  talk06:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 34
+      - text: You woke me up...
+      - control:
+          kind: pause
+          length: longer
+      - text: " I guess that's OK."
+  talk07:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "That's why I'm pretty familiar"
+      - control:
+          kind: pause
+          length: short
+      - text: " with stuff\naround here."
+  talk08:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 1
-    - text: Anything else you wanna know?
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 0
-              - 62
-              - 77
-              - 105
-              - 110
-              - 97
-              - 107
-              - 107
-              - 97
-              - 114
-              - 101
-              - 72
-              - 97
-              - 116
-              - 97
-              - 103
-              - 111
-              - 95
-              - 78
-              - 80
-              - 67
-              - 48
-              - 48
-              - 50
-              - 95
-              - 73
-              - 99
-              - 104
-              - 105
-              - 107
-              - 97
-              - 114
-              - 97
-              - 1
-              - 0
-              - 4
-              - 0
-              - 3
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
+      - text: Is there something you wanna know?
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 0
+                - 62
+                - 77
+                - 105
+                - 110
+                - 97
+                - 107
+                - 107
+                - 97
+                - 114
+                - 101
+                - 72
+                - 97
+                - 116
+                - 97
+                - 103
+                - 111
+                - 95
+                - 78
+                - 80
+                - 67
+                - 48
+                - 48
+                - 50
+                - 95
+                - 73
+                - 99
+                - 104
+                - 105
+                - 107
+                - 97
+                - 114
+                - 97
+                - 1
+                - 0
+                - 4
+                - 0
+                - 3
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk09:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 25
+      - text: "Let's see..."
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: reset_colour
+      - text: " If you go "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: west
+      - control:
+          kind: reset_colour
+      - text: " of the stable,"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nthere's a sacred place called the\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Spring of Power
+      - control:
+          kind: reset_colour
+      - text: "!\n\"Offer the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "sacred article "
+      - control:
+          kind: reset_colour
+      - text: "to the\nSpring of Power.\" "
+      - control:
+          kind: pause
+          length: longer
+      - text: "That's what\nthe legend says"
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "."
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n"
+      - control:
+          kind: animation
+          name: Think_00
+      - text: "Maybe it was part of a ritual the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: princess
+      - control:
+          kind: reset_colour
+      - text: "\nof "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Hyrule Castle "
+      - control:
+          kind: reset_colour
+      - text: used to perform?
+  talk10:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: See ya!
+  talk11:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: "I'm Nobo."
+  talk12:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: What is it?
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk13:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 6
+      - text: Hudson?
+      - control:
+          kind: pause
+          length: longer
+      - text: " Who's that? "
+      - control:
+          kind: pause
+          length: short
+      - text: "He's a carpenter?"
+  talk14:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: Anything else you wanna know?
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 0
+                - 62
+                - 77
+                - 105
+                - 110
+                - 97
+                - 107
+                - 107
+                - 97
+                - 114
+                - 101
+                - 72
+                - 97
+                - 116
+                - 97
+                - 103
+                - 111
+                - 95
+                - 78
+                - 80
+                - 67
+                - 48
+                - 48
+                - 50
+                - 95
+                - 73
+                - 99
+                - 104
+                - 105
+                - 107
+                - 97
+                - 114
+                - 97
+                - 1
+                - 0
+                - 4
+                - 0
+                - 3
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk16:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 1
+      - text: "Sorry! "
+      - control:
+          kind: pause
+          length: short
+      - text: "I haven't introduced myself."
+  talk17:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 18
+      - text: "Yes, yes..."
+  talk18:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "There's a lighthouse-lookin' home "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: north
+      - control:
+          kind: reset_colour
+      - text: "\nof here."
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 16
+      - text: " No one was there when I last\nstopped by, though..."
+  talk19:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 16
+      - text: "I'm not quite sure...\n\n\nI've been hearing clanging and banging\nby "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Lake Akkala
+      - control:
+          kind: reset_colour
+      - text: ". "
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - control:
+          kind: reset_colour
+      - text: "That's "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: south
+      - control:
+          kind: reset_colour
+      - text: " of here."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nWhy don't you go check it out?"
+  talk20:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 25
+      - text: "The "
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Spring of Power
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: " "
+      - control:
+          kind: reset_colour
+      - control:
+          kind: set_colour
+          colour: red
+      - text: west
+      - control:
+          kind: reset_colour
+      - text: " of the stable "
+      - control:
+          kind: pause
+          length: short
+      - text: "is\nwhere the princess used to go to perform\nher cleansing rituals.\nThere's even a legend that says,\n\"Offer the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "sacred article "
+      - control:
+          kind: reset_colour
+      - text: "to the\nSpring of Power.\"\nMaybe the princess "
+      - control:
+          kind: pause
+          length: short
+      - text: "used this "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "sacred\narticle "
+      - control:
+          kind: reset_colour
+      - text: in her rituals...
+  talk21:
+    attributes: Npc_TamourHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: "West of this stable there's—\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 20
+      - text: Huh?
+      - control:
+          kind: pause
+          length: long
+      - text: " You already went to the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Spring of Power
+      - control:
+          kind: reset_colour
+      - text: "?\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: "I've actually never been there..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nWhen you live so close to it,"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nit's easy to procrastinate."

@@ -1,693 +1,610 @@
 ---
+group_count: 23
+atr1_unknown: 4
 entries:
-  Talk_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Enchanted
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " is open for business every\nday of the year!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n\n...Oh, my."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Look at that face!\nYou are TOTALLY my type.\nHi."
-  Talk_27:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+  SupriseHouse:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
-            - 1
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "...Are you kidding me?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Um, you should go see "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Lady Impa
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\nShe seems like she would know about\nthat kind of thing."
-  Talk_14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 18
-    - text: "Wow, the fireflies were gorgeous today.\nI love that you can see them all year\nlong in this village.\nBut...they're really hard to catch.\nI was pretty good at it when I was\na kid, though."
-  Talk_02:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 1
-    - text: A Sheikah Slate?!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  Talk_15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "I used to go out at night to catch\nfireflies. They fly away quickly, so you \nhave to sneak up on them slowly.\nIt's more than fun...it's magical.\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 16
-    - text: "But that's all in the past. Now there are\nmonsters around the village and rumors\nthat the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Yiga Clan
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " is nearby and active...\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "That's why I'm forced to stay inside\nwhen it's dark instead of chasing the\nnight."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " *sigh*"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I wish I could do something."
-  Talk_28:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 0
-    - text: "Wow, it's really coming down!"
-  Talk_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 1
-    - text: "Isn't that, like..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "an incredible thing that\nonly incredible people can have?"
-  Talk_29:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Good morniiing! The weather's kinda\nyuck today, isn't it?\n\nI'm going into Claree's place now,\nbut feel free to tag along if you're\nlooking to buy some new clothes."
-  Talk_16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 0
-    - text: "I saw some fireflies fireflying around,\nso now I'm in a good mood and ready\nto face the day!\nI'm gonna do my best to get lots of\ncustomers today! "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "Promise to come\nback again soon, Ms. Heroine!"
-  Talk_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 4
-    - text: "We're open rain or shine!\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Enchanted
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", right this way!"
-  Talk_05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 4
-    - text: "We're open every day!\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Enchanted
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", right this way!"
-  Talk_06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 4
-    - text: "Good morniiing! You sure look chipper,\neven though the day's just begun!\n\nI'm about to go into Claree's place.\nIf you're after some new threads,\nyou're welcome to come along."
+            - 21
+      - text: "Argh! Who's there?!"
   SupriseHouse_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 16
-    - text: "Oh! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "It's Ms. Heroine...\n\n\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: You scared me half to death...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+      - text: "Oh! "
+      - control:
+          kind: pause
+          length: longer
+      - text: "It's Ms. Hero...\n\n\n"
+      - control:
+          kind: text_size
+          percent: 80
+      - text: You scared me half to death...
+      - control:
+          kind: text_size
+          percent: 100
+  Talk_01:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Enchanted
+      - control:
+          kind: reset_colour
+      - text: " is open for business every\nday of the year!"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n\n...Oh, my."
+      - control:
+          kind: pause
+          length: long
+      - text: " Look at that face!\nYou are TOTALLY my type.\nHi."
+  Talk_02:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: text_size
+          percent: 125
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 1
+      - text: A Sheikah Slate?!
+      - control:
+          kind: text_size
+          percent: 100
+  Talk_03:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 1
+      - text: "Isn't that, like..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "an incredible thing that\nonly incredible people can have?"
+  Talk_04:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 4
+      - text: "We're open rain or shine!\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Enchanted
+      - control:
+          kind: reset_colour
+      - text: ", right this way!"
+  Talk_05:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 4
+      - text: "We're open every day!\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Enchanted
+      - control:
+          kind: reset_colour
+      - text: ", right this way!"
+  Talk_06:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 4
+      - text: "Good morniiing! You sure look chipper,\neven though the day's just begun!\n\nI'm about to go into Claree's place.\nIf you're after some new threads,\nyou're welcome to come along."
   Talk_09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 20
-    - text: HEY!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " How could you BE so rude!\nBothering a lady in her room!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nAnd AT NIGHT of all times!\n..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n...Huh?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: HEY!
+      - control:
+          kind: pause
+          length: short
+      - text: " How could you BE so rude!\nBothering a lady in her room!"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nAnd AT NIGHT of all times!\n..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\n..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\n...Huh?"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n"
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 0
-    - text: "Isn't that..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Sheikah Slate
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?\n\n\nAre you the heroine Grandmother told me\nabout?"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " The legendary swordswoman..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nof the Great Calamity?\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Isn't that..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Sheikah Slate
+      - control:
+          kind: reset_colour
+      - text: "?\n\n\nAre you the heroine Grandmother told me\nabout?"
+      - control:
+          kind: pause
+          length: long
+      - text: " The legendary swordswoman..."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nof the Great Calamity?\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: WOW!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " I figured you'd be all old and\nwrinkly by now. "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "But you SO are not...\n\nYoung people like me have a hard time\nwrapping our heads around something\nlike the Great Calamity.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: WOW!
+      - control:
+          kind: pause
+          length: longer
+      - text: " I figured you'd be all old and\nwrinkly by now. "
+      - control:
+          kind: pause
+          length: long
+      - text: "But you SO are not...\n\nYoung people like me have a hard time\nwrapping our heads around something\nlike the Great Calamity.\n"
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 6
-    - text: "Huh... Judging by the look on your face,\nI dare say you're having a hard time\nwith it too."
-  Talk_30:
-    - text: "Ooh, "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "and you even have a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Sheikah Slate
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\non your hip!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 0
-    - text: Wait...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: huh?
-  Talk_32:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "You sure look chipper even though\nit's such a rainy day.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "...Oh, my."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Look at that face!\nYou are TOTALLY my type.\nHi."
-  SupriseHouse:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 21
-    - text: "Argh! Who's there?!"
-  Talk_33:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 21
-    - text: "Hm? "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Who is it?\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "Oh, my... What's this?"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Look at that face!\nYou are TOTALLY my type!"
-  Talk_20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "We've sold through all of our stock... \n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 9
-    - text: "But don't worry! The lovely Claree\nis always happy to greet you.\nSee for yourself!"
-  Talk_34:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 25
-    - text: "I'm not sure what this all means..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nBut it seems you're a great deal more\nimportant than you appear."
-  Talk_21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 4
-    - text: Good morniiing!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
+      - text: "Huh... Judging by the look on your face,\nI dare say you're having a hard time\nwith it too."
   Talk_10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 6
-    - text: "Oh! You're paying me a visit?\nThat's sweet of you.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Oh! You're paying me a visit?\nThat's sweet of you.\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Ya know, I used to really love the night.\nAt night the world sparkles and shines\nin an almost magical way. It's beautiful.\nOh, and fireflies are everywhere!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nThough trying to sneak up on and\ncatch them is quite a challenge.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Ya know, I used to really love the night.\nAt night the world sparkles and shines\nin an almost magical way. It's beautiful.\nOh, and fireflies are everywhere!"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nThough trying to sneak up on and\ncatch them is quite a challenge.\n"
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: "There were times when I'd stay out so\nlate, I didn't realize morning had come.\nGrandmother always scolded me for that.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "There were times when I'd stay out so\nlate, I didn't realize morning had come.\nGrandmother always scolded me for that.\n"
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 16
-    - text: "But that's all in the past. Now there are\nmonsters around the village and rumors\nthat the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Yiga Clan
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " is nearby and active...\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "But that's all in the past. Now there are\nmonsters around the village and rumors\nthat the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Yiga Clan
+      - control:
+          kind: reset_colour
+      - text: " is nearby and active...\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "That's why I'm forced to lounge around\nat home instead of chasing the night."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\n*sigh*"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I wish I could do something..."
-  Talk_23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "I can't believe it! I can see fireflies right\noutside my house! "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "Life doesn't get any\nbetter than this.\nI really owe you one... "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "Oh! Oh!\nI bet Claree would like a picture\nof this!"
+      - text: "That's why I'm forced to lounge around\nat home instead of chasing the night."
+      - control:
+          kind: pause
+          length: long
+      - text: "\n*sigh*"
+      - control:
+          kind: pause
+          length: short
+      - text: " I wish I could do something..."
   Talk_11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 18
-    - text: The fireflies were so pretty...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI didn't think I'd ever see them again."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nThank you, Ms. Heroine."
-  Talk_25:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "We're open rain or shine!\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Enchanted
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", right this..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nright this way...\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "Oh, my... What's this?"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Look at that face!\nYou are TOTALLY my type. Hi."
+      - text: The fireflies were so pretty...
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI didn't think I'd ever see them again."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nThank you, Ms. Hero."
   Talk_12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 18
-    - text: "I don't know why, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "but seeing fireflies\nalways warms my heart..."
-  near00:
-    - text: Hm?
-  Talk_26:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: You must be kidding me...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "I don't...know about that kind of stuff.\nBut I'm pretty sure the heroine of legend\nis on...like, a quest or something?\nI'm, uh, running a clothing shop here...\nso stop by if you're looking for\nsomething cute to wear."
+      - text: "I don't know why, "
+      - control:
+          kind: pause
+          length: short
+      - text: "but seeing fireflies\nalways warms my heart..."
   Talk_13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 0
-    - text: "Oh, my! It's already so dark!\nI've gotta get back home right away,\nor Grandmother will scold me!"
+      - text: "Oh, my! It's already so dark!\nI've gotta get back home right away,\nor Grandmother will scold me!"
+  Talk_14:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 18
+      - text: "Wow, the fireflies were gorgeous today.\nI love that you can see them all year\nlong in this village.\nBut...they're really hard to catch.\nI was pretty good at it when I was\na kid, though."
+  Talk_15:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "I used to go out at night to catch\nfireflies. They fly away quickly, so you \nhave to sneak up on them slowly.\nIt's more than fun...it's magical.\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 16
+      - text: "But that's all in the past. Now there are\nmonsters around the village and rumors\nthat the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Yiga Clan
+      - control:
+          kind: reset_colour
+      - text: " is nearby and active...\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "That's why I'm forced to stay inside\nwhen it's dark instead of chasing the\nnight."
+      - control:
+          kind: pause
+          length: long
+      - text: " *sigh*"
+      - control:
+          kind: pause
+          length: short
+      - text: " I wish I could do something."
+  Talk_16:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 0
+      - text: "I saw some fireflies fireflying around,\nso now I'm in a good mood and ready\nto face the day!\nI'm gonna do my best to get lots of\ncustomers today! "
+      - control:
+          kind: pause
+          length: long
+      - text: "Promise to come\nback again soon, Ms. Hero!"
+  Talk_20:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "We've sold through all of our stock... \n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 9
+      - text: "But don't worry! The lovely Claree\nis always happy to greet you.\nSee for yourself!"
+  Talk_21:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 4
+      - text: Good morniiing!
+      - control:
+          kind: pause
+          length: short
+  Talk_23:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "I can't believe it! I can see fireflies right\noutside my house! "
+      - control:
+          kind: pause
+          length: long
+      - text: "Life doesn't get any\nbetter than this.\nI really owe you one... "
+      - control:
+          kind: pause
+          length: long
+      - text: "Oh! Oh!\nI bet Claree would like a picture\nof this!"
+  Talk_25:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "We're open rain or shine!\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Enchanted
+      - control:
+          kind: reset_colour
+      - text: ", right this..."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nright this way...\n"
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "Oh, my... What's this?"
+      - control:
+          kind: pause
+          length: long
+      - text: " Look at that face!\nYou are TOTALLY my type. Hi."
+  Talk_26:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 0
+      - control:
+          kind: text_size
+          percent: 80
+      - text: You must be kidding me...
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "I don't...know about that kind of stuff.\nBut I'm pretty sure the heroine of legend\nis on...like, a quest or something?\nI'm, uh, running a clothing shop here...\nso stop by if you're looking for\nsomething cute to wear."
+  Talk_27:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 1
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "...Are you kidding me?"
+      - control:
+          kind: pause
+          length: longer
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Um, you should go see "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Lady Impa
+      - control:
+          kind: reset_colour
+      - text: ".\nShe seems like she would know about\nthat kind of thing."
+  Talk_28:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 0
+      - text: "Wow, it's really coming down!"
+  Talk_29:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Good morniiing! The weather's kinda\nyuck today, isn't it?\n\nI'm going into Claree's place now,\nbut feel free to tag along if you're\nlooking to buy some new clothes."
+  Talk_30:
+    attributes: Npc_Kakariko016
+    contents:
+      - text: "Ooh, "
+      - control:
+          kind: pause
+          length: long
+      - text: "and you even have a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Sheikah Slate
+      - control:
+          kind: reset_colour
+      - text: "\non your hip!\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 0
+      - text: Wait...
+      - control:
+          kind: pause
+          length: longer
+      - text: huh?
+  Talk_32:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "You sure look chipper even though\nit's such a rainy day.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "...Oh, my."
+      - control:
+          kind: pause
+          length: long
+      - text: " Look at that face!\nYou are TOTALLY my type.\nHi."
+  Talk_33:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 21
+      - text: "Hm? "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Who is it?\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "Oh, my... What's this?"
+      - control:
+          kind: pause
+          length: long
+      - text: " Look at that face!\nYou are TOTALLY my type!"
+  Talk_34:
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 25
+      - text: "I'm not sure what this all means..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nBut it seems you're a great deal more\nimportant than you appear."
+  near00:
+    attributes: Npc_Kakariko016
+    contents:
+      - text: Hm?
   near01:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 0
-              - 205
-    - text: New clothes! Cute outfits!
+    attributes: Npc_Kakariko016
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 0
+            - 205
+      - text: New clothes! Cute outfits!

@@ -1,404 +1,429 @@
 ---
+group_count: 29
+atr1_unknown: 4
 entries:
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "I don't wanna sleep! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I'm not even tired!"
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Tell me a story!
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 6
-              - 0
-              - 7
-              - 0
-              - 8
-              - 0
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: "I'm fine!"
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 14
-    - text: I hate everything!
-  talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "..."
-  talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Tell me something else!
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 6
-              - 0
-              - 7
-              - 0
-              - 8
-              - 0
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 14
-    - text: "I already told you—I'm OK!"
-  talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 14
-    - text: "I hate, hate, HATE it all!"
-  talk23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "But I'll eat some cake if you have some."
-  talk24:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 14
-    - text: "What's that? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I don't care!"
-  talk25:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "I don't want you to come here, anyway!"
+  "0000":
+    attributes: ""
+    contents:
+      - text: "That's right."
+  "0001":
+    attributes: ""
+    contents:
+      - text: Bye bye.
+  "0002":
+    attributes: ""
+    contents:
+      - text: "It's pretty fun."
+  "0003":
+    attributes: ""
+    contents:
+      - text: "Actually, it's tough."
+  "0004":
+    attributes: ""
+    contents:
+      - text: Absolutely.
+  "0005":
+    attributes: ""
+    contents:
+      - text: Monster what-nows?
+  "0006":
+    attributes: ""
+    contents:
+      - text: How are you feeling?
+  "0007":
+    attributes: ""
+    contents:
+      - text: Whatcha like eating?
+  "0008":
+    attributes: ""
+    contents:
+      - text: Hear of the Calamity?
+  "0009":
+    attributes: ""
+    contents:
+      - text: You could say that.
   near00:
-    - text: Pheew...pheew...
-  talk26:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "It's the traveler girl!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nWell then..."
+    attributes: Npc_UMiiVillage003
+    contents:
+      - text: Pheew...pheew...
   near01:
-    - text: ♪Doot doo...♪
-  talk27:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 14
-    - text: "What? That's boring!"
-  talk28:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 12
-    - text: "I'm going to sleep!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nMama says I gotta!"
+    attributes: Npc_UMiiVillage003
+    contents:
+      - text: ♪Doot doo...♪
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 33
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: Hooooo...hooooo...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  talk29:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 2
-    - text: "I'm gonna sleep, OK?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nTalk to me later!"
-  "0000":
-    - text: "That's right."
+      - control:
+          kind: text_size
+          percent: 80
+      - text: Hooooo...hooooo...
+      - control:
+          kind: text_size
+          percent: 100
   talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Good morning!
-  "0001":
-    - text: Bye bye.
+      - text: Good morning!
   talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Hi!
-  "0002":
-    - text: "It's pretty fun."
+      - text: Hi!
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Good evening!
-  "0003":
-    - text: "Actually, it's tough."
-  "0004":
-    - text: Absolutely.
+      - text: Good evening!
   talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Are you a traveler?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 9
-            field_4:
-              - 0
-              - 2
-  "0005":
-    - text: Monster what-nows?
+      - text: Are you a traveler?
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 9
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 16
-    - text: Is it fun?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 3
-            field_4:
-              - 0
-              - 2
-  "0006":
-    - text: How are you feeling?
-  "0007":
-    - text: Whatcha like eating?
+      - text: Is it fun?
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
   talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Ah!
-  "0008":
-    - text: Hear of the Calamity?
+      - text: Ah!
   talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 10
-    - text: "When I grow up, I want to go\nout all by myself!"
-  "0009":
-    - text: You could say that.
+      - text: "When I grow up, I want to go\nout all by myself!"
   talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 11
-    - text: I see!
+      - text: I see!
   talk11:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "Say, have you heard of a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: monster cake
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 5
-            field_4:
-              - 0
-              - 2
+      - control:
+          kind: reset_colour
+      - text: "Say, have you heard of a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: monster cake
+      - control:
+          kind: reset_colour
+      - text: "?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 5
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
   talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 10
-    - text: "Mama bought me one! It was so gross!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Mama bought me one! It was so gross!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 1
-    - text: "But after I ate it,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I got really strong.\nLike this!\n\nYou should try one if you wanna be\nreal strong like me!"
+      - text: "But after I ate it,"
+      - control:
+          kind: pause
+          length: short
+      - text: " I got really strong.\nLike this!\n\nYou should try one if you wanna be\nreal strong like me!"
   talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 10
-    - text: "Isn't it so gross? Ick!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Isn't it so gross? Ick!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 1
-    - text: "I don't know if it's just because I ate the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: monster cake
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ","
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " but I have so much\nenergy now!\nIf you run out of energy, you should eat\nsome too!"
+      - text: "I don't know if it's just because I ate the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: monster cake
+      - control:
+          kind: reset_colour
+      - text: ","
+      - control:
+          kind: pause
+          length: short
+      - text: " but I have so much\nenergy now!\nIf you run out of energy, you should eat\nsome too!"
   talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 0
-    - text: "I don't wanna sleep!"
+      - text: "I don't wanna sleep!"
+  talk15:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "I don't wanna sleep! "
+      - control:
+          kind: pause
+          length: short
+      - text: "I'm not even tired!"
+  talk16:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Tell me a story!
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 6
+                - 0
+                - 7
+                - 0
+                - 8
+                - 0
+                - 1
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk17:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: "I'm fine!"
+  talk18:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 14
+      - text: I hate everything!
+  talk19:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "..."
+  talk20:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Tell me something else!
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 6
+                - 0
+                - 7
+                - 0
+                - 8
+                - 0
+                - 1
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk21:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 14
+      - text: "I already told you—I'm OK!"
+  talk22:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 14
+      - text: "I hate, hate, HATE it all!"
+  talk23:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "But I'll eat some cake if you have some."
+  talk24:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 14
+      - text: "What's that? "
+      - control:
+          kind: pause
+          length: short
+      - text: "I don't care!"
+  talk25:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "I don't want you to come here, anyway!"
+  talk26:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "It's the traveler girl!"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nWell then..."
+  talk27:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 14
+      - text: "What? That's boring!"
+  talk28:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 12
+      - text: "I'm going to sleep!"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nMama says I gotta!"
+  talk29:
+    attributes: Npc_UMiiVillage003
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 2
+      - text: "I'm gonna sleep, OK?"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nTalk to me later!"

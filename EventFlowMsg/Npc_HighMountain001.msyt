@@ -1,503 +1,453 @@
 ---
+group_count: 23
+atr1_unknown: 4
 entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: Morning!
+  "0001":
+    attributes: ""
+    contents:
+      - text: "G'day!"
+  "0002":
+    attributes: ""
+    contents:
+      - text: Evening!
+  "0003":
+    attributes: ""
+    contents:
+      - text: Bye.
+  "0005":
+    attributes: ""
+    contents:
+      - text: Cool!
+  "0006":
+    attributes: ""
+    contents:
+      - text: Whoa.
+  "0007":
+    attributes: ""
+    contents:
+      - text: Flight Range?
+  Talk_00:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 2
+      - text: Morning!
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   Talk_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 2
-    - text: Good day!
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 1
-            field_3: 2
-            field_4: 3
-            field_5:
-              - 0
-              - 2
-  Talk_14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "That place over there with the flag is the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Flight Range
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Good day!
+      - control:
+          kind: choice
+          choice_labels:
             - 1
-            - 9
-    - text: "I hope "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Dad
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " comes back soon!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI want to go play there!"
+            - 2
+            - 3
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   Talk_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 2
-    - text: Evening!
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 2
-            field_3: 0
-            field_4: 3
-            field_5:
-              - 0
-              - 2
+      - text: Evening!
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 0
+            - 3
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   Talk_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 10
-    - text: "Good response!\n\n\n\"Great kids are great greeters.\"\nThat's what my "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: dad
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " always says!"
-  Talk_16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "But he says he's gotten a lot better, so\nhe'll be able to take me flying again\nsoon!"
+      - text: "Good response!\n\n\n\"Great kids are great greeters.\"\nThat's what my "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: dad
+      - control:
+          kind: reset_colour
+      - text: " always says!"
   Talk_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 20
-    - text: "What? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "That's a weird way to greet\nsomeone!"
-  Talk_17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "It sounds like "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Dad
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "'s feeling a lot better!\n\n\nHe says he'll be able to take me to the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Flight Range
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " soon!"
+      - text: "What? "
+      - control:
+          kind: pause
+          length: short
+      - text: "That's a weird way to greet\nsomeone!"
   Talk_05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 2
-    - text: "Yo! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "It's you!"
-  Talk_18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Dad "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "promised he'd play with me at the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Flight Range "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: when he gets back!
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 7
-            field_3: 6
-            field_4:
-              - 0
-              - 1
+      - text: "Yo! "
+      - control:
+          kind: pause
+          length: short
+      - text: "It's you!"
   Talk_06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 2
-    - text: "Yo! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "It's the weird-greeting girl!"
-  Talk_19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 1
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Dad "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "finally came back from work!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 1
-    - text: But it sounds like he got hurt...
+      - text: "Yo! "
+      - control:
+          kind: pause
+          length: short
+      - text: "It's the weird-greeting girl!"
   Talk_07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: "It's really fun!"
+      - text: "It's really fun!"
   Talk_08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "Oh, listen to this! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Dad
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " promised he'd\nplay with me later!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5
-            field_3: 6
-            field_4:
-              - 0
-              - 2
-  "0000":
-    - text: Morning!
-  "0001":
-    - text: "G'day!"
-  "0002":
-    - text: Evening!
-  "0003":
-    - text: Bye.
-  "0005":
-    - text: Cool!
-  "0006":
-    - text: Whoa.
-  "0007":
-    - text: Flight Range?
-  Talk_20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 26
-    - text: "♪Soon soon!♪ \n♪Soon soon!♪"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n♪"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Dad
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "'s coming back sooooooooooon!♪"
-  Talk_21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 26
-    - text: ♪La lala
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " hmm "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: hmmmmmm...♪
-  Talk_22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 1
-    - text: Come back later and play with me!
+      - text: "Oh, listen to this! "
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Dad
+      - control:
+          kind: reset_colour
+      - text: " promised he'd\nplay with me later!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5
+            - 6
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
   Talk_10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 33
-    - text: Zzz...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Dad
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-  Talk_23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "Really, Dad?!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " YAAAAAAAAAY!"
+      - text: Zzz...
+      - control:
+          kind: pause
+          length: long
+      - text: " "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Dad
+      - control:
+          kind: reset_colour
+      - text: "?"
   Talk_11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 34
-    - text: "*yawn*"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nNight night..."
-  Talk_24:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "Hey, girl!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nCome play with us at the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Flight Range "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nsometime!"
+      - text: "*yawn*"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nNight night..."
   Talk_12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 1
-    - text: "Totally! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Spread your wings at the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Flight Range
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " and it's like...FWOOSH! "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nYou go flying way high!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 7
-            field_3: 6
-            field_4:
-              - 0
-              - 1
-  Talk_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Totally! "
+      - control:
+          kind: pause
+          length: short
+      - text: "Spread your wings at the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Flight Range
+      - control:
+          kind: reset_colour
+      - control:
+          kind: pause
+          length: long
+      - text: " and it's like...FWOOSH! "
+      - control:
+          kind: pause
+          length: long
+      - text: "\nYou go flying way high!"
+      - control:
+          kind: choice
+          choice_labels:
             - 7
-            - 2
-    - text: Morning!
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 2
-            field_4: 3
-            field_5:
-              - 0
-              - 2
+            - 6
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   Talk_13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 0
-    - text: "Whoa! Where are your clothes?! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nMOM!"
+      - text: "Whoa! Where are your clothes?! "
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nMOM!"
+  Talk_14:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "That place over there with the flag is the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Flight Range
+      - control:
+          kind: reset_colour
+      - text: "!\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "I hope "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Dad
+      - control:
+          kind: reset_colour
+      - text: " comes back soon!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI want to go play there!"
+  Talk_16:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "But he says he's gotten a lot better, so\nhe'll be able to take me flying again\nsoon!"
+  Talk_17:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "It sounds like "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Dad
+      - control:
+          kind: reset_colour
+      - text: "'s feeling a lot better!\n\n\nHe says he'll be able to take me to the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Flight Range
+      - control:
+          kind: reset_colour
+      - text: " soon!"
+  Talk_18:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Dad "
+      - control:
+          kind: reset_colour
+      - text: "promised he'd play with me at the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Flight Range "
+      - control:
+          kind: reset_colour
+      - text: when he gets back!
+      - control:
+          kind: choice
+          choice_labels:
+            - 7
+            - 6
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk_19:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 1
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Dad "
+      - control:
+          kind: reset_colour
+      - text: "finally came back from work!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 1
+      - text: But it sounds like he got hurt...
+  Talk_20:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 26
+      - text: "♪Soon soon!♪ \n♪Soon soon!♪"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n♪"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Dad
+      - control:
+          kind: reset_colour
+      - text: "'s coming back sooooooooooon!♪"
+  Talk_21:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 26
+      - text: ♪La lala
+      - control:
+          kind: pause
+          length: short
+      - text: " hmm "
+      - control:
+          kind: pause
+          length: short
+      - text: hmmmmmm...♪
+  Talk_22:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 1
+      - text: Come back later and play with me!
+  Talk_23:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "Really, Dad?!"
+      - control:
+          kind: pause
+          length: long
+      - text: " YAAAAAAAAAY!"
+  Talk_24:
+    attributes: Npc_HighMountain001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "Hey, girl!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nCome play with us at the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Flight Range "
+      - control:
+          kind: reset_colour
+      - text: "\nsometime!"

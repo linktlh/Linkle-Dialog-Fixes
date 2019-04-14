@@ -1,76 +1,70 @@
 ---
+group_count: 5
+atr1_unknown: 4
 entries:
-  Npc_King001_03:
-    - text: Linkle...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " You must save..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: Hyrule...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 60
   Npc_King001_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Dm_Npc_Hyrule_KingSoul
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 24
-    - text: Go on...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Here is the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: paraglider
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", just as\nI promised."
+      - text: Go on...
+      - control:
+          kind: pause
+          length: long
+      - text: " Here is the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: paraglider
+      - control:
+          kind: reset_colour
+      - text: ", just as\nI promised."
   Npc_King001_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Dm_Npc_Hyrule_KingSoul
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "With that, you should be able to safely\nfly off the cliffs surrounding this area."
+      - text: "With that, you should be able to safely\nfly off the cliffs surrounding this area."
   Npc_King001_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Dm_Npc_Hyrule_KingSoul
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: And...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I think that's it.\n\n\n"
-    - control:
-        four:
-          type1:
-            field_1:
-              - 7
-              - 205
-    - text: "I've told you everything I can..."
+      - text: And...
+      - control:
+          kind: pause
+          length: short
+      - text: "I think that's it.\n\n\n"
+      - control:
+          kind: sound2
+          unknown:
+            - 7
+            - 205
+      - text: "I've told you everything I can..."
+  Npc_King001_03:
+    attributes: Dm_Npc_Hyrule_KingSoul
+    contents:
+      - text: Linkle...
+      - control:
+          kind: pause
+          length: longer
+      - text: " You must save..."
+      - control:
+          kind: pause
+          length: long
+      - text: Hyrule...
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: auto_advance
+          frames: 60

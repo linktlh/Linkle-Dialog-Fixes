@@ -1,32 +1,27 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
-  QL_FironeMini_GiantHorse_Finish:
-    - text: "I captured the giant horse in\nTaobab Grasslands.\n\nGiant was an accurate description, to be sure.\nThis beast could probably trample monsters\nwith ease.\n\nWhen I brought it back to Straia, he was\nvery surprised, to say the least."
-  QL_FironeMini_GiantHorse_Name:
-    - text: Hunt for the Giant Horse
   QL_FironeMini_GiantHorse_Desc:
-    - text: "Out in the Faron Grasslands, I came upon\nStraia, who is conducting a study on animals of\nthe region. He said he's specifically looking for\nthe rumored "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "giant horse "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "that lives on the\nTaobab Grasslands.\n\nStraia asked me to help with his investigation\ninto the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: giant horse
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ". After all, how giant could\nit really be?"
+    contents:
+      - text: "Out in the Faron Grasslands, I came upon\nStraia, who is conducting a study on animals of\nthe region. He said he's specifically looking for\nthe rumored "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "giant horse "
+      - control:
+          kind: reset_colour
+      - text: "that lives on the\nTaobab Grasslands.\n\nStraia asked me to help with his investigation\ninto the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: giant horse
+      - control:
+          kind: reset_colour
+      - text: ". After all, how giant could\nit really be?"
+  QL_FironeMini_GiantHorse_Finish:
+    contents:
+      - text: "I captured the giant horse in\nTaobab Grasslands.\n\nGiant was an accurate description, to be sure.\nThis beast could probably trample monsters\nwith ease.\n\nWhen I brought it back to Straia, he was\nvery surprised, to say the least."
+  QL_FironeMini_GiantHorse_Name:
+    contents:
+      - text: Hunt for the Giant Horse

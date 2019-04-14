@@ -1,15 +1,15 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 1
-    - control:
-        four:
-          type2:
-            field_1: 40
-            string: CustomRescueAreaOut
-    - text: Where are you off to?!
+      - control:
+          kind: animation
+          name: CustomRescueAreaOut
+      - text: Where are you off to?!

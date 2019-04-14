@@ -1,20 +1,31 @@
 ---
+group_count: 7
+atr1_unknown: 0
 entries:
-  Dm_Npc_Rito_Hero_SubText:
-    - text: Rito Champion
-  Npc_FollowGoron_SubText:
-    - text: Goron Youth
   Dm_Npc_Gerdo_Hero_SubText:
-    - text: Gerudo Champion
-  Npc_ValleyVillage010_SubText:
-    - text: Rito Warrior
-  Dm_Npc_Zora_Hero_SubText:
-    - text: Zora Champion
-  Npc_oasis003_SubText:
-    - text: Gerudo Chief
-  Dm_Npc_Hyrule_KingSoul_SubText:
-    - text: The Last King of Hyrule
+    contents:
+      - text: Gerudo Champion
   Dm_Npc_Goron_Hero_SubText:
-    - text: Goron Champion
+    contents:
+      - text: Goron Champion
+  Dm_Npc_Hyrule_KingSoul_SubText:
+    contents:
+      - text: The Last King of Hyrule
+  Dm_Npc_Rito_Hero_SubText:
+    contents:
+      - text: Rito Champion
+  Dm_Npc_Zora_Hero_SubText:
+    contents:
+      - text: Zora Champion
+  Npc_FollowGoron_SubText:
+    contents:
+      - text: Goron Youth
+  Npc_ValleyVillage010_SubText:
+    contents:
+      - text: Rito Warrior
   Npc_ZoraB001_SubText:
-    - text: Zora Prince
+    contents:
+      - text: Zora Prince
+  Npc_oasis003_SubText:
+    contents:
+      - text: Gerudo Chief

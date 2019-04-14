@@ -1,31 +1,42 @@
 ---
+group_count: 5
+atr1_unknown: 4
 entries:
-  TerrorHorse:
-    - text: Whoa there!
-  TerrorArrow:
-    - text: "Please don't do that!"
   Challenge000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: "Ah, we meet again!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI trust you're doing well?"
-  TerrorFire:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 20
-              - 205
-    - text: Yikes!
-  TerrorSword:
-    - text: Stop this madness!
+      - text: "Ah, we meet again!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI trust you're doing well?"
+  TerrorArrow:
+    attributes: ""
+    contents:
+      - text: "Please don't do that!"
   TerrorExplosion:
-    - text: WAAAH!
+    attributes: ""
+    contents:
+      - text: WAAAH!
+  TerrorFire:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 20
+            - 205
+      - text: Yikes!
+  TerrorHorse:
+    attributes: ""
+    contents:
+      - text: Whoa there!
+  TerrorSword:
+    attributes: ""
+    contents:
+      - text: Stop this madness!

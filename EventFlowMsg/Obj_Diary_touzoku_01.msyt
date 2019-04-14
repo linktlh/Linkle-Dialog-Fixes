@@ -1,239 +1,200 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
-  "0003":
-    - text: Previous page.
-  Diary_03:
-    - text: "The green garments of the man who\nwished to be a fairy are hidden "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "in\nthe ruins of Hyrule Field"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\nFind these pieces "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "at the ruins\nwhere trade flourished"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "...\n\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "at the ruins where sinners\nwere imprisoned"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "...\n\nand "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "at the village ruins next to\nfarmland where many people\nonce gathered"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 2
-            field_3: 3
-            field_4: 4
-            field_5:
-              - 0
-              - 2
-  "0004":
-    - text: Stop reading.
-  Diary_04:
-    - text: "The princess of twilight, whose stories\nare handed down alongside those of\nthe Hero of Twilight...\nHer helmet can be found "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "at the\ntemple ruins soaked in the waters\nof Regencia River"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 2
-            field_3: 3
-            field_4: 4
-            field_5:
-              - 0
-              - 2
-  "0005":
-    - text: First page.
-  Diary_05:
-    - text: "Armor worn by fierce phantoms,\nfeared even by heroes, is hidden\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: in the ruins of Hyrule Field
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\nFind these pieces "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "at a battleground\nwhere brave souls tested their skill"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "...\n\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "at ceremonial grounds where\nroyal guards are honored"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "...\n\nand "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "at the ruins where the soldiers\nof Hyrule gathered"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 2
-            field_3: 3
-            field_4: 4
-            field_5:
-              - 0
-              - 2
-  "0006":
-    - text: Last page.
-  Diary_06:
-    - text: "\"EX\" is all that's written on the last page.\nWhat could it mean?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 3
-            field_3: 4
-            field_4:
-              - 0
-              - 1
-  Diary_00:
-    - text: Was this book always here?
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 5
-            field_3: 6
-            field_4: 1
-            field_5:
-              - 0
-              - 2
   "0001":
-    - text: "Don't read."
-  Diary_01:
-    - text: "I hid the eight priceless relics I stole\nfrom Hyrule Castle in treasure chests...\nI shall write down their locations. -"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Misko
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 4
-            field_4:
-              - 0
-              - 1
+    attributes: ""
+    contents:
+      - text: "Don't read."
   "0002":
-    - text: Next page.
+    attributes: ""
+    contents:
+      - text: Next page.
+  "0003":
+    attributes: ""
+    contents:
+      - text: Previous page.
+  "0004":
+    attributes: ""
+    contents:
+      - text: Stop reading.
+  "0005":
+    attributes: ""
+    contents:
+      - text: First page.
+  "0006":
+    attributes: ""
+    contents:
+      - text: Last page.
+  Diary_00:
+    attributes: NPC_GodVoice
+    contents:
+      - text: Was this book always here?
+      - control:
+          kind: choice
+          choice_labels:
+            - 5
+            - 6
+            - 1
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Diary_01:
+    attributes: Obj_Diary_touzoku_01
+    contents:
+      - text: "I hid the eight priceless relics I stole\nfrom Hyrule Castle in treasure chests...\nI shall write down their locations. -"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Misko
+      - control:
+          kind: reset_colour
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 4
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   Diary_02:
-    - text: "The ancient mask lies "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "at the ruins where\nsoldiers gathered"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ". From there, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "the waters\nof Lake Kolomo are visible"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 2
-            field_3: 3
-            field_4: 4
-            field_5:
-              - 0
-              - 2
+    attributes: Obj_Diary_touzoku_01
+    contents:
+      - text: "The ancient mask lies "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "at the ruins where\nsoldiers gathered"
+      - control:
+          kind: reset_colour
+      - text: ". From there, "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "the waters\nof Lake Kolomo are visible"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+            - 4
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Diary_03:
+    attributes: Obj_Diary_touzoku_01
+    contents:
+      - text: "The green garments of the man who\nwished to be a fairy are hidden "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "in\nthe ruins of Hyrule Field"
+      - control:
+          kind: reset_colour
+      - text: ".\nFind these pieces "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "at the ruins\nwhere trade flourished"
+      - control:
+          kind: reset_colour
+      - text: "...\n\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "at the ruins where sinners\nwere imprisoned"
+      - control:
+          kind: reset_colour
+      - text: "...\n\nand "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "at the village ruins next to\nfarmland where many people\nonce gathered"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+            - 4
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Diary_04:
+    attributes: Obj_Diary_touzoku_01
+    contents:
+      - text: "The princess of twilight, whose stories\nare handed down alongside those of\nthe Hero of Twilight...\nHer helmet can be found "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "at the\ntemple ruins soaked in the waters\nof Regencia River"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+            - 4
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Diary_05:
+    attributes: Obj_Diary_touzoku_01
+    contents:
+      - text: "Armor worn by fierce phantoms,\nfeared even by heroes, is hidden\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: in the ruins of Hyrule Field
+      - control:
+          kind: reset_colour
+      - text: ".\nFind these pieces "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "at a battleground\nwhere brave souls tested their skill"
+      - control:
+          kind: reset_colour
+      - text: "...\n\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "at ceremonial grounds where\nroyal guards are honored"
+      - control:
+          kind: reset_colour
+      - text: "...\n\nand "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "at the ruins where the soldiers\nof Hyrule gathered"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 3
+            - 4
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Diary_06:
+    attributes: Obj_Diary_touzoku_01
+    contents:
+      - text: "\"EX\" is all that's written on the last page.\nWhat could it mean?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 4
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6

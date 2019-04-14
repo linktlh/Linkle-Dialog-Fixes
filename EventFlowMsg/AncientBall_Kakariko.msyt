@@ -1,22 +1,20 @@
 ---
+group_count: 2
+atr1_unknown: 4
 entries:
   Npc_Kakariko001_Talk000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kakariko001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "That "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Sheikah heirloom "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "has been guarded\nby our tribe for generations. I must\nrequest that you not touch it...\nEven for an esteemed guest such as\nyourself, there are certain rules that\nmust be respected."
+      - text: "That "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Sheikah heirloom "
+      - control:
+          kind: reset_colour
+      - text: "has been guarded\nby our tribe for generations. I must\nrequest that you not touch it...\nEven for an esteemed guest such as\nyourself, there are certain rules that\nmust be respected."

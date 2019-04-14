@@ -1,33 +1,28 @@
 ---
+group_count: 5
+atr1_unknown: 0
 entries:
   Demo008_0_Text003:
-    - control:
-        four:
-          type2:
-            field_1: 18
-            string: Activate
-    - text: Sheikah Slate confirmed.
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 75
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: Sheikah Slate confirmed.
+      - control:
+          kind: auto_advance
+          frames: 75
   Demo008_0_Text004:
-    - control:
-        four:
-          type2:
-            field_1: 18
-            string: Activate
-    - text: Travel Gate registered to map.
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: Travel Gate registered to map.
   Demo008_0_Text005:
-    - control:
-        four:
-          type2:
-            field_1: 18
-            string: Activate
-    - text: Access granted.
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 90
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: Access granted.
+      - control:
+          kind: auto_advance
+          frames: 90

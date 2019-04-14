@@ -1,103 +1,100 @@
 ---
+group_count: 11
+atr1_unknown: 0
 entries:
-  C06-2:
-    - text: "What luck! My scouts are out in the field\nlooking high and low, but you just\nwander into my hideout!"
-  C06-4:
-    - text: "Yeah, IT'S YOU! You're that Linkle girl\nI've been looking for!"
-  C07-0:
-    - text: "Oh, excuse me."
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 45
-    - text: "\nI haven't introduced myself yet."
-  C05-0:
-    - text: That thing on your hip...
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-    - text: " Is that...\n"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Could it be a Sheikah Slate?
   C03-0:
-    - text: "Hey!\n"
+    contents:
+      - text: "Hey!\n"
   C03-1:
-    - text: "Who the heck are you? And what are you\ndoing in my napping spot?!"
-  C10-0:
-    - text: MASTER KOHGA!!!
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-    - text: "\nNow, prepare yourself!"
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-  C08-0:
-    - text: I am the leader...
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-    - text: "\nOf the Yiga Clan!"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 20
-  C06-0:
-    - text: "If it's a Sheikah Slate...\nThen that means..."
-  C08-1:
-    - control:
-        one:
-          type2:
-            field_1: 0
-    - text: The strong!
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 36
-    - text: "\n"
-    - control:
-        one:
-          type2:
-            field_1: 0
-    - text: The burly!!
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 28
+    contents:
+      - text: "Who the heck are you? And what are you\ndoing in my napping spot?!"
   C04-0:
-    - control:
-        one:
-          type2:
-            field_1: 0
-    - text: Wait a minute...
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 30
+    contents:
+      - control:
+          kind: raw
+          one:
+            two:
+              field_1: 0
+      - text: Wait a minute...
+      - control:
+          kind: auto_advance
+          frames: 30
+  C05-0:
+    contents:
+      - text: That thing on your hip...
+      - control:
+          kind: pause
+          frames: 30
+      - text: " Is that...\n"
+      - control:
+          kind: pause
+          length: short
+      - text: Could it be a Sheikah Slate?
+  C06-0:
+    contents:
+      - text: "If it's a Sheikah Slate...\nThen that means..."
+  C06-2:
+    contents:
+      - text: "What luck! My scouts are out in the field\nlooking high and low, but you just\nwander into my hideout!"
+  C06-4:
+    contents:
+      - text: "Yeah, IT'S YOU! You're that Linkle girl\nI've been looking for!"
+  C07-0:
+    contents:
+      - text: "Oh, excuse me."
+      - control:
+          kind: pause
+          frames: 45
+      - text: "\nI haven't introduced myself yet."
+  C08-0:
+    contents:
+      - text: I am the leader...
+      - control:
+          kind: pause
+          frames: 30
+      - text: "\nOf the Yiga Clan!"
+      - control:
+          kind: auto_advance
+          frames: 20
+  C08-1:
+    contents:
+      - control:
+          kind: raw
+          one:
+            two:
+              field_1: 0
+      - text: The strong!
+      - control:
+          kind: pause
+          frames: 36
+      - text: "\n"
+      - control:
+          kind: raw
+          one:
+            two:
+              field_1: 0
+      - text: The burly!!
+      - control:
+          kind: auto_advance
+          frames: 28
   C08-2:
-    - control:
-        one:
-          type2:
-            field_1: 0
-    - text: "The one!!\nThe only!!!"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 60
+    contents:
+      - control:
+          kind: raw
+          one:
+            two:
+              field_1: 0
+      - text: "The one!!\nThe only!!!"
+      - control:
+          kind: auto_advance
+          frames: 60
+  C10-0:
+    contents:
+      - text: MASTER KOHGA!!!
+      - control:
+          kind: pause
+          frames: 30
+      - text: "\nNow, prepare yourself!"
+      - control:
+          kind: pause
+          frames: 30

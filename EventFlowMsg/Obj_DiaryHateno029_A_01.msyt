@@ -1,64 +1,43 @@
 ---
+group_count: 2
+atr1_unknown: 4
 entries:
   talk00:
-    - text: "For a secret recipe that'll surprise even\nthe most knowledgeable of dads, start\nwith some "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: fortified pumpkins
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\nThrow in some "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Tabantha wheat "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "to give\nthe stew a nice wheaty flavor, then let\nsome "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: fresh milk
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " and "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "goat butter "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "simmer.\nAnd there you have it!\nA tasty "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: pumpkin stew
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
+    attributes: Obj_DiaryHateno029_A_01
+    contents:
+      - text: "For a secret recipe that'll surprise even\nthe most knowledgeable of dads, start\nwith some "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: fortified pumpkins
+      - control:
+          kind: reset_colour
+      - text: ".\nThrow in some "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Tabantha wheat "
+      - control:
+          kind: reset_colour
+      - text: "to give\nthe stew a nice wheaty flavor, then let\nsome "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: fresh milk
+      - control:
+          kind: reset_colour
+      - text: " and "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "goat butter "
+      - control:
+          kind: reset_colour
+      - text: "simmer.\nAnd there you have it!\nA tasty "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: pumpkin stew
+      - control:
+          kind: reset_colour
+      - text: "!"

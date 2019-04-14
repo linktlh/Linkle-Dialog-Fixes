@@ -1,691 +1,594 @@
 ---
+group_count: 29
+atr1_unknown: 4
 entries:
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "You don't have a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: cobble crusher
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "You don't have a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: diamond
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "You don't have a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: cobble crusher
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nor a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: diamond
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "You need more pieces of "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: flint
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-  talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Look, ya don't have a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: cobble crusher
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nand ya don't have enough "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: flint
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-  talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "You don't have a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: diamond
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", and you don't\nhave enough pieces of "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: flint
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "..."
-  talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "If ya don't have everything I need,\nthen I can't do anything for ya.\n\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "If ya want another "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Boulder Breaker
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nbring me a"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: " cobble crusher"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: five pieces
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nof "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: flint
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", and a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: diamond
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  talk23:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - text: "Diamonds "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "are a precious ore you can't\neasily find, even around these parts.\n"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: You sure ya want me to do this?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  talk24:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "Hmph. "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "Come back when ya want me\nto forge it again."
-  talk25:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 0
-    - text: "Right. I'll get started, then."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nWait over there."
-  near00:
-    - text: Hmph! Hmph!
-  talk26:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 0
-    - text: Hmph.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I must say... I did a great job!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nGo on, take it."
-  near01:
-    - text: Well then...
-  talk27:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 14
-    - text: Hey...
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 6
-            field_3:
-              - 1
-              - 205
-  near02:
-    - text: Phew...
-  talk28:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "I've got work to do. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Outta my way!
-  near03:
-    - text: "*snort*"
-  talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 6
-    - text: "...What are you starin' at?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  talk29:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: You want this?
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 0
-            field_3:
-              - 1
-              - 205
   "0000":
-    - text: Sorry!
-  talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 6
-    - text: "...I'm workin' here. Buzz off."
-  talk30:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Here's one I screwed up... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nYou can have it."
+    attributes: ""
+    contents:
+      - text: Sorry!
   "0001":
-    - text: Good-bye.
+    attributes: ""
+    contents:
+      - text: Good-bye.
+  "0002":
+    attributes: ""
+    contents:
+      - text: Please?
+  "0003":
+    attributes: ""
+    contents:
+      - text: "No, thanks."
+  "0004":
+    attributes: ""
+    contents:
+      - text: Yes.
+  "0005":
+    attributes: ""
+    contents:
+      - text: No.
+  "0006":
+    attributes: ""
+    contents:
+      - text: "I'm sorry?"
+  near00:
+    attributes: Npc_Goron016
+    contents:
+      - text: Hmph! Hmph!
+  near01:
+    attributes: Npc_Goron016
+    contents:
+      - text: Well then...
+  near02:
+    attributes: Npc_Goron016
+    contents:
+      - text: Phew...
+  near03:
+    attributes: Npc_Goron016
+    contents:
+      - text: "*snort*"
+  talk00:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 6
+      - text: "...What are you starin' at?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk01:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 6
+      - text: "...I'm workin' here. Buzz off."
   talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 14
-    - text: Hmph...
-  "0002":
-    - text: Please?
+      - text: Hmph...
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 4
-    - text: "...What now?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  talk32:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "...What now?"
+      - control:
+          kind: choice
+          choice_labels:
             - 0
-            - 2
-    - text: "So...you're the one to inherit the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Boulder Breaker
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", eh?\n\nI wonder if a pip-squeak like you can\nhandle Daruk's sword...\n\nWell, whatever. It is what it is."
-  "0003":
-    - text: "No, thanks."
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 0
-    - text: Time for some shut-eye...
-  "0004":
-    - text: Yes.
+      - text: Time for some shut-eye...
   talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Hmph...
-  "0005":
-    - text: No.
+      - text: Hmph...
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 14
-    - text: "You're distractin' me!"
-  "0006":
-    - text: "I'm sorry?"
+      - text: "You're distractin' me!"
   talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 14
-    - text: "If ya don't need anything, get outta here."
+      - text: "If ya don't need anything, get outta here."
   talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 14
-    - text: Again and again...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I can't stand it."
+      - text: Again and again...
+      - control:
+          kind: pause
+          length: short
+      - text: " I can't stand it."
   talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 14
-    - text: "I don't have time to deal with\nyour nonsense!"
+      - text: "I don't have time to deal with\nyour nonsense!"
   talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 14
-    - text: Pull yourself together!
+      - text: Pull yourself together!
   talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "If ya lose or break the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Boulder Breaker
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nand ya want me to make another one...\n\njust bring me a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: cobble crusher
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "five pieces "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "of "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: flint
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", and a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: diamond
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+      - text: "If ya lose or break the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Boulder Breaker
+      - control:
+          kind: reset_colour
+      - control:
+          kind: pause
+          length: short
+      - text: "\nand ya want me to make another one...\n\njust bring me a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: cobble crusher
+      - control:
+          kind: reset_colour
+      - text: ",\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "five pieces "
+      - control:
+          kind: reset_colour
+      - text: "of "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: flint
+      - control:
+          kind: reset_colour
+      - text: ", and a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: diamond
+      - control:
+          kind: reset_colour
+      - text: "."
   talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "Oh... Looks like ya don't have the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Boulder Breaker
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ". You'd better look and\nsee if ya dropped it somewhere."
+      - text: "Oh... Looks like ya don't have the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Boulder Breaker
+      - control:
+          kind: reset_colour
+      - text: ". You'd better look and\nsee if ya dropped it somewhere."
   talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 16
-    - text: "Looks like ya don't have the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Boulder Breaker
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "...\n\nIf ya want a new one, I'm gonna need\na "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: cobble crusher
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "five pieces "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "of "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: flint
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nand a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: diamond
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+      - text: "Looks like ya don't have the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Boulder Breaker
+      - control:
+          kind: reset_colour
+      - text: "...\n\nIf ya want a new one, I'm gonna need\na "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: cobble crusher
+      - control:
+          kind: reset_colour
+      - text: ", "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "five pieces "
+      - control:
+          kind: reset_colour
+      - text: "of "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: flint
+      - control:
+          kind: reset_colour
+      - text: ",\nand a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: diamond
+      - control:
+          kind: reset_colour
+      - text: "."
+  talk15:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "You don't have a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: cobble crusher
+      - control:
+          kind: reset_colour
+      - text: "..."
+  talk16:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "You don't have a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: diamond
+      - control:
+          kind: reset_colour
+      - text: "..."
+  talk17:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "You don't have a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: cobble crusher
+      - control:
+          kind: reset_colour
+      - text: "\nor a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: diamond
+      - control:
+          kind: reset_colour
+      - text: "..."
+  talk18:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "You need more pieces of "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: flint
+      - control:
+          kind: reset_colour
+      - text: "..."
+  talk19:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Look, ya don't have a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: cobble crusher
+      - control:
+          kind: reset_colour
+      - text: ",\nand ya don't have enough "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: flint
+      - control:
+          kind: reset_colour
+      - text: "..."
+  talk20:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "You don't have a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: diamond
+      - control:
+          kind: reset_colour
+      - text: ", and you don't\nhave enough pieces of "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: flint
+      - control:
+          kind: reset_colour
+      - text: "..."
+  talk21:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "If ya don't have everything I need,\nthen I can't do anything for ya.\n\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - control:
+          kind: reset_colour
+      - text: "If ya want another "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Boulder Breaker
+      - control:
+          kind: reset_colour
+      - text: ",\nbring me a"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: " cobble crusher"
+      - control:
+          kind: reset_colour
+      - text: ", "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: five pieces
+      - control:
+          kind: reset_colour
+      - text: "\nof "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: flint
+      - control:
+          kind: reset_colour
+      - text: ", and a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: diamond
+      - control:
+          kind: reset_colour
+      - text: "."
+  talk23:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "Diamonds "
+      - control:
+          kind: reset_colour
+      - text: "are a precious ore you can't\neasily find, even around these parts.\n"
+      - control:
+          kind: pause
+          length: longer
+      - text: You sure ya want me to do this?
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk24:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "Hmph. "
+      - control:
+          kind: pause
+          length: long
+      - text: "Come back when ya want me\nto forge it again."
+  talk25:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 0
+      - text: "Right. I'll get started, then."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nWait over there."
+  talk26:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 0
+      - text: Hmph.
+      - control:
+          kind: pause
+          length: short
+      - text: " I must say... I did a great job!"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nGo on, take it."
+  talk27:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 14
+      - text: Hey...
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 6
+              field_3:
+                - 1
+                - 205
+  talk28:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "I've got work to do. "
+      - control:
+          kind: pause
+          length: short
+      - text: Outta my way!
+  talk29:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: You want this?
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 0
+              field_3:
+                - 1
+                - 205
+  talk30:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Here's one I screwed up... "
+      - control:
+          kind: pause
+          length: short
+      - text: "\nYou can have it."
+  talk32:
+    attributes: Npc_Goron016
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 2
+      - text: "So...you're the one to inherit the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Boulder Breaker
+      - control:
+          kind: reset_colour
+      - text: ", eh?\n\nI wonder if a pip-squeak like you can\nhandle Daruk's sword...\n\nWell, whatever. It is what it is."

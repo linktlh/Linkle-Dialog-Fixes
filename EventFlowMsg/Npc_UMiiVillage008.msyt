@@ -1,346 +1,351 @@
 ---
+group_count: 17
+atr1_unknown: 4
 entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: Who are you?
+  "0001":
+    attributes: ""
+    contents:
+      - text: Good-bye.
+  "0002":
+    attributes: ""
+    contents:
+      - text: "Where's your family?"
+  "0003":
+    attributes: ""
+    contents:
+      - text: Your pets?
+  "0004":
+    attributes: ""
+    contents:
+      - text: Your wife?
+  talk01:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Good morning.
   talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "It's gotten warm, hasn't it?"
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 1
-    - text: "My wife? She's probably wandering\naround town right now, I'd imagine.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "She's a really gifted chef. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Her\nmushroom skewer is out of this world!\n\nIf you've got some time, you should\ndefinitely go and talk with her."
+      - text: "It's gotten warm, hasn't it?"
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "It's gotten cold, hasn't it?"
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Ask me anything.
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 4
-              - 46
-              - 85
-              - 77
-              - 105
-              - 105
-              - 86
-              - 105
-              - 108
-              - 108
-              - 97
-              - 103
-              - 101
-              - 95
-              - 78
-              - 80
-              - 67
-              - 48
-              - 48
-              - 56
-              - 95
-              - 87
-              - 105
-              - 102
-              - 101
-              - 2
-              - 0
-              - 3
-              - 0
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
+      - text: "It's gotten cold, hasn't it?"
   talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Yes, yes..."
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: The people living across from us
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nfight "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: night after night
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "...\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: "I sometimes think about sneaking around\nback and listening, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "but I also don't want\nto be so nosy..."
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "I haven't heard the people across from\nus argue in quite some time...\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: "I believe that every time they tackle an\nobstacle together, their relationship\ngrows stronger."
+      - text: "Yes, yes..."
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "*snore*... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "*snore*..."
+      - text: "*snore*... "
+      - control:
+          kind: pause
+          length: short
+      - text: "*snore*..."
   talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 1
-    - text: "Will you stay for a bit and chat with\nan old man?"
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 4
-              - 46
-              - 85
-              - 77
-              - 105
-              - 105
-              - 86
-              - 105
-              - 108
-              - 108
-              - 97
-              - 103
-              - 101
-              - 95
-              - 78
-              - 80
-              - 67
-              - 48
-              - 48
-              - 56
-              - 95
-              - 87
-              - 105
-              - 102
-              - 101
-              - 2
-              - 0
-              - 3
-              - 0
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
+      - text: "Will you stay for a bit and chat with\nan old man?"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 4
+                - 46
+                - 85
+                - 77
+                - 105
+                - 105
+                - 86
+                - 105
+                - 108
+                - 108
+                - 97
+                - 103
+                - 101
+                - 95
+                - 78
+                - 80
+                - 67
+                - 48
+                - 48
+                - 56
+                - 95
+                - 87
+                - 105
+                - 102
+                - 101
+                - 2
+                - 0
+                - 3
+                - 0
+                - 1
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
   talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Yes, good-bye."
+      - text: "Yes, good-bye."
   talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Oh, what do we have here?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nLooks like we have another young'n in\ntown."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  "0000":
-    - text: Who are you?
-  "0001":
-    - text: Good-bye.
-  "0002":
-    - text: "Where's your family?"
-  "0003":
-    - text: Your pets?
+      - text: "Oh, what do we have here?"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nLooks like we have another young'n in\ntown."
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "I'm called Moggs.\n\n\nMy son is grown up and I'm retired, so\nwhen I heard a rumor about\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Tarrey Town
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "...\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I'm called Moggs.\n\n\nMy son is grown up and I'm retired, so\nwhen I heard a rumor about\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Tarrey Town
+      - control:
+          kind: reset_colour
+      - text: "...\n"
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: "I just had to move here. And I'm glad I\ndid!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " My pets seem much happier\nhere, too.\nAnyway, come back and chat with me\nagain sometime."
-  "0004":
-    - text: Your wife?
+      - text: "I just had to move here. And I'm glad I\ndid!"
+      - control:
+          kind: pause
+          length: short
+      - text: " My pets seem much happier\nhere, too.\nAnyway, come back and chat with me\nagain sometime."
   talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "I think I'm going to head to bed soon."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nCome back and chat with me again\ntomorrow."
+      - text: "I think I'm going to head to bed soon."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nCome back and chat with me again\ntomorrow."
   talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "I'm heading to bed... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Please excuse me.
+      - text: "I'm heading to bed... "
+      - control:
+          kind: pause
+          length: short
+      - text: Please excuse me.
   talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Oh, I'm talking about the animals that\nlive behind my house. My wife and I both\nlove animals.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Oh, I'm talking about the animals that\nlive behind my house. My wife and I both\nlove animals.\n"
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 10
-    - text: "The air feels really clean out here, and\nthey seem to love it. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I'm glad we moved\nout here."
-  talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Good morning.
+      - text: "The air feels really clean out here, and\nthey seem to love it. "
+      - control:
+          kind: pause
+          length: short
+      - text: "I'm glad we moved\nout here."
   talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "My wife and I had a son who set out into\nthe world to find his own way.\n\nThe house feels a little empty without\nhim around, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "but at least it's helped me\nand my wife get closer together."
+      - text: "My wife and I had a son who set out into\nthe world to find his own way.\n\nThe house feels a little empty without\nhim around, "
+      - control:
+          kind: pause
+          length: short
+      - text: "but at least it's helped me\nand my wife get closer together."
+  talk15:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 1
+      - text: "My wife? She's probably wandering\naround town right now, I'd imagine.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "She's a really gifted chef. "
+      - control:
+          kind: pause
+          length: short
+      - text: "Her\nmushroom skewer is out of this world!\n\nIf you've got some time, you should\ndefinitely go and talk with her."
+  talk16:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Ask me anything.
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 4
+                - 46
+                - 85
+                - 77
+                - 105
+                - 105
+                - 86
+                - 105
+                - 108
+                - 108
+                - 97
+                - 103
+                - 101
+                - 95
+                - 78
+                - 80
+                - 67
+                - 48
+                - 48
+                - 56
+                - 95
+                - 87
+                - 105
+                - 102
+                - 101
+                - 2
+                - 0
+                - 3
+                - 0
+                - 1
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk17:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: The people living across from us
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nfight "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: night after night
+      - control:
+          kind: reset_colour
+      - text: "...\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: "I sometimes think about sneaking around\nback and listening, "
+      - control:
+          kind: pause
+          length: short
+      - text: "but I also don't want\nto be so nosy..."
+  talk18:
+    attributes: Npc_UMiiVillage008
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "I haven't heard the people across from\nus argue in quite some time...\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: "I believe that every time they tackle an\nobstacle together, their relationship\ngrows stronger."

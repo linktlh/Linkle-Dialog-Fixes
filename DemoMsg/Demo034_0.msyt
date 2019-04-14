@@ -1,471 +1,360 @@
 ---
+group_count: 23
+atr1_unknown: 0
 entries:
-  talk07:
-    - text: "In exchange for "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: four
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Spirit Orbs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ","
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I will\namplify your being. So tell me what it\nis that you desire."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  talk08:
-    - text: I shall grant the power you seek.
-  talk09:
-    - text: I can offer you great power.
-  talk30:
-    - text: Your path has shown itself. Now go forth.
-  talk31:
-    - text: "I, Goddess Hylia,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " will guide you."
   "0000":
-    - text: Heart Container.
-  talk32:
-    - text: "The blue spirit, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Naydra
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", is released.\n\n\nYou must now offer "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Naydra's scale"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " to\nthe spring here."
+    contents:
+      - text: Heart Container.
   "0001":
-    - text: Stamina Vessel.
-  talk20:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n\n\nYou have done well to find this spring."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  talk33:
-    - text: "Linkle... It appears that you have sufficient\npower. You should not seek to increase\nthis any further."
+    contents:
+      - text: Stamina Vessel.
   "0002":
-    - text: Never mind.
+    contents:
+      - text: Never mind.
   "0003":
-    - text: Yes.
-  talk22:
-    - text: "You who has claimed the Spirit Orbs.\n\n\nRid the blue spirit "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Naydra "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "of Malice.\nShow me the power you hold."
+    contents:
+      - text: Yes.
   "0004":
-    - text: No.
-  talk23:
-    - text: "By your power, the blue spirit of\nMount Lanayru, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Naydra
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", has been freed\nof Malice."
-  talk11:
-    - text: "Go, and bring peace to Hyrule..."
-  talk24:
-    - text: "Now, at last, you must pierce the body\nof "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Naydra
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " This final ritual will release\nthe spirit of this land."
-  talk12:
-    - text: "It appears you have claimed "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: four
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Spirit Orbs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+    contents:
+      - text: No.
   talk00:
-    - text: The Goddess Statue smiles upon you...
-  talk13:
-    - text: "It appears you still possess "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Spirit Orbs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+    contents:
+      - text: The Goddess Statue smiles upon you...
   talk01:
-    - text: "You who have conquered the shrines and\nclaimed their "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Spirit Orbs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  talk14:
-    - text: Understood. Which power do you seek?
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  talk27:
-    - text: "Offer "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "Dinraal's scale"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", received from\nthe red spirit, to the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Spring of Power
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+    contents:
+      - text: "You who have conquered the shrines and\nclaimed their "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Spirit Orbs
+      - control:
+          kind: reset_colour
+      - text: "."
   talk02:
-    - text: "But you do not yet have "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "four "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Spirit Orbs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\n\nSeek out the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: shrines
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " scattered across\nHyrule, and face more challenges.\n\nOnce you have claimed "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "four "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Spirit Orbs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ","
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nreturn to me."
-  talk15:
-    - text: "Your life force already tests the seams of\nyour being.\n\nThere is no need to increase your\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Heart Containers
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " further."
-  talk28:
-    - text: "Offer "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "Farosh's scale"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", received from the\ngolden spirit, to the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Spring of Courage
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  talk16:
-    - text: "Your being overflows with vigor.\n\n\nThere is no need to increase your\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Stamina Wheel "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: further.
+    contents:
+      - text: "But you do not yet have "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "four "
+      - control:
+          kind: reset_colour
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Spirit Orbs
+      - control:
+          kind: reset_colour
+      - text: ".\n\n\nSeek out the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: shrines
+      - control:
+          kind: reset_colour
+      - text: " scattered across\nHyrule, and face more challenges.\n\nOnce you have claimed "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "four "
+      - control:
+          kind: reset_colour
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Spirit Orbs
+      - control:
+          kind: reset_colour
+      - text: ","
+      - control:
+          kind: pause
+          length: short
+      - text: "\nreturn to me."
   talk04:
-    - text: "You wish for another "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Heart Container
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nyes?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 3
-            field_3: 4
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  talk17:
-    - text: "You already overflow with life force and\nstamina. Increasing your power any\nfurther may destroy you."
+    contents:
+      - text: "You wish for another "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Heart Container
+      - control:
+          kind: reset_colour
+      - text: ",\nyes?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 4
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   talk05:
-    - text: "You wish to expand your "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Stamina Wheel
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nyes?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 3
-            field_3: 4
-            field_4: 2
-            field_5:
-              - 0
-              - 2
+    contents:
+      - text: "You wish to expand your "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Stamina Wheel
+      - control:
+          kind: reset_colour
+      - text: ",\nyes?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 4
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk07:
+    contents:
+      - text: "In exchange for "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: four
+      - control:
+          kind: reset_colour
+      - text: " "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Spirit Orbs
+      - control:
+          kind: reset_colour
+      - text: ","
+      - control:
+          kind: pause
+          length: short
+      - text: " I will\namplify your being. So tell me what it\nis that you desire."
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk08:
+    contents:
+      - text: I shall grant the power you seek.
+  talk09:
+    contents:
+      - text: I can offer you great power.
+  talk11:
+    contents:
+      - text: "Go, and bring peace to Hyrule..."
+  talk12:
+    contents:
+      - text: "It appears you have claimed "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: four
+      - control:
+          kind: reset_colour
+      - text: "\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Spirit Orbs
+      - control:
+          kind: reset_colour
+      - text: "."
+  talk13:
+    contents:
+      - text: "It appears you still possess "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Spirit Orbs
+      - control:
+          kind: reset_colour
+      - text: "."
+  talk14:
+    contents:
+      - text: Understood. Which power do you seek?
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk15:
+    contents:
+      - text: "Your life force already tests the seams of\nyour being.\n\nThere is no need to increase your\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Heart Containers
+      - control:
+          kind: reset_colour
+      - text: " further."
+  talk16:
+    contents:
+      - text: "Your being overflows with vigor.\n\n\nThere is no need to increase your\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Stamina Wheel "
+      - control:
+          kind: reset_colour
+      - text: further.
+  talk17:
+    contents:
+      - text: "You already overflow with life force and\nstamina. Increasing your power any\nfurther may destroy you."
   talk18:
-    - text: "Increase your "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Heart Containers
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 3
-            field_3: 4
-            field_4: 2
-            field_5:
-              - 0
-              - 2
+    contents:
+      - text: "Increase your "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Heart Containers
+      - control:
+          kind: reset_colour
+      - text: "?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 4
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   talk19:
-    - text: "Expand your "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Stamina Wheel
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 3
-            field_3: 4
-            field_4: 2
-            field_5:
-              - 0
-              - 2
+    contents:
+      - text: "Expand your "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Stamina Wheel
+      - control:
+          kind: reset_colour
+      - text: "?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 4
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk20:
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "..."
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n\nYou have done well to find this spring."
+      - control:
+          kind: pause
+          length: longer
+  talk22:
+    contents:
+      - text: "You who has claimed the Spirit Orbs.\n\n\nRid the blue spirit "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Naydra "
+      - control:
+          kind: reset_colour
+      - text: "of Malice.\nShow me the power you hold."
+  talk23:
+    contents:
+      - text: "By your power, the blue spirit of\nMount Lanayru, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Naydra
+      - control:
+          kind: reset_colour
+      - text: ", has been freed\nof Malice."
+  talk24:
+    contents:
+      - text: "Now, at last, you must pierce the body\nof "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Naydra
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: longer
+      - text: " This final ritual will release\nthe spirit of this land."
+  talk27:
+    contents:
+      - text: "Offer "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Dinraal's scale"
+      - control:
+          kind: reset_colour
+      - text: ", received from\nthe red spirit, to the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Spring of Power
+      - control:
+          kind: reset_colour
+      - text: "."
+  talk28:
+    contents:
+      - text: "Offer "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Farosh's scale"
+      - control:
+          kind: reset_colour
+      - text: ", received from the\ngolden spirit, to the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Spring of Courage
+      - control:
+          kind: reset_colour
+      - text: "."
+  talk30:
+    contents:
+      - text: Your path has shown itself. Now go forth.
+  talk31:
+    contents:
+      - text: "I, Goddess Hylia,"
+      - control:
+          kind: pause
+          length: short
+      - text: " will guide you."
+  talk32:
+    contents:
+      - text: "The blue spirit, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Naydra
+      - control:
+          kind: reset_colour
+      - text: ", is released.\n\n\nYou must now offer "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Naydra's scale"
+      - control:
+          kind: reset_colour
+      - text: " to\nthe spring here."
+  talk33:
+    contents:
+      - text: "Linkle... It appears that you have sufficient\npower. You should not seek to increase\nthis any further."

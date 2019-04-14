@@ -1,186 +1,160 @@
 ---
+group_count: 5
+atr1_unknown: 4
 entries:
-  Talk_61:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "FEEL THE BURN, SISTER!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 1
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: Wanna know how we got here?
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "Pure. Fighting. Spirit.\nThat's how!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
   Talk_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Goron_Camp002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "FEEL THE BURN, BLOOD BRO!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "FEEL THE BURN, BLOOD BRO!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 1
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "If ya cleared my older bro's training...\nyou must be pretty impressive!"
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "If ya cleared my older bro's training...\nyou must be pretty impressive!"
   Talk_50:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Gaman02
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "FEEL THE BURN, SISTER!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "FEEL THE BURN, SISTER!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 1
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "You're the Hylian who has more\nendurance than us Gorons! But are\nya confident in your brute strength?!\nI hope so, because we've prepared the\nperfect chance to show off your skills!\n\nBrother can fill ya in on where it is.\nOnce he does, head there pronto,\nbrother!"
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "You're the Hylian who has more\nendurance than us Gorons! But are\nya confident in your brute strength?!\nI hope so, because we've prepared the\nperfect chance to show off your skills!\n\nBrother can fill ya in on where it is.\nOnce he does, head there pronto,\nbrother!"
   Talk_60:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Gaman02
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "FEEL THE BURN, SISTER!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "FEEL THE BURN, SISTER!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 1
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "I knew you'd come here without beatin'\nthe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Gut Check Challenge
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", so I've been\nlyin' in wait for ya!\nNow then! Stop bein' a tiny coward!\nHurry over to the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Gut Check Challenge
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nand conquer that summit, sister!"
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "I knew you'd come here without beatin'\nthe "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Gut Check Challenge
+      - control:
+          kind: reset_colour
+      - text: ", so I've been\nlyin' in wait for ya!\nNow then! Stop bein' a tiny coward!\nHurry over to the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Gut Check Challenge
+      - control:
+          kind: reset_colour
+      - text: "\nand conquer that summit, sister!"
+  Talk_61:
+    attributes: Npc_Gaman02
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "FEEL THE BURN, SISTER!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 1
+      - control:
+          kind: text_size
+          percent: 100
+      - text: Wanna know how we got here?
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "Pure. Fighting. Spirit.\nThat's how!"
+      - control:
+          kind: text_size
+          percent: 100
   Talk_70:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Gaman02
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "FEEL THE BURN, SISTER!"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "FEEL THE BURN, SISTER!"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 1
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "You are a Goron among Hylians,\nas recognized by the three\nGoron Blood Brothers!\nBut I'm continuing my endurance training\nevery day to make sure I never lose to\nyou again!"
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "You are a Goron among Hylians,\nas recognized by the three\nGoron Blood Brothers!\nBut I'm continuing my endurance training\nevery day to make sure I never lose to\nyou again!"

@@ -1,1429 +1,1259 @@
 ---
+group_count: 37
+atr1_unknown: 4
 entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: Is something wrong?
+  "0001":
+    attributes: ""
+    contents:
+      - text: Good-bye.
+  "0002":
+    attributes: ""
+    contents:
+      - text: Hmm?
+  "0003":
+    attributes: ""
+    contents:
+      - text: "I'll light it for you."
+  "0004":
+    attributes: ""
+    contents:
+      - text: Easily.
+  "0005":
+    attributes: ""
+    contents:
+      - text: I give up.
+  "0006":
+    attributes: ""
+    contents:
+      - text: No way.
+  "0007":
+    attributes: ""
+    contents:
+      - text: The lab?
+  "0008":
+    attributes: ""
+    contents:
+      - text: "I'll do it!"
+  "0009":
+    attributes: ""
+    contents:
+      - text: Horse-handling fee?!
   "0010":
-    - text: If you say so.
-  Greetings_Morning:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "G'morning!"
-  Succeed_Rain:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: You even managed to light it in the rain?!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThat deserves a little something extra!"
-  CantPlay_LanternOn_BeforeTalk:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - text: If you say so.
+  Ask:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
             - 6
-            - 18
-    - text: "*sigh...* Good old "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: blue flame
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " It's so\nsoothing to stare at, don't you think?"
-  Goodbye_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "You're not thinking of quitting, are you?"
+      - control:
+          kind: choice
+          choice_labels:
             - 3
+            - 5
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  BeforeStart_00:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound2
+          unknown:
             - 1
-    - text: "Well, thanks anyway."
-  CantPlay_Weather_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "You can try anyway, but the reward is\nstill the same "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: 20 rupees
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 8
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  NotAccept_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+            - 205
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: Good-bye.
-  Explanation_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 21
-    - text: "You? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Hmm...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " That's one possibility,\nI guess."
+      - text: "Alrighty... "
+      - control:
+          kind: pause
+          length: short
+      - text: On your mark...
+      - control:
+          kind: pause
+          length: short
+      - text: "get set... "
+  BeforeStart_01:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: text_size
+          percent: 125
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Three...
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: Two...
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: One...
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 1
+      - text: Go!
+      - control:
+          kind: text_size
+          percent: 100
+  BeforeStart_02:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "See, I'll say that, and then you'll start."
   CantPlay_End:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 1
-    - text: "Don't put it out!"
-  NotAccept_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: I see...
-  Explanation_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "How fast can you do it? Do you think\nyou can bring the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "blue flame "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "to this\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "lantern "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "in under "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: three minutes
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 6
-            field_4:
-              - 0
-              - 1
-  Please_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Remember—
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "three minutes "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: or less!
+      - text: "Don't put it out!"
   CantPlay_End_00:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 3
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: set_colour
+          colour: grey
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 1
-    - text: I told you not to put it out...
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+      - text: I told you not to put it out...
+      - control:
+          kind: reset_colour
+      - control:
+          kind: text_size
+          percent: 100
+  CantPlay_LanternOn_AfterTalk:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: "Is there anything in all the world\nas pretty as the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: blue flame
+      - control:
+          kind: reset_colour
+      - text: "?"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nI'm thinking..."
+      - control:
+          kind: pause
+          length: short
+      - text: no.
+  CantPlay_LanternOn_BeforeTalk:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 18
+      - text: "*sigh...* Good old "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: blue flame
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: longer
+      - text: " It's so\nsoothing to stare at, don't you think?"
+  CantPlay_Weather:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "The weather's pretty lousy, though,\nso maybe not."
+  CantPlay_Weather_00:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "You can try anyway, but the reward is\nstill the same "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 20 rupees
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 8
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Explanation_00:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 21
+      - text: "You? "
+      - control:
+          kind: pause
+          length: short
+      - text: Hmm...
+      - control:
+          kind: pause
+          length: longer
+      - text: " That's one possibility,\nI guess."
+  Explanation_01:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "How fast can you do it? Do you think\nyou can bring the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "blue flame "
+      - control:
+          kind: reset_colour
+      - text: "to this\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "lantern "
+      - control:
+          kind: reset_colour
+      - text: "in under "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: three minutes
+      - control:
+          kind: reset_colour
+      - text: "?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 6
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   Explanation_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "How fast can you do it? Do you think\nyou can bring the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "blue flame "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "to this\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "lantern "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "in under "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: one minute
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 6
-            field_4:
-              - 0
-              - 1
-  Please_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Remember—
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "one minute "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: or less!
+      - text: "How fast can you do it? Do you think\nyou can bring the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "blue flame "
+      - control:
+          kind: reset_colour
+      - text: "to this\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "lantern "
+      - control:
+          kind: reset_colour
+      - text: "in under "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: one minute
+      - control:
+          kind: reset_colour
+      - text: "?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 6
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   Explanation_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "How fast can you do it? Do you think\nyou can bring the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "blue flame "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "to this\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "lantern "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "in under "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: 20 seconds
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 6
-            field_4:
-              - 0
-              - 1
-  Please_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "How fast can you do it? Do you think\nyou can bring the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "blue flame "
+      - control:
+          kind: reset_colour
+      - text: "to this\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "lantern "
+      - control:
+          kind: reset_colour
+      - text: "in under "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 20 seconds
+      - control:
+          kind: reset_colour
+      - text: "?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 6
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Explanation_04:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 1
+      - text: Great!
+      - control:
+          kind: pause
+          length: short
+      - text: " But I'll be taking "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "20 rupees "
+      - control:
+          kind: reset_colour
+      - text: "as a\nhorse-handling fee."
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 9
+              field_3:
+                - 1
+                - 205
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: Remember—
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "20 seconds "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: or less!
+      - text: "Well, you're going to use a horse, right?"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nI don't see any other way to do it that\nfast."
+      - control:
+          kind: pause
+          length: short
+      - text: " So yeah, "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 20 rupees
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 10
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Explanation_05:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 1
+      - text: Great!
+      - control:
+          kind: pause
+          length: short
+      - text: " But I'll be taking "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "20 rupees "
+      - control:
+          kind: reset_colour
+      - text: "as a\nhorse-handling fee."
+      - control:
+          kind: choice
+          choice_labels:
+            - 10
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Explanation_06:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "You won't regret it!"
+  Explanation_07:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: "Unless I'm counting wrong..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "this isn't\nenough rupees. "
+      - control:
+          kind: pause
+          length: long
+      - text: "Come back when you've\nsaved up at least "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 20 rupees
+      - control:
+          kind: reset_colour
+      - text: "."
+  Explanation_08:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 11
+      - text: Thank you!
+  Fail:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 12
+      - text: "You failed... "
+      - control:
+          kind: pause
+          length: short
+      - text: "Why'd you go and get my\nhopes up?"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: "I hope you'll try again sometime."
+      - control:
+          kind: pause
+          length: short
+      - text: " Come\ntalk to me when the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "blue flame "
+      - control:
+          kind: reset_colour
+      - text: "isn't lit."
   Fail02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 12
-    - text: "Of course, if the rain hits it, it's bye-bye\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: blue flame
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Of course, if the rain hits it, it's bye-bye\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: blue flame
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "You'll never get it here in this weather."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nWait for it to clear up, and then give it\nanother try."
-  Talk_AfterMiniGameClear:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "The "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "blue flame "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: went out...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nCan you light it again?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  Explanation_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 1
-    - text: Great!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " But I'll be taking "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "20 rupees "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "as a\nhorse-handling fee."
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 9
-            field_3:
-              - 1
-              - 205
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Well, you're going to use a horse, right?"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nI don't see any other way to do it that\nfast."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " So yeah, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: 20 rupees
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 10
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  Talk_BeforeMiniGameClear:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "Will I ever get to see that wondrous\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "blue flame "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "in its "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "lantern "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: again?
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
-                - 0
-                - 0
-            field_1:
-              - 3
-              - 50
-              - 77
-              - 105
-              - 110
-              - 105
-              - 71
-              - 97
-              - 109
-              - 101
-              - 95
-              - 75
-              - 105
-              - 116
-              - 97
-              - 107
-              - 107
-              - 97
-              - 114
-              - 101
-              - 66
-              - 70
-              - 95
-              - 70
-              - 105
-              - 114
-              - 101
-              - 7
-              - 52
-              - 72
-              - 97
-              - 116
-              - 101
-              - 110
-              - 111
-              - 77
-              - 105
-              - 110
-              - 105
-              - 95
-              - 66
-              - 108
-              - 117
-              - 101
-              - 70
-              - 105
-              - 114
-              - 101
-              - 95
-              - 70
-              - 105
-              - 110
-              - 105
-              - 115
-              - 104
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  Explanation_05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 1
-    - text: Great!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " But I'll be taking "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "20 rupees "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "as a\nhorse-handling fee."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 10
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  Goodbye:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "I'll see you later!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Bye!"
-  Explanation_06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "You won't regret it!"
-  "0000":
-    - text: Is something wrong?
-  Explanation_07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 1
-    - text: "Unless I'm counting wrong..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "this isn't\nenough rupees. "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "Come back when you've\nsaved up at least "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: 20 rupees
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  BeforeStart_00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 1
-              - 205
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Alrighty... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: On your mark...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "get set... "
-  "0001":
-    - text: Good-bye.
-  Explanation_08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 11
-    - text: Thank you!
-  BeforeStart_01:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Three...
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: Two...
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: One...
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 1
-    - text: Go!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  Near_LanternOn:
-    - text: Tum te dum...
-  "0002":
-    - text: Hmm?
-  BeforeStart_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "See, I'll say that, and then you'll start."
-  "0003":
-    - text: "I'll light it for you."
-  "0004":
-    - text: Easily.
-  CantPlay_LanternOn_AfterTalk:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: "Is there anything in all the world\nas pretty as the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: blue flame
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nI'm thinking..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: no.
-  "0005":
-    - text: I give up.
-  Succeed_First:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 10
-    - text: Unbelievable!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " It's back! The "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: blue flame
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nis really back!"
-  "0006":
-    - text: No way.
-  "0007":
-    - text: The lab?
-  Greetings_Again:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Hi, hi!"
+      - text: "You'll never get it here in this weather."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nWait for it to clear up, and then give it\nanother try."
   FirstTalk_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 0
-    - text: "*sigh...*"
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 0
-            field_3:
-              - 1
-              - 205
-  "0008":
-    - text: "I'll do it!"
+      - text: "*sigh...*"
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 0
+              field_3:
+                - 1
+                - 205
   FirstTalk_01:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 3
-    - text: "The "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: blue flame
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 3
-    - text: "..."
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 2
-            field_3:
-              - 1
-              - 205
-  "0009":
-    - text: Horse-handling fee?!
+      - control:
+          kind: set_colour
+          colour: grey
+      - text: "The "
+      - control:
+          kind: reset_colour
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: blue flame
+      - control:
+          kind: reset_colour
+      - control:
+          kind: set_colour
+          colour: grey
+      - text: "..."
+      - control:
+          kind: reset_colour
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 2
+              field_3:
+                - 1
+                - 205
   FirstTalk_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 19
-    - text: "Oh, sorry! Guess I was daydreaming."
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Oh, sorry! Guess I was daydreaming."
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 1
-    - text: "Life has been so dull since I married into\nthis family."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " I used to pass the time by\nstaring at the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: lantern
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "'s "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: blue flame
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "...\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Life has been so dull since I married into\nthis family."
+      - control:
+          kind: pause
+          length: long
+      - text: " I used to pass the time by\nstaring at the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: lantern
+      - control:
+          kind: reset_colour
+      - text: "'s "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: blue flame
+      - control:
+          kind: reset_colour
+      - text: "...\n"
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 0
-    - text: "But the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "director "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "at the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Akkala Ancient Tech Lab
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "hasn't\nlit the fire in so long."
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
+      - text: "But the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "director "
+      - control:
+          kind: reset_colour
+      - text: "at the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Akkala Ancient Tech Lab
+      - control:
+          kind: reset_colour
+      - text: " "
+      - control:
+          kind: pause
+          length: short
+      - text: "hasn't\nlit the fire in so long."
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
+                - 3
+                - 50
+                - 77
+                - 105
+                - 110
+                - 105
+                - 71
+                - 97
+                - 109
+                - 101
+                - 95
+                - 75
+                - 105
+                - 116
+                - 97
+                - 107
+                - 107
+                - 97
+                - 114
+                - 101
+                - 66
+                - 70
+                - 95
+                - 70
+                - 105
+                - 114
+                - 101
+                - 7
+                - 52
+                - 72
+                - 97
+                - 116
+                - 101
+                - 110
+                - 111
+                - 77
+                - 105
+                - 110
+                - 105
+                - 95
+                - 66
+                - 108
+                - 117
+                - 101
+                - 70
+                - 105
+                - 114
+                - 101
+                - 95
+                - 70
+                - 105
+                - 110
+                - 105
+                - 115
+                - 104
+                - 1
+              field_2:
                 - 0
                 - 0
-            field_1:
-              - 3
-              - 50
-              - 77
-              - 105
-              - 110
-              - 105
-              - 71
-              - 97
-              - 109
-              - 101
-              - 95
-              - 75
-              - 105
-              - 116
-              - 97
-              - 107
-              - 107
-              - 97
-              - 114
-              - 101
-              - 66
-              - 70
-              - 95
-              - 70
-              - 105
-              - 114
-              - 101
-              - 7
-              - 52
-              - 72
-              - 97
-              - 116
-              - 101
-              - 110
-              - 111
-              - 77
-              - 105
-              - 110
-              - 105
-              - 95
-              - 66
-              - 108
-              - 117
-              - 101
-              - 70
-              - 105
-              - 114
-              - 101
-              - 95
-              - 70
-              - 105
-              - 110
-              - 105
-              - 115
-              - 104
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  Near_Game:
-    - text: So excited!
+                - 0
+                - 3
   FirstTalk_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "What's wrong with the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: director
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "What's wrong with the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: director
+      - control:
+          kind: reset_colour
+      - text: "?"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 0
-    - text: "Why won't he light the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "lanterns "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "with\nthat beautiful "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "blue flame "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: again?
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
+      - text: "Why won't he light the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "lanterns "
+      - control:
+          kind: reset_colour
+      - text: "with\nthat beautiful "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "blue flame "
+      - control:
+          kind: reset_colour
+      - text: again?
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
+                - 3
+                - 50
+                - 77
+                - 105
+                - 110
+                - 105
+                - 71
+                - 97
+                - 109
+                - 101
+                - 95
+                - 75
+                - 105
+                - 116
+                - 97
+                - 107
+                - 107
+                - 97
+                - 114
+                - 101
+                - 66
+                - 70
+                - 95
+                - 70
+                - 105
+                - 114
+                - 101
+                - 7
+                - 52
+                - 72
+                - 97
+                - 116
+                - 101
+                - 110
+                - 111
+                - 77
+                - 105
+                - 110
+                - 105
+                - 95
+                - 66
+                - 108
+                - 117
+                - 101
+                - 70
+                - 105
+                - 114
+                - 101
+                - 95
+                - 70
+                - 105
+                - 110
+                - 105
+                - 115
+                - 104
+                - 1
+              field_2:
                 - 0
                 - 0
-            field_1:
-              - 3
-              - 50
-              - 77
-              - 105
-              - 110
-              - 105
-              - 71
-              - 97
-              - 109
-              - 101
-              - 95
-              - 75
-              - 105
-              - 116
-              - 97
-              - 107
-              - 107
-              - 97
-              - 114
-              - 101
-              - 66
-              - 70
-              - 95
-              - 70
-              - 105
-              - 114
-              - 101
-              - 7
-              - 52
-              - 72
-              - 97
-              - 116
-              - 101
-              - 110
-              - 111
-              - 77
-              - 105
-              - 110
-              - 105
-              - 95
-              - 66
-              - 108
-              - 117
-              - 101
-              - 70
-              - 105
-              - 114
-              - 101
-              - 95
-              - 70
-              - 105
-              - 110
-              - 105
-              - 115
-              - 104
-              - 1
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  Near_LanternOff:
-    - text: "*sigh*"
+                - 0
+                - 3
   FirstTalk_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "Yes... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Its "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: director
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " used to light the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "lanterns "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "with a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: blue flame
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " for his"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nexperiments.\nBut he's getting up there in age now,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nso maybe he can't get out as often as\nhe used to."
-  Ask:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 6
-    - text: "You're not thinking of quitting, are you?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 3
-            field_3: 5
-            field_4:
-              - 0
-              - 2
+      - text: "Yes... "
+      - control:
+          kind: pause
+          length: short
+      - text: "Its "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: director
+      - control:
+          kind: reset_colour
+      - text: " used to light the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "lanterns "
+      - control:
+          kind: reset_colour
+      - text: "with a "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: blue flame
+      - control:
+          kind: reset_colour
+      - text: " for his"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nexperiments.\nBut he's getting up there in age now,"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nso maybe he can't get out as often as\nhe used to."
   FirstTalk_05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "I'm talking about the \n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Akkala Ancient Tech Lab "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: right
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nup this road, if you haven't been."
+      - text: "I'm talking about the \n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Akkala Ancient Tech Lab "
+      - control:
+          kind: reset_colour
+      - text: right
+      - control:
+          kind: pause
+          length: short
+      - text: "\nup this road, if you haven't been."
   FirstTalk_06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "They remodeled it from an old\nlighthouse, so it's easy to spot."
-  Fail:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 12
-    - text: "You failed... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Why'd you go and get my\nhopes up?"
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
+      - text: "They remodeled it from an old\nlighthouse, so it's easy to spot."
+  Goodbye:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
             - 1
-    - text: "I hope you'll try again sometime."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Come\ntalk to me when the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "blue flame "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "isn't lit."
+      - text: "I'll see you later!"
+      - control:
+          kind: pause
+          length: longer
+      - text: " Bye!"
+  Goodbye_01:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 1
+      - text: "Well, thanks anyway."
   Greetings_AboutNoon:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Hello!
+      - text: Hello!
+  Greetings_Again:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Hi, hi!"
+  Greetings_Morning:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "G'morning!"
   Greetings_Night:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Evening!
+      - text: Evening!
+  Near_Game:
+    attributes: Npc_TamourHatago001
+    contents:
+      - text: So excited!
+  Near_LanternOff:
+    attributes: Npc_TamourHatago001
+    contents:
+      - text: "*sigh*"
+  Near_LanternOn:
+    attributes: Npc_TamourHatago001
+    contents:
+      - text: Tum te dum...
+  NotAccept_00:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Good-bye.
+  NotAccept_01:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: I see...
+  Please_00:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Remember—
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "three minutes "
+      - control:
+          kind: reset_colour
+      - text: or less!
+  Please_01:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Remember—
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "one minute "
+      - control:
+          kind: reset_colour
+      - text: or less!
+  Please_02:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Remember—
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "20 seconds "
+      - control:
+          kind: reset_colour
+      - text: or less!
   Restart:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 9
-    - text: You can do it! I know you can!
-  CantPlay_Weather:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "The weather's pretty lousy, though,\nso maybe not."
+      - text: You can do it! I know you can!
   Reward:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "I really ought to do something to thank\nyou, huh?"
+      - text: "I really ought to do something to thank\nyou, huh?"
+  Succeed_First:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 10
+      - text: Unbelievable!
+      - control:
+          kind: pause
+          length: longer
+      - text: " It's back! The "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: blue flame
+      - control:
+          kind: reset_colour
+      - text: "\nis really back!"
+  Succeed_Rain:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: You even managed to light it in the rain?!
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThat deserves a little something extra!"
+  Talk_AfterMiniGameClear:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - control:
+          kind: reset_colour
+      - text: "The "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "blue flame "
+      - control:
+          kind: reset_colour
+      - text: went out...
+      - control:
+          kind: pause
+          length: short
+      - text: "\nCan you light it again?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk_BeforeMiniGameClear:
+    attributes: Npc_TamourHatago001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "Will I ever get to see that wondrous\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "blue flame "
+      - control:
+          kind: reset_colour
+      - text: "in its "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "lantern "
+      - control:
+          kind: reset_colour
+      - text: again?
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
+                - 3
+                - 50
+                - 77
+                - 105
+                - 110
+                - 105
+                - 71
+                - 97
+                - 109
+                - 101
+                - 95
+                - 75
+                - 105
+                - 116
+                - 97
+                - 107
+                - 107
+                - 97
+                - 114
+                - 101
+                - 66
+                - 70
+                - 95
+                - 70
+                - 105
+                - 114
+                - 101
+                - 7
+                - 52
+                - 72
+                - 97
+                - 116
+                - 101
+                - 110
+                - 111
+                - 77
+                - 105
+                - 110
+                - 105
+                - 95
+                - 66
+                - 108
+                - 117
+                - 101
+                - 70
+                - 105
+                - 114
+                - 101
+                - 95
+                - 70
+                - 105
+                - 110
+                - 105
+                - 115
+                - 104
+                - 1
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3

@@ -1,20 +1,20 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
-  QL_My_Hero_Finish:
-    - text: "Aliza was waiting for the hero's return around a\nstable at the plain's edge. When I showed\nher the Master Sword, she acknowledged me\nas the one she had been waiting for."
-  QL_My_Hero_Name:
-    - text: My Hero
   QL_My_Hero_Desc:
-    - text: "Aliza waits for the hero's return around a stable\nat the edge of the plain. She says that she'll\nknow them by the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "sword of legend "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: they carry.
+    contents:
+      - text: "Aliza waits for the hero's return around a stable\nat the edge of the plain. She says that she'll\nknow them by the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "sword of legend "
+      - control:
+          kind: reset_colour
+      - text: they carry.
+  QL_My_Hero_Finish:
+    contents:
+      - text: "Aliza was waiting for the hero's return around a\nstable at the plain's edge. When I showed\nher the Master Sword, she acknowledged me\nas the one she had been waiting for."
+  QL_My_Hero_Name:
+    contents:
+      - text: My Hero

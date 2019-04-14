@@ -1,42 +1,64 @@
 ---
+group_count: 41
+atr1_unknown: 0
 entries:
-  Pa_HaveNum_00-T_Guide_01:
-    - text: Add
-  Pa_HaveNum_00-T_Guide_02:
-    - text: Return to game
   "0000":
-    - text: Hold
+    contents:
+      - text: Hold
   "0001":
-    - text: Stop holding
+    contents:
+      - text: Stop holding
   "0002":
-    - text: Select
+    contents:
+      - text: Select
   "0003":
-    - text: Select
+    contents:
+      - text: Select
   "0004":
-    - text: Back
+    contents:
+      - text: Back
   "0005":
-    - text: Sort
+    contents:
+      - text: Sort
   "0006":
-    - text: Rotate
+    contents:
+      - text: Rotate
   "0008":
-    - text: Return
+    contents:
+      - text: Return
   "0009":
-    - text: Rotate
-  Pa_HaveNum_00-T_Text_00:
-    - text: Can hold
-  Pa_Gear_00-Pa_Param_06-T_MaxText_00:
-    - text: Full recovery
+    contents:
+      - text: Rotate
   "0010":
-    - text: "Active again in:"
+    contents:
+      - text: "Active again in:"
   "0011":
-    - text: "Master Sword recharged in:"
+    contents:
+      - text: "Master Sword recharged in:"
   "0012":
-    - text: Adventure Log
+    contents:
+      - text: Adventure Log
   "0013":
-    - text: System
-  Pa_SetBonus_00-T_SetBonus_00:
-    - text: Set Bonus
+    contents:
+      - text: System
   "0014":
-    - text: Inventory
+    contents:
+      - text: Inventory
   "0015":
-    - text: Set destination
+    contents:
+      - text: Set destination
+  Pa_Gear_00-Pa_Param_06-T_MaxText_00:
+    contents:
+      - text: Full recovery
+  Pa_HaveNum_00-T_Guide_01:
+    contents:
+      - text: Add
+  Pa_HaveNum_00-T_Guide_02:
+    contents:
+      - text: Return to game
+  Pa_HaveNum_00-T_Text_00:
+    contents:
+      - text: Can hold
+  Pa_SetBonus_00-T_SetBonus_00:
+    contents:
+      - text: Set Bonus

@@ -1,12 +1,19 @@
 ---
+group_count: 5
+atr1_unknown: 0
 entries:
-  Pa_Btn_02-T_Btn_00:
-    - text: Quit
   "0000":
-    - text: Continue from last save.
-  Pa_Btn_00-T_Btn_00:
-    - text: Continue
+    contents:
+      - text: Continue from last save.
   "0001":
-    - text: Return to title screen.
+    contents:
+      - text: Return to title screen.
+  Pa_Btn_00-T_Btn_00:
+    contents:
+      - text: Continue
+  Pa_Btn_02-T_Btn_00:
+    contents:
+      - text: Quit
   T_GameOver_00:
-    - text: Game Over
+    contents:
+      - text: Game Over

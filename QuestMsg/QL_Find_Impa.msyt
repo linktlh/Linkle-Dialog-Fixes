@@ -1,44 +1,34 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
-  QL_Find_Impa_Finish:
-    - text: "Impa, the chief of Kakariko Village, relayed the\ntale of what happened 100 years ago, as well\nas the mission entrusted to me by Princess\nZelda to "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: free the four Divine Beasts
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\nBut first, it seems that my Sheikah Slate\nis incomplete. Having it fixed at the\nHateno Ancient Tech Lab in "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Hateno Village
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nmay provide more clues to my mission."
-  QL_Find_Impa_Name:
-    - text: Seek Out Impa
   QL_Find_Impa_Desc:
-    - text: "I was tasked with going to Kakariko Village\nto speak with "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Impa
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", who will give me more\ndetails on my quest.\n\nDescending from the Great Plateau, I'm to head\neast beyond the Dueling Peaks, then follow\nthe road to the north. The blinking dot on my\nSheikah Slate's map will guide the way."
+    contents:
+      - text: "I was tasked with going to Kakariko Village\nto speak with "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Impa
+      - control:
+          kind: reset_colour
+      - text: ", who will give me more\ndetails on my quest.\n\nDescending from the Great Plateau, I'm to head\neast beyond the Dueling Peaks, then follow\nthe road to the north. The blinking dot on my\nSheikah Slate's map will guide the way."
+  QL_Find_Impa_Finish:
+    contents:
+      - text: "Impa, the chief of Kakariko Village, relayed the\ntale of what happened 100 years ago, as well\nas the mission entrusted to me by Princess\nZelda to "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: free the four Divine Beasts
+      - control:
+          kind: reset_colour
+      - text: ".\n\nBut first, it seems that my Sheikah Slate\nis incomplete. Having it fixed at the\nHateno Ancient Tech Lab in "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Hateno Village
+      - control:
+          kind: reset_colour
+      - text: "\nmay provide more clues to my mission."
+  QL_Find_Impa_Name:
+    contents:
+      - text: Seek Out Impa

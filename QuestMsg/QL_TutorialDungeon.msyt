@@ -1,11 +1,22 @@
 ---
+group_count: 7
+atr1_unknown: 0
 entries:
-  QL_TutorialDungeon_GuardJustWarning: []
-  QL_TutorialDungeon_SpinAttack: []
-  QL_TutorialDungeon_GuardJust: []
-  QL_TutorialDungeon_SideStep: []
-  QL_TutorialDungeon_SideStepWarning: []
-  QL_TutorialDungeon_Finish: []
-  QL_TutorialDungeon_BackStepWarning: []
-  QL_TutorialDungeon_BackStep: []
-  QL_TutorialDungeon_SpinAttackWarning: []
+  QL_TutorialDungeon_BackStep:
+    contents: []
+  QL_TutorialDungeon_BackStepWarning:
+    contents: []
+  QL_TutorialDungeon_Finish:
+    contents: []
+  QL_TutorialDungeon_GuardJust:
+    contents: []
+  QL_TutorialDungeon_GuardJustWarning:
+    contents: []
+  QL_TutorialDungeon_SideStep:
+    contents: []
+  QL_TutorialDungeon_SideStepWarning:
+    contents: []
+  QL_TutorialDungeon_SpinAttack:
+    contents: []
+  QL_TutorialDungeon_SpinAttackWarning:
+    contents: []

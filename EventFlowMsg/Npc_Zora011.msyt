@@ -1,1062 +1,995 @@
 ---
+group_count: 29
+atr1_unknown: 4
 entries:
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: See ya!
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "My dad, Fronk, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "is Dento's apprentice!\n\n\nHe fixes up places around the domain..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nIt's super cool!"
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 16
-    - text: "I'm busy frogging!"
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 5
-            field_3:
-              - 1
-              - 205
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 18
-    - text: Yep!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Since Mom hasn't come back from\nfishing yet...\n\nI've been catching "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: hot-footed frogs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\n"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "and selling them to earn some money\nfor our family.\n...\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 6
-    - text: "You...were just pitying me, weren't you?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nYou felt sorry for me...didn't you?!\n\nWell, I don't need your pity! If you wanna\nhelp, donate some "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: hot-footed frogs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nYou can find them easily on rainy days.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "I...really need you to get some for me.\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Five frogs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " should be enough!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Got it?"
-  talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "OK, I'm gonna go ahead and count them!"
-  talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "So I'm catching frogs and selling them\nto earn money for our family! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Just until\nMom comes home."
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 5
-            field_3:
-              - 1
-              - 205
-  talk21:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 20
-    - text: "What? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Really?!
-  talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 19
-    - text: "What the... Huh?!\n\n\nYou don't have ANY? None at all?"
-  talk23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - text: One...
-  talk24:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - text: "One, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: two...
-  talk25:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "One, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "two, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: three...
+  "0000":
+    attributes: ""
+    contents:
+      - text: "I'm a Hylian!"
+  "0002":
+    attributes: ""
+    contents:
+      - text: What about your mom?
+  "0003":
+    attributes: ""
+    contents:
+      - text: Good-bye.
+  "0004":
+    attributes: ""
+    contents:
+      - text: "Who's your dad?"
+  "0005":
+    attributes: ""
+    contents:
+      - text: Frogging?
+  "0006":
+    attributes: ""
+    contents:
+      - text: Have some frogs.
   near00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 10
-    - text: Waaa ha ha ha!
-  talk26:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "One, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "two, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "three, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: four...
+      - text: Waaa ha ha ha!
   near01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 26
-    - text: ♪Hmm hm hmmm.♪
-  talk27:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 11
-    - text: "One, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "two, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "three, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: four...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "FIVE!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 10
-    - text: Wow!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " You really brought them!\n\n\nHere, take this as thanks!"
-  talk28:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 6
-    - text: "Huh?! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Miss, you only have"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type15:
-            field_1: 44
-            string: Npc_Zora011_HaveFrog
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: hot-footed frogs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
+      - text: ♪Hmm hm hmmm.♪
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 2
-    - text: What is it?!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Oh! Hey, lady!"
-  "0000":
-    - text: "I'm a Hylian!"
+      - text: What is it?!
+      - control:
+          kind: pause
+          length: longer
+      - text: " Oh! Hey, lady!"
   talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 2
-    - text: "Heya, lady!"
-  talk30:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "On "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: rainy days
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " like today,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " the frogs come\nout in swarms. Now's my chance!"
+      - text: "Heya, lady!"
   talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 6
-    - text: "You've got a weird face!"
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 0
-            field_3:
-              - 1
-              - 205
-  talk31:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "OK! When you get "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: five
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: hot-footed frogs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ","
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\ncome back here and give them to me!"
-  "0002":
-    - text: What about your mom?
+      - text: "You've got a weird face!"
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 0
+              field_3:
+                - 1
+                - 205
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 34
-    - text: "So sleepy... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: I should go to bed...
-  talk32:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 18
-    - text: "On "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: sunny days
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " like today,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " those frogs\ndon't really come out much..."
-  "0003":
-    - text: Good-bye.
+      - text: "So sleepy... "
+      - control:
+          kind: pause
+          length: short
+      - text: I should go to bed...
   talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 33
-    - text: Zzz... Zzz...
-  talk33:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 6
-    - text: "Well... I wanted to give you something,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nbut you can't carry any more "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: armoranth
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\ncan you?\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 1
-    - text: "If you make room for more "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: armoranth
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ","
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\ncome back and see me!"
-  "0004":
-    - text: "Who's your dad?"
+      - text: Zzz... Zzz...
   talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - text: "I'm heading to where Dad is,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " but if\nyou're thinking of coming with me,\nyou should know it's a boring place."
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 6
-              - 38
-              - 78
-              - 112
-              - 99
-              - 95
-              - 90
-              - 111
-              - 114
-              - 97
-              - 48
-              - 49
-              - 49
-              - 95
-              - 71
-              - 111
-              - 116
-              - 70
-              - 114
-              - 111
-              - 103
-              - 4
-              - 36
-              - 78
-              - 112
-              - 99
-              - 95
-              - 90
-              - 111
-              - 114
-              - 97
-              - 48
-              - 49
-              - 49
-              - 95
-              - 70
-              - 97
-              - 116
-              - 104
-              - 101
-              - 114
-              - 2
-              - 0
-              - 3
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  talk34:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "This is called "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: armoranth
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n\n\nI picked it because it's unusual,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nbut it doesn't really suit me...\nso it's all yours!"
-  "0005":
-    - text: Frogging?
+      - text: "I'm heading to where Dad is,"
+      - control:
+          kind: pause
+          length: short
+      - text: " but if\nyou're thinking of coming with me,\nyou should know it's a boring place."
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 6
+                - 38
+                - 78
+                - 112
+                - 99
+                - 95
+                - 90
+                - 111
+                - 114
+                - 97
+                - 48
+                - 49
+                - 49
+                - 95
+                - 71
+                - 111
+                - 116
+                - 70
+                - 114
+                - 111
+                - 103
+                - 4
+                - 36
+                - 78
+                - 112
+                - 99
+                - 95
+                - 90
+                - 111
+                - 114
+                - 97
+                - 48
+                - 49
+                - 49
+                - 95
+                - 70
+                - 97
+                - 116
+                - 104
+                - 101
+                - 114
+                - 2
+                - 0
+                - 3
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - text: "You can hang out with me if you want,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nbut you'll probably be bored to tears!"
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 6
-              - 38
-              - 78
-              - 112
-              - 99
-              - 95
-              - 90
-              - 111
-              - 114
-              - 97
-              - 48
-              - 49
-              - 49
-              - 95
-              - 71
-              - 111
-              - 116
-              - 70
-              - 114
-              - 111
-              - 103
-              - 4
-              - 36
-              - 78
-              - 112
-              - 99
-              - 95
-              - 90
-              - 111
-              - 114
-              - 97
-              - 48
-              - 49
-              - 49
-              - 95
-              - 70
-              - 97
-              - 116
-              - 104
-              - 101
-              - 114
-              - 2
-              - 0
-              - 3
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  talk35:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "My mom, Mei, sells the fish she catches\nat the general store!\n\nHer fish are always super fresh..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nYeah! They're amazing!"
-  "0006":
-    - text: Have some frogs.
+      - text: "You can hang out with me if you want,"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nbut you'll probably be bored to tears!"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 6
+                - 38
+                - 78
+                - 112
+                - 99
+                - 95
+                - 90
+                - 111
+                - 114
+                - 97
+                - 48
+                - 49
+                - 49
+                - 95
+                - 71
+                - 111
+                - 116
+                - 70
+                - 114
+                - 111
+                - 103
+                - 4
+                - 36
+                - 78
+                - 112
+                - 99
+                - 95
+                - 90
+                - 111
+                - 114
+                - 97
+                - 48
+                - 49
+                - 49
+                - 95
+                - 70
+                - 97
+                - 116
+                - 104
+                - 101
+                - 114
+                - 2
+                - 0
+                - 3
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
   talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 20
-    - text: Hy...leon?
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Never met one of\nthose before!"
-  talk36:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 6
-    - text: Do Hy-leons eat fish?
+      - text: Hy...leon?
+      - control:
+          kind: pause
+          length: longer
+      - text: " Never met one of\nthose before!"
   talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 16
-    - text: "If you're a Hy-leon,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " that means you came\nfrom really far away, right?!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "If you're a Hy-leon,"
+      - control:
+          kind: pause
+          length: short
+      - text: " that means you came\nfrom really far away, right?!\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "You didn't happen to see my mom, Mei,\non the way here, did you?\n\nEver since the water monster went crazy,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nMom hasn't come home...\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "You didn't happen to see my mom, Mei,\non the way here, did you?\n\nEver since the water monster went crazy,"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nMom hasn't come home...\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 4
-    - text: "But, I mean, I bet she'll come home\nsooner or later... Hopefully sooner."
-  talk37:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "The fish my mom caught are being sold\nat the general store, so go have a look!"
-  talk38:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 6
-    - text: "Speaking of which, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "do Hy-leons have any\nuse for frogs?\n\nIf you don't need your "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: hot-footed frogs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nwhy not donate them to me?!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Five frogs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nshould do the trick!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Got it?"
-  talk39:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 11
-    - text: "Thanks for those "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: hot-footed frogs
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nSee ya!"
+      - text: "But, I mean, I bet she'll come home\nsooner or later... Hopefully sooner."
   talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 14
-    - text: "I'm busy!"
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 6
-              - 38
-              - 78
-              - 112
-              - 99
-              - 95
-              - 90
-              - 111
-              - 114
-              - 97
-              - 48
-              - 49
-              - 49
-              - 95
-              - 71
-              - 111
-              - 116
-              - 70
-              - 114
-              - 111
-              - 103
-              - 4
-              - 36
-              - 78
-              - 112
-              - 99
-              - 95
-              - 90
-              - 111
-              - 114
-              - 97
-              - 48
-              - 49
-              - 49
-              - 95
-              - 70
-              - 97
-              - 116
-              - 104
-              - 101
-              - 114
-              - 2
-              - 0
-              - 3
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
+      - text: "I'm busy!"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 6
+                - 38
+                - 78
+                - 112
+                - 99
+                - 95
+                - 90
+                - 111
+                - 114
+                - 97
+                - 48
+                - 49
+                - 49
+                - 95
+                - 71
+                - 111
+                - 116
+                - 70
+                - 114
+                - 111
+                - 103
+                - 4
+                - 36
+                - 78
+                - 112
+                - 99
+                - 95
+                - 90
+                - 111
+                - 114
+                - 97
+                - 48
+                - 49
+                - 49
+                - 95
+                - 70
+                - 97
+                - 116
+                - 104
+                - 101
+                - 114
+                - 2
+                - 0
+                - 3
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
   talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 14
-    - text: "I'm waiting for Dad to finish working!"
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 6
-              - 38
-              - 78
-              - 112
-              - 99
-              - 95
-              - 90
-              - 111
-              - 114
-              - 97
-              - 48
-              - 49
-              - 49
-              - 95
-              - 71
-              - 111
-              - 116
-              - 70
-              - 114
-              - 111
-              - 103
-              - 4
-              - 36
-              - 78
-              - 112
-              - 99
-              - 95
-              - 90
-              - 111
-              - 114
-              - 97
-              - 48
-              - 49
-              - 49
-              - 95
-              - 70
-              - 97
-              - 116
-              - 104
-              - 101
-              - 114
-              - 2
-              - 0
-              - 3
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
+      - text: "I'm waiting for Dad to finish working!"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 6
+                - 38
+                - 78
+                - 112
+                - 99
+                - 95
+                - 90
+                - 111
+                - 114
+                - 97
+                - 48
+                - 49
+                - 49
+                - 95
+                - 71
+                - 111
+                - 116
+                - 70
+                - 114
+                - 111
+                - 103
+                - 4
+                - 36
+                - 78
+                - 112
+                - 99
+                - 95
+                - 90
+                - 111
+                - 114
+                - 97
+                - 48
+                - 49
+                - 49
+                - 95
+                - 70
+                - 97
+                - 116
+                - 104
+                - 101
+                - 114
+                - 2
+                - 0
+                - 3
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
   talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 16
-    - text: "My mom, Mei, has been gone ever since\nthat water monster went nuts.\n\nBut I'm pretty sure her work is just\ntaking longer than usual."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I bet she'll\ncome home any day now!"
+      - text: "My mom, Mei, has been gone ever since\nthat water monster went nuts.\n\nBut I'm pretty sure her work is just\ntaking longer than usual."
+      - control:
+          kind: pause
+          length: short
+      - text: " I bet she'll\ncome home any day now!"
   talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 10
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: BAAAA HA HA HA!
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 6
-              - 38
-              - 78
-              - 112
-              - 99
-              - 95
-              - 90
-              - 111
-              - 114
-              - 97
-              - 48
-              - 49
-              - 49
-              - 95
-              - 71
-              - 111
-              - 116
-              - 70
-              - 114
-              - 111
-              - 103
-              - 4
-              - 36
-              - 78
-              - 112
-              - 99
-              - 95
-              - 90
-              - 111
-              - 114
-              - 97
-              - 48
-              - 49
-              - 49
-              - 95
-              - 70
-              - 97
-              - 116
-              - 104
-              - 101
-              - 114
-              - 2
-              - 0
-              - 3
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+      - control:
+          kind: text_size
+          percent: 125
+      - text: BAAAA HA HA HA!
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 6
+                - 38
+                - 78
+                - 112
+                - 99
+                - 95
+                - 90
+                - 111
+                - 114
+                - 97
+                - 48
+                - 49
+                - 49
+                - 95
+                - 71
+                - 111
+                - 116
+                - 70
+                - 114
+                - 111
+                - 103
+                - 4
+                - 36
+                - 78
+                - 112
+                - 99
+                - 95
+                - 90
+                - 111
+                - 114
+                - 97
+                - 48
+                - 49
+                - 49
+                - 95
+                - 70
+                - 97
+                - 116
+                - 104
+                - 101
+                - 114
+                - 2
+                - 0
+                - 3
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+      - control:
+          kind: text_size
+          percent: 100
+  talk15:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: See ya!
+  talk16:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "My dad, Fronk, "
+      - control:
+          kind: pause
+          length: short
+      - text: "is Dento's apprentice!\n\n\nHe fixes up places around the domain..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nIt's super cool!"
+  talk17:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 16
+      - text: "I'm busy frogging!"
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 5
+              field_3:
+                - 1
+                - 205
+  talk18:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 18
+      - text: Yep!
+      - control:
+          kind: pause
+          length: longer
+      - text: " Since Mom hasn't come back from\nfishing yet...\n\nI've been catching "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: hot-footed frogs
+      - control:
+          kind: reset_colour
+      - text: "\n"
+      - control:
+          kind: pause
+          length: short
+      - text: "and selling them to earn some money\nfor our family.\n...\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 6
+      - text: "You...were just pitying me, weren't you?"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nYou felt sorry for me...didn't you?!\n\nWell, I don't need your pity! If you wanna\nhelp, donate some "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: hot-footed frogs
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nYou can find them easily on rainy days.\n"
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "I...really need you to get some for me.\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Five frogs
+      - control:
+          kind: reset_colour
+      - text: " should be enough!"
+      - control:
+          kind: pause
+          length: short
+      - text: " Got it?"
+  talk19:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "OK, I'm gonna go ahead and count them!"
+  talk20:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "So I'm catching frogs and selling them\nto earn money for our family! "
+      - control:
+          kind: pause
+          length: short
+      - text: "Just until\nMom comes home."
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 5
+              field_3:
+                - 1
+                - 205
+  talk21:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 20
+      - text: "What? "
+      - control:
+          kind: pause
+          length: short
+      - text: Really?!
+  talk22:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 19
+      - text: "What the... Huh?!\n\n\nYou don't have ANY? None at all?"
+  talk23:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: One...
+  talk24:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "One, "
+      - control:
+          kind: pause
+          length: short
+      - text: two...
+  talk25:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "One, "
+      - control:
+          kind: pause
+          length: short
+      - text: "two, "
+      - control:
+          kind: pause
+          length: short
+      - text: three...
+  talk26:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "One, "
+      - control:
+          kind: pause
+          length: short
+      - text: "two, "
+      - control:
+          kind: pause
+          length: short
+      - text: "three, "
+      - control:
+          kind: pause
+          length: short
+      - text: four...
+  talk27:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 11
+      - text: "One, "
+      - control:
+          kind: pause
+          length: short
+      - text: "two, "
+      - control:
+          kind: pause
+          length: short
+      - text: "three, "
+      - control:
+          kind: pause
+          length: short
+      - text: four...
+      - control:
+          kind: pause
+          length: longer
+      - text: "FIVE!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 10
+      - text: Wow!
+      - control:
+          kind: pause
+          length: longer
+      - text: " You really brought them!\n\n\nHere, take this as thanks!"
+  talk28:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 6
+      - text: "Huh?! "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Miss, you only have"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 15
+          name: Npc_Zora011_HaveFrog
+      - control:
+          kind: reset_colour
+      - text: " "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: hot-footed frogs
+      - control:
+          kind: reset_colour
+      - text: "!"
+  talk30:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "On "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: rainy days
+      - control:
+          kind: reset_colour
+      - text: " like today,"
+      - control:
+          kind: pause
+          length: short
+      - text: " the frogs come\nout in swarms. Now's my chance!"
+  talk31:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "OK! When you get "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: five
+      - control:
+          kind: reset_colour
+      - text: " "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: hot-footed frogs
+      - control:
+          kind: reset_colour
+      - text: ","
+      - control:
+          kind: pause
+          length: short
+      - text: "\ncome back here and give them to me!"
+  talk32:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 18
+      - text: "On "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: sunny days
+      - control:
+          kind: reset_colour
+      - text: " like today,"
+      - control:
+          kind: pause
+          length: short
+      - text: " those frogs\ndon't really come out much..."
+  talk33:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 6
+      - text: "Well... I wanted to give you something,"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nbut you can't carry any more "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: armoranth
+      - control:
+          kind: reset_colour
+      - text: ",\ncan you?\n"
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: "If you make room for more "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: armoranth
+      - control:
+          kind: reset_colour
+      - text: ","
+      - control:
+          kind: pause
+          length: short
+      - text: "\ncome back and see me!"
+  talk34:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "This is called "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: armoranth
+      - control:
+          kind: reset_colour
+      - text: "!\n\n\nI picked it because it's unusual,"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nbut it doesn't really suit me...\nso it's all yours!"
+  talk35:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "My mom, Mei, sells the fish she catches\nat the general store!\n\nHer fish are always super fresh..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nYeah! They're amazing!"
+  talk36:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 6
+      - text: Do Hy-leons eat fish?
+  talk37:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "The fish my mom caught are being sold\nat the general store, so go have a look!"
+  talk38:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 6
+      - text: "Speaking of which, "
+      - control:
+          kind: pause
+          length: short
+      - text: "do Hy-leons have any\nuse for frogs?\n\nIf you don't need your "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: hot-footed frogs
+      - control:
+          kind: reset_colour
+      - text: ",\nwhy not donate them to me?!"
+      - control:
+          kind: pause
+          length: longer
+      - text: " "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Five frogs
+      - control:
+          kind: reset_colour
+      - text: "\nshould do the trick!"
+      - control:
+          kind: pause
+          length: short
+      - text: " Got it?"
+  talk39:
+    attributes: Npc_Zora011
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 11
+      - text: "Thanks for those "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: hot-footed frogs
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nSee ya!"

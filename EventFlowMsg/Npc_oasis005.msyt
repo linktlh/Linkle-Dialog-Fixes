@@ -1,535 +1,507 @@
 ---
+group_count: 37
+atr1_unknown: 4
 entries:
-  Com_Talk_13:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: Well? How many?
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 5500
-            field_3: 5508
-            field_4: 5503
-            field_5:
-              - 0
-              - 2
-  Com_Talk_14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Right, "
-    - control:
-        two:
-          type15:
-            field_1: 38
-            string: Shop_TradeItemNum
-            field_3: 0
-    - text: ", huh...\nThat means it'll be "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type18:
-            field_1: 32
-            string: ShopTradePrice
-            field_3: 0
-    - text: " rupees"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5500
-            field_3: 5501
-            field_4:
-              - 0
-              - 1
-  Com_Talk_60:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "That'll be "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type16:
-            field_1: 44
-            string: Shop_SelectItemPrice
-            field_3: 0
-    - text: " rupees"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5500
-            field_3: 5501
-            field_4:
-              - 0
-              - 1
-  Com_Talk_15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: Sorry...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I can't buy that from you."
-  Com_Talk_61:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 2
-    - text: "...Right."
-  Com_Talk_16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 9
-    - text: "You realize you're still wearing that,\nright? Credit for being creative, but\nyou'll have to take that off yourself."
-  Talk_11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "This is the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Gerudo Secret Club
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nor "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: GSC
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " for short.\n\nThis is the only shop in Gerudo Town\nwhere someone could buy clothes meant\nfor a voe to wear.\nDespite it being illegal to sell voe\nclothing in this town, there is a high\ndemand for such things.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "It's not common to see a Hylian\nwearing the clothes of the gerudo\nlike you do,though..."
-  Talk_12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "Haha, don't worry..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " It definitely suits\nyou!"
-  Talk_13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Oh ho. That's a special one,"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " made using \n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: luminous stone
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\nIf you're interested, you'll need "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "to trade\nme the materials"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ". "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "Oh, and there's a\nhandling fee, too."
-  Talk_14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 11
-    - text: "Sarqso. It's a precious item, so be sure\nto take good care of it."
-  Talk_15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 11
-    - text: "Sarqso. I recommend pairing it with\nother clothing items from this series."
-  Com_Talk_33:
-    - text: "Just one, huh?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nIn that case, it'll be "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type18:
-            field_1: 32
-            string: ShopTradePrice
-            field_3: 0
-    - text: " rupees"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5500
-            field_3: 5501
-            field_4:
-              - 0
-              - 1
-  Com_Talk_05b:
-    - text: Are you finished already?
-  Com_Talk_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Though I'd love to pick up something\nrare, if you've got anything like that..."
-  Com_Talk_35:
-    - text: "Every single one? Well then, that'll\nbe..."
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type18:
-            field_1: 32
-            string: ShopTradePrice
-            field_3: 0
-    - text: " rupees"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5500
-            field_3: 5501
-            field_4:
-              - 0
-              - 1
-  Com_Talk_05c:
-    - text: "Heehee, if it's OK with you, I'd gladly\ntake something off your hands."
   "0006":
-    - text: What is this place?
-  Com_Talk_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: For that...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "how about "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type18:
-            field_1: 32
-            string: ShopTradePrice
-            field_3: 0
-    - text: " rupees"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5500
-            field_3: 5501
-            field_4:
-              - 0
-              - 1
-  Com_Talk_05d:
-    - text: "I haven't traveled very much, so you'd\nreally help me out by selling me a lot\nof stuff."
+    attributes: ""
+    contents:
+      - text: What is this place?
   "0007":
-    - text: Buy from me!
+    attributes: ""
+    contents:
+      - text: Buy from me!
+  "0008":
+    attributes: ""
+    contents:
+      - text: I should be going.
+  "5500":
+    attributes: ""
+    contents:
+      - text: Sure!
+  "5501":
+    attributes: ""
+    contents:
+      - text: Never mind.
+  "5503":
+    attributes: ""
+    contents:
+      - text: Never mind.
+  "5508":
+    attributes: ""
+    contents:
+      - text: All of them.
+  Com_Talk_00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Though I'd love to pick up something\nrare, if you've got anything like that..."
+  Com_Talk_01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: For that...
+      - control:
+          kind: pause
+          length: short
+      - text: "how about "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: " rupees"
+      - control:
+          kind: reset_colour
+      - text: "?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   Com_Talk_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: Sarqso.
-  "0008":
-    - text: I should be going.
+      - text: Sarqso.
+  Com_Talk_02b:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "Heehee, first-class deal. Sarqso."
+  Com_Talk_02c:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 25
+      - text: "Pretty good deal, heehee. Sarqso."
+  Com_Talk_02d:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 25
+      - text: "I was just thinking about how I wanted\none of these. Sarqso."
   Com_Talk_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 2
-    - text: Oh.
-  Com_Talk_02b:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "Heehee, first-class deal. Sarqso."
+      - text: Oh.
   Com_Talk_05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "I'd be happier if it were something\nmore uncommon..."
-  Com_Talk_02c:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 25
-    - text: "Pretty good deal, heehee. Sarqso."
-  Com_Talk_02d:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 25
-    - text: "I was just thinking about how I wanted\none of these. Sarqso."
-  "5500":
-    - text: Sure!
-  "5501":
-    - text: Never mind.
+      - text: "I'd be happier if it were something\nmore uncommon..."
+  Com_Talk_05b:
+    attributes: ""
+    contents:
+      - text: Are you finished already?
+  Com_Talk_05c:
+    attributes: ""
+    contents:
+      - text: "Heehee, if it's OK with you, I'd gladly\ntake something off your hands."
+  Com_Talk_05d:
+    attributes: ""
+    contents:
+      - text: "I haven't traveled very much, so you'd\nreally help me out by selling me a lot\nof stuff."
+  Com_Talk_13:
+    attributes: Npc_Kakariko010
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - control:
+          kind: reset_colour
+      - text: Well? How many?
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5508
+            - 5503
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Com_Talk_14:
+    attributes: Npc_Kakariko010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Right, "
+      - control:
+          kind: variable
+          variable_kind: 15
+          name: Shop_TradeItemNum
+      - text: ", huh...\nThat means it'll be "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: " rupees"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_15:
+    attributes: Npc_Kakariko010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: Sorry...
+      - control:
+          kind: pause
+          length: short
+      - text: " I can't buy that from you."
+  Com_Talk_16:
+    attributes: Npc_Kakariko010
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 9
+      - text: "You realize you're still wearing that,\nright? Credit for being creative, but\nyou'll have to take that off yourself."
+  Com_Talk_33:
+    attributes: Npc_Kakariko010
+    contents:
+      - text: "Just one, huh?"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nIn that case, it'll be "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: " rupees"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_35:
+    attributes: Npc_Kakariko010
+    contents:
+      - text: "Every single one? Well then, that'll\nbe..."
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: " rupees"
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_60:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "That'll be "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 16
+          name: Shop_SelectItemPrice
+      - text: " rupees"
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_61:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 2
+      - text: "...Right."
   Talk_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - control:
-        four:
-          type1:
-            field_1:
-              - 27
-              - 205
-    - text: "Sav'saaba.\n\n\nElsewhere it might be sav'otta or\nsav'aaq, but here it's always sav'saaba."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 6
-            field_3: 7
-            field_4: 8
-            field_5:
-              - 0
-              - 2
+      - control:
+          kind: sound2
+          unknown:
+            - 27
+            - 205
+      - text: "Sav'saaba.\n\n\nElsewhere it might be sav'otta or\nsav'aaq, but here it's always sav'saaba."
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   Talk_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: "We each have something to hide, I\nsuppose. Let's ignore that and move on\nto business."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 6
-            field_3: 7
-            field_4: 8
-            field_5:
-              - 0
-              - 2
-  "5503":
-    - text: Never mind.
+      - text: "We each have something to hide, I\nsuppose. Let's ignore that and move on\nto business."
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   Talk_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "Have you ever noticed how the darker it\nis, the more beautiful the light becomes?\nIsn't it great, young vai?"
+      - text: "Have you ever noticed how the darker it\nis, the more beautiful the light becomes?\nIsn't it great, young vai?"
   Talk_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "Time to go, is it?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " I'm not surprised."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nYou've bought everything I have."
+      - text: "Time to go, is it?"
+      - control:
+          kind: pause
+          length: longer
+      - text: " I'm not surprised."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nYou've bought everything I have."
   Talk_05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "I suppose I could. But I won't be paying\nmore than any other trader would."
+      - text: "I suppose I could. But I won't be paying\nmore than any other trader would."
   Talk_06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: Sarqso.
+      - text: Sarqso.
   Talk_07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: "Hahaha...sarqso.\nI'll make sure to restock for you."
-  "5508":
-    - text: All of them.
+      - text: "Hahaha...sarqso.\nI'll make sure to restock for you."
   Talk_09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis005
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "The bright light of the sun doesn't agree\nwith me. I haven't paid my respects to\nit for many years..."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 6
-            field_3: 7
-            field_4: 8
-            field_5:
-              - 0
-              - 2
+      - text: "The bright light of the sun doesn't agree\nwith me. I haven't paid my respects to\nit for many years..."
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk_11:
+    attributes: Npc_oasis005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "This is the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Gerudo Secret Club
+      - control:
+          kind: reset_colour
+      - text: ",\nor "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: GSC
+      - control:
+          kind: reset_colour
+      - text: " for short.\n\nThis is the only shop in Gerudo Town\nwhere someone could buy clothes meant\nfor a voe to wear.\nDespite it being illegal to sell voe\nclothing in this town, there is a high\ndemand for such things.\n"
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "It's not common to see a Hylian\nwearing the clothes of the gerudo\nlike you do,though..."
+  Talk_12:
+    attributes: Npc_oasis005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "Haha, don't worry..."
+      - control:
+          kind: pause
+          length: short
+      - text: " It definitely suits\nyou!"
+  Talk_13:
+    attributes: Npc_oasis005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Oh ho. That's a special one,"
+      - control:
+          kind: pause
+          length: long
+      - text: " made using \n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: luminous stone
+      - control:
+          kind: reset_colour
+      - text: ".\n\nIf you're interested, you'll need "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "to trade\nme the materials"
+      - control:
+          kind: reset_colour
+      - text: ". "
+      - control:
+          kind: pause
+          length: long
+      - text: "Oh, and there's a\nhandling fee, too."
+  Talk_14:
+    attributes: Npc_oasis005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 11
+      - text: "Sarqso. It's a precious item, so be sure\nto take good care of it."
+  Talk_15:
+    attributes: Npc_oasis005
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 11
+      - text: "Sarqso. I recommend pairing it with\nother clothing items from this series."

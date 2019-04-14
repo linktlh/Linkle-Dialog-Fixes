@@ -1,1410 +1,2116 @@
 ---
+group_count: 101
+atr1_unknown: 0
 entries:
-  StonePillers:
-    - text: Ancient Columns
-  GameYabusame:
-    - text: Mounted Archery Camp
-  PaparaPlateau:
-    - text: Stalry Plateau
-  BarumePlain:
-    - text: Barula Plain
-  HyruleEastTown:
-    - text: East Castle Town
-  Dungeon081:
-    - text: Muwo Jeem Shrine
-  GameGutsCriff:
-    - text: Gut Check Rock
-  ShimukaPlateau:
-    - text: Robred Dropoff
-  FenaMt:
-    - text: Mount Nabooru
-  Dungeon082:
-    - text: Chaas Qeta Shrine
-  GarakishiPass:
-    - text: Shadow Pass
-  KitanoBay:
-    - text: Hateno Bay
-  TerumeMt:
-    - text: Mount Taran
-  HeburaPeak:
-    - text: Hebra Peak
-  Dungeon083:
-    - text: "Tena Ko'sah Shrine"
-  RemainsWind:
-    - text: Divine Beast Vah Medoh
-  AdeyaLake:
-    - text: Deya Lake
-  TrakaIsland_New:
-    - text: Molida Island
-  SonoPrairie:
-    - text: Trilby Plain
-  ChuonoPond:
-    - text: Zelkoa Pond
-  MuguriPlain:
-    - text: Blatchery Plain
-  YamabiLake:
-    - text: Yambi Lake
-  RutesLake:
-    - text: Corta Lake
-  Dungeon084:
-    - text: Tutsuwa Nima Shrine
-  MapRegion_Hateru:
-    - text: Necluda
-  MapArea_HeburaMountains:
-    - text: Hebra Mountains
-  SasamuroBeach:
-    - text: Clarnet Coast
-  RiaroTrees:
-    - text: Hickaly Woods
-  Dungeon085:
-    - text: Kema Kosassa Shrine
-  SojijiPark:
-    - text: Sanidin Park Ruins
-  GishiHill:
-    - text: Piper Ridge
-  JogoBridge:
-    - text: Rebonae Bridge
-  HeburaWestSummit:
-    - text: Hebra West Summit
-  PeridoBarrier:
-    - text: "Champion's Gate"
-  Dungeon086:
-    - text: Goma Asaagh Shrine
-  NantanCastle:
-    - text: South Lomei Labyrinth
-  LomeiIslands:
-    - text: Lomei Labyrinth Island
-  AkkareBridge:
-    - text: Akkala Span
-  AmimePlateau:
-    - text: Nette Plateau
-  FlogPond:
-    - text: Hopper Pond
-  KazusuPass:
-    - text: Kaepora Pass
-  NangoPond:
-    - text: Zelo Pond
-  HagoromoLake:
-    - text: Lantern Lake
-  BigalLake:
-    - text: Medingo Pool
-  PukiroroMt:
-    - text: Zodobon Highlands
-  Dungeon087:
-    - text: Mozo Shenno Shrine
-  WiseFountain:
-    - text: Spring of Wisdom
-  GameBalling:
-    - text: "Pondo's Lodge"
-  ShinyarkiPlateau:
-    - text: Rauru Hillside
-  SusonoRiver:
-    - text: Tamio River
-  TakkikaPlain:
-    - text: Nima Plain
-  PstaLake:
-    - text: Mido Swamp
-  Dungeon030:
-    - text: Joloo Nah Shrine
-  Dungeon088:
-    - text: Hia Miu Shrine
-  Corosseo:
-    - text: Coliseum Ruins
-  KitakkarePlateau:
-    - text: North Akkala Foothill
-  Dungeon031:
-    - text: "Mo'a Keet Shrine"
-  Dungeon089:
-    - text: "Saas Ko'sah Shrine"
-  MasazuBridge:
-    - text: Moat Bridge
-  OsanjoBridge:
-    - text: Helmhead Bridge
-  BuidaLake:
-    - text: Rassla Lake
-  Dungeon032:
-    - text: Dako Tah Shrine
-  MiddleTrees:
-    - text: Midla Woods
-  Dungeon033:
-    - text: Daka Tuss Shrine
-  CastleTownMark:
-    - text: Hyrule Castle Town Ruins
-  OtsukoWet:
-    - text: Torin Wetland
-  KakamoLake:
-    - text: Telta Lake
-  KitakkareBeach:
-    - text: North Akkala Beach
-  TennoMt:
-    - text: "Washa's Bluff"
-  Dungeon034:
-    - text: Kah Yah Shrine
-  CentralExchange:
-    - text: Exchange Ruins
-  TotsugeBridge:
-    - text: Carok Bridge
-  MasazuRock:
-    - text: Quarry Ruins
-  Dungeon035:
-    - text: "Akh Va'quot Shrine"
-  TabantaBridge:
-    - text: Tabantha Great Bridge
-  TabantaHatago:
-    - text: Snowfield Stable
-  KokuppiSnow:
-    - text: Kopeeki Drifts
-  WestGerudo:
-    - text: West Barrens
-  HyralIslands:
-    - text: Hylia Island
-  BameHill:
-    - text: Passer Hill
-  Dungeon036:
-    - text: Sho Dantu Shrine
-  DanioPlain:
-    - text: Ukuku Plains
-  RaberaWet:
-    - text: Rabella Wetlands
-  Dungeon037:
-    - text: Shae Loya Shrine
-  MapArea_HyruleHill:
-    - text: Hyrule Ridge
-  AnoleLake:
-    - text: Gorko Lake
-  DasukidaPlateau:
-    - text: Dunsel Plateau
-  NishakkarePlain:
-    - text: Kanalet Ridge
-  RibuchaPlateau:
-    - text: Aldor Foothills
-  Dungeon038:
-    - text: Oman Au Shrine
-  Gerudo:
-    - text: Gerudo Town
-  MapArea_LanayruWaterSources:
-    - text: Lanayru Great Spring
-  KunaiLake:
-    - text: Aquame Lake
-  TamaLake:
-    - text: Tama Pond
-  TrakaIsland_West:
-    - text: Wes Island
-  YuaSnow:
-    - text: Naydra Snowfield
-  RoshiganLake:
-    - text: South Nabi Lake
-  ToriaBridge:
-    - text: Boneyard Bridge
-  Dungeon039:
-    - text: Myahm Agana Shrine
-  MinakkareBridge:
-    - text: Sokkala Bridge
-  UrokoCape:
-    - text: Cape Cales
-  ShitanoPond:
-    - text: Firly Pond
-  XekuBridge:
-    - text: Digdogg Suspension Bridge
-  TafeaHill:
-    - text: Taafei Hill
-  BottuBay:
-    - text: Spool Bight
-  LaveBeach:
-    - text: Laverra Beach
-  KuroidaPlateau:
-    - text: Breman Peak
-  DokamamaPlain:
-    - text: Sahasra Slope
-  PaiyuBay:
-    - text: Horon Lagoon
-  MinakkarePlain:
-    - text: South Akkala Plains
-  SouthGerudoRuins:
-    - text: Southern Oasis
-  RashamaPlain:
-    - text: North Hyrule Plain
-  ChirakaVillage:
-    - text: Goponga Village Ruins
-  AgePlateau:
-    - text: Jia Highlands
-  KunaiBridge:
-    - text: Aquame Bridge
-  TutukikiSnow:
-    - text: Pikida Stonegrove
-  Hyrule_Out:
-    - text: Hyrule Castle Moat
-  LittleBrotherBridge:
-    - text: Little Twin Bridge
-  OoosePlain:
-    - text: Oseira Plains
-  GyunaIsland:
-    - text: Ankel Island
-  ShariverMt:
-    - text: Talonto Peak
-  FinrasForest:
-    - text: Finra Woods
-  RodaiLake:
-    - text: Rodai Lake
-  Assassin:
-    - text: Yiga Clan Hideout
-  HatenoGate:
-    - text: Fort Hateno
-  GameZarashiRace:
-    - text: Sand-Seal Rally
-  MapArea_HyliaLake:
-    - text: Lake Hylia
-  ShikuriIslands:
-    - text: Wintre Island
-  TeraPlain:
-    - text: Mabe Prairie
-  NitariBeach:
-    - text: Korne Beach
-  TabantaCrater:
-    - text: Gisa Crater
-  RemainsWater:
-    - text: Divine Beast Vah Ruta
-  KasuraMt:
-    - text: Corvash Peak
-  NishojiBridge:
-    - text: Gleeok Bridge
-  AkkareBigBridge:
-    - text: Akkala Span
-  ArafuraPlain:
-    - text: Fural Plain
-  BituoValley:
-    - text: "Tobio's Hollow"
-  MakuminoValley:
-    - text: Harfin Valley
-  MapArea_GerudoHighlands:
-    - text: Gerudo Highlands
-  AmonenePlateau:
-    - text: Ralis Pond
-  KirisasaPlateau:
-    - text: Lanayru Bluff
-  ZamaPlain:
-    - text: Seres Scablands
-  SusonoLake:
-    - text: Rutile Lake
-  BuichadaPlateau:
-    - text: Tumlea Heights
-  BuhaIslands:
-    - text: Broca Island
-  Dungeon050:
-    - text: Shai Utoh Shrine
-  ElegLake:
-    - text: Nabi Lake
-  EnRiver:
-    - text: Menoat River
-  TrakaIsland_Small:
-    - text: Bannan Island
-  Dungeon051:
-    - text: Maka Rah Shrine
-  Oasis:
-    - text: Kara Kara Bazaar
-  HeburaLodge:
-    - text: Hebra Trailhead Lodge
-  SarjonBridge:
-    - text: Sarjon Bridge
-  UbotsuPlateau:
-    - text: Ubota Point
-  GoronSpa:
-    - text: Goron Hot Springs
-  Dungeon052:
-    - text: "Gee Ha'rah Shrine"
-  GerudoFossil:
-    - text: Gerudo Great Skeleton
-  HyruleCastle_Room_10:
-    - text: East Passage
-  KingfisherSpa:
-    - text: "Sherfin's Secret Hot Spring"
-  RiverSideHatago:
-    - text: Riverside Stable
-  ShinikkyoForest:
-    - text: "Giant's Forest"
-  TsukaiePlateau:
-    - text: Stinger Cliffs
-  HeburaEastSummit:
-    - text: Hebra East Summit
-  MeganeRock:
-    - text: Spectacle Rock
-  Dungeon053:
-    - text: Sha Warvo Shrine
-  HyruleCastle_Room_11:
-    - text: West Passage
-  BonrasForest:
-    - text: Bronas Forest
-  SusukadiBridge:
-    - text: Inogo Bridge
-  FloriaFalls:
-    - text: Floria Falls
-  BokoboLake:
-    - text: Gero Pond
-  Dungeon054:
-    - text: "Ka'o Makagh Shrine"
-  RonronCity:
-    - text: Mabe Village Ruins
-  BigBrotherBridge:
-    - text: Big Twin Bridge
-  HyruleDepthHatago:
-    - text: Outskirt Stable
-  ZitoGreens:
-    - text: Passeri Greenbelt
-  DeathCaldera:
-    - text: Death Caldera
-  NaganizaHill:
-    - text: Temto Hill
-  FuruboLake:
-    - text: Lake Intenoch
-  RishakutoPlateau:
-    - text: Pillars of Levia
-  RirimukuHighlands:
-    - text: Drenan Highlands
-  Dungeon055:
-    - text: Dunba Taag Shrine
-  SaihokuCastle:
-    - text: North Lomei Labyrinth
-  OshoromaLake:
-    - text: Ruto Lake
-  TagonaTrees:
-    - text: Tabahl Woods
-  YamariRiver:
-    - text: Squabble River
-  Dungeon056:
-    - text: Mirro Shaz Shrine
-  AdeyaVillage:
-    - text: Deya Village Ruins
   AagetoMt:
-    - text: Mount Agaat
-  KiyanbaTrees:
-    - text: Minshi Woods
-  TomiyoPlateau:
-    - text: "Trotter's Downfall"
-  Dungeon057:
-    - text: Wahgo Katta Shrine
-  MapArea_GerudoDesert:
-    - text: Gerudo Desert
-  UraitoLake:
-    - text: Riola Spring
-  Dungeon000:
-    - text: Tah Muhl Shrine
-  Dungeon058:
-    - text: Mogg Latan Shrine
-  HyruleWestHatago:
-    - text: Serenne Stable
-  MapArea_EldinCanyon:
-    - text: Eldin Canyon
-  MapArea_FironeGrassland:
-    - text: Faron Grasslands
-  KamasuPlateau:
-    - text: Kamah Plateau
-  KakufusaPlain:
-    - text: Whistling Hill
-  NorthHugeStone:
-    - text: Great Cliffs
-  Dungeon001:
-    - text: Jee Noh Shrine
-  Dungeon059:
-    - text: Kah Okeo Shrine
-  Mine:
-    - text: Abandoned North Mine
-  MapRegion_Gerudo:
-    - text: Gerudo
-  MapArea_DeathMountain:
-    - text: Death Mountain
-  Dungeon002:
-    - text: Sah Dahaj Shrine
-  BraveFountain:
-    - text: Spring of Courage
-  RemainsFire:
-    - text: Divine Beast Vah Rudania
-  DeathMountainHatago:
-    - text: Foothill Stable
-  SoridaPeninsula:
-    - text: Tingel Island
-  EastEunpoHighlands:
-    - text: East Deplian Badlands
-  TompoPlain:
-    - text: Romani Plains
-  Dungeon003:
-    - text: Hawa Koth Shrine
-  StartPoint:
-    - text: Shrine of Resurrection
-  LostForest:
-    - text: Lost Woods
-  LightningPlateau:
-    - text: Thundra Plateau
-  GatakaraGarrison:
-    - text: Kolomo Garrison Ruins
-  MapArea_TamulPlateau:
-    - text: Akkala Highlands
+    contents:
+      - text: Mount Agaat
+  AdeyaLake:
+    contents:
+      - text: Deya Lake
+  AdeyaVillage:
+    contents:
+      - text: Deya Village Ruins
+  AgePlateau:
+    contents:
+      - text: Jia Highlands
   AgunaiLake:
-    - text: Darunia Lake
-  KagossaMt:
-    - text: Zokassa Ridge
-  GasemaDam:
-    - text: Rutala Dam
-  BuramuPlateau:
-    - text: Popla Foothills
-  MerkayaLowTrees:
-    - text: Taobab Grassland
-  Dungeon004:
-    - text: Zalta Wa Shrine
-  OrdinBridge:
-    - text: Bridge of Eldin
-  OrdinFossil:
-    - text: Eldin Great Skeleton
-  HyruleCentralPlace:
-    - text: Central Square
-  KiriyabuMt:
-    - text: "Bonooru's Stand"
-  TaruhoPlateau:
-    - text: Firly Plateau
-  HagoromoFalls:
-    - text: Lantern Falls
-  MorugaMt:
-    - text: Mount Granajh
-  Dungeon005:
-    - text: "Ne'ez Yohma Shrine"
-  Dungeon110:
-    - text: "Korsh O'hu Shrine"
-  KauLake:
-    - text: Hebra Plunge
-  KumPlateau:
-    - text: Sturnida Basin
-  WestEunpoHighlands:
-    - text: West Deplian Badlands
-  RirimukuMt:
-    - text: Mount Drena
-  Dungeon006:
-    - text: Yah Rin Shrine
-  Dungeon111:
-    - text: Tawa Jinn Shrine
-  Tower10:
-    - text: Eldin Tower
-  OkuwaLake:
-    - text: Lake Siela
-  KikinosaPlain:
-    - text: Upland Lindor
-  GoinaPlateau:
-    - text: Pierre Plateau
-  SaphiasPlateau:
-    - text: "Sapphia's Table"
-  TohikiLake:
-    - text: Koto Pond
-  BrostarPlain:
-    - text: Samasa Plain
-  TabantaSnow_South:
-    - text: S. Tabantha Snowfield
-  Dungeon007:
-    - text: Bosh Kala Shrine
-  Dungeon112:
-    - text: Lakna Rokee Shrine
-  LocationDungeon:
-    - text: Ancient Shrine
-  BrosRock:
-    - text: "Warbler's Nest"
-  Tower11:
-    - text: Akkala Tower
-  DatsuPlain:
-    - text: Parache Plains
-  RirikendoBridge:
-    - text: Oren Bridge
-  Dungeon008:
-    - text: Bareeda Naag Shrine
-  Dungeon113:
-    - text: Shae Katha Shrine
-  PostTownRuin:
-    - text: Outpost Ruins
-  FloriaBridge:
-    - text: Floria Bridge
-  Tower12:
-    - text: Lanayru Tower
-  MapArea_LiveMountain:
-    - text: Mount Lanayru
-  EagleBridge:
-    - text: Kolami Bridge
-  PoponMt:
-    - text: Satori Mountain
-  MedakaValley:
-    - text: Ulria Grotto
-  Dungeon009:
-    - text: Owa Daim Shrine
-  Dungeon070:
-    - text: Soh Kofi Shrine
-  Dungeon114:
-    - text: Shai Yota Shrine
-  ValleyVillage:
-    - text: Flight Range
-  SnowStatue:
-    - text: Statue of the Eighth Heroine
-  MinakkareBridgeEast:
-    - text: East Sokkala Bridge
-  Tower13:
-    - text: Hateno Tower
-  RitoHatago:
-    - text: Rito Stable
-  MapArea_LanayruWetlands:
-    - text: Lanayru Wetlands
-  GumaroValley:
-    - text: Atun Valley
-  KondanaLake:
-    - text: Darb Pond
-  SanrosaLake:
-    - text: Pico Pond
-  ChagaraMt:
-    - text: Gogobi Shores
-  Dungeon071:
-    - text: Pumaag Nitae Shrine
-  Dungeon115:
-    - text: Rona Kachta Shrine
-  WhiteZora:
-    - text: "Zora's Domain"
-  KochuBridge:
-    - text: Kakariko Bridge
-  ShigonDam:
-    - text: Lanayru Promenade
-  Tower14:
-    - text: Faron Tower
-  KakaomePlain:
-    - text: Irch Plain
-  KazuryuRiver:
-    - text: Dracozu River
-  TrakaIsland_South:
-    - text: Zauz Island
-  HigashinoBay:
-    - text: Deepback Bay
-  WabiLake:
-    - text: Lake Akkala
-  Dungeon072:
-    - text: Dah Kaso Shrine
-  Dungeon116:
-    - text: Qaza Tokki Shrine
-  MinakkareBridgeWest:
-    - text: West Sokkala Bridge
-  Tower15:
-    - text: Ridgeland Tower
-  MapRegion_Hebura:
-    - text: Hebra
-  AraisoBeach:
-    - text: Aris Beach
-  GasemaRiver:
-    - text: Rutala River
-  NikakaIsland:
-    - text: Isle of Rabac
-  IooValley:
-    - text: Trilby Valley
-  Dungeon073:
-    - text: Katah Chuki Shrine
-  Dungeon117:
-    - text: "Jitan Sa'mi Shrine"
-  MapArea_WestHateru:
-    - text: West Necluda
-  HatenokoIsland:
-    - text: Tenoko Island
-  BarakkiPlain:
-    - text: Dalite Forest
-  EastGerudoPlateau:
-    - text: East Gerudo Mesa
-  EzzuBridge:
-    - text: Eagus Bridge
-  Dungeon074:
-    - text: Noya Neha Shrine
-  Dungeon118:
-    - text: To Quomo Shrine
-  AkkareZhai:
-    - text: Akkala Citadel Ruins
-  HyruleCastle_Hall_0:
-    - text: Sanctum
-  TamourHatago:
-    - text: East Akkala Stable
-  HopeBridge:
-    - text: Bank of Wishes
-  BanmezaLake:
-    - text: Harker Lake
-  VPlateau:
-    - text: Zirco Mesa
-  Dungeon075:
-    - text: Dah Hesho Shrine
-  Dungeon119:
-    - text: "Tahno O'ah Shrine"
-  Kakariko:
-    - text: Kakariko Village
-  Hateno:
-    - text: Hateno Village
-  HyruleCastle_Hall_1:
-    - text: Second Gatehouse
-  TargarPlain:
-    - text: Brynna Plain
-  WestGerudoRuins:
-    - text: West Gerudo Ruins
-  MomoMt:
-    - text: "Scout's Hill"
-  RutsuPlain:
-    - text: Rayne Highlands
-  Dungeon076:
-    - text: Sasa Kai Shrine
-  KingValley:
-    - text: Forgotten Temple
-  HyruleCastle_Hall_2:
-    - text: First Gatehouse
-  Execution:
-    - text: Castle Town Prison
-  HyruleLabo:
-    - text: Royal Ancient Lab Ruins
-  GarakishiVillage:
-    - text: Shadow Hamlet Ruins
-  GakanakkyoPlain:
-    - text: West Hyrule Plains
-  TabantaSnow:
-    - text: Tabantha Tundra
-  MihekoBay:
-    - text: Malin Bay
-  Dungeon077:
-    - text: "Ke'nai Shakah Shrine"
-  IrimoLake:
-    - text: Goronbi Lake
-  HachijoBridge:
-    - text: Owlan Bridge
-  IceHouse:
-    - text: Northern Icehouse
-  Dungeon020:
-    - text: Sheem Dagoze Shrine
-  Dungeon078:
-    - text: Mijah Rokee Shrine
-  HashibiroLake:
-    - text: Strock Lake
-  PafaBeach:
-    - text: Puffer Beach
-  TwinsMountain:
-    - text: Dueling Peaks
-  RaruLake:
-    - text: Calora Lake
-  WatakaPlateau:
-    - text: "Quatta's Shelf"
-  Dungeon021:
-    - text: Toh Yahsa Shrine
-  Dungeon079:
-    - text: Namika Ozz Shrine
-  HyruleWater:
-    - text: Water Reservoir
-  GashamaHill:
-    - text: Crenel Hills
-  KazuryuLake:
-    - text: Dracozu Lake
-  KuhanLake:
-    - text: Hanu Pond
-  TunbriPlain:
-    - text: Courage Steppe
-  RogyLake:
-    - text: Lake Jarrah
-  Dungeon022:
-    - text: Keo Ruug Shrine
-  TrakaIsland:
-    - text: Linebeck Island
-  MenadaBeach:
-    - text: Afromsia Coast
-  Dungeon023:
-    - text: Sheh Rata Shrine
-  HeburaFossil:
-    - text: Hebra Great Skeleton
-  LanayruWestEntrance:
-    - text: Lanayru Road - West Gate
-  ShinyarkiVillage:
-    - text: Rauru Settlement Ruins
-  MapArea_HateruSea:
-    - text: Necluda Sea
-  MapArea_FironeSea:
-    - text: Faron Sea
-  UchoPlateau:
-    - text: Mable Ridge
-  GerudoCanyon:
-    - text: Gerudo Canyon
-  Dungeon024:
-    - text: Mezza Lo Shrine
-  GibogaHill:
-    - text: Rok Woods
-  MinakkareFalls:
-    - text: Akkala Falls
-  Dungeon025:
-    - text: Kayra Mah Shrine
-  Cokiri:
-    - text: Korok Forest
-  DeathMountain_Entrance:
-    - text: Maw of Death Mountain
-  MapArea_TabantaFrontier:
-    - text: Tabantha Frontier
-  AnoleTunnel:
-    - text: Gorko Tunnel
-  TaserakaBridge:
-    - text: Thims Bridge
-  RazezePlateau:
-    - text: Lanayru Heights
-  Dungeon026:
-    - text: "Shae Mo'sah Shrine"
-  Taura:
-    - text: Lurelin Village
-  SouthMine:
-    - text: Southern Mine
-  GameMarathon:
-    - text: Footrace Check-In
-  ErumedaPlateau:
-    - text: "Meadela's Mantle"
-  PupukoreFalls:
-    - text: Veiled Falls
-  PongagaMt:
-    - text: Ebon Mountain
-  Dungeon027:
-    - text: Rota Ooh Shrine
-  GoronBridge:
-    - text: Stolock Bridge
-  YashinoLegacy:
-    - text: Palmorae Ruins
-  NiiLake:
-    - text: Cora Lake
-  MemeMt:
-    - text: Ploymus Mountain
-  MoroLake:
-    - text: Mikau Lake
-  Dungeon028:
-    - text: Shora Hah Shrine
-  TimesShrine:
-    - text: Temple of Time
-  HyruleGround:
-    - text: Hyrule Kingdom
-  GameShiledSurf:
-    - text: "Selmie's Spot"
-  RemainsElectric:
-    - text: Divine Beast Vah Naboris
-  MapArea_TamulOutback:
-    - text: Deep Akkala
-  KurisobeSnow:
-    - text: Risoka Snowfield
-  KokuwaLake:
-    - text: Ash Swamp
-  PukuntoMt:
-    - text: Bottomless Swamp
-  RuberaHill:
-    - text: Cliffs of Ruvara
-  Dungeon029:
-    - text: Hila Rao Shrine
-  Dungeon090:
-    - text: Suma Sahma Shrine
-  DragonMarsh:
-    - text: Dragon Bone Mire
-  "MapRegion_HyrulePrairie ":
-    - text: Central Hyrule
-  GibururuMt:
-    - text: Ruto Mountain
-  SotonkaBridge:
-    - text: Manhala Bridge
-  RonronRiver:
-    - text: Hylia River
-  SwanLake:
-    - text: Hebra Falls
-  Dungeon091:
-    - text: Gorae Torr Shrine
-  TatsubaLake:
-    - text: Batrea Lake
-  HyliaMt:
-    - text: Mount Hylia
-  HigakkarePlain:
-    - text: East Akkala Plains
-  BlizzarValley:
-    - text: Coldsnap Hollow
-  HeburaMt_North:
-    - text: Hebra North Crest
-  Dungeon092:
-    - text: "Maag No'rah Shrine"
-  EastPostTownRuin:
-    - text: East Post Ruins
-  HyruleTower:
-    - text: Castle Town Watchtower
-  MapArea_LanayruSea:
-    - text: Lanayru Sea
-  GaneLake:
-    - text: Purifier Lake
-  GimpoMt:
-    - text: Mount Floria
-  KurindaPrairie:
-    - text: Darybon Plains
-  SanaePlateau:
-    - text: Hills of Baumer
-  DarinoPond:
-    - text: Nirvata Lake
-  MoriMt:
-    - text: Ulri Mountain
-  Dungeon093:
-    - text: Raqa Zunzo Shrine
-  HyruleTemple:
-    - text: Hyrule Cathedral
-  MapRegion_Firone:
-    - text: Faron
-  IbaraPlateau:
-    - text: Ibara Butte
-  KutenLake:
-    - text: Uten Marsh
-  DamzelForest:
-    - text: Damel Forest
-  LakeHylia:
-    - text: Lake Hylia
-  PakanchiIsland:
-    - text: Knuckel Island
-  YashinoBeach:
-    - text: Palmorae Beach
-  Dungeon094:
-    - text: Tho Kayu Shrine
-  AkkareGarrison:
-    - text: Akkala Parade Ground Ruins
-  MapRegion_Lanayru:
-    - text: Lanayru
-  AnchoBeach:
-    - text: Toronbo Beach
-  OkuAkkarePlain:
-    - text: Akkala Wilds
-  JiuRiver:
-    - text: Zora River
-  TrakaIsland_Big:
-    - text: Mercay Island
-  Dungeon095:
-    - text: Kuhn Sidajj Shrine
-  NorthHatelHatago:
-    - text: Wetland Stable
-  GobyMt:
-    - text: Tuft Mountain
-  GoyoLake:
-    - text: Bloodleaf Lake
-  SusonoPlain:
-    - text: Illumeni Plateau
-  HamiyonPlain:
-    - text: Ovli Plain
-  FeoreRiver:
-    - text: Lake Mekar
-  RinosPass:
-    - text: "Dronoc's Pass"
-  Dungeon096:
-    - text: Qukah Nata Shrine
-  EastDam:
-    - text: East Reservoir Lake
-  WetGarrison:
-    - text: Moor Garrison Ruins
-  GutinizaPlain:
-    - text: Guchini Plain
-  TabantaHill:
-    - text: Tabantha Hills
-  HemaHill:
-    - text: "Hemaar's Descent"
-  Dungeon097:
-    - text: Korgu Chideh Shrine
-  ForestHatago:
-    - text: Woodland Stable
-  KarimikiLake:
-    - text: Camphor Pond
-  RiberaForest:
-    - text: Ebara Forest
-  SojijiHill:
-    - text: Safula Hill
-  MacusePeninsula:
-    - text: Rist Peninsula
-  RokomakuMt:
-    - text: Madorna Mountain
-  Dungeon040:
-    - text: "Kaam Ya'tak Shrine"
-  Dungeon098:
-    - text: Daag Chokah Shrine
-  MapArea_EastHateru:
-    - text: East Necluda
-  KazanaDungeon:
-    - text: Tempest Gulch
-  PearlWaste:
-    - text: Palu Wasteland
-  HimeidaMt:
-    - text: Meda Mountain
-  MinaminoBay:
-    - text: Loshlo Harbor
-  Dungeon041:
-    - text: Ja Baij Shrine
-  Dungeon099:
-    - text: "Ta'loh Naeg Shrine"
-  BlindForest:
-    - text: Thyphlo Ruins
-  TamulPlain:
-    - text: Ordorac Quarry
-  HyliaRiver:
-    - text: River of the Dead
-  EastGerudo:
-    - text: East Barrens
-  MorudaMt:
-    - text: Daval Peak
-  RutimaHill:
-    - text: Rutimala Hill
-  Dungeon042:
-    - text: Rin Oyaa Shrine
-  HyruleCastle:
-    - text: Hyrule Castle
-  KaturaCastle:
-    - text: Sage Temple Ruins
-  AnbonBeach:
-    - text: "Martha's Landing"
-  KapporeMt:
-    - text: Mount Faloraa
-  ZoraBridge:
-    - text: Great Zora Bridge
-  DonLake:
-    - text: Lulu Lake
-  FloriaRiver:
-    - text: Floria River
-  Dungeon043:
-    - text: Kuh Takkar Shrine
-  LanayruEastEntrance:
-    - text: Lanayru Road - East Gate
-  KumSpa:
-    - text: Sturnida Secret Hot Spring
-  TabantaBridgeHatago:
-    - text: Tabantha Bridge Stable
-  ExpaTrees:
-    - text: Retsam Forest
-  TeguriPlain:
-    - text: Grinnden Plains
-  DotiBeach:
-    - text: Rimba Beach
-  Dungeon044:
-    - text: Shee Venath Shrine
-  JokuBridge:
-    - text: Proxim Bridge
-  AkkareZhaiBridge:
-    - text: Akkala Bridge Ruins
-  MapArea_HyruleForest:
-    - text: Great Hyrule Forest
-  KarusaValley:
-    - text: Karusa Valley
-  TabantaSnow_North:
-    - text: N. Tabantha Snowfield
-  NanaimoPlain:
-    - text: Rowan Plain
-  ManbaLake:
-    - text: Goro Cove
-  RiritotoLake:
-    - text: Lake Totori
-  Dungeon045:
-    - text: Ha Dahamar Shrine
-  GerudoCanyon_Entrance:
-    - text: Gerudo Canyon Pass
-  GerudoDesert_Entrance:
-    - text: Gerudo Desert Gateway
-  ZonauLegacy:
-    - text: Zonai Ruins
-  KukujaValley:
-    - text: Tanagar Canyon
-  TuaboSnow:
-    - text: Vatorsa Snowfield
-  DragonsFar:
-    - text: "Dragon's Exile"
-  Dungeon046:
-    - text: Shada Naw Shrine
-  HatenoLabo:
-    - text: Hateno Ancient Tech Lab
+    contents:
+      - text: Darunia Lake
   AkazaMt:
-    - text: Lanayru Range
-  KitakkarePlain:
-    - text: North Akkala Valley
-  KimarikaMt:
-    - text: Peak of Awakening
-  FairyForest:
-    - text: Forest of Spirits
-  DasukidaMt:
-    - text: Mount Dunsel
-  Rikona_Peninshra:
-    - text: Rikoka Hills
-  HawkMt:
-    - text: Cuho Mountain
-  Dungeon047:
-    - text: Ree Dahee Shrine
-  BigTree:
-    - text: Ancient Tree Stump
-  MapArea_TamulSea:
-    - text: Akkala Sea
-  KaturaRiver:
-    - text: Regencia River
-  KinshoiMt:
-    - text: Mount Daphnes
-  GoanaValley:
-    - text: Gama Cove
-  Dungeon048:
-    - text: Ze Kasho Shrine
-  GameBitalockGolf:
-    - text: Tanagar Canyon Course
-  GutinizaPlainTomb:
-    - text: Guchini Plain Barrows
-  HyrulePlace:
-    - text: Military Training Camp
-  ShichijoBridge:
-    - text: Horwell Bridge
-  TrakaIsland_North:
-    - text: Shrine Island
-  NaruguPeninsula:
-    - text: Mapla Point
-  Dungeon049:
-    - text: Kaya Wan Shrine
-  GatinLake:
-    - text: Cephla Lake
-  ShijoBridge:
-    - text: Orsedd Bridge
-  IsakuIslands:
-    - text: Millennio Sandbar
-  TotenLake:
-    - text: "Oakle's Navel"
-  TorumaDesert:
-    - text: Toruma Dunes
-  BantaValley:
-    - text: Breach of Demise
-  DodoraBridge:
-    - text: "Luto's Crossing"
-  MarritaExchange:
-    - text: Maritta Exchange Ruins
-  TabantaVillage:
-    - text: Tabantha Village Ruins
-  MapArea_EldinMountains:
-    - text: Eldin Mountains
-  NezuppoTrees:
-    - text: Pappetto Grove
-  NutsLake:
-    - text: Lake Saria
-  UMiiVillage:
-    - text: Tarrey Town
-  HyruleGarrison:
-    - text: Hyrule Garrison Ruins
-  GerudoSummit:
-    - text: Gerudo Summit
-  GiankonIsland:
-    - text: Mekar Island
-  YarimoRiver:
-    - text: Golow River
-  TurasuBridge:
-    - text: Horse God Bridge
-  HeburaNorthSummit:
-    - text: Hebra North Summit
-  HeburaTundera:
-    - text: Hebra Tundra
-  MarittaHill:
-    - text: Salari Hill
-  RosomaLake:
-    - text: Toto Lake
-  Dungeon100:
-    - text: Keeha Yoog Shrine
-  SouthGerudoLegacy:
-    - text: "Arbiter's Grounds"
-  ImeruMt:
-    - text: Elma Knolls
-  Dungeon101:
-    - text: Dagah Keek Shrine
+    contents:
+      - text: Lanayru Range
+  AkkareBigBridge:
+    contents:
+      - text: Akkala Span
+  AkkareBridge:
+    contents:
+      - text: Akkala Span
+  AkkareGarrison:
+    contents:
+      - text: Akkala Parade Ground Ruins
+  AkkareZhai:
+    contents:
+      - text: Akkala Citadel Ruins
+  AkkareZhaiBridge:
+    contents:
+      - text: Akkala Bridge Ruins
+  AmimePlateau:
+    contents:
+      - text: Nette Plateau
+  AmonenePlateau:
+    contents:
+      - text: Ralis Pond
+  AnbonBeach:
+    contents:
+      - text: "Martha's Landing"
+  AnchoBeach:
+    contents:
+      - text: Toronbo Beach
   AncientLabo:
-    - text: Akkala Ancient Tech Lab
-  FrontGatePosttown:
-    - text: Gatepost Town Ruins
-  MapRegion_Eldin:
-    - text: Eldin
-  GatakaraPond:
-    - text: Lake Kolomo
-  BiginaTrees:
-    - text: Ginner Woods
-  Unknown:
-    - text: N/A
-  Dungeon102:
-    - text: Zuna Kai Shrine
-  CelebrationPark:
-    - text: Sacred Ground Ruins
-  Tower01:
-    - text: Hebra Tower
-  IkokoPlateau:
-    - text: Talus Plateau
-  ZaridoLake:
-    - text: Lake Darman
-  TrakaIsland_East:
-    - text: Kincean Island
-  BuibuiTrees:
-    - text: Bubinga Forest
-  HesonaiValley:
-    - text: Yarna Valley
-  BoraraCape:
-    - text: Tarm Point
-  Dungeon103:
-    - text: Dila Maag Shrine
-  MaronSpring:
-    - text: Malanya Spring
-  Tower02:
-    - text: Tabantha Tower
-  EquePlateau:
-    - text: Angel Peak
-  BachimakuMt:
-    - text: Solewood Range
-  EastShrine:
-    - text: Eastern Abbey
-  Dungeon060:
-    - text: Daqo Chisay Shrine
-  Dungeon104:
-    - text: Lanno Kooh Shrine
-  WeaponCureSpring:
-    - text: Great Fairy Fountain
-  Tower03:
-    - text: Gerudo Tower
-  FinalTrial:
-    - text: Final Trial
-  HatenoBeach:
-    - text: Hateno Beach
-  LakeFloria:
-    - text: Lake Floria
-  MizemakuMt:
-    - text: Walnot Mountain
-  LeMarbeBridge:
-    - text: Jeddo Bridge
-  Dungeon061:
-    - text: Shoda Sah Shrine
-  Dungeon105:
-    - text: "Tu Ka'loh Shrine"
-  Tower04:
-    - text: Wasteland Tower
-  OrupaPlateau:
-    - text: Laparoh Mesa
-  BiridinHill:
-    - text: Birida Lookout
-  BironSnow:
-    - text: Biron Snowshelf
-  Dungeon062:
-    - text: Sha Gehma Shrine
-  Dungeon106:
-    - text: Maag Halan Shrine
-  HyralBridge:
-    - text: Bridge of Hylia
-  FlamingoSpa:
-    - text: "Goflam's Secret Hot Spring"
-  Tower05:
-    - text: Woodland Tower
-  UkkoPond:
-    - text: Lake Kilsie
-  SaohPoint:
-    - text: Ternio Trail
+    contents:
+      - text: Akkala Ancient Tech Lab
+  AnoleLake:
+    contents:
+      - text: Gorko Lake
+  AnoleTunnel:
+    contents:
+      - text: Gorko Tunnel
+  ArafuraPlain:
+    contents:
+      - text: Fural Plain
+  AraisoBeach:
+    contents:
+      - text: Aris Beach
+  Assassin:
+    contents:
+      - text: Yiga Clan Hideout
   AzimetosPlateau:
-    - text: "Mystathi's Shelf"
-  HatenoBay:
-    - text: Kitano Bay
-  KikinosaMt:
-    - text: "Lindor's Brow"
-  Dungeon063:
-    - text: Kema Zoos Shrine
-  Dungeon107:
-    - text: Misae Suma Shrine
-  Tower06:
-    - text: Central Tower
-  JijigegeMt:
-    - text: Mount Rozudo
-  Dungeon064:
-    - text: Daqa Koh Shrine
-  Dungeon108:
-    - text: Ketoh Wawai Shrine
-  Rito:
-    - text: Rito Village
-  FironeForestEntrance:
-    - text: Faron Woods
-  Tower07:
-    - text: Great Plateau Tower
-  MapRegion_Tamul:
-    - text: Akkala
-  EunpoHighlands:
-    - text: Deplian Badlands
-  GisaHill:
-    - text: Nero Hill
-  KutiffMt:
-    - text: Mount Rhoam
-  Dungeon065:
-    - text: Keh Namut Shrine
-  Dungeon109:
-    - text: Ritaag Zumo Shrine
-  Cohorint:
-    - text: Eventide Island
-  Tower08:
-    - text: Dueling Peaks Tower
-  MapArea_CentralHyrule:
-    - text: Hyrule Field
-  IrimoRiver:
-    - text: Goronbi River
-  SarjonForest:
-    - text: Sarjon Woods
-  DokuroPond:
-    - text: Skull Lake
-  MinakkareLake:
-    - text: "South Lake Akkala "
-  Dungeon066:
-    - text: Kah Mael Shrine
-  HyruleCastle_Room_0:
-    - text: Observation Room
-  Tower09:
-    - text: Lake Tower
-  GamettaPlateau:
-    - text: Cliffs of Quince
-  KinmePlateau:
-    - text: Koholit Rock
-  SaiMt:
-    - text: Mount Gustaf
-  Dungeon067:
-    - text: Qua Raym Shrine
-  EastGerudoRuins:
-    - text: East Gerudo Ruins
-  HyruleCastle_Room_1:
-    - text: Dining Hall
-  GigiLake:
-    - text: Boné Pond
-  KibinaLake:
-    - text: Herin Lake
-  TerumePass:
-    - text: Taran Pass
-  TrakaIsland_Center:
-    - text: Goponga Island
-  Dungeon010:
-    - text: Kay Noh Shrine
-  Dungeon068:
-    - text: Ya Naga Shrine
-  HyruleCastle_Room_2:
-    - text: "Guards' Chamber"
-  KamutariPlateau:
-    - text: Phalian Highlands
-  ZifForest:
-    - text: Forest of Time
-  NaierunPeninsula:
-    - text: Lodrum Headland
-  MarittaPrairie:
-    - text: Salari Plain
-  Dungeon011:
-    - text: Monya Toma Shrine
-  Dungeon069:
-    - text: Ishto Soh Shrine
-  HopesPlateau:
-    - text: Great Plateau
-  HyruleCastle_Room_3:
-    - text: Library
-  GeraRiver:
-    - text: Fir River
-  GenLake:
-    - text: Lake Ferona
-  KomoreBeach:
-    - text: Komo Shoreline
-  JedaPlateau:
-    - text: Koukot Plateau
-  XehaPlateau:
-    - text: Upland Zorana
-  NomyPlain:
-    - text: "Ludfo's Bog"
-  BumiPlain:
-    - text: Windvane Meadow
-  HeburaIcicle:
-    - text: Icefall Foothills
-  Dungeon012:
-    - text: Voo Lota Shrine
-  HyrulePark:
-    - text: Hyrule Forest Park
-  OngiForest:
-    - text: Applean Forest
-  GiminoPond:
-    - text: Lake Sumac
-  KimarikaPlateau:
-    - text: Nirvata Plateau
-  KoganeyaLake:
-    - text: Keya Pond
-  KoshaIsland:
-    - text: Davdi Island
-  ZaridoPlateau:
-    - text: "Eldin's Flank"
-  TehotaWet:
-    - text: Nautelle Wetlands
-  MezusuPass:
-    - text: Rospro Pass
-  RapikuruPlateau:
-    - text: "Ja'Abu Ridge"
-  Dungeon013:
-    - text: Katosa Aug Shrine
-  HyruleCastle_Room_5:
-    - text: Lockup
-  FlowerSandbank:
-    - text: Floret Sandbar
-  GerudoHatago:
-    - text: Gerudo Canyon Stable
+    contents:
+      - text: "Mystathi's Shelf"
+  BachimakuMt:
+    contents:
+      - text: Solewood Range
   BaconCliff:
-    - text: Gortram Cliff
-  KattoriPlateau:
-    - text: Farosh Hills
-  KibakkaSnow:
-    - text: Hebra Headspring
+    contents:
+      - text: Gortram Cliff
+  BameHill:
+    contents:
+      - text: Passer Hill
+  BanmezaLake:
+    contents:
+      - text: Harker Lake
+  BantaValley:
+    contents:
+      - text: Breach of Demise
+  BarakkiPlain:
+    contents:
+      - text: Dalite Forest
+  BarumePlain:
+    contents:
+      - text: Barula Plain
+  BigBrotherBridge:
+    contents:
+      - text: Big Twin Bridge
+  BigTree:
+    contents:
+      - text: Ancient Tree Stump
+  BigalLake:
+    contents:
+      - text: Medingo Pool
+  BiginaTrees:
+    contents:
+      - text: Ginner Woods
+  BiridinHill:
+    contents:
+      - text: Birida Lookout
+  BironSnow:
+    contents:
+      - text: Biron Snowshelf
+  BituoValley:
+    contents:
+      - text: "Tobio's Hollow"
+  BlindForest:
+    contents:
+      - text: Thyphlo Ruins
+  BlizzarValley:
+    contents:
+      - text: Coldsnap Hollow
+  BokoboLake:
+    contents:
+      - text: Gero Pond
+  BonrasForest:
+    contents:
+      - text: Bronas Forest
+  BoraraCape:
+    contents:
+      - text: Tarm Point
+  BottuBay:
+    contents:
+      - text: Spool Bight
+  BraveFountain:
+    contents:
+      - text: Spring of Courage
+  BrosRock:
+    contents:
+      - text: "Warbler's Nest"
+  BrostarPlain:
+    contents:
+      - text: Samasa Plain
+  BuhaIslands:
+    contents:
+      - text: Broca Island
+  BuibuiTrees:
+    contents:
+      - text: Bubinga Forest
+  BuichadaPlateau:
+    contents:
+      - text: Tumlea Heights
+  BuidaLake:
+    contents:
+      - text: Rassla Lake
+  BumiPlain:
+    contents:
+      - text: Windvane Meadow
+  BuramuPlateau:
+    contents:
+      - text: Popla Foothills
+  CastleTownMark:
+    contents:
+      - text: Hyrule Castle Town Ruins
+  CelebrationPark:
+    contents:
+      - text: Sacred Ground Ruins
+  CentralExchange:
+    contents:
+      - text: Exchange Ruins
+  ChagaraMt:
+    contents:
+      - text: Gogobi Shores
+  ChirakaVillage:
+    contents:
+      - text: Goponga Village Ruins
+  ChuonoPond:
+    contents:
+      - text: Zelkoa Pond
+  Cohorint:
+    contents:
+      - text: Eventide Island
+  Cokiri:
+    contents:
+      - text: Korok Forest
+  Corosseo:
+    contents:
+      - text: Coliseum Ruins
   CresiaPeninsula:
-    - text: Cape Cresia
+    contents:
+      - text: Cape Cresia
+  DamzelForest:
+    contents:
+      - text: Damel Forest
+  DanioPlain:
+    contents:
+      - text: Ukuku Plains
+  DarinoPond:
+    contents:
+      - text: Nirvata Lake
+  DasukidaMt:
+    contents:
+      - text: Mount Dunsel
+  DasukidaPlateau:
+    contents:
+      - text: Dunsel Plateau
+  DatsuPlain:
+    contents:
+      - text: Parache Plains
+  DeathCaldera:
+    contents:
+      - text: Death Caldera
+  DeathMountainHatago:
+    contents:
+      - text: Foothill Stable
+  DeathMountain_Entrance:
+    contents:
+      - text: Maw of Death Mountain
   DekamuPlain:
-    - text: Marblod Plain
-  HarayaLake:
-    - text: Haran Lake
+    contents:
+      - text: Marblod Plain
+  DodoraBridge:
+    contents:
+      - text: "Luto's Crossing"
+  DokamamaPlain:
+    contents:
+      - text: Sahasra Slope
+  DokuroPond:
+    contents:
+      - text: Skull Lake
+  DonLake:
+    contents:
+      - text: Lulu Lake
+  DotiBeach:
+    contents:
+      - text: Rimba Beach
+  DragonMarsh:
+    contents:
+      - text: Dragon Bone Mire
+  DragonsFar:
+    contents:
+      - text: "Dragon's Exile"
+  Dungeon000:
+    contents:
+      - text: Tah Muhl Shrine
+  Dungeon001:
+    contents:
+      - text: Jee Noh Shrine
+  Dungeon002:
+    contents:
+      - text: Sah Dahaj Shrine
+  Dungeon003:
+    contents:
+      - text: Hawa Koth Shrine
+  Dungeon004:
+    contents:
+      - text: Zalta Wa Shrine
+  Dungeon005:
+    contents:
+      - text: "Ne'ez Yohma Shrine"
+  Dungeon006:
+    contents:
+      - text: Yah Rin Shrine
+  Dungeon007:
+    contents:
+      - text: Bosh Kala Shrine
+  Dungeon008:
+    contents:
+      - text: Bareeda Naag Shrine
+  Dungeon009:
+    contents:
+      - text: Owa Daim Shrine
+  Dungeon010:
+    contents:
+      - text: Kay Noh Shrine
+  Dungeon011:
+    contents:
+      - text: Monya Toma Shrine
+  Dungeon012:
+    contents:
+      - text: Voo Lota Shrine
+  Dungeon013:
+    contents:
+      - text: Katosa Aug Shrine
   Dungeon014:
-    - text: Kam Urog Shrine
-  HyruleCastle_Room_6:
-    - text: "Princess Zelda's Room"
-  NefraHill:
-    - text: Nephra Hill
+    contents:
+      - text: Kam Urog Shrine
   Dungeon015:
-    - text: Toto Sah Shrine
-  PowerFountain:
-    - text: Spring of Power
-  HyruleCastle_Room_7:
-    - text: Docks
-  TamurulHatago_02:
-    - text: South Akkala Stable
-  FaronHatago000:
-    - text: Dueling Peaks Stable
-  HyruleWestTown:
-    - text: West Castle Town
+    contents:
+      - text: Toto Sah Shrine
   Dungeon016:
-    - text: Rucco Maag Shrine
-  HyruleCastle_Room_8:
-    - text: "Princess Zelda's Study"
-  Quilton:
-    - text: Fang and Bone
-  FaronHatago001:
-    - text: Lakeside Stable
-  IsakiCape:
-    - text: Soka Point
-  GashamahiMt:
-    - text: Crenel Peak
-  TryCape:
-    - text: Shatterback Point
-  TurasuLake:
-    - text: Lake of the Horse God
-  HeburaSouthSummit:
-    - text: Hebra South Summit
-  RapinyaPlateau:
-    - text: Ruto Precipice
-  RonronFarm:
-    - text: Ranch Ruins
-  SusonoPond:
-    - text: Lake Illumeni
+    contents:
+      - text: Rucco Maag Shrine
   Dungeon017:
-    - text: Shee Vaneer Shrine
-  HyruleCastle_Room_9:
-    - text: "King's Study"
-  FaronHatago002:
-    - text: Highland Stable
-  KaiyanPlain:
-    - text: Rabia Plain
-  NagyuPlateau:
-    - text: Tal Tal Peak
-  HigakkareBeach:
-    - text: East Akkala Beach
-  LanayruBay:
-    - text: Lanayru Bay
+    contents:
+      - text: Shee Vaneer Shrine
   Dungeon018:
-    - text: Rok Uwog Shrine
-  Goron:
-    - text: Goron City
-  KihirePlain:
-    - text: Keelay Plain
-  SugrantForest:
-    - text: Pagos Woods
+    contents:
+      - text: Rok Uwog Shrine
   Dungeon019:
-    - text: "Dow Na'eh Shrine"
+    contents:
+      - text: "Dow Na'eh Shrine"
+  Dungeon020:
+    contents:
+      - text: Sheem Dagoze Shrine
+  Dungeon021:
+    contents:
+      - text: Toh Yahsa Shrine
+  Dungeon022:
+    contents:
+      - text: Keo Ruug Shrine
+  Dungeon023:
+    contents:
+      - text: Sheh Rata Shrine
+  Dungeon024:
+    contents:
+      - text: Mezza Lo Shrine
+  Dungeon025:
+    contents:
+      - text: Kayra Mah Shrine
+  Dungeon026:
+    contents:
+      - text: "Shae Mo'sah Shrine"
+  Dungeon027:
+    contents:
+      - text: Rota Ooh Shrine
+  Dungeon028:
+    contents:
+      - text: Shora Hah Shrine
+  Dungeon029:
+    contents:
+      - text: Hila Rao Shrine
+  Dungeon030:
+    contents:
+      - text: Joloo Nah Shrine
+  Dungeon031:
+    contents:
+      - text: "Mo'a Keet Shrine"
+  Dungeon032:
+    contents:
+      - text: Dako Tah Shrine
+  Dungeon033:
+    contents:
+      - text: Daka Tuss Shrine
+  Dungeon034:
+    contents:
+      - text: Kah Yah Shrine
+  Dungeon035:
+    contents:
+      - text: "Akh Va'quot Shrine"
+  Dungeon036:
+    contents:
+      - text: Sho Dantu Shrine
+  Dungeon037:
+    contents:
+      - text: Shae Loya Shrine
+  Dungeon038:
+    contents:
+      - text: Oman Au Shrine
+  Dungeon039:
+    contents:
+      - text: Myahm Agana Shrine
+  Dungeon040:
+    contents:
+      - text: "Kaam Ya'tak Shrine"
+  Dungeon041:
+    contents:
+      - text: Ja Baij Shrine
+  Dungeon042:
+    contents:
+      - text: Rin Oyaa Shrine
+  Dungeon043:
+    contents:
+      - text: Kuh Takkar Shrine
+  Dungeon044:
+    contents:
+      - text: Shee Venath Shrine
+  Dungeon045:
+    contents:
+      - text: Ha Dahamar Shrine
+  Dungeon046:
+    contents:
+      - text: Shada Naw Shrine
+  Dungeon047:
+    contents:
+      - text: Ree Dahee Shrine
+  Dungeon048:
+    contents:
+      - text: Ze Kasho Shrine
+  Dungeon049:
+    contents:
+      - text: Kaya Wan Shrine
+  Dungeon050:
+    contents:
+      - text: Shai Utoh Shrine
+  Dungeon051:
+    contents:
+      - text: Maka Rah Shrine
+  Dungeon052:
+    contents:
+      - text: "Gee Ha'rah Shrine"
+  Dungeon053:
+    contents:
+      - text: Sha Warvo Shrine
+  Dungeon054:
+    contents:
+      - text: "Ka'o Makagh Shrine"
+  Dungeon055:
+    contents:
+      - text: Dunba Taag Shrine
+  Dungeon056:
+    contents:
+      - text: Mirro Shaz Shrine
+  Dungeon057:
+    contents:
+      - text: Wahgo Katta Shrine
+  Dungeon058:
+    contents:
+      - text: Mogg Latan Shrine
+  Dungeon059:
+    contents:
+      - text: Kah Okeo Shrine
+  Dungeon060:
+    contents:
+      - text: Daqo Chisay Shrine
+  Dungeon061:
+    contents:
+      - text: Shoda Sah Shrine
+  Dungeon062:
+    contents:
+      - text: Sha Gehma Shrine
+  Dungeon063:
+    contents:
+      - text: Kema Zoos Shrine
+  Dungeon064:
+    contents:
+      - text: Daqa Koh Shrine
+  Dungeon065:
+    contents:
+      - text: Keh Namut Shrine
+  Dungeon066:
+    contents:
+      - text: Kah Mael Shrine
+  Dungeon067:
+    contents:
+      - text: Qua Raym Shrine
+  Dungeon068:
+    contents:
+      - text: Ya Naga Shrine
+  Dungeon069:
+    contents:
+      - text: Ishto Soh Shrine
+  Dungeon070:
+    contents:
+      - text: Soh Kofi Shrine
+  Dungeon071:
+    contents:
+      - text: Pumaag Nitae Shrine
+  Dungeon072:
+    contents:
+      - text: Dah Kaso Shrine
+  Dungeon073:
+    contents:
+      - text: Katah Chuki Shrine
+  Dungeon074:
+    contents:
+      - text: Noya Neha Shrine
+  Dungeon075:
+    contents:
+      - text: Dah Hesho Shrine
+  Dungeon076:
+    contents:
+      - text: Sasa Kai Shrine
+  Dungeon077:
+    contents:
+      - text: "Ke'nai Shakah Shrine"
+  Dungeon078:
+    contents:
+      - text: Mijah Rokee Shrine
+  Dungeon079:
+    contents:
+      - text: Namika Ozz Shrine
   Dungeon080:
-    - text: Shoqa Tatone Shrine
+    contents:
+      - text: Shoqa Tatone Shrine
+  Dungeon081:
+    contents:
+      - text: Muwo Jeem Shrine
+  Dungeon082:
+    contents:
+      - text: Chaas Qeta Shrine
+  Dungeon083:
+    contents:
+      - text: "Tena Ko'sah Shrine"
+  Dungeon084:
+    contents:
+      - text: Tutsuwa Nima Shrine
+  Dungeon085:
+    contents:
+      - text: Kema Kosassa Shrine
+  Dungeon086:
+    contents:
+      - text: Goma Asaagh Shrine
+  Dungeon087:
+    contents:
+      - text: Mozo Shenno Shrine
+  Dungeon088:
+    contents:
+      - text: Hia Miu Shrine
+  Dungeon089:
+    contents:
+      - text: "Saas Ko'sah Shrine"
+  Dungeon090:
+    contents:
+      - text: Suma Sahma Shrine
+  Dungeon091:
+    contents:
+      - text: Gorae Torr Shrine
+  Dungeon092:
+    contents:
+      - text: "Maag No'rah Shrine"
+  Dungeon093:
+    contents:
+      - text: Raqa Zunzo Shrine
+  Dungeon094:
+    contents:
+      - text: Tho Kayu Shrine
+  Dungeon095:
+    contents:
+      - text: Kuhn Sidajj Shrine
+  Dungeon096:
+    contents:
+      - text: Qukah Nata Shrine
+  Dungeon097:
+    contents:
+      - text: Korgu Chideh Shrine
+  Dungeon098:
+    contents:
+      - text: Daag Chokah Shrine
+  Dungeon099:
+    contents:
+      - text: "Ta'loh Naeg Shrine"
+  Dungeon100:
+    contents:
+      - text: Keeha Yoog Shrine
+  Dungeon101:
+    contents:
+      - text: Dagah Keek Shrine
+  Dungeon102:
+    contents:
+      - text: Zuna Kai Shrine
+  Dungeon103:
+    contents:
+      - text: Dila Maag Shrine
+  Dungeon104:
+    contents:
+      - text: Lanno Kooh Shrine
+  Dungeon105:
+    contents:
+      - text: "Tu Ka'loh Shrine"
+  Dungeon106:
+    contents:
+      - text: Maag Halan Shrine
+  Dungeon107:
+    contents:
+      - text: Misae Suma Shrine
+  Dungeon108:
+    contents:
+      - text: Ketoh Wawai Shrine
+  Dungeon109:
+    contents:
+      - text: Ritaag Zumo Shrine
+  Dungeon110:
+    contents:
+      - text: "Korsh O'hu Shrine"
+  Dungeon111:
+    contents:
+      - text: Tawa Jinn Shrine
+  Dungeon112:
+    contents:
+      - text: Lakna Rokee Shrine
+  Dungeon113:
+    contents:
+      - text: Shae Katha Shrine
+  Dungeon114:
+    contents:
+      - text: Shai Yota Shrine
+  Dungeon115:
+    contents:
+      - text: Rona Kachta Shrine
+  Dungeon116:
+    contents:
+      - text: Qaza Tokki Shrine
+  Dungeon117:
+    contents:
+      - text: "Jitan Sa'mi Shrine"
+  Dungeon118:
+    contents:
+      - text: To Quomo Shrine
+  Dungeon119:
+    contents:
+      - text: "Tahno O'ah Shrine"
+  EagleBridge:
+    contents:
+      - text: Kolami Bridge
+  EastDam:
+    contents:
+      - text: East Reservoir Lake
+  EastEunpoHighlands:
+    contents:
+      - text: East Deplian Badlands
+  EastGerudo:
+    contents:
+      - text: East Barrens
+  EastGerudoPlateau:
+    contents:
+      - text: East Gerudo Mesa
+  EastGerudoRuins:
+    contents:
+      - text: East Gerudo Ruins
+  EastPostTownRuin:
+    contents:
+      - text: East Post Ruins
+  EastShrine:
+    contents:
+      - text: Eastern Abbey
+  ElegLake:
+    contents:
+      - text: Nabi Lake
+  EnRiver:
+    contents:
+      - text: Menoat River
+  EquePlateau:
+    contents:
+      - text: Angel Peak
+  ErumedaPlateau:
+    contents:
+      - text: "Meadela's Mantle"
+  EunpoHighlands:
+    contents:
+      - text: Deplian Badlands
+  Execution:
+    contents:
+      - text: Castle Town Prison
+  ExpaTrees:
+    contents:
+      - text: Retsam Forest
+  EzzuBridge:
+    contents:
+      - text: Eagus Bridge
+  FairyForest:
+    contents:
+      - text: Forest of Spirits
+  FaronHatago000:
+    contents:
+      - text: Dueling Peaks Stable
+  FaronHatago001:
+    contents:
+      - text: Lakeside Stable
+  FaronHatago002:
+    contents:
+      - text: Highland Stable
+  FenaMt:
+    contents:
+      - text: Mount Nabooru
+  FeoreRiver:
+    contents:
+      - text: Lake Mekar
+  FinalTrial:
+    contents:
+      - text: Final Trial
+  FinrasForest:
+    contents:
+      - text: Finra Woods
+  FironeForestEntrance:
+    contents:
+      - text: Faron Woods
+  FlamingoSpa:
+    contents:
+      - text: "Goflam's Secret Hot Spring"
+  FlogPond:
+    contents:
+      - text: Hopper Pond
+  FloriaBridge:
+    contents:
+      - text: Floria Bridge
+  FloriaFalls:
+    contents:
+      - text: Floria Falls
+  FloriaRiver:
+    contents:
+      - text: Floria River
+  FlowerSandbank:
+    contents:
+      - text: Floret Sandbar
+  ForestHatago:
+    contents:
+      - text: Woodland Stable
+  FrontGatePosttown:
+    contents:
+      - text: Gatepost Town Ruins
+  FuruboLake:
+    contents:
+      - text: Lake Intenoch
+  GakanakkyoPlain:
+    contents:
+      - text: West Hyrule Plains
+  GameBalling:
+    contents:
+      - text: "Pondo's Lodge"
+  GameBitalockGolf:
+    contents:
+      - text: Tanagar Canyon Course
+  GameGutsCriff:
+    contents:
+      - text: Gut Check Rock
+  GameMarathon:
+    contents:
+      - text: Footrace Check-In
+  GameShiledSurf:
+    contents:
+      - text: "Selmie's Spot"
+  GameYabusame:
+    contents:
+      - text: Mounted Archery Camp
+  GameZarashiRace:
+    contents:
+      - text: Sand-Seal Rally
+  GamettaPlateau:
+    contents:
+      - text: Cliffs of Quince
+  GaneLake:
+    contents:
+      - text: Purifier Lake
+  GarakishiPass:
+    contents:
+      - text: Shadow Pass
+  GarakishiVillage:
+    contents:
+      - text: Shadow Hamlet Ruins
+  GasemaDam:
+    contents:
+      - text: Rutala Dam
+  GasemaRiver:
+    contents:
+      - text: Rutala River
+  GashamaHill:
+    contents:
+      - text: Crenel Hills
+  GashamahiMt:
+    contents:
+      - text: Crenel Peak
+  GatakaraGarrison:
+    contents:
+      - text: Kolomo Garrison Ruins
+  GatakaraPond:
+    contents:
+      - text: Lake Kolomo
+  GatinLake:
+    contents:
+      - text: Cephla Lake
+  GenLake:
+    contents:
+      - text: Lake Ferona
+  GeraRiver:
+    contents:
+      - text: Fir River
+  Gerudo:
+    contents:
+      - text: Gerudo Town
+  GerudoCanyon:
+    contents:
+      - text: Gerudo Canyon
+  GerudoCanyon_Entrance:
+    contents:
+      - text: Gerudo Canyon Pass
+  GerudoDesert_Entrance:
+    contents:
+      - text: Gerudo Desert Gateway
+  GerudoFossil:
+    contents:
+      - text: Gerudo Great Skeleton
+  GerudoHatago:
+    contents:
+      - text: Gerudo Canyon Stable
+  GerudoSummit:
+    contents:
+      - text: Gerudo Summit
+  GiankonIsland:
+    contents:
+      - text: Mekar Island
+  GibogaHill:
+    contents:
+      - text: Rok Woods
+  GibururuMt:
+    contents:
+      - text: Ruto Mountain
+  GigiLake:
+    contents:
+      - text: Boné Pond
+  GiminoPond:
+    contents:
+      - text: Lake Sumac
+  GimpoMt:
+    contents:
+      - text: Mount Floria
+  GisaHill:
+    contents:
+      - text: Nero Hill
+  GishiHill:
+    contents:
+      - text: Piper Ridge
+  GoanaValley:
+    contents:
+      - text: Gama Cove
+  GobyMt:
+    contents:
+      - text: Tuft Mountain
+  GoinaPlateau:
+    contents:
+      - text: Pierre Plateau
+  Goron:
+    contents:
+      - text: Goron City
+  GoronBridge:
+    contents:
+      - text: Stolock Bridge
+  GoronSpa:
+    contents:
+      - text: Goron Hot Springs
+  GoyoLake:
+    contents:
+      - text: Bloodleaf Lake
+  GumaroValley:
+    contents:
+      - text: Atun Valley
+  GutinizaPlain:
+    contents:
+      - text: Guchini Plain
+  GutinizaPlainTomb:
+    contents:
+      - text: Guchini Plain Barrows
+  GyunaIsland:
+    contents:
+      - text: Ankel Island
+  HachijoBridge:
+    contents:
+      - text: Owlan Bridge
+  HagoromoFalls:
+    contents:
+      - text: Lantern Falls
+  HagoromoLake:
+    contents:
+      - text: Lantern Lake
+  HamiyonPlain:
+    contents:
+      - text: Ovli Plain
+  HarayaLake:
+    contents:
+      - text: Haran Lake
+  HashibiroLake:
+    contents:
+      - text: Strock Lake
+  Hateno:
+    contents:
+      - text: Hateno Village
+  HatenoBay:
+    contents:
+      - text: Kitano Bay
+  HatenoBeach:
+    contents:
+      - text: Hateno Beach
+  HatenoGate:
+    contents:
+      - text: Fort Hateno
+  HatenoLabo:
+    contents:
+      - text: Hateno Ancient Tech Lab
+  HatenokoIsland:
+    contents:
+      - text: Tenoko Island
+  HawkMt:
+    contents:
+      - text: Cuho Mountain
+  HeburaEastSummit:
+    contents:
+      - text: Hebra East Summit
+  HeburaFossil:
+    contents:
+      - text: Hebra Great Skeleton
+  HeburaIcicle:
+    contents:
+      - text: Icefall Foothills
+  HeburaLodge:
+    contents:
+      - text: Hebra Trailhead Lodge
+  HeburaMt_North:
+    contents:
+      - text: Hebra North Crest
+  HeburaNorthSummit:
+    contents:
+      - text: Hebra North Summit
+  HeburaPeak:
+    contents:
+      - text: Hebra Peak
+  HeburaSouthSummit:
+    contents:
+      - text: Hebra South Summit
+  HeburaTundera:
+    contents:
+      - text: Hebra Tundra
+  HeburaWestSummit:
+    contents:
+      - text: Hebra West Summit
+  HemaHill:
+    contents:
+      - text: "Hemaar's Descent"
+  HesonaiValley:
+    contents:
+      - text: Yarna Valley
+  HigakkareBeach:
+    contents:
+      - text: East Akkala Beach
+  HigakkarePlain:
+    contents:
+      - text: East Akkala Plains
+  HigashinoBay:
+    contents:
+      - text: Deepback Bay
+  HimeidaMt:
+    contents:
+      - text: Meda Mountain
+  HopeBridge:
+    contents:
+      - text: Bank of Wishes
+  HopesPlateau:
+    contents:
+      - text: Great Plateau
+  HyliaMt:
+    contents:
+      - text: Mount Hylia
+  HyliaRiver:
+    contents:
+      - text: River of the Dead
+  HyralBridge:
+    contents:
+      - text: Bridge of Hylia
+  HyralIslands:
+    contents:
+      - text: Hylia Island
+  HyruleCastle:
+    contents:
+      - text: Hyrule Castle
+  HyruleCastle_Hall_0:
+    contents:
+      - text: Sanctum
+  HyruleCastle_Hall_1:
+    contents:
+      - text: Second Gatehouse
+  HyruleCastle_Hall_2:
+    contents:
+      - text: First Gatehouse
+  HyruleCastle_Room_0:
+    contents:
+      - text: Observation Room
+  HyruleCastle_Room_1:
+    contents:
+      - text: Dining Hall
+  HyruleCastle_Room_10:
+    contents:
+      - text: East Passage
+  HyruleCastle_Room_11:
+    contents:
+      - text: West Passage
+  HyruleCastle_Room_2:
+    contents:
+      - text: "Guards' Chamber"
+  HyruleCastle_Room_3:
+    contents:
+      - text: Library
+  HyruleCastle_Room_5:
+    contents:
+      - text: Lockup
+  HyruleCastle_Room_6:
+    contents:
+      - text: "Princess Zelda's Room"
+  HyruleCastle_Room_7:
+    contents:
+      - text: Docks
+  HyruleCastle_Room_8:
+    contents:
+      - text: "Princess Zelda's Study"
+  HyruleCastle_Room_9:
+    contents:
+      - text: "King's Study"
+  HyruleCentralPlace:
+    contents:
+      - text: Central Square
+  HyruleDepthHatago:
+    contents:
+      - text: Outskirt Stable
+  HyruleEastTown:
+    contents:
+      - text: East Castle Town
+  HyruleGarrison:
+    contents:
+      - text: Hyrule Garrison Ruins
+  HyruleGround:
+    contents:
+      - text: Hyrule Kingdom
+  HyruleLabo:
+    contents:
+      - text: Royal Ancient Lab Ruins
+  HyrulePark:
+    contents:
+      - text: Hyrule Forest Park
+  HyrulePlace:
+    contents:
+      - text: Military Training Camp
+  HyruleTemple:
+    contents:
+      - text: Hyrule Cathedral
+  HyruleTower:
+    contents:
+      - text: Castle Town Watchtower
+  HyruleWater:
+    contents:
+      - text: Water Reservoir
+  HyruleWestHatago:
+    contents:
+      - text: Serenne Stable
+  HyruleWestTown:
+    contents:
+      - text: West Castle Town
+  Hyrule_Out:
+    contents:
+      - text: Hyrule Castle Moat
+  IbaraPlateau:
+    contents:
+      - text: Ibara Butte
+  IceHouse:
+    contents:
+      - text: Northern Icehouse
+  IkokoPlateau:
+    contents:
+      - text: Talus Plateau
+  ImeruMt:
+    contents:
+      - text: Elma Knolls
+  IooValley:
+    contents:
+      - text: Trilby Valley
+  IrimoLake:
+    contents:
+      - text: Goronbi Lake
+  IrimoRiver:
+    contents:
+      - text: Goronbi River
+  IsakiCape:
+    contents:
+      - text: Soka Point
+  IsakuIslands:
+    contents:
+      - text: Millennio Sandbar
+  JedaPlateau:
+    contents:
+      - text: Koukot Plateau
+  JijigegeMt:
+    contents:
+      - text: Mount Rozudo
+  JiuRiver:
+    contents:
+      - text: Zora River
+  JogoBridge:
+    contents:
+      - text: Rebonae Bridge
+  JokuBridge:
+    contents:
+      - text: Proxim Bridge
+  KagossaMt:
+    contents:
+      - text: Zokassa Ridge
+  KaiyanPlain:
+    contents:
+      - text: Rabia Plain
+  KakamoLake:
+    contents:
+      - text: Telta Lake
+  KakaomePlain:
+    contents:
+      - text: Irch Plain
+  Kakariko:
+    contents:
+      - text: Kakariko Village
+  KakufusaPlain:
+    contents:
+      - text: Whistling Hill
+  KamasuPlateau:
+    contents:
+      - text: Kamah Plateau
+  KamutariPlateau:
+    contents:
+      - text: Phalian Highlands
+  KapporeMt:
+    contents:
+      - text: Mount Faloraa
+  KarimikiLake:
+    contents:
+      - text: Camphor Pond
+  KarusaValley:
+    contents:
+      - text: Karusa Valley
+  KasuraMt:
+    contents:
+      - text: Corvash Peak
+  KattoriPlateau:
+    contents:
+      - text: Farosh Hills
+  KaturaCastle:
+    contents:
+      - text: Sage Temple Ruins
+  KaturaRiver:
+    contents:
+      - text: Regencia River
+  KauLake:
+    contents:
+      - text: Hebra Plunge
+  KazanaDungeon:
+    contents:
+      - text: Tempest Gulch
+  KazuryuLake:
+    contents:
+      - text: Dracozu Lake
+  KazuryuRiver:
+    contents:
+      - text: Dracozu River
+  KazusuPass:
+    contents:
+      - text: Kaepora Pass
+  KibakkaSnow:
+    contents:
+      - text: Hebra Headspring
+  KibinaLake:
+    contents:
+      - text: Herin Lake
+  KihirePlain:
+    contents:
+      - text: Keelay Plain
+  KikinosaMt:
+    contents:
+      - text: "Lindor's Brow"
+  KikinosaPlain:
+    contents:
+      - text: Upland Lindor
+  KimarikaMt:
+    contents:
+      - text: Peak of Awakening
+  KimarikaPlateau:
+    contents:
+      - text: Nirvata Plateau
+  KingValley:
+    contents:
+      - text: Forgotten Temple
+  KingfisherSpa:
+    contents:
+      - text: "Sherfin's Secret Hot Spring"
+  KinmePlateau:
+    contents:
+      - text: Koholit Rock
+  KinshoiMt:
+    contents:
+      - text: Mount Daphnes
+  KirisasaPlateau:
+    contents:
+      - text: Lanayru Bluff
+  KiriyabuMt:
+    contents:
+      - text: "Bonooru's Stand"
+  KitakkareBeach:
+    contents:
+      - text: North Akkala Beach
+  KitakkarePlain:
+    contents:
+      - text: North Akkala Valley
+  KitakkarePlateau:
+    contents:
+      - text: North Akkala Foothill
+  KitanoBay:
+    contents:
+      - text: Hateno Bay
+  KiyanbaTrees:
+    contents:
+      - text: Minshi Woods
+  KochuBridge:
+    contents:
+      - text: Kakariko Bridge
+  KoganeyaLake:
+    contents:
+      - text: Keya Pond
+  KokuppiSnow:
+    contents:
+      - text: Kopeeki Drifts
+  KokuwaLake:
+    contents:
+      - text: Ash Swamp
+  KomoreBeach:
+    contents:
+      - text: Komo Shoreline
+  KondanaLake:
+    contents:
+      - text: Darb Pond
+  KoshaIsland:
+    contents:
+      - text: Davdi Island
+  KuhanLake:
+    contents:
+      - text: Hanu Pond
+  KukujaValley:
+    contents:
+      - text: Tanagar Canyon
+  KumPlateau:
+    contents:
+      - text: Sturnida Basin
+  KumSpa:
+    contents:
+      - text: Sturnida Secret Hot Spring
+  KunaiBridge:
+    contents:
+      - text: Aquame Bridge
+  KunaiLake:
+    contents:
+      - text: Aquame Lake
+  KurindaPrairie:
+    contents:
+      - text: Darybon Plains
+  KurisobeSnow:
+    contents:
+      - text: Risoka Snowfield
+  KuroidaPlateau:
+    contents:
+      - text: Breman Peak
+  KutenLake:
+    contents:
+      - text: Uten Marsh
+  KutiffMt:
+    contents:
+      - text: Mount Rhoam
+  LakeFloria:
+    contents:
+      - text: Lake Floria
+  LakeHylia:
+    contents:
+      - text: Lake Hylia
+  LanayruBay:
+    contents:
+      - text: Lanayru Bay
+  LanayruEastEntrance:
+    contents:
+      - text: Lanayru Road - East Gate
+  LanayruWestEntrance:
+    contents:
+      - text: Lanayru Road - West Gate
+  LaveBeach:
+    contents:
+      - text: Laverra Beach
+  LeMarbeBridge:
+    contents:
+      - text: Jeddo Bridge
+  LightningPlateau:
+    contents:
+      - text: Thundra Plateau
+  LittleBrotherBridge:
+    contents:
+      - text: Little Twin Bridge
+  LocationDungeon:
+    contents:
+      - text: Ancient Shrine
+  LomeiIslands:
+    contents:
+      - text: Lomei Labyrinth Island
+  LostForest:
+    contents:
+      - text: Lost Woods
+  MacusePeninsula:
+    contents:
+      - text: Rist Peninsula
+  MakuminoValley:
+    contents:
+      - text: Harfin Valley
+  ManbaLake:
+    contents:
+      - text: Goro Cove
+  MapArea_CentralHyrule:
+    contents:
+      - text: Hyrule Field
+  MapArea_DeathMountain:
+    contents:
+      - text: Death Mountain
+  MapArea_EastHateru:
+    contents:
+      - text: East Necluda
+  MapArea_EldinCanyon:
+    contents:
+      - text: Eldin Canyon
+  MapArea_EldinMountains:
+    contents:
+      - text: Eldin Mountains
+  MapArea_FironeGrassland:
+    contents:
+      - text: Faron Grasslands
+  MapArea_FironeSea:
+    contents:
+      - text: Faron Sea
+  MapArea_GerudoDesert:
+    contents:
+      - text: Gerudo Desert
+  MapArea_GerudoHighlands:
+    contents:
+      - text: Gerudo Highlands
+  MapArea_HateruSea:
+    contents:
+      - text: Necluda Sea
+  MapArea_HeburaMountains:
+    contents:
+      - text: Hebra Mountains
+  MapArea_HyliaLake:
+    contents:
+      - text: Lake Hylia
+  MapArea_HyruleForest:
+    contents:
+      - text: Great Hyrule Forest
+  MapArea_HyruleHill:
+    contents:
+      - text: Hyrule Ridge
+  MapArea_LanayruSea:
+    contents:
+      - text: Lanayru Sea
+  MapArea_LanayruWaterSources:
+    contents:
+      - text: Lanayru Great Spring
+  MapArea_LanayruWetlands:
+    contents:
+      - text: Lanayru Wetlands
+  MapArea_LiveMountain:
+    contents:
+      - text: Mount Lanayru
+  MapArea_TabantaFrontier:
+    contents:
+      - text: Tabantha Frontier
+  MapArea_TamulOutback:
+    contents:
+      - text: Deep Akkala
+  MapArea_TamulPlateau:
+    contents:
+      - text: Akkala Highlands
+  MapArea_TamulSea:
+    contents:
+      - text: Akkala Sea
+  MapArea_WestHateru:
+    contents:
+      - text: West Necluda
+  MapRegion_Eldin:
+    contents:
+      - text: Eldin
+  MapRegion_Firone:
+    contents:
+      - text: Faron
+  MapRegion_Gerudo:
+    contents:
+      - text: Gerudo
+  MapRegion_Hateru:
+    contents:
+      - text: Necluda
+  MapRegion_Hebura:
+    contents:
+      - text: Hebra
+  "MapRegion_HyrulePrairie ":
+    contents:
+      - text: Central Hyrule
+  MapRegion_Lanayru:
+    contents:
+      - text: Lanayru
+  MapRegion_Tamul:
+    contents:
+      - text: Akkala
+  MarittaHill:
+    contents:
+      - text: Salari Hill
+  MarittaPrairie:
+    contents:
+      - text: Salari Plain
+  MaronSpring:
+    contents:
+      - text: Malanya Spring
+  MarritaExchange:
+    contents:
+      - text: Maritta Exchange Ruins
+  MasazuBridge:
+    contents:
+      - text: Moat Bridge
+  MasazuRock:
+    contents:
+      - text: Quarry Ruins
+  MedakaValley:
+    contents:
+      - text: Ulria Grotto
+  MeganeRock:
+    contents:
+      - text: Spectacle Rock
+  MemeMt:
+    contents:
+      - text: Ploymus Mountain
+  MenadaBeach:
+    contents:
+      - text: Afromsia Coast
+  MerkayaLowTrees:
+    contents:
+      - text: Taobab Grassland
+  MezusuPass:
+    contents:
+      - text: Rospro Pass
+  MiddleTrees:
+    contents:
+      - text: Midla Woods
+  MihekoBay:
+    contents:
+      - text: Malin Bay
+  MinakkareBridge:
+    contents:
+      - text: Sokkala Bridge
+  MinakkareBridgeEast:
+    contents:
+      - text: East Sokkala Bridge
+  MinakkareBridgeWest:
+    contents:
+      - text: West Sokkala Bridge
+  MinakkareFalls:
+    contents:
+      - text: Akkala Falls
+  MinakkareLake:
+    contents:
+      - text: "South Lake Akkala "
+  MinakkarePlain:
+    contents:
+      - text: South Akkala Plains
+  MinaminoBay:
+    contents:
+      - text: Loshlo Harbor
+  Mine:
+    contents:
+      - text: Abandoned North Mine
+  MizemakuMt:
+    contents:
+      - text: Walnot Mountain
+  MomoMt:
+    contents:
+      - text: "Scout's Hill"
+  MoriMt:
+    contents:
+      - text: Ulri Mountain
+  MoroLake:
+    contents:
+      - text: Mikau Lake
+  MorudaMt:
+    contents:
+      - text: Daval Peak
+  MorugaMt:
+    contents:
+      - text: Mount Granajh
+  MuguriPlain:
+    contents:
+      - text: Blatchery Plain
+  NaganizaHill:
+    contents:
+      - text: Temto Hill
+  NagyuPlateau:
+    contents:
+      - text: Tal Tal Peak
+  NaierunPeninsula:
+    contents:
+      - text: Lodrum Headland
+  NanaimoPlain:
+    contents:
+      - text: Rowan Plain
+  NangoPond:
+    contents:
+      - text: Zelo Pond
+  NantanCastle:
+    contents:
+      - text: South Lomei Labyrinth
+  NaruguPeninsula:
+    contents:
+      - text: Mapla Point
+  NefraHill:
+    contents:
+      - text: Nephra Hill
+  NezuppoTrees:
+    contents:
+      - text: Pappetto Grove
+  NiiLake:
+    contents:
+      - text: Cora Lake
+  NikakaIsland:
+    contents:
+      - text: Isle of Rabac
+  NishakkarePlain:
+    contents:
+      - text: Kanalet Ridge
+  NishojiBridge:
+    contents:
+      - text: Gleeok Bridge
+  NitariBeach:
+    contents:
+      - text: Korne Beach
+  NomyPlain:
+    contents:
+      - text: "Ludfo's Bog"
+  NorthHatelHatago:
+    contents:
+      - text: Wetland Stable
+  NorthHugeStone:
+    contents:
+      - text: Great Cliffs
+  NutsLake:
+    contents:
+      - text: Lake Saria
+  Oasis:
+    contents:
+      - text: Kara Kara Bazaar
+  OkuAkkarePlain:
+    contents:
+      - text: Akkala Wilds
+  OkuwaLake:
+    contents:
+      - text: Lake Siela
+  OngiForest:
+    contents:
+      - text: Applean Forest
+  OoosePlain:
+    contents:
+      - text: Oseira Plains
+  OrdinBridge:
+    contents:
+      - text: Bridge of Eldin
+  OrdinFossil:
+    contents:
+      - text: Eldin Great Skeleton
+  OrupaPlateau:
+    contents:
+      - text: Laparoh Mesa
+  OsanjoBridge:
+    contents:
+      - text: Helmhead Bridge
+  OshoromaLake:
+    contents:
+      - text: Ruto Lake
+  OtsukoWet:
+    contents:
+      - text: Torin Wetland
+  PafaBeach:
+    contents:
+      - text: Puffer Beach
+  PaiyuBay:
+    contents:
+      - text: Horon Lagoon
+  PakanchiIsland:
+    contents:
+      - text: Knuckel Island
+  PaparaPlateau:
+    contents:
+      - text: Stalry Plateau
+  PearlWaste:
+    contents:
+      - text: Palu Wasteland
+  PeridoBarrier:
+    contents:
+      - text: "Champion's Gate"
+  PongagaMt:
+    contents:
+      - text: Ebon Mountain
+  PoponMt:
+    contents:
+      - text: Satori Mountain
+  PostTownRuin:
+    contents:
+      - text: Outpost Ruins
+  PowerFountain:
+    contents:
+      - text: Spring of Power
+  PstaLake:
+    contents:
+      - text: Mido Swamp
+  PukiroroMt:
+    contents:
+      - text: Zodobon Highlands
+  PukuntoMt:
+    contents:
+      - text: Bottomless Swamp
+  PupukoreFalls:
+    contents:
+      - text: Veiled Falls
+  Quilton:
+    contents:
+      - text: Fang and Bone
+  RaberaWet:
+    contents:
+      - text: Rabella Wetlands
+  RapikuruPlateau:
+    contents:
+      - text: "Ja'Abu Ridge"
+  RapinyaPlateau:
+    contents:
+      - text: Ruto Precipice
+  RaruLake:
+    contents:
+      - text: Calora Lake
+  RashamaPlain:
+    contents:
+      - text: North Hyrule Plain
+  RazezePlateau:
+    contents:
+      - text: Lanayru Heights
+  RemainsElectric:
+    contents:
+      - text: Divine Beast Vah Naboris
+  RemainsFire:
+    contents:
+      - text: Divine Beast Vah Rudania
+  RemainsWater:
+    contents:
+      - text: Divine Beast Vah Ruta
+  RemainsWind:
+    contents:
+      - text: Divine Beast Vah Medoh
+  RiaroTrees:
+    contents:
+      - text: Hickaly Woods
+  RiberaForest:
+    contents:
+      - text: Ebara Forest
+  RibuchaPlateau:
+    contents:
+      - text: Aldor Foothills
+  Rikona_Peninshra:
+    contents:
+      - text: Rikoka Hills
+  RinosPass:
+    contents:
+      - text: "Dronoc's Pass"
+  RirikendoBridge:
+    contents:
+      - text: Oren Bridge
+  RirimukuHighlands:
+    contents:
+      - text: Drenan Highlands
+  RirimukuMt:
+    contents:
+      - text: Mount Drena
+  RiritotoLake:
+    contents:
+      - text: Lake Totori
+  RishakutoPlateau:
+    contents:
+      - text: Pillars of Levia
+  Rito:
+    contents:
+      - text: Rito Village
+  RitoHatago:
+    contents:
+      - text: Rito Stable
+  RiverSideHatago:
+    contents:
+      - text: Riverside Stable
+  RodaiLake:
+    contents:
+      - text: Rodai Lake
+  RogyLake:
+    contents:
+      - text: Lake Jarrah
+  RokomakuMt:
+    contents:
+      - text: Madorna Mountain
+  RonronCity:
+    contents:
+      - text: Mabe Village Ruins
+  RonronFarm:
+    contents:
+      - text: Ranch Ruins
+  RonronRiver:
+    contents:
+      - text: Hylia River
+  RoshiganLake:
+    contents:
+      - text: South Nabi Lake
+  RosomaLake:
+    contents:
+      - text: Toto Lake
+  RuberaHill:
+    contents:
+      - text: Cliffs of Ruvara
+  RutesLake:
+    contents:
+      - text: Corta Lake
+  RutimaHill:
+    contents:
+      - text: Rutimala Hill
+  RutsuPlain:
+    contents:
+      - text: Rayne Highlands
+  SaiMt:
+    contents:
+      - text: Mount Gustaf
+  SaihokuCastle:
+    contents:
+      - text: North Lomei Labyrinth
+  SanaePlateau:
+    contents:
+      - text: Hills of Baumer
+  SanrosaLake:
+    contents:
+      - text: Pico Pond
+  SaohPoint:
+    contents:
+      - text: Ternio Trail
+  SaphiasPlateau:
+    contents:
+      - text: "Sapphia's Table"
+  SarjonBridge:
+    contents:
+      - text: Sarjon Bridge
+  SarjonForest:
+    contents:
+      - text: Sarjon Woods
+  SasamuroBeach:
+    contents:
+      - text: Clarnet Coast
+  ShariverMt:
+    contents:
+      - text: Talonto Peak
+  ShichijoBridge:
+    contents:
+      - text: Horwell Bridge
+  ShigonDam:
+    contents:
+      - text: Lanayru Promenade
+  ShijoBridge:
+    contents:
+      - text: Orsedd Bridge
+  ShikuriIslands:
+    contents:
+      - text: Wintre Island
+  ShimukaPlateau:
+    contents:
+      - text: Robred Dropoff
+  ShinikkyoForest:
+    contents:
+      - text: "Giant's Forest"
+  ShinyarkiPlateau:
+    contents:
+      - text: Rauru Hillside
+  ShinyarkiVillage:
+    contents:
+      - text: Rauru Settlement Ruins
+  ShitanoPond:
+    contents:
+      - text: Firly Pond
+  SnowStatue:
+    contents:
+      - text: Statue of the Eighth Heroine
+  SojijiHill:
+    contents:
+      - text: Safula Hill
+  SojijiPark:
+    contents:
+      - text: Sanidin Park Ruins
+  SonoPrairie:
+    contents:
+      - text: Trilby Plain
+  SoridaPeninsula:
+    contents:
+      - text: Tingel Island
+  SotonkaBridge:
+    contents:
+      - text: Manhala Bridge
+  SouthGerudoLegacy:
+    contents:
+      - text: "Arbiter's Grounds"
+  SouthGerudoRuins:
+    contents:
+      - text: Southern Oasis
+  SouthMine:
+    contents:
+      - text: Southern Mine
+  StartPoint:
+    contents:
+      - text: Shrine of Resurrection
+  StonePillers:
+    contents:
+      - text: Ancient Columns
+  SugrantForest:
+    contents:
+      - text: Pagos Woods
+  SusonoLake:
+    contents:
+      - text: Rutile Lake
+  SusonoPlain:
+    contents:
+      - text: Illumeni Plateau
+  SusonoPond:
+    contents:
+      - text: Lake Illumeni
+  SusonoRiver:
+    contents:
+      - text: Tamio River
+  SusukadiBridge:
+    contents:
+      - text: Inogo Bridge
+  SwanLake:
+    contents:
+      - text: Hebra Falls
+  TabantaBridge:
+    contents:
+      - text: Tabantha Great Bridge
+  TabantaBridgeHatago:
+    contents:
+      - text: Tabantha Bridge Stable
+  TabantaCrater:
+    contents:
+      - text: Gisa Crater
+  TabantaHatago:
+    contents:
+      - text: Snowfield Stable
+  TabantaHill:
+    contents:
+      - text: Tabantha Hills
+  TabantaSnow:
+    contents:
+      - text: Tabantha Tundra
+  TabantaSnow_North:
+    contents:
+      - text: N. Tabantha Snowfield
+  TabantaSnow_South:
+    contents:
+      - text: S. Tabantha Snowfield
+  TabantaVillage:
+    contents:
+      - text: Tabantha Village Ruins
+  TafeaHill:
+    contents:
+      - text: Taafei Hill
+  TagonaTrees:
+    contents:
+      - text: Tabahl Woods
+  TakkikaPlain:
+    contents:
+      - text: Nima Plain
+  TamaLake:
+    contents:
+      - text: Tama Pond
+  TamourHatago:
+    contents:
+      - text: East Akkala Stable
+  TamulPlain:
+    contents:
+      - text: Ordorac Quarry
+  TamurulHatago_02:
+    contents:
+      - text: South Akkala Stable
+  TargarPlain:
+    contents:
+      - text: Brynna Plain
+  TaruhoPlateau:
+    contents:
+      - text: Firly Plateau
+  TaserakaBridge:
+    contents:
+      - text: Thims Bridge
+  TatsubaLake:
+    contents:
+      - text: Batrea Lake
+  Taura:
+    contents:
+      - text: Lurelin Village
+  TeguriPlain:
+    contents:
+      - text: Grinnden Plains
+  TehotaWet:
+    contents:
+      - text: Nautelle Wetlands
+  TennoMt:
+    contents:
+      - text: "Washa's Bluff"
+  TeraPlain:
+    contents:
+      - text: Mabe Prairie
+  TerumeMt:
+    contents:
+      - text: Mount Taran
+  TerumePass:
+    contents:
+      - text: Taran Pass
+  TimesShrine:
+    contents:
+      - text: Temple of Time
+  TohikiLake:
+    contents:
+      - text: Koto Pond
+  TomiyoPlateau:
+    contents:
+      - text: "Trotter's Downfall"
+  TompoPlain:
+    contents:
+      - text: Romani Plains
+  ToriaBridge:
+    contents:
+      - text: Boneyard Bridge
+  TorumaDesert:
+    contents:
+      - text: Toruma Dunes
+  TotenLake:
+    contents:
+      - text: "Oakle's Navel"
+  TotsugeBridge:
+    contents:
+      - text: Carok Bridge
+  Tower01:
+    contents:
+      - text: Hebra Tower
+  Tower02:
+    contents:
+      - text: Tabantha Tower
+  Tower03:
+    contents:
+      - text: Gerudo Tower
+  Tower04:
+    contents:
+      - text: Wasteland Tower
+  Tower05:
+    contents:
+      - text: Woodland Tower
+  Tower06:
+    contents:
+      - text: Central Tower
+  Tower07:
+    contents:
+      - text: Great Plateau Tower
+  Tower08:
+    contents:
+      - text: Dueling Peaks Tower
+  Tower09:
+    contents:
+      - text: Lake Tower
+  Tower10:
+    contents:
+      - text: Eldin Tower
+  Tower11:
+    contents:
+      - text: Akkala Tower
+  Tower12:
+    contents:
+      - text: Lanayru Tower
+  Tower13:
+    contents:
+      - text: Hateno Tower
+  Tower14:
+    contents:
+      - text: Faron Tower
+  Tower15:
+    contents:
+      - text: Ridgeland Tower
+  TrakaIsland:
+    contents:
+      - text: Linebeck Island
+  TrakaIsland_Big:
+    contents:
+      - text: Mercay Island
+  TrakaIsland_Center:
+    contents:
+      - text: Goponga Island
+  TrakaIsland_East:
+    contents:
+      - text: Kincean Island
+  TrakaIsland_New:
+    contents:
+      - text: Molida Island
+  TrakaIsland_North:
+    contents:
+      - text: Shrine Island
+  TrakaIsland_Small:
+    contents:
+      - text: Bannan Island
+  TrakaIsland_South:
+    contents:
+      - text: Zauz Island
+  TrakaIsland_West:
+    contents:
+      - text: Wes Island
+  TryCape:
+    contents:
+      - text: Shatterback Point
+  TsukaiePlateau:
+    contents:
+      - text: Stinger Cliffs
+  TuaboSnow:
+    contents:
+      - text: Vatorsa Snowfield
+  TunbriPlain:
+    contents:
+      - text: Courage Steppe
+  TurasuBridge:
+    contents:
+      - text: Horse God Bridge
+  TurasuLake:
+    contents:
+      - text: Lake of the Horse God
+  TutukikiSnow:
+    contents:
+      - text: Pikida Stonegrove
+  TwinsMountain:
+    contents:
+      - text: Dueling Peaks
+  UMiiVillage:
+    contents:
+      - text: Tarrey Town
+  UbotsuPlateau:
+    contents:
+      - text: Ubota Point
+  UchoPlateau:
+    contents:
+      - text: Mable Ridge
+  UkkoPond:
+    contents:
+      - text: Lake Kilsie
+  Unknown:
+    contents:
+      - text: N/A
+  UraitoLake:
+    contents:
+      - text: Riola Spring
+  UrokoCape:
+    contents:
+      - text: Cape Cales
+  VPlateau:
+    contents:
+      - text: Zirco Mesa
+  ValleyVillage:
+    contents:
+      - text: Flight Range
+  WabiLake:
+    contents:
+      - text: Lake Akkala
+  WatakaPlateau:
+    contents:
+      - text: "Quatta's Shelf"
+  WeaponCureSpring:
+    contents:
+      - text: Great Fairy Fountain
+  WestEunpoHighlands:
+    contents:
+      - text: West Deplian Badlands
+  WestGerudo:
+    contents:
+      - text: West Barrens
+  WestGerudoRuins:
+    contents:
+      - text: West Gerudo Ruins
+  WetGarrison:
+    contents:
+      - text: Moor Garrison Ruins
+  WhiteZora:
+    contents:
+      - text: "Zora's Domain"
+  WiseFountain:
+    contents:
+      - text: Spring of Wisdom
+  XehaPlateau:
+    contents:
+      - text: Upland Zorana
+  XekuBridge:
+    contents:
+      - text: Digdogg Suspension Bridge
+  YamabiLake:
+    contents:
+      - text: Yambi Lake
+  YamariRiver:
+    contents:
+      - text: Squabble River
+  YarimoRiver:
+    contents:
+      - text: Golow River
+  YashinoBeach:
+    contents:
+      - text: Palmorae Beach
+  YashinoLegacy:
+    contents:
+      - text: Palmorae Ruins
+  YuaSnow:
+    contents:
+      - text: Naydra Snowfield
+  ZamaPlain:
+    contents:
+      - text: Seres Scablands
+  ZaridoLake:
+    contents:
+      - text: Lake Darman
+  ZaridoPlateau:
+    contents:
+      - text: "Eldin's Flank"
+  ZifForest:
+    contents:
+      - text: Forest of Time
+  ZitoGreens:
+    contents:
+      - text: Passeri Greenbelt
+  ZonauLegacy:
+    contents:
+      - text: Zonai Ruins
+  ZoraBridge:
+    contents:
+      - text: Great Zora Bridge

@@ -1,357 +1,351 @@
 ---
+group_count: 19
+atr1_unknown: 4
 entries:
-  Npc_kokiri006_Talk010:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 34
-    - text: "*mumble*"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nAh..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I nodded off again...\nWelcome to the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Great Deku Tree's Navel"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  Npc_kokiri006_Talk080:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 19
-    - text: "Until I say \"good evening\"?\nAll right. Go get some rest.\nZzzzz..."
-  Npc_kokiri006_Talk081:
-    - text: "Take as long as you like with yawns\nand the ZZZs!"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  Npc_kokiri006_Talk030:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 11
-    - text: "I made a bed out of leaves just for you,\nMs. Hero!"
   "0000":
-    - text: Sleep.
+    attributes: ""
+    contents:
+      - text: Sleep.
   "0001":
-    - text: How much?
+    attributes: ""
+    contents:
+      - text: How much?
   "0002":
-    - text: Gotta go.
-  Npc_kokiri006_Talk050:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 1
-    - text: How long would you like to snooze?
-    - control:
-        one:
-          type6:
-            field_1: 10
-            field_2: 3
-            field_3: 4
-            field_4: 5
-            field_5: 6
-            field_6:
-              - 0
-              - 3
+    attributes: ""
+    contents:
+      - text: Gotta go.
   "0003":
-    - text: Until morning.
+    attributes: ""
+    contents:
+      - text: Until morning.
   "0004":
-    - text: Until noon.
-  Npc_kokiri006_Talk110:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 34
-    - text: Good...zzz...evening.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nBe careful..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: out there...
+    attributes: ""
+    contents:
+      - text: Until noon.
+  "0005":
+    attributes: ""
+    contents:
+      - text: Until evening.
+  "0006":
+    attributes: ""
+    contents:
+      - text: Never mind.
   Npc_kokiri006_Near000:
-    - text: "Good night, Ms. Heroine."
+    attributes: Npc_kokiri006
+    contents:
+      - text: "Good night, Ms. Hero."
   Npc_kokiri006_Talk000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 34
-    - text: "Zzz... "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " No."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Vegetarians everywhere!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nSTOP!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " THAT'S MY FACE!\n\nAhhh! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Sorry about that. I must have\ndozed off for a bit..."
-  "0005":
-    - text: Until evening.
+      - text: "Zzz... "
+      - control:
+          kind: pause
+          length: long
+      - text: " No."
+      - control:
+          kind: pause
+          length: long
+      - text: " Vegetarians everywhere!"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nSTOP!"
+      - control:
+          kind: pause
+          length: short
+      - text: " THAT'S MY FACE!\n\nAhhh! "
+      - control:
+          kind: pause
+          length: short
+      - text: "Sorry about that. I must have\ndozed off for a bit..."
   Npc_kokiri006_Talk001:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 20
-    - text: "Oh... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "OOOOOOOH!\nYou're Ms. Heroine, aren't you?!"
-  Npc_kokiri006_Talk070:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 19
-    - text: "Until I say \"good afternoon\"?\nAll right. Go get some rest."
-  "0006":
-    - text: Never mind.
+      - text: "Oh... "
+      - control:
+          kind: pause
+          length: short
+      - text: "OOOOOOOH!\nYou're Ms. Hero, aren't you?!"
   Npc_kokiri006_Talk002:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "The "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Great Deku Tree
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " told me all about\nyou. So you finally made it to our forest,\nhuh?\nI've been waiting for so long, I thought\nI might start to put down roots."
-  Npc_kokiri006_Talk130:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 0
-    - text: "Oh,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I don't want your rupees!\nYou're the great Ms. Heroine!\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
-            - 1
-    - text: "I prepared this bed for you ages ago!\nAll I want is to help you get some sleep."
+      - text: "The "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Great Deku Tree
+      - control:
+          kind: reset_colour
+      - text: " told me all about\nyou. So you finally made it to our forest,\nhuh?\nI've been waiting for so long, I thought\nI might start to put down roots."
   Npc_kokiri006_Talk003:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: "Welcome to the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Great Deku Tree's Navel"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
+      - text: "Welcome to the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - control:
+          kind: pause
+          length: short
+      - text: "Great Deku Tree's Navel"
+      - control:
+          kind: reset_colour
+      - text: "!"
+  Npc_kokiri006_Talk010:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 34
+      - text: "*mumble*"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nAh..."
+      - control:
+          kind: pause
+          length: short
+      - text: " I nodded off again...\nWelcome to the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Great Deku Tree's Navel"
+      - control:
+          kind: reset_colour
+      - text: "."
   Npc_kokiri006_Talk020:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 34
-    - text: Zzz...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nOh, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Ms. Heroine. Welcome to the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Great Deku Tree's Navel"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  Npc_kokiri006_Talk131:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 34
-    - text: I was waiting for so long...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: I got really
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\n*yawn*"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " sleepy..."
-  Npc_kokiri006_Talk090:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
+      - text: Zzz...
+      - control:
+          kind: pause
+          length: long
+      - text: "\nOh, "
+      - control:
+          kind: pause
+          length: short
+      - text: "Ms. Hero. Welcome to the\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Great Deku Tree's Navel"
+      - control:
+          kind: reset_colour
+      - text: "."
+  Npc_kokiri006_Talk030:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
-    - text: Good morning!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You can grab some\nbreakfast next door at the Spore Store!"
+            - 11
+      - text: "I made a bed out of leaves just for you,\nMs. Hero!"
   Npc_kokiri006_Talk040:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 0
-    - text: "Of course you don't need sleep,\nMs. Heroine! You look like a million rupees!"
+      - text: "Of course you don't need sleep,\nMs. Hero! You look like a million rupees!"
   Npc_kokiri006_Talk041:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 0
-    - text: But...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: I...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "work so hard every day to set\nup this bed especially for you, Ms. Heroine.\n\nYour rupees are no good here,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " so feel\nfree to stop by and snooze whenever\nyou'd like."
-  Npc_kokiri006_Talk100:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: But...
+      - control:
+          kind: pause
+          length: short
+      - text: I...
+      - control:
+          kind: pause
+          length: short
+      - text: "work so hard every day to set\nup this bed especially for you, Ms. Hero.\n\nYour rupees are no good here,"
+      - control:
+          kind: pause
+          length: short
+      - text: " so feel\nfree to stop by and snooze whenever\nyou'd like."
+  Npc_kokiri006_Talk050:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
-            - 0
-    - text: Good afternoon!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI stood watch while you were asleep!"
+            - 1
+      - text: How long would you like to snooze?
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 4
+            - 5
+            - 6
+          selected_index: 0
+          cancel_index: 3
+          unknown: 10
   Npc_kokiri006_Talk060:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 19
-    - text: "Until I say \"good morning\"?\nAll right. Go get some rest."
+      - text: "Until I say \"good morning\"?\nAll right. Go get some rest."
+  Npc_kokiri006_Talk070:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 19
+      - text: "Until I say \"good afternoon\"?\nAll right. Go get some rest."
+  Npc_kokiri006_Talk080:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 19
+      - text: "Until I say \"good evening\"?\nAll right. Go get some rest.\nZzzzz..."
+  Npc_kokiri006_Talk081:
+    attributes: Npc_kokiri006
+    contents:
+      - text: "Take as long as you like with yawns\nand the ZZZs!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Npc_kokiri006_Talk090:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: Good morning!
+      - control:
+          kind: pause
+          length: short
+      - text: " You can grab some\nbreakfast next door at the Spore Store!"
+  Npc_kokiri006_Talk100:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: Good afternoon!
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI stood watch while you were asleep!"
+  Npc_kokiri006_Talk110:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 34
+      - text: Good...zzz...evening.
+      - control:
+          kind: pause
+          length: short
+      - text: "\nBe careful..."
+      - control:
+          kind: pause
+          length: short
+      - text: out there...
   Npc_kokiri006_Talk120:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "If you're tired, or even if you're not,\ncome back and catch some z's soon, OK?"
+      - text: "If you're tired, or even if you're not,\ncome back and catch some z's soon, OK?"
+  Npc_kokiri006_Talk130:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 0
+      - text: "Oh,"
+      - control:
+          kind: pause
+          length: short
+      - text: " I don't want your rupees!\nYou're the great Ms. Hero!\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 1
+      - text: "I prepared this bed for you ages ago!\nAll I want is to help you get some sleep."
+  Npc_kokiri006_Talk131:
+    attributes: Npc_kokiri006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 34
+      - text: I was waiting for so long...
+      - control:
+          kind: pause
+          length: short
+      - text: I got really
+      - control:
+          kind: pause
+          length: long
+      - text: "\n*yawn*"
+      - control:
+          kind: pause
+          length: long
+      - text: " sleepy..."

@@ -1,187 +1,188 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
-  Talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+  "0000":
+    attributes: ""
+    contents:
+      - text: Yiga Clan?
+  "0001":
+    attributes: ""
+    contents:
+      - text: "I'll pass."
+  Henshin00:
+    attributes: Npc_Assassin_010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
+            - 14
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1077936128
+      - control:
+          kind: text_size
+          percent: 125
+      - text: I will take your life!
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: auto_advance
+          frames: 60
+  Henshin01:
+    attributes: Npc_Assassin_007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 14
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1077936128
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "I'll send you to join\nMaster Kohga!"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: auto_advance
+          frames: 60
+  Near00:
+    attributes: Npc_Assassin_007
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 1
+            - 205
+      - text: You there!
+  Talk00:
+    attributes: Npc_Assassin_007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
-    - text: "A group of brave warriors, founded by\nMaster Kohga—who YOU defeated—set\non defeating a heroine thought long dead!"
-  Talk04_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+            - 0
+      - text: "I can tell you've trained your body well...\nI'd say...you're familiar with both sword\nand bow, correct?\nThat's a good skill set. Why don't you\njoin the Yiga Clan?"
+      - control:
+          kind: choice
+          choice_labels:
             - 0
             - 1
-    - text: "Why don't you at least hear what\nI gotta say first?"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " The Yiga Clan... "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "It's..."
-  Talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Talk01:
+    attributes: Npc_Assassin_007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 10
             - 0
-    - text: "What?! You're refusing?"
+      - text: "What? You don't know?\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Fine... I'll tell you..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThe Yiga Clan... It's..."
+  Talk02:
+    attributes: Npc_Assassin_007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 10
+      - text: "A powerful, brave group of warriors,\nfounded by Master Kohga and dedicated\nto defeating a heroine thought long dead."
+  Talk03:
+    attributes: Npc_Assassin_007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 7
+      - text: "A group of brave warriors, founded by\nMaster Kohga—who YOU defeated—set\non defeating a heroine thought long dead!"
+  Talk04:
+    attributes: Npc_Assassin_007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 0
+      - text: "What?! You're refusing?"
+  Talk04_1:
+    attributes: Npc_Assassin_007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Why don't you at least hear what\nI gotta say first?"
+      - control:
+          kind: pause
+          length: long
+      - text: " The Yiga Clan... "
+      - control:
+          kind: pause
+          length: long
+      - text: "It's..."
   Talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Assassin_007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 1
-    - text: "That's a foolish choice. One that you\nwill not survive making..."
+      - text: "That's a foolish choice. One that you\nwill not survive making..."
   Talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Assassin_007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 1
-    - text: "Here I thought you could replace our\nmaster and lead us to victory against the\nheroine..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " You're just a fool, though..."
+      - text: "Here I thought you could replace our\nmaster and lead us to victory against the\nheroine..."
+      - control:
+          kind: pause
+          length: long
+      - text: " You're just a fool, though..."
   Talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Assassin_007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 9
-    - text: "You can't avoid us forever. Will you join\nthe Yiga Clan?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  Henshin00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 14
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1077936128
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: I will take your life!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 60
-  Talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 0
-    - text: "I can tell you've trained your body well...\nI'd say...you're familiar with both sword\nand bow, correct?\nThat's a good skill set. Why don't you\njoin the Yiga Clan?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  "0000":
-    - text: Yiga Clan?
-  Henshin01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 14
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1077936128
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "I'll send you to join\nMaster Kohga!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 60
-  "0001":
-    - text: "I'll pass."
-  Talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 0
-    - text: "What? You don't know?\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "You can't avoid us forever. Will you join\nthe Yiga Clan?"
+      - control:
+          kind: choice
+          choice_labels:
             - 0
             - 1
-    - text: "Fine... I'll tell you..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThe Yiga Clan... It's..."
-  Talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 10
-    - text: "A powerful, brave group of warriors,\nfounded by Master Kohga and dedicated\nto defeating a heroine thought long dead."
-  Near00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 1
-              - 205
-    - text: You there!
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6

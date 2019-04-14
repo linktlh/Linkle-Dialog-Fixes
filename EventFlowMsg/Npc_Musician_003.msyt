@@ -1,58 +1,64 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
-  TerrorArrow:
-    - text: Stop it!
   Challenge000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HyruleWestHatago006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 19
-    - text: "Oh, forgive me."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " It seems I've prattled\non..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-  TerrorFire:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 20
-              - 205
-    - text: Ack!
-  TerrorExplosion:
-    - text: WAAAAAA!
+      - text: "Oh, forgive me."
+      - control:
+          kind: pause
+          length: short
+      - text: " It seems I've prattled\non..."
+      - control:
+          kind: pause
+          length: long
   Talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Musician_003
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 4
-    - text: "I see... "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "So you were meant to face the\nsun and shoot an arrow from the platform\nas indicated by the tower's shadow...\nI'm amazed you figured that out!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I see... "
+      - control:
+          kind: pause
+          length: long
+      - text: "So you were meant to face the\nsun and shoot an arrow from the platform\nas indicated by the tower's shadow...\nI'm amazed you figured that out!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: I hope our paths cross again.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " May the\nlight illuminate your path."
+      - text: I hope our paths cross again.
+      - control:
+          kind: pause
+          length: short
+      - text: " May the\nlight illuminate your path."
+  TerrorArrow:
+    attributes: ""
+    contents:
+      - text: Stop it!
+  TerrorExplosion:
+    attributes: ""
+    contents:
+      - text: WAAAAAA!
+  TerrorFire:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 20
+            - 205
+      - text: Ack!
   TerrorSword:
-    - text: Knock it off!
+    attributes: ""
+    contents:
+      - text: Knock it off!

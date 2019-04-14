@@ -1,9 +1,10 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
   Talk00:
-    - text: "Beware, fool, the eye of the Yiga."
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 30
+    contents:
+      - text: "Beware, fool, the eye of the Yiga."
+      - control:
+          kind: auto_advance
+          frames: 30

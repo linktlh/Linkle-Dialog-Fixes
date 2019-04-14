@@ -1,34 +1,30 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
   QL_FironeMini_TerribleThunder_Desc:
-    - text: "Cima is feeling really gloomy, likely because of\nall the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: lightning
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\nLakeside Stable seems to attract lightning\nstrikes constantly, and Cima has asked me to\nfigure out why."
-  QL_FironeMini_TerribleThunder_Remove:
-    - text: "It turns out the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: lightning
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " was drawn to\nLakeside Stable because of a metal weapon\nstuck on top of the building!\n\nI should head back to Cima, and let her know\nwhat was going on."
+    contents:
+      - text: "Cima is feeling really gloomy, likely because of\nall the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: lightning
+      - control:
+          kind: reset_colour
+      - text: ".\n\nLakeside Stable seems to attract lightning\nstrikes constantly, and Cima has asked me to\nfigure out why."
   QL_FironeMini_TerribleThunder_Finish:
-    - text: "Cima seems relieved to hear the news, though\nit sounds like she still hates all the noise a\nthunderstorm makes."
+    contents:
+      - text: "Cima seems relieved to hear the news, though\nit sounds like she still hates all the noise a\nthunderstorm makes."
   QL_FironeMini_TerribleThunder_Name:
-    - text: Thunder Magnet
+    contents:
+      - text: Thunder Magnet
+  QL_FironeMini_TerribleThunder_Remove:
+    contents:
+      - text: "It turns out the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: lightning
+      - control:
+          kind: reset_colour
+      - text: " was drawn to\nLakeside Stable because of a metal weapon\nstuck on top of the building!\n\nI should head back to Cima, and let her know\nwhat was going on."

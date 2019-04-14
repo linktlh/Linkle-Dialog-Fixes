@@ -1,555 +1,513 @@
 ---
+group_count: 19
+atr1_unknown: 4
 entries:
-  talk09:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: "No luck! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "Nothing's coming up over here!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  talk26:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 0
-    - text: No luck over here!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 3
-    - text: "Azu!! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Wanna go see if it's true about the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: little girl
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?!"
   "0000":
-    - text: Urk!
-  talk11:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 3
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "Hmm... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "My ma says I shouldn't get too\nclose"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " to the research lab..."
+    attributes: ""
+    contents:
+      - text: Urk!
   "0001":
-    - text: Bye.
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: Whatcha want?
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Stay outta my way!"
+    attributes: ""
+    contents:
+      - text: Bye.
   "0002":
-    - text: What?
-  talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "What?! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Don't follow me!"
+    attributes: ""
+    contents:
+      - text: What?
   "0003":
-    - text: Sorry! Sorry!
-  talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Got more clues today, but they're secret!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nAnd now it's bedtime! I'm going to sleep!"
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "Tomorrow it's back to the expedition!"
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 33
-    - text: Graaah...
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 33
-    - text: "Snnnrrmm... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Zzz... "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "Nnggg... "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nA "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: girl from the Sheikah tribe
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Zzz...
+    attributes: ""
+    contents:
+      - text: Sorry! Sorry!
+  near00:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - text: HYAH!
+  near01:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - text: Ah!
+  near02:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - text: Hrm...
+  near03:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - text: Retreat!
+  near04:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - text: Grrr...
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 9
-    - text: "I'm talking about a part-time job,\ndon'tcha get it?\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I'm talking about a part-time job,\ndon'tcha get it?\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: My pop told me
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " that the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: director
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " puts\npeople to work carrying the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: blue flame
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-  talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "A "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: girl from the Sheikah tribe
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nIs there really one there?"
-  near00:
-    - text: HYAH!
+      - text: My pop told me
+      - control:
+          kind: pause
+          length: short
+      - text: " that the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: director
+      - control:
+          kind: reset_colour
+      - text: " puts\npeople to work carrying the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: blue flame
+      - control:
+          kind: reset_colour
+      - text: "!"
   talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 4
-    - text: "If you're holding that now, that means..."
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 1
-            field_4:
-              - 0
-              - 1
-  talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
+      - text: "If you're holding that now, that means..."
+      - control:
+          kind: choice
+          choice_labels:
             - 0
-    - text: "A "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: girl from the Sheikah tribe
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI don't see any around here..."
-  near01:
-    - text: Ah!
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: "You're doing a part-time job or\nsomething?\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "You're doing a part-time job or\nsomething?\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: My pop told me
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Granny Purah puts\npeople to work carrying the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: blue flame
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-  near02:
-    - text: Hrm...
+      - text: My pop told me
+      - control:
+          kind: pause
+          length: short
+      - text: " Granny Purah puts\npeople to work carrying the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: blue flame
+      - control:
+          kind: reset_colour
+      - text: "!"
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: "Hey... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "How much do you have on you? "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nI wanna work for you!"
-  talk20:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: Hey!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  near03:
-    - text: Retreat!
+      - text: "Hey... "
+      - control:
+          kind: pause
+          length: short
+      - text: "How much do you have on you? "
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nI wanna work for you!"
   talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 11
-    - text: "I wanna work! I wanna work! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nHow about I work for you?"
-  talk21:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: You!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  near04:
-    - text: Grrr...
-  talk22:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "I can't see if you're standing there! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nMove!"
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
-                - 0
-                - 0
-              - - 255
-                - 255
-                - 0
-                - 0
-            field_1:
-              - 2
-              - 0
-              - 3
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
+      - text: "I wanna work! I wanna work! "
+      - control:
+          kind: pause
+          length: short
+      - text: "\nHow about I work for you?"
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: "Don't try to pull a fast one on me! \nYou have a part-time job, right?"
-  talk23:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "I can't see! "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: Move!
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
-                - 0
-                - 0
-              - - 255
-                - 255
-                - 0
-                - 0
-            field_1:
-              - 2
-              - 0
-              - 3
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  talk24:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 1
-    - text: Hmph!
+      - text: "Don't try to pull a fast one on me! \nYou have a part-time job, right?"
   talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 3
-    - text: "Hey, Azu! How are things over there?!"
-  talk25:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 6
+      - text: "Hey, Azu! How are things over there?!"
+  talk09:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: sound
+          unknown:
             - 9
-    - text: "The "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: girl from the Sheikah tribe
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\n\n\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "Um, I mean..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+            - 0
+      - text: "No luck! "
+      - control:
+          kind: pause
+          length: longer
+      - text: "Nothing's coming up over here!"
+      - control:
+          kind: text_size
+          percent: 100
+  talk10:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 3
+      - text: "Azu!! "
+      - control:
+          kind: pause
+          length: short
+      - text: "Wanna go see if it's true about the\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: little girl
+      - control:
+          kind: reset_colour
+      - text: "?!"
+  talk11:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 3
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "Hmm... "
+      - control:
+          kind: pause
+          length: short
+      - text: "My ma says I shouldn't get too\nclose"
+      - control:
+          kind: pause
+          length: short
+      - text: " to the research lab..."
+  talk12:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 0
-    - text: "If I told you, I wouldn't be much of a spy,\nwould I?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Don't make me tell you!"
+      - text: Whatcha want?
+      - control:
+          kind: pause
+          length: short
+      - text: " Stay outta my way!"
+  talk13:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "What?! "
+      - control:
+          kind: pause
+          length: short
+      - text: "Don't follow me!"
+  talk14:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Got more clues today, but they're secret!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nAnd now it's bedtime! I'm going to sleep!"
+  talk15:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "Tomorrow it's back to the expedition!"
+  talk16:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 33
+      - text: Graaah...
+  talk17:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 33
+      - text: "Snnnrrmm... "
+      - control:
+          kind: pause
+          length: short
+      - text: "Zzz... "
+      - control:
+          kind: pause
+          length: long
+      - text: "Nnggg... "
+      - control:
+          kind: pause
+          length: long
+      - text: "\nA "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: girl from the Sheikah tribe
+      - control:
+          kind: reset_colour
+      - text: "... "
+      - control:
+          kind: pause
+          length: short
+      - text: Zzz...
+  talk18:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "A "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: girl from the Sheikah tribe
+      - control:
+          kind: reset_colour
+      - text: "... "
+      - control:
+          kind: pause
+          length: short
+      - text: "\nIs there really one there?"
+  talk19:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "A "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: girl from the Sheikah tribe
+      - control:
+          kind: reset_colour
+      - text: "... "
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI don't see any around here..."
+  talk20:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: text_size
+          percent: 125
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: Hey!
+      - control:
+          kind: text_size
+          percent: 100
+  talk21:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: text_size
+          percent: 125
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: You!
+      - control:
+          kind: text_size
+          percent: 100
+  talk22:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "I can't see if you're standing there! "
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nMove!"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
+                - 2
+                - 0
+                - 3
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk23:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "I can't see! "
+      - control:
+          kind: pause
+          length: longer
+      - text: Move!
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
+                - 2
+                - 0
+                - 3
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 3
+  talk24:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 1
+      - text: Hmph!
+  talk25:
+    attributes: Npc_HatenoVillage021
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 6
+            - 9
+      - text: "The "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: girl from the Sheikah tribe
+      - control:
+          kind: reset_colour
+      - text: "!\n\n\n"
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "Um, I mean..."
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "If I told you, I wouldn't be much of a spy,\nwould I?"
+      - control:
+          kind: pause
+          length: longer
+      - text: " Don't make me tell you!"
+  talk26:
+    attributes: Npc_HatenoVillage027
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - text: No luck over here!
+      - control:
+          kind: text_size
+          percent: 100

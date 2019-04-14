@@ -1,1331 +1,1126 @@
 ---
+group_count: 37
+atr1_unknown: 4
 entries:
-  result_09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 11
-    - text: "WHOA! All "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type14:
-            field_1: 60
-            string: MiniGame_Bowling_BreakPinNum
-            field_3: 0
-    - text: " pins"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "! That there's a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: strike
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nSnow 'em how it's done, kiddums!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  "0010":
-    - text: "I'll keep at it."
-  "0011":
-    - text: Oops. My mistake.
-  "0012":
-    - text: "I'll do it!"
-  end:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 9
-            - 16
-    - text: Ooooookaaaaay.
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Ice of you to stop by!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nIf you're in the mood, I'll always be\nhappy to line 'em up for you!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  restart_end:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "No problem. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I love the pins too much to\never leave!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You bet your snowball I'll be\nhere when you're ready for more."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  game_start:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "This is the snowball you'll use."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " It might\nnot look like much, but it's snow joke."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nYou get two rolls. Knock 'em flat!"
-  restart:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Soooooooo... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "What do you think about\ngiving it one more whirl?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 12
-            field_3: 4
-            field_4:
-              - 0
-              - 1
-  about_snowbowl_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: Ooookaaaaay!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Here"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " we "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: snooooow!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  ask_payment:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 9
-    - text: "Ah, the sweet music of \"yes\"!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " There's a\ncatch, though."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " One game costs a cool\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "20 rupees "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: to play. Still up for a round?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 5
-            field_3: 6
-            field_4:
-              - 0
-              - 1
-  about_snowbowl_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Well, good luck!"
-  break_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 0
-    - text: "Hrm? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Something on your mind, kiddums?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 7
-            field_3: 8
-            field_4:
-              - 0
-              - 1
-  break_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 1
-    - text: "Snowly moly! You're tired already?!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI didn't have you pinned as the quitting\ntype!"
-  result_10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Take a deep breath, and go for broke on\nyour second throw!"
   "0000":
-    - text: "I'll try it!"
-  break_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "If your throwing arm is frozen solid,\nsuit yourself, but I'm keeping the fee."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nThink of it as learning the hard way!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 9
-            field_3: 10
-            field_4:
-              - 0
-              - 1
-  result_11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "You knocked over how many "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: pins
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type14:
-            field_1: 72
-            string: MiniGame_Bowling_BreakPinNumSecond
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?!"
+    attributes: ""
+    contents:
+      - text: "I'll try it!"
   "0001":
-    - text: How does it work?
+    attributes: ""
+    contents:
+      - text: How does it work?
   "0002":
-    - text: Not interested.
+    attributes: ""
+    contents:
+      - text: Not interested.
   "0003":
-    - text: Explain again?
+    attributes: ""
+    contents:
+      - text: Explain again?
   "0004":
-    - text: "I've lost interest."
+    attributes: ""
+    contents:
+      - text: "I've lost interest."
   "0005":
-    - text: OK!
+    attributes: ""
+    contents:
+      - text: OK!
   "0006":
-    - text: "I'll pass."
-  prize_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "You gotta look at your pins and see the\nball hitting 'em in your mind. "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "That's the\nkey to it all!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
+    attributes: ""
+    contents:
+      - text: "I'll pass."
   "0007":
-    - text: I have to split.
-  prize_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 16
-    - text: "Only "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type14:
-            field_1: 60
-            string: MiniGame_Bowling_BreakPinNum
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "That's gotta sting."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " My advice?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nStay frosty and play again!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
+    attributes: ""
+    contents:
+      - text: I have to split.
   "0008":
-    - text: "It's nothing."
-  explanation_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 4
-    - text: What a sweet girl to show an interest!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nIf you don't know the rules, I can\nexplain them in a flurry."
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "At the foot of the hill, we have 10, count\n'em, 10 pillars or \"pins.\""
-  prize_02:
-    - text: "How many "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: pins
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? Eh, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - control:
-        two:
-          type14:
-            field_1: 60
-            string: MiniGame_Bowling_BreakPinNum
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "That's decent."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nTell you what, I'll give you a sampler\nprize to get you shivering for more!"
+    attributes: ""
+    contents:
+      - text: "It's nothing."
   "0009":
-    - text: I quit!
-  explanation_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Give that snowball a good, hearty toss\nfrom the tippy-top of the hill to try and\nknock over all the pins you can!"
-  prize_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 11
-    - text: "Ooooh, snow close! A throw like that\ndeserves some kinda prize. Here ya go!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  explanation_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 11
-    - text: "The ball might take a few detours on its\nride down the hill, but any pins it hits\nwhen it reaches bottom are done for!"
-  area_out_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 3
-    - text: "Are you flaking out?! "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "You haven't\nfinished your round of SNOW BOWLING!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 7
-            field_3: 8
-            field_4:
-              - 0
-              - 1
-  prize_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 11
-    - text: "Well, bowl me over, kiddums!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " A snowing\nlike that deserves an ice prize."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " How's\nabout this snowball-making doohickey?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  area_out_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Oh... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Whoopsie-doodle!
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Hold on a tick!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  prize_05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "I hear this'll freeze things but good."
-  area_out_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Sorry about that, kiddums! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "'Til I learn to\ncontrol the weather, there's not much I\ncan do about these icy slopes."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  prize_06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "I'm too chill to fight, so I've never\nseen it in action with my own two\npeepers."
-  area_out_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Skate just a minute there!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I bet you'll\nscore more points if you come back over\nthis way."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  result_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 16
-    - text: "With both throws together, you got..."
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type14:
-            field_1: 60
-            string: MiniGame_Bowling_BreakPinNum
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nNot as easy as it looks, eh, kiddums?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  prize_07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Leastways, I'd offer it to you if you\nweren't snowverloaded with stuff."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Will\nthis do instead?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  ask_again:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "There's no cooler feeling than smashing\nall the pins at once!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " But see for yourself!\n"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "Go on, have a ball!"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 3
-            field_4: 4
-            field_5:
-              - 0
-              - 2
-  area_out_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 14
-    - text: Snowly moly...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " What's gotten into you?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "Snowball Bowling "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "is "
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1056964608
-    - text: a civilized game.
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1065353216
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThere are rules!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  result_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 16
-    - text: "Your total is...how many "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: pins
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? Just "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type14:
-            field_1: 60
-            string: MiniGame_Bowling_BreakPinNum
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?\nI know you can do better than that!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nKeep your eye on the snowball!"
-  prize_08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 11
-    - text: "You "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "knocked 'em all down "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "flat! That\nwas no mean sleet, kiddums."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I got you\na special prize for pulling that one off!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-  result_02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Your total is...how many "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: pins
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nWow, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type14:
-            field_1: 60
-            string: MiniGame_Bowling_BreakPinNum
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Ice work, kiddums!"
-  prize_09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 11
-    - text: "Well, whaddaya know, kiddums! "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "Just for\nthat, you get a prize."
-  result_03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 11
-    - text: "Your total is...how many "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: pins
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type14:
-            field_1: 60
-            string: MiniGame_Bowling_BreakPinNum
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?! "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nSnow close...and yet snow far."
+    attributes: ""
+    contents:
+      - text: I quit!
+  "0010":
+    attributes: ""
+    contents:
+      - text: "I'll keep at it."
+  "0011":
+    attributes: ""
+    contents:
+      - text: Oops. My mistake.
+  "0012":
+    attributes: ""
+    contents:
+      - text: "I'll do it!"
   Initial:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 0
-    - text: "Hail, kiddums!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Nice to meet a fresh face\nin these parts."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " It's not every day I get\ncompany this high in the hills.\nCan't give you a warm welcome...buuuut\nhow about a game I made up:"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "Snowball\nBowling"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Or as I call it, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Snowling
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  refuse:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 16
-    - text: Is this all of the rupees you have?
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThere's snow way this is enough!"
-  game_start_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Hail, kiddums!"
+      - control:
+          kind: pause
+          length: long
+      - text: " Nice to meet a fresh face\nin these parts."
+      - control:
+          kind: pause
+          length: long
+      - text: " It's not every day I get\ncompany this high in the hills.\nCan't give you a warm welcome...buuuut\nhow about a game I made up:"
+      - control:
+          kind: pause
+          length: short
+      - text: " "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Snowball\nBowling"
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: pause
+          length: long
+      - text: " Or as I call it, "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Snowling
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: choice
+          choice_labels:
             - 0
-            - 0
-    - text: "Aha! Play bells are ringing! "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "I gotta set up\nthe pins, but I'll be back in a flurry."
-  result_04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 11
-    - text: "Your total is...how many "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: pins
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type14:
-            field_1: 60
-            string: MiniGame_Bowling_BreakPinNum
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?! "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nThat was your second throw, so it counts\nas a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: spare
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "! Snow 'em how it's done!"
-  game_start_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "If you can knock over all 10 pins in one\nroll, that's a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: strike
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Only the most\nsnowtorious bowlers can pull that off!\nA "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: spare
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " is when it takes both tries to\nfinish the job."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Not as good as a strike,\nbut nothing to sneeze at!"
-  result_05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+            - 1
             - 2
-            - 16
-    - text: "You got...how many "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: pins
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? Er, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type14:
-            field_1: 60
-            string: MiniGame_Bowling_BreakPinNum
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nNot as easy as it looks, eh, kiddums?"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nBut hey, one throw left! Make it count!"
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   Initial_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 4
-    - text: "Hallooooo, kiddums! If you wanted to try\na round of "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Snowball Bowling
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", then you're\nin luck, because this is the place!"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  result_06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 16
-    - text: "You knocked over...how many "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: pins
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type14:
-            field_1: 60
-            string: MiniGame_Bowling_BreakPinNum
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nI know you can do better than that!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nYou got one throw left! Make it count!"
-  result_07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Hallooooo, kiddums! If you wanted to try\na round of "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Snowball Bowling
+      - control:
+          kind: reset_colour
+      - text: ", then you're\nin luck, because this is the place!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  about_snowbowl_03:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "You knocked over...how many "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: pins
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? \nOh, "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type14:
-            field_1: 60
-            string: MiniGame_Bowling_BreakPinNum
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Ice work, kiddums! Fingers \ncrossed for a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: spare
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " on the second throw!"
+      - text: Ooookaaaaay!
+      - control:
+          kind: pause
+          length: short
+      - text: " Here"
+      - control:
+          kind: pause
+          length: long
+      - text: " we "
+      - control:
+          kind: pause
+          length: long
+      - text: snooooow!
+      - control:
+          kind: pause
+          length: longer
+  about_snowbowl_04:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Well, good luck!"
+  area_out_00:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 3
+      - text: "Are you flaking out?! "
+      - control:
+          kind: pause
+          length: long
+      - text: "You haven't\nfinished your round of SNOW BOWLING!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 7
+            - 8
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  area_out_01:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Oh... "
+      - control:
+          kind: pause
+          length: short
+      - text: Whoopsie-doodle!
+      - control:
+          kind: pause
+          length: long
+      - text: " Hold on a tick!"
+      - control:
+          kind: pause
+          length: longer
+  area_out_02:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Sorry about that, kiddums! "
+      - control:
+          kind: pause
+          length: short
+      - text: "'Til I learn to\ncontrol the weather, there's not much I\ncan do about these icy slopes."
+      - control:
+          kind: pause
+          length: longer
+  area_out_03:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Skate just a minute there!
+      - control:
+          kind: pause
+          length: short
+      - text: " I bet you'll\nscore more points if you come back over\nthis way."
+      - control:
+          kind: pause
+          length: longer
+  area_out_04:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 14
+      - text: Snowly moly...
+      - control:
+          kind: pause
+          length: short
+      - text: " What's gotten into you?"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Snowball Bowling "
+      - control:
+          kind: reset_colour
+      - text: "is "
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1056964608
+      - text: a civilized game.
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1065353216
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThere are rules!"
+      - control:
+          kind: pause
+          length: longer
+  ask_again:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "There's no cooler feeling than smashing\nall the pins at once!"
+      - control:
+          kind: pause
+          length: long
+      - text: " But see for yourself!\n"
+      - control:
+          kind: pause
+          length: short
+      - text: "Go on, have a ball!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 3
+            - 4
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  ask_payment:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "Ah, the sweet music of \"yes\"!"
+      - control:
+          kind: pause
+          length: long
+      - text: " There's a\ncatch, though."
+      - control:
+          kind: pause
+          length: short
+      - text: " One game costs a cool\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "20 rupees "
+      - control:
+          kind: reset_colour
+      - text: to play. Still up for a round?
+      - control:
+          kind: choice
+          choice_labels:
+            - 5
+            - 6
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  break_00:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 0
+      - text: "Hrm? "
+      - control:
+          kind: pause
+          length: short
+      - text: "Something on your mind, kiddums?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 7
+            - 8
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  break_01:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 1
+      - text: "Snowly moly! You're tired already?!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI didn't have you pinned as the quitting\ntype!"
+  break_02:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "If your throwing arm is frozen solid,\nsuit yourself, but I'm keeping the fee."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nThink of it as learning the hard way!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 9
+            - 10
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  end:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 16
+      - text: Ooooookaaaaay.
+      - control:
+          kind: pause
+          length: long
+      - text: " Ice of you to stop by!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nIf you're in the mood, I'll always be\nhappy to line 'em up for you!"
+      - control:
+          kind: pause
+          length: longer
+  explanation_00:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 4
+      - text: What a sweet girl to show an interest!
+      - control:
+          kind: pause
+          length: short
+      - text: "\nIf you don't know the rules, I can\nexplain them in a flurry."
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "At the foot of the hill, we have 10, count\n'em, 10 pillars or \"pins.\""
+  explanation_01:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Give that snowball a good, hearty toss\nfrom the tippy-top of the hill to try and\nknock over all the pins you can!"
+  explanation_02:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 11
+      - text: "The ball might take a few detours on its\nride down the hill, but any pins it hits\nwhen it reaches bottom are done for!"
+  game_start:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "This is the snowball you'll use."
+      - control:
+          kind: pause
+          length: short
+      - text: " It might\nnot look like much, but it's snow joke."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nYou get two rolls. Knock 'em flat!"
+  game_start_00:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Aha! Play bells are ringing! "
+      - control:
+          kind: pause
+          length: long
+      - text: "I gotta set up\nthe pins, but I'll be back in a flurry."
+  game_start_01:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "If you can knock over all 10 pins in one\nroll, that's a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: strike
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: long
+      - text: " Only the most\nsnowtorious bowlers can pull that off!\nA "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: spare
+      - control:
+          kind: reset_colour
+      - text: " is when it takes both tries to\nfinish the job."
+      - control:
+          kind: pause
+          length: long
+      - text: " Not as good as a strike,\nbut nothing to sneeze at!"
+  prize_00:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "You gotta look at your pins and see the\nball hitting 'em in your mind. "
+      - control:
+          kind: pause
+          length: long
+      - text: "That's the\nkey to it all!"
+      - control:
+          kind: pause
+          length: longer
+  prize_01:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 16
+      - text: "Only "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: MiniGame_Bowling_BreakPinNum
+      - control:
+          kind: reset_colour
+      - text: "... "
+      - control:
+          kind: pause
+          length: short
+      - text: "That's gotta sting."
+      - control:
+          kind: pause
+          length: long
+      - text: " My advice?"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nStay frosty and play again!"
+      - control:
+          kind: pause
+          length: longer
+  prize_02:
+    attributes: Npc_Bowling
+    contents:
+      - text: "How many "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: pins
+      - control:
+          kind: reset_colour
+      - text: "? Eh, "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: MiniGame_Bowling_BreakPinNum
+      - control:
+          kind: reset_colour
+      - text: "? "
+      - control:
+          kind: pause
+          length: long
+      - text: "That's decent."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nTell you what, I'll give you a sampler\nprize to get you shivering for more!"
+  prize_03:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 11
+      - text: "Ooooh, snow close! A throw like that\ndeserves some kinda prize. Here ya go!"
+      - control:
+          kind: pause
+          length: longer
+  prize_04:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 11
+      - text: "Well, bowl me over, kiddums!"
+      - control:
+          kind: pause
+          length: short
+      - text: " A snowing\nlike that deserves an ice prize."
+      - control:
+          kind: pause
+          length: long
+      - text: " How's\nabout this snowball-making doohickey?"
+      - control:
+          kind: pause
+          length: longer
+  prize_05:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "I hear this'll freeze things but good."
+  prize_06:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "I'm too chill to fight, so I've never\nseen it in action with my own two\npeepers."
+  prize_07:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Leastways, I'd offer it to you if you\nweren't snowverloaded with stuff."
+      - control:
+          kind: pause
+          length: short
+      - text: " Will\nthis do instead?"
+      - control:
+          kind: pause
+          length: longer
+  prize_08:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 11
+      - text: "You "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "knocked 'em all down "
+      - control:
+          kind: reset_colour
+      - text: "flat! That\nwas no mean sleet, kiddums."
+      - control:
+          kind: pause
+          length: short
+      - text: " I got you\na special prize for pulling that one off!"
+      - control:
+          kind: pause
+          length: longer
+  prize_09:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 11
+      - text: "Well, whaddaya know, kiddums! "
+      - control:
+          kind: pause
+          length: long
+      - text: "Just for\nthat, you get a prize."
+  refuse:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 16
+      - text: Is this all of the rupees you have?
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThere's snow way this is enough!"
+  restart:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Soooooooo... "
+      - control:
+          kind: pause
+          length: short
+      - text: "What do you think about\ngiving it one more whirl?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 12
+            - 4
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  restart_end:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "No problem. "
+      - control:
+          kind: pause
+          length: short
+      - text: "I love the pins too much to\never leave!"
+      - control:
+          kind: pause
+          length: short
+      - text: " You bet your snowball I'll be\nhere when you're ready for more."
+      - control:
+          kind: pause
+          length: longer
+  result_00:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 16
+      - text: "With both throws together, you got..."
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: MiniGame_Bowling_BreakPinNum
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nNot as easy as it looks, eh, kiddums?"
+      - control:
+          kind: pause
+          length: longer
+  result_01:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 16
+      - text: "Your total is...how many "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: pins
+      - control:
+          kind: reset_colour
+      - text: "? Just "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: MiniGame_Bowling_BreakPinNum
+      - control:
+          kind: reset_colour
+      - text: "?\nI know you can do better than that!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nKeep your eye on the snowball!"
+  result_02:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Your total is...how many "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: pins
+      - control:
+          kind: reset_colour
+      - text: "? "
+      - control:
+          kind: pause
+          length: long
+      - text: "\nWow, "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: MiniGame_Bowling_BreakPinNum
+      - control:
+          kind: reset_colour
+      - text: "?!"
+      - control:
+          kind: pause
+          length: long
+      - text: " Ice work, kiddums!"
+  result_03:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 11
+      - text: "Your total is...how many "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: pins
+      - control:
+          kind: reset_colour
+      - text: "? "
+      - control:
+          kind: pause
+          length: long
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: MiniGame_Bowling_BreakPinNum
+      - control:
+          kind: reset_colour
+      - text: "?! "
+      - control:
+          kind: pause
+          length: long
+      - text: "\nSnow close...and yet snow far."
+  result_04:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 11
+      - text: "Your total is...how many "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: pins
+      - control:
+          kind: reset_colour
+      - text: "? "
+      - control:
+          kind: pause
+          length: long
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: MiniGame_Bowling_BreakPinNum
+      - control:
+          kind: reset_colour
+      - text: "?! "
+      - control:
+          kind: pause
+          length: long
+      - text: "\nThat was your second throw, so it counts\nas a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: spare
+      - control:
+          kind: reset_colour
+      - text: "! Snow 'em how it's done!"
+  result_05:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 16
+      - text: "You got...how many "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: pins
+      - control:
+          kind: reset_colour
+      - text: "? Er, "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: MiniGame_Bowling_BreakPinNum
+      - control:
+          kind: reset_colour
+      - text: "?"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nNot as easy as it looks, eh, kiddums?"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nBut hey, one throw left! Make it count!"
+  result_06:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 16
+      - text: "You knocked over...how many "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: pins
+      - control:
+          kind: reset_colour
+      - text: "? "
+      - control:
+          kind: pause
+          length: long
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: MiniGame_Bowling_BreakPinNum
+      - control:
+          kind: reset_colour
+      - text: "?!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nI know you can do better than that!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nYou got one throw left! Make it count!"
+  result_07:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "You knocked over...how many "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: pins
+      - control:
+          kind: reset_colour
+      - text: "? \nOh, "
+      - control:
+          kind: pause
+          length: long
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: MiniGame_Bowling_BreakPinNum
+      - control:
+          kind: reset_colour
+      - text: "?!"
+      - control:
+          kind: pause
+          length: long
+      - text: " Ice work, kiddums! Fingers \ncrossed for a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: spare
+      - control:
+          kind: reset_colour
+      - text: " on the second throw!"
   result_08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 11
-    - text: "You got...how many "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: pins
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "? "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type14:
-            field_1: 60
-            string: MiniGame_Bowling_BreakPinNum
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "?!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nSnow close...and yet snow far...\n\nOne throw left, though! Put your back\ninto it this time!"
+      - text: "You got...how many "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: pins
+      - control:
+          kind: reset_colour
+      - text: "? "
+      - control:
+          kind: pause
+          length: long
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: MiniGame_Bowling_BreakPinNum
+      - control:
+          kind: reset_colour
+      - text: "?!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nSnow close...and yet snow far...\n\nOne throw left, though! Put your back\ninto it this time!"
+  result_09:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 11
+      - text: "WHOA! All "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: MiniGame_Bowling_BreakPinNum
+      - text: " pins"
+      - control:
+          kind: reset_colour
+      - text: "! That there's a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: strike
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nSnow 'em how it's done, kiddums!"
+      - control:
+          kind: pause
+          length: longer
+  result_10:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Take a deep breath, and go for broke on\nyour second throw!"
+  result_11:
+    attributes: Npc_Bowling
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "You knocked over how many "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: pins
+      - control:
+          kind: reset_colour
+      - text: "? "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: MiniGame_Bowling_BreakPinNumSecond
+      - control:
+          kind: reset_colour
+      - text: "?!"

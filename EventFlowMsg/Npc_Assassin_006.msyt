@@ -1,253 +1,255 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: Like?
+  "0001":
+    attributes: ""
+    contents:
+      - text: Lie?
+  "0002":
+    attributes: ""
+    contents:
+      - text: Lime?
   "0003":
-    - text: Linkle?
-  Talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 14
-    - text: "Ooh, the green sour fruit! Wait... Is it a\nfruit? I actually don't know.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "Regardless, not the word I was\nlooking for."
-  Talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 8
-    - text: "Oh, right..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " The Hylian Champion, or\nso I've heard...somewhere...\n\nThat's you, right? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "You're Linkle."
-  Talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 10
-    - text: "Yes... We meet again, Linkle."
+    attributes: ""
+    contents:
+      - text: Linkle?
   Henshin00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Assassin_006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 35
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1077936128
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: Lay down your life!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 60
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1077936128
+      - control:
+          kind: text_size
+          percent: 125
+      - text: Lay down your life!
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: auto_advance
+          frames: 60
+  Henshin01:
+    attributes: Npc_Assassin_006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 35
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1077936128
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "Begone, enemy of my master!"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: auto_advance
+          frames: 60
+  Near00:
+    attributes: Npc_Assassin_006
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 14
+            - 205
+      - text: What was it...
   Talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Assassin_006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 0
-    - text: Hrm...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " What's that word? It's on the\ntip of my tongue, but I just can't think\nof it...\nIt starts with L..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: ends in E...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nWhat is it, though..."
-    - control:
-        one:
-          type8:
-            unknown_1: []
-            field_1:
-              - 0
-              - 48
-              - 78
-              - 112
-              - 99
-              - 95
-              - 65
-              - 115
-              - 115
-              - 97
-              - 115
-              - 115
-              - 105
-              - 110
-              - 95
-              - 48
-              - 48
-              - 54
-              - 95
-              - 67
-              - 104
-              - 111
-              - 105
-              - 99
-              - 101
-              - 48
-              - 1
-              - 48
-              - 78
-              - 112
-              - 99
-              - 95
-              - 65
-              - 115
-              - 115
-              - 97
-              - 115
-              - 115
-              - 105
-              - 110
-              - 95
-              - 48
-              - 48
-              - 54
-              - 95
-              - 67
-              - 104
-              - 111
-              - 105
-              - 99
-              - 101
-              - 49
-              - 2
-              - 48
-              - 78
-              - 112
-              - 99
-              - 95
-              - 65
-              - 115
-              - 115
-              - 97
-              - 115
-              - 115
-              - 105
-              - 110
-              - 95
-              - 48
-              - 48
-              - 54
-              - 95
-              - 67
-              - 104
-              - 111
-              - 105
-              - 99
-              - 101
-              - 50
-              - 3
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 4
-  "0000":
-    - text: Like?
-  Henshin01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 35
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1077936128
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "Begone, enemy of my master!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 60
-  "0001":
-    - text: Lie?
+      - text: Hrm...
+      - control:
+          kind: pause
+          length: short
+      - text: " What's that word? It's on the\ntip of my tongue, but I just can't think\nof it...\nIt starts with L..."
+      - control:
+          kind: pause
+          length: long
+      - text: ends in E...
+      - control:
+          kind: pause
+          length: long
+      - text: "\nWhat is it, though..."
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1: []
+              field_1:
+                - 0
+                - 48
+                - 78
+                - 112
+                - 99
+                - 95
+                - 65
+                - 115
+                - 115
+                - 97
+                - 115
+                - 115
+                - 105
+                - 110
+                - 95
+                - 48
+                - 48
+                - 54
+                - 95
+                - 67
+                - 104
+                - 111
+                - 105
+                - 99
+                - 101
+                - 48
+                - 1
+                - 48
+                - 78
+                - 112
+                - 99
+                - 95
+                - 65
+                - 115
+                - 115
+                - 97
+                - 115
+                - 115
+                - 105
+                - 110
+                - 95
+                - 48
+                - 48
+                - 54
+                - 95
+                - 67
+                - 104
+                - 111
+                - 105
+                - 99
+                - 101
+                - 49
+                - 2
+                - 48
+                - 78
+                - 112
+                - 99
+                - 95
+                - 65
+                - 115
+                - 115
+                - 97
+                - 115
+                - 115
+                - 105
+                - 110
+                - 95
+                - 48
+                - 48
+                - 54
+                - 95
+                - 67
+                - 104
+                - 111
+                - 105
+                - 99
+                - 101
+                - 50
+                - 3
+              field_2:
+                - 0
+                - 0
+                - 0
+                - 4
   Talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Assassin_006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 25
-    - text: "Isn't that when you kinda sneak around\nand listen in on others? I think it is..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThe word sounds like that too...\nNot the word I was thinking of, though."
-  "0002":
-    - text: Lime?
+      - text: "Isn't that when you kinda sneak around\nand listen in on others? I think it is..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThe word sounds like that too...\nNot the word I was thinking of, though."
   Talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Assassin_006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 25
-    - text: "Oh, that word... That's when you use\nyour tongue to taste something, right?"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nYeah... \"Lick.\" Hrm.\nNot the word I wanted, though."
-  Near00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 14
-              - 205
-    - text: What was it...
+      - text: "Oh, that word... That's when you use\nyour tongue to taste something, right?"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nYeah... \"Lick.\" Hrm.\nNot the word I wanted, though."
+  Talk03:
+    attributes: Npc_Assassin_006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 14
+      - text: "Ooh, the green sour fruit! Wait... Is it a\nfruit? I actually don't know.\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "Regardless, not the word I was\nlooking for."
+  Talk04:
+    attributes: Npc_Assassin_006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 8
+      - text: "Oh, right..."
+      - control:
+          kind: pause
+          length: short
+      - text: " The Hylian Champion, or\nso I've heard...somewhere...\n\nThat's you, right? "
+      - control:
+          kind: pause
+          length: short
+      - text: "You're Linkle."
+  Talk05:
+    attributes: Npc_Assassin_006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 10
+      - text: "Yes... We meet again, Linkle."

@@ -1,843 +1,882 @@
 ---
+group_count: 37
+atr1_unknown: 4
 entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: "It's yours."
+  "0001":
+    attributes: ""
+    contents:
+      - text: "It's yours."
+  "0002":
+    attributes: ""
+    contents:
+      - text: "It's yours."
+  "0003":
+    attributes: ""
+    contents:
+      - text: "It's yours."
+  "0004":
+    attributes: ""
+    contents:
+      - text: "It's yours."
+  "0005":
+    attributes: ""
+    contents:
+      - text: "I can't trade now."
+  "0006":
+    attributes: ""
+    contents:
+      - text: Tell me...
+  "0007":
+    attributes: ""
+    contents:
+      - text: "Nope, I'm good."
+  "0008":
+    attributes: ""
+    contents:
+      - text: Goron style!
+  "0009":
+    attributes: ""
+    contents:
+      - text: Rito style!
   "0010":
-    - text: Zora style!
-  talk_sellWeaponShield00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Hey, that shield..."
+    attributes: ""
+    contents:
+      - text: Zora style!
   "0011":
-    - text: Another way!
-  talk_sellWeaponShield01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Will you trade it for a ruby?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 5
-            field_4:
-              - 0
-              - 1
+    attributes: ""
+    contents:
+      - text: Another way!
+  "0012":
+    attributes: ""
+    contents:
+      - text: Gerudo style!
+  "0013":
+    attributes: ""
+    contents:
+      - text: Sheikah style!
+  "0014":
+    attributes: ""
+    contents:
+      - text: My own way!
   talk_00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Have you gone to the giant castle north\nof here? That's Hyrule Castle.\n\nIt's said to have fallen to ruin over a\nhundred years ago.\n\nI used to sneak in there to salvage\nancient treasures, but it's too dangerous\nto go in there now.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Have you gone to the giant castle north\nof here? That's Hyrule Castle.\n\nIt's said to have fallen to ruin over a\nhundred years ago.\n\nI used to sneak in there to salvage\nancient treasures, but it's too dangerous\nto go in there now.\n"
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 16
-    - text: "These days it's surrounded by an eerie\nmist and savage machine-like creatures.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "These days it's surrounded by an eerie\nmist and savage machine-like creatures.\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 6
             - 1
-    - text: "Back when it was safer, I went in looking\nfor this ultra-rare equipment that once\nbelonged to the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: royal guard
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\nIt's legendary among collectors, but I\nwas never able to find any..."
-  "0012":
-    - text: Gerudo style!
-  talk_hintGoron:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Right, Goron style. Do this if you have\nfaith in your willpower and strength.\nThe way in is simple and clear.\nStorm the castle's front gates! The key\nhere is to bring along food that will\nrestore your health and stamina."
-  talk_sellWeaponShield02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Will you trade it for a sapphire?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 5
-            field_4:
-              - 0
-              - 1
+      - text: "Back when it was safer, I went in looking\nfor this ultra-rare equipment that once\nbelonged to the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: royal guard
+      - control:
+          kind: reset_colour
+      - text: ".\nIt's legendary among collectors, but I\nwas never able to find any..."
   talk_01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "I bet you there are still all kinds of \ntreasures hidden away in Hyrule Castle\nthat we don't even know about..."
-  "0013":
-    - text: Sheikah style!
-  talk_sellWeaponShield03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I bet you there are still all kinds of \ntreasures hidden away in Hyrule Castle\nthat we don't even know about..."
+  talk_hint00:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 20
+      - text: "What?! You're planning to break into the\ncastle? There are various ways to get in.\nYou want some advice?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_hint01:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Will you trade it for a topaz?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  "0014":
-    - text: My own way!
-  talk_hintShiekah:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Do you want me to give you some advice\non getting into the castle?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_hint02:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "It's deathly dangerous near there so I\ncan't recommend it, but if you're set on\ngoing, make sure you're prepared."
+  talk_hintGerudo:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "Sheikah style, eh?\nThis is the method I use.\n\nObserve from a distance, and then try to\nsneak in a back entrance where there\naren't many monsters patrolling.\n"
-    - control:
-        four:
-          type1:
-            field_1:
-              - 7
-              - 205
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Gerudo style? If you have faith in your\ncourage and technique, this is for you.\n\nThere are machine-like monsters called\nGuardians lurking around the castle.\n\nEven if they target you with their lasers,\ndon't back down. Just gallop past\nthrough the ruins of castle town!"
+      - control:
+          kind: sound2
+          unknown:
             - 7
-            - 1
-    - text: "I'll tell you about the two entrances I've\nfound. The first one is called\nEast Passage.\nTo find it, cross Helmhead Bridge to the\neast of the castle, and with the castle on\nyour left, climb up the hill.\nLook closely and you'll see an entrance\nto a tunnel in the middle of the castle.\n\nThe luminous stones near the entrance\nsparkle at night, making it easy to find.\n\n"
-    - control:
-        four:
-          type1:
-            field_1:
-              - 7
-              - 205
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 7
-            - 1
-    - text: "The second entrance is the docks.\n\n\nFrom the island west of the castle, use\nthe raft near the dock to sail to the\nnorth side. You'll find the docks there.\nThose are the only hidden entrances I\nknow of."
-  talk_sellWeaponShield04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+            - 205
+      - text: "\nIt won't be easy, but if you're confident\nin your archery skills, just aim for the\nGuardians' eyes.\nHitting them in their eyes will stun them\nlong enough for you to slip past\nunharmed."
+  talk_hintGoron:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
-            - 0
-    - text: Will you trade it for a diamond?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 5
-            field_4:
-              - 0
-              - 1
+            - 4
+      - text: "Right, Goron style. Do this if you have\nfaith in your willpower and strength.\nThe way in is simple and clear.\nStorm the castle's front gates! The key\nhere is to bring along food that will\nrestore your health and stamina."
   talk_hintRito:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "Rito style? If you're comfortable sailing\nthrough the air, this method is for you.\n\nJust head east or west from these plains,\nand swing 'round up the mountain to the\nnorth of the castle.\nThen just fly down toward the castle from\nthere, over the moat, and find a safe spot\nto land."
-  talk_showWeaponBow:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 20
-    - text: "Wait just a minute! Can you show me\nthat bow you've got there?!"
-  talk_showWeaponShield:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 20
-    - text: "Wait just a minute! Can you show me\nthat shield you've got there?!"
-  talk_sellPorchFull:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Rito style? If you're comfortable sailing\nthrough the air, this method is for you.\n\nJust head east or west from these plains,\nand swing 'round up the mountain to the\nnorth of the castle.\nThen just fly down toward the castle from\nthere, over the moat, and find a safe spot\nto land."
+  talk_hintSelect00:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Looks like you're full up. Come again\nafter you make room in your pouch."
-  "0000":
-    - text: "It's yours."
-  talk_showWeaponSword:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 20
-    - text: "Wait just a minute! Can you show me\nthat sword you've got there?!"
-  talk_showWeaponLSword:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 20
-    - text: "Wait just a minute! Can you show me\nthat big sword you've got there?!"
-  "0001":
-    - text: "It's yours."
-  talk_sleep00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "The best way to get into Hyrule Castle is\nto employ the styles of the people of\nHyrule, obviously."
+  talk_hintSelect01:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Another way, huh?"
+  talk_hintSelect02:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Want to hear other ways?
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_hintSelect03:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "So what's your style?\nGoron? Rito? Zora?\nOr another way?"
+      - control:
+          kind: choice
+          choice_labels:
             - 8
+            - 9
+            - 10
+            - 11
+          selected_index: 0
+          cancel_index: 4
+          unknown: 10
+  talk_hintSelect04:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Gerudo? Sheikah? Or something else?
+      - control:
+          kind: choice
+          choice_labels:
+            - 12
+            - 13
             - 14
-    - text: HEY!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You've got some gall waking up a\nsleeping stranger! Show a little respect!"
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
   talk_hintSelf:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "If you're so confident, you should do it\nlike the legendary heroine herself and just\ncrush all the Guardians on your way in."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\n"
-    - control:
-        four:
-          type1:
-            field_1:
-              - 8
-              - 205
-    - text: "...Ah, just joking.\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "If you're so confident, you should do it\nlike the legendary heroine herself and just\ncrush all the Guardians on your way in."
+      - control:
+          kind: pause
+          length: long
+      - text: "\n"
+      - control:
+          kind: sound2
+          unknown:
+            - 8
+            - 205
+      - text: "...Ah, just joking.\n"
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 1
-    - text: Heh...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " I'm just messing with you.\nOnly a fool would try that."
-  "0002":
-    - text: "It's yours."
-  talk_sellWeaponSpear00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Hey, that spear..."
-  talk_sleep01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 14
-    - text: "I'M SLEEPY! GO AWAY!"
-  "0003":
-    - text: "It's yours."
-  talk_sellWeaponSword00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Hey, that sword..."
-  talk_sellWeaponSpear01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Will you trade it for a ruby?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  talk_sleep02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 21
-    - text: "HEY! You've got some nerve waking\nup a sleeping stranger. "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: And...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nWHERE ARE YOUR CLOTHES?!\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 14
-    - text: "GET AWAY FROM ME, YOU CREEP!"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 14
-  talk_hintZora:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Heh...
+      - control:
+          kind: pause
+          length: long
+      - text: " I'm just messing with you.\nOnly a fool would try that."
+  talk_hintShiekah:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "Ah, Zora style. If you're a strong\nswimmer who can swim up streams and \nwaterfalls, this is a good option.\nThere's a moat surrounding the castle.\nIt's a little tough to swim through, but\nthere are a few waterfalls still running.\nJust swim up one of those and you\nshould be able to make it."
-  "0004":
-    - text: "It's yours."
-  talk_sellWeaponSword01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Will you trade it for a ruby?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  talk_sellWeaponSpear02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Will you trade it for a sapphire?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  talk_sleep03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 14
-    - text: "Here's some friendly advice—don't wake\nup strangers when you're not wearing\nclothes,"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " you little creep."
-  talk_hintSelect00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "The best way to get into Hyrule Castle is\nto employ the styles of the people of\nHyrule, obviously."
-  "0005":
-    - text: "I can't trade now."
-  talk_sellWeaponSword02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Will you trade it for a sapphire?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  talk_sellWeaponSpear03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Will you trade it for a topaz?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  "0006":
-    - text: Tell me...
-  talk_hintSelect01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Another way, huh?"
-  talk_sellWeaponSword03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Will you trade it for a topaz?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  talk_sellWeaponSpear04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Will you trade it for a diamond?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 2
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  "0007":
-    - text: "Nope, I'm good."
-  talk_hintSelect02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Want to hear other ways?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 6
-            field_3: 7
-            field_4:
-              - 0
-              - 1
-  talk_sellWeaponSword04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Will you trade it for a diamond?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 0
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  talk_hintSelect03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "So what's your style?\nGoron? Rito? Zora?\nOr another way?"
-    - control:
-        one:
-          type6:
-            field_1: 10
-            field_2: 8
-            field_3: 9
-            field_4: 10
-            field_5: 11
-            field_6:
-              - 0
-              - 4
-  "0008":
-    - text: Goron style!
-  "0009":
-    - text: Rito style!
-  talk_hintSelect04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Gerudo? Sheikah? Or something else?
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 12
-            field_3: 13
-            field_4: 14
-            field_5:
-              - 0
-              - 3
-  talk_sellWeaponLSword00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Hey, that big sword..."
-  talk_sellWeaponLSword01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Will you trade it for a ruby?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 1
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  talk_sellWeaponLSword02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Will you trade it for a sapphire?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 1
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  talk_sellDone:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Sheikah style, eh?\nThis is the method I use.\n\nObserve from a distance, and then try to\nsneak in a back entrance where there\naren't many monsters patrolling.\n"
+      - control:
+          kind: sound2
+          unknown:
             - 7
-            - 0
-    - text: Really?! Thank you!
-  talk_sellDiamond:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+            - 205
+      - control:
+          kind: sound
+          unknown:
+            - 7
             - 1
-            - 10
-    - text: "I've finally collected everything in the\nroyal guard's series! Thank you!\n\nI'll trade you a ruby for another\nroyal guard weapon.\n\nI already have the entire set, but I want\nto keep collecting them!"
-  talk_sellWeaponLSword03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I'll tell you about the two entrances I've\nfound. The first one is called\nEast Passage.\nTo find it, cross Helmhead Bridge to the\neast of the castle, and with the castle on\nyour left, climb up the hill.\nLook closely and you'll see an entrance\nto a tunnel in the middle of the castle.\n\nThe luminous stones near the entrance\nsparkle at night, making it easy to find.\n\n"
+      - control:
+          kind: sound2
+          unknown:
+            - 7
+            - 205
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 1
+      - text: "The second entrance is the docks.\n\n\nFrom the island west of the castle, use\nthe raft near the dock to sail to the\nnorth side. You'll find the docks there.\nThose are the only hidden entrances I\nknow of."
+  talk_hintZora:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
-            - 0
-    - text: Will you trade it for a topaz?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 1
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  talk_showWeaponSpear:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 20
-    - text: "Wait just a minute! Can you show me\nthat spear you've got there?!"
-  talk_sellWeaponLSword04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Will you trade it for a diamond?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 1
-            field_3: 5
-            field_4:
-              - 0
-              - 1
+            - 4
+      - text: "Ah, Zora style. If you're a strong\nswimmer who can swim up streams and \nwaterfalls, this is a good option.\nThere's a moat surrounding the castle.\nIt's a little tough to swim through, but\nthere are a few waterfalls still running.\nJust swim up one of those and you\nshould be able to make it."
   talk_notSell:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 12
-    - text: "I guess it wasn't meant to be...\nWish I had something else to offer you."
-  talk_showWeapon00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 18
-    - text: This is
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "..."
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-    - text: incredible.
-  talk_hintGerudo:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Gerudo style? If you have faith in your\ncourage and technique, this is for you.\n\nThere are machine-like monsters called\nGuardians lurking around the castle.\n\nEven if they target you with their lasers,\ndon't back down. Just gallop past\nthrough the ruins of castle town!"
-    - control:
-        four:
-          type1:
-            field_1:
-              - 7
-              - 205
-    - text: "\nIt won't be easy, but if you're confident\nin your archery skills, just aim for the\nGuardians' eyes.\nHitting them in their eyes will stun them\nlong enough for you to slip past\nunharmed."
-  talk_showWeapon01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "I guess it wasn't meant to be...\nWish I had something else to offer you."
+  talk_sellDiamond:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 10
+      - text: "I've finally collected everything in the\nroyal guard's series! Thank you!\n\nI'll trade you a ruby for another\nroyal guard weapon.\n\nI already have the entire set, but I want\nto keep collecting them!"
+  talk_sellDone:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: "Thank you. You have shown me\nsomething truly spectacular. I need to go\nout and find one of these myself."
+      - text: Really?! Thank you!
+  talk_sellPorchFull:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Looks like you're full up. Come again\nafter you make room in your pouch."
   talk_sellWeaponBow00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Hey, that bow..."
-  talk_hint00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 20
-    - text: "What?! You're planning to break into the\ncastle? There are various ways to get in.\nYou want some advice?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 6
-            field_3: 7
-            field_4:
-              - 0
-              - 1
-  talk_showWeapon02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Here's a token of my appreciation."
+      - text: "Hey, that bow..."
   talk_sellWeaponBow01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Will you trade it for a ruby?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 3
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  talk_hint01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Do you want me to give you some advice\non getting into the castle?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 6
-            field_3: 7
-            field_4:
-              - 0
-              - 1
+      - text: Will you trade it for a ruby?
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk_sellWeaponBow02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Will you trade it for a sapphire?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 3
-            field_3: 5
-            field_4:
-              - 0
-              - 1
-  talk_hint02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "It's deathly dangerous near there so I\ncan't recommend it, but if you're set on\ngoing, make sure you're prepared."
+      - text: Will you trade it for a sapphire?
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk_sellWeaponBow03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Will you trade it for a topaz?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 3
-            field_3: 5
-            field_4:
-              - 0
-              - 1
+      - text: Will you trade it for a topaz?
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk_sellWeaponBow04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: Will you trade it for a diamond?
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 3
-            field_3: 5
-            field_4:
-              - 0
-              - 1
+      - text: Will you trade it for a diamond?
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponLSword00:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Hey, that big sword..."
+  talk_sellWeaponLSword01:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a ruby?
+      - control:
+          kind: choice
+          choice_labels:
+            - 1
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponLSword02:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a sapphire?
+      - control:
+          kind: choice
+          choice_labels:
+            - 1
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponLSword03:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a topaz?
+      - control:
+          kind: choice
+          choice_labels:
+            - 1
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponLSword04:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a diamond?
+      - control:
+          kind: choice
+          choice_labels:
+            - 1
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponShield00:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Hey, that shield..."
+  talk_sellWeaponShield01:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a ruby?
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponShield02:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a sapphire?
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponShield03:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a topaz?
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponShield04:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a diamond?
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponSpear00:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Hey, that spear..."
+  talk_sellWeaponSpear01:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a ruby?
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponSpear02:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a sapphire?
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponSpear03:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a topaz?
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponSpear04:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a diamond?
+      - control:
+          kind: choice
+          choice_labels:
+            - 2
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponSword00:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Hey, that sword..."
+  talk_sellWeaponSword01:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a ruby?
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponSword02:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a sapphire?
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponSword03:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a topaz?
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_sellWeaponSword04:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Will you trade it for a diamond?
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  talk_showWeapon00:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 18
+      - text: This is
+      - control:
+          kind: pause
+          length: long
+      - text: "..."
+      - control:
+          kind: pause
+          frames: 30
+      - text: incredible.
+  talk_showWeapon01:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 0
+      - text: "Thank you. You have shown me\nsomething truly spectacular. I need to go\nout and find one of these myself."
+  talk_showWeapon02:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Here's a token of my appreciation."
+  talk_showWeaponBow:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 20
+      - text: "Wait just a minute! Can you show me\nthat bow you've got there?!"
+  talk_showWeaponLSword:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 20
+      - text: "Wait just a minute! Can you show me\nthat big sword you've got there?!"
+  talk_showWeaponShield:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 20
+      - text: "Wait just a minute! Can you show me\nthat shield you've got there?!"
+  talk_showWeaponSpear:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 20
+      - text: "Wait just a minute! Can you show me\nthat spear you've got there?!"
+  talk_showWeaponSword:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 20
+      - text: "Wait just a minute! Can you show me\nthat sword you've got there?!"
+  talk_sleep00:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 14
+      - text: HEY!
+      - control:
+          kind: pause
+          length: short
+      - text: " You've got some gall waking up a\nsleeping stranger! Show a little respect!"
+  talk_sleep01:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 14
+      - text: "I'M SLEEPY! GO AWAY!"
+  talk_sleep02:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 21
+      - text: "HEY! You've got some nerve waking\nup a sleeping stranger. "
+      - control:
+          kind: pause
+          length: longer
+      - text: And...
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nWHERE ARE YOUR CLOTHES?!\n"
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 14
+      - text: "GET AWAY FROM ME, YOU CREEP!"
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 14
+  talk_sleep03:
+    attributes: Npc_RiverSideHatago002
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 14
+      - text: "Here's some friendly advice—don't wake\nup strangers when you're not wearing\nclothes,"
+      - control:
+          kind: pause
+          length: long
+      - text: " you little creep."

@@ -1,114 +1,97 @@
 ---
+group_count: 11
+atr1_unknown: 0
 entries:
-  QL_Wind_Relic_Name:
-    - text: Divine Beast Vah Medoh
-  QL_Wind_Relic_Saki:
-    - text: "I found Saki and asked where Teba went.\nIt sounds like he headed for the Flight Range.\n\nI should search the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "Flight Range "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: for Teba.
   QL_Wind_Relic_Battle:
-    - text: "The battle with Divine Beast Vah Medoh\nhas begun!\n\nUsing the paraglider I can launch into the air\nfor a good vantage point, and then take out all\nthe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "cannons "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "with my bomb arrows.\n\nBut I must be careful—if I get too close, I'll run\ninto the Divine Beast's barrier!"
-  QL_Wind_Relic_ParashawlFailed: []
-  QL_Wind_Relic_ParashawlFinished:
-    - text: "I proved your mettle by hitting the targets at\nthe Flight Range.\n\nWhen it comes time to battle Divine Beast Vah\nMedoh, Teba will draw the focus of its attacks\nso I can focus on destroying its cannons.\n\nTeba will carry me into the sky where\nDivine Beast Vah Medoh awaits."
-  QL_Wind_Relic_BattleEscape: []
-  QL_Wind_Relic_Step1:
-    - text: "I found Teba at the Flight Range, but he has\nno intention of returning to the village before\nDivine Beast Vah Medoh has been appeased.\n\nHe intends to appease the Divine Beast\nhimself. I had better help him out."
-  QL_Wind_Relic_Parashawl:
-    - text: "Teba won't let me anywhere near\nDivine Beast Vah Medoh unless I can at\nleast hit the targets at the Flight Range.\n\nIf I catch an updraft with my paraglider, it'll\ncarry me high into the sky. I must use this technique\nto destroy "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "five targets "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "with arrows within the time\nlimit to prove myself to Teba."
-  QL_Wind_Relic_ParashawlPlaying:
-    - text: "I proved my mettle by hitting the targets at\nthe Flight Range.\n\nWhen it comes time to battle Divine Beast Vah\nMedoh, Teba will draw the focus of its attacks\nso I can focus on destroying its cannons.\n\nTeba will carry me into the sky where\nDivine Beast Vah Medoh awaits."
-  QL_Wind_Relic_ParashawlSucceeded: []
-  QL_Wind_Relic_BattleSucceeded: []
-  QL_Wind_Relic_Dungeon:
-    - text: "I defeated Windblight Ganon, which had\ninfested the insides of Divine Beast Vah Medoh.\n\nThe Divine Beast has been enshrined at the\nhighest point of Rito Village, and moreover,\nit looks like Teba was able to safely return\nto Rito Village.\n\nNow just to report back to "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Kaneli
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  QL_Wind_Relic_Desc:
-    - text: "Kaneli, elder of Rito Village, wants me to help\na local soldier named Teba. I offered my\nassistance, but first I must find the soldier.\n\nTeba's wife "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Saki
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " may know where he is. I have\nto Ask around Rito Village and gather more information."
-  QL_Wind_Relic_BattlePlaying:
-    - text: "I destroyed all of Divine Beast Vah Medoh's\ncannons and landed on its back, but Teba\nsuffered injuries and had to retreat.\n\nI must finish what we both started. By entering\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Divine Beast Vah Medoh
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " on my own to stop\nit once and for all!"
+    contents:
+      - text: "The battle with Divine Beast Vah Medoh\nhas begun!\n\nUsing the paraglider I can launch into the air\nfor a good vantage point, and then take out all\nthe "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "cannons "
+      - control:
+          kind: reset_colour
+      - text: "with my bomb arrows.\n\nBut I must be careful—if I get too close, I'll run\ninto the Divine Beast's barrier!"
+  QL_Wind_Relic_BattleEscape:
+    contents: []
   QL_Wind_Relic_BattleFinished:
-    - text: "I destroyed all of Divine Beast Vah Medoh's\ncannons and landed on its back, but Teba\nsuffered injuries and had to retreat.\n\nI must finish what we both started. By entering\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Divine Beast Vah Medoh
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " on my own to stop\nit once and for all!"
+    contents:
+      - text: "I destroyed all of Divine Beast Vah Medoh's\ncannons and landed on its back, but Teba\nsuffered injuries and had to retreat.\n\nI must finish what we both started. By entering\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Divine Beast Vah Medoh
+      - control:
+          kind: reset_colour
+      - text: " on my own to stop\nit once and for all!"
+  QL_Wind_Relic_BattlePlaying:
+    contents:
+      - text: "I destroyed all of Divine Beast Vah Medoh's\ncannons and landed on its back, but Teba\nsuffered injuries and had to retreat.\n\nI must finish what we both started. By entering\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Divine Beast Vah Medoh
+      - control:
+          kind: reset_colour
+      - text: " on my own to stop\nit once and for all!"
+  QL_Wind_Relic_BattleSucceeded:
+    contents: []
+  QL_Wind_Relic_Desc:
+    contents:
+      - text: "Kaneli, elder of Rito Village, wants me to help\na local soldier named Teba. I offered my\nassistance, but first I must find the soldier.\n\nTeba's wife "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Saki
+      - control:
+          kind: reset_colour
+      - text: " may know where he is. I have\nto Ask around Rito Village and gather more information."
+  QL_Wind_Relic_Dungeon:
+    contents:
+      - text: "I defeated Windblight Ganon, which had\ninfested the insides of Divine Beast Vah Medoh.\n\nThe Divine Beast has been enshrined at the\nhighest point of Rito Village, and moreover,\nit looks like Teba was able to safely return\nto Rito Village.\n\nNow just to report back to "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Kaneli
+      - control:
+          kind: reset_colour
+      - text: "."
   QL_Wind_Relic_Finish:
-    - text: "I reported to Kaneli that Divine Beast Vah\nMedoh has regained its senses.\n\nMy efforts have earned me the power of the\nChampion Revali, Revali's Gale."
+    contents:
+      - text: "I reported to Kaneli that Divine Beast Vah\nMedoh has regained its senses.\n\nMy efforts have earned me the power of the\nChampion Revali, Revali's Gale."
+  QL_Wind_Relic_Name:
+    contents:
+      - text: Divine Beast Vah Medoh
+  QL_Wind_Relic_Parashawl:
+    contents:
+      - text: "Teba won't let me anywhere near\nDivine Beast Vah Medoh unless I can at\nleast hit the targets at the Flight Range.\n\nIf I catch an updraft with my paraglider, it'll\ncarry me high into the sky. I must use this technique\nto destroy "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "five targets "
+      - control:
+          kind: reset_colour
+      - text: "with arrows within the time\nlimit to prove myself to Teba."
+  QL_Wind_Relic_ParashawlFailed:
+    contents: []
+  QL_Wind_Relic_ParashawlFinished:
+    contents:
+      - text: "I proved your mettle by hitting the targets at\nthe Flight Range.\n\nWhen it comes time to battle Divine Beast Vah\nMedoh, Teba will draw the focus of its attacks\nso I can focus on destroying its cannons.\n\nTeba will carry me into the sky where\nDivine Beast Vah Medoh awaits."
+  QL_Wind_Relic_ParashawlPlaying:
+    contents:
+      - text: "I proved my mettle by hitting the targets at\nthe Flight Range.\n\nWhen it comes time to battle Divine Beast Vah\nMedoh, Teba will draw the focus of its attacks\nso I can focus on destroying its cannons.\n\nTeba will carry me into the sky where\nDivine Beast Vah Medoh awaits."
+  QL_Wind_Relic_ParashawlSucceeded:
+    contents: []
+  QL_Wind_Relic_Saki:
+    contents:
+      - text: "I found Saki and asked where Teba went.\nIt sounds like he headed for the Flight Range.\n\nI should search the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Flight Range "
+      - control:
+          kind: reset_colour
+      - text: for Teba.
+  QL_Wind_Relic_Step1:
+    contents:
+      - text: "I found Teba at the Flight Range, but he has\nno intention of returning to the village before\nDivine Beast Vah Medoh has been appeased.\n\nHe intends to appease the Divine Beast\nhimself. I had better help him out."

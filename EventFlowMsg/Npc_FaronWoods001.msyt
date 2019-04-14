@@ -1,133 +1,142 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Feel free to ask me anything whenever\nyou like!"
+  "0000":
+    attributes: ""
+    contents:
+      - text: Resurrecting horses?
+  "0001":
+    attributes: ""
+    contents:
+      - text: A giant horse? Hm...
+  "0002":
+    attributes: ""
+    contents:
+      - text: "I'm good."
+  Near00:
+    attributes: Npc_FaronWoods001
+    contents:
+      - text: "Hmm, looks like rain..."
   Near01:
-    - text: "All right, all right!"
-  talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Anything else you want to ask about?
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 1
-            field_3: 0
-            field_4: 2
-            field_5:
-              - 0
-              - 2
+    attributes: Npc_FaronWoods001
+    contents:
+      - text: "All right, all right!"
   Near02:
-    - text: Zzz...
-  talk06:
-    - text: Hrnghhh...
+    attributes: Npc_FaronWoods001
+    contents:
+      - text: Zzz...
   Near03:
-    - text: Phew!
+    attributes: Npc_FaronWoods001
+    contents:
+      - text: Phew!
   Near04:
-    - text: Time for bed...
+    attributes: Npc_FaronWoods001
+    contents:
+      - text: Time for bed...
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 2
-    - text: "Thank you so much for your help!\nIn return, I'll happily tell you about\nthis area. \n"
-    - control:
-        four:
-          type3:
-            field_1: 0
-    - text: "Are you, perchance, interested in a giant\nhorse? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Or in...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: resurrecting horses?
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 1
-            field_3: 0
-            field_4: 2
-            field_5:
-              - 0
-              - 2
+      - text: "Thank you so much for your help!\nIn return, I'll happily tell you about\nthis area. \n"
+      - control:
+          kind: raw
+          four:
+            three:
+              field_1: 0
+      - text: "Are you, perchance, interested in a giant\nhorse? "
+      - control:
+          kind: pause
+          length: short
+      - text: Or in...
+      - control:
+          kind: pause
+          length: short
+      - text: resurrecting horses?
+      - control:
+          kind: choice
+          choice_labels:
+            - 1
+            - 0
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   talk01:
-    - text: Zzz...
-  "0000":
-    - text: Resurrecting horses?
+    attributes: Npc_FaronWoods001
+    contents:
+      - text: Zzz...
   talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "Not far from here lives the mysterious\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: god of horses
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ". If a horse dies, he can\nbring it back to life.\nSounds crazy, right? But it's true."
-  "0001":
-    - text: A giant horse? Hm...
+      - text: "Not far from here lives the mysterious\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: god of horses
+      - control:
+          kind: reset_colour
+      - text: ". If a horse dies, he can\nbring it back to life.\nSounds crazy, right? But it's true."
   talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_FaronWoods001
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "If you head west of here, you'll reach a\nplace called "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Taobab Grassland
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\nA "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: really big horse
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " lives there.\nAnd by big...I mean REALLY big."
-  "0002":
-    - text: "I'm good."
-  Near00:
-    - text: "Hmm, looks like rain..."
+      - text: "If you head west of here, you'll reach a\nplace called "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Taobab Grassland
+      - control:
+          kind: reset_colour
+      - text: ".\n\nA "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: really big horse
+      - control:
+          kind: reset_colour
+      - text: " lives there.\nAnd by big...I mean REALLY big."
+  talk04:
+    attributes: Npc_FaronWoods001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Feel free to ask me anything whenever\nyou like!"
+  talk05:
+    attributes: Npc_FaronWoods001
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Anything else you want to ask about?
+      - control:
+          kind: choice
+          choice_labels:
+            - 1
+            - 0
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  talk06:
+    attributes: Npc_FaronWoods001
+    contents:
+      - text: Hrnghhh...

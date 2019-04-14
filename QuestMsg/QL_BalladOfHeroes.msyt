@@ -1,192 +1,142 @@
 ---
+group_count: 11
+atr1_unknown: 0
 entries:
-  QL_BalladOfHeroes_Name:
-    - text: "EX The Champions' Ballad"
-  QL_BalladOfHeroes_Retire_Dungeon04:
-    - text: "After returning the Sheikah Slate to the terminal\nin the Shrine of Resurrection, a mysterious\nweapon appeared out of nowhere.\n\nUsing it, I was able to defeat all monsters at\nfour locations within the Great Plateau. Now I\nmust also conquer the Shrines that appeared.\n\nThe trial will begin again once I take hold\nof the weapon that has returned to the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Shrine of Resurrection
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  QL_BalladOfHeroes_Finish:
-    - text: "The power within prevailed! I proved my\nworthiness to Monk Maz Koshia by completing\nall of the Divine Beast Tamer's Trials. My gift,\nthe "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Master Cycle Zero
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", can be found with my\nRunes. After the trial, I met with Kass,\nwho sang the completed "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "Champions' Ballad"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nfor me. The song helped me recall the distant\nday I was appointed as a Champion..."
-  QL_BalladOfHeroes_Step01:
-    - text: "After returning the Sheikah Slate to the terminal\nin the Shrine of Resurrection, a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "mysterious\nweapon"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " appeared out of nowhere.\n\nI must use it to defeat all monsters at\nfour locations within the Great Plateau.\n\nThe trial will begin once I take hold\nof the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: weapon
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  QL_BalladOfHeroes_Step02:
-    - text: "The One-Hit Obliterator, as the name suggests,\ncan defeat enemies in one-hit. However,\nthe wielder will also be defeated in one hit.\nI have to defeat the monsters at the locations\nmarked on the map within the Great Plateau.\n\nIf I wish to quit this trial, I can simply leave\nthe Great Plateau. The weapon will leave my\nhands and return to the Shrine of Resurrection.\n\nThere are "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: four
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " monster bases remaining."
-  QL_BalladOfHeroes_Step03:
-    - text: "I completed the trials of the Great Plateau!\nAfter conquering the last shrine, the One-Hit\nObliterator split into four glowing orbs and\nscattered to different parts of Hyrule.\n\nThere seems to be more to this trial...\nWhat challenges await?\n\nI'll head to the areas marked on the map.\nLocations remaining: "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        two:
-          type14:
-            field_1: 66
-            string: BalladOfHero_ChallengClearCount
-            field_3: 0
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-  QL_BalladOfHeroes_Step04:
-    - text: "In a realm of memory, I defeated the powerful\nPhantom Ganons of the four Divine Beasts.\nI've also completed the four trials inscribed\non the stone monument.\n\nBut this trial is far from over.\n\nThe door to the final trial in the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "Shrine of \nResurrection"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " has opened. I'll return there\nonce more."
-  QL_BalladOfHeroes_Step02_Dungeon01:
-    - text: "The One-Hit Obliterator, as the name suggests,\ncan defeat enemies in one hit. However,\nthe wielder will also be defeated in one hit.\nI have to defeat the monsters at the locations\nmarked on the map. If I wish to quit this trial,\nI can simply leave the Great Plateau.\nThe weapon will leave my hands and return to the\nShrine of Resurrection.\n\nThere are "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: three
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " monster bases remaining.\nI must conquer each Shrine that appears."
-  QL_BalladOfHeroes_Step05:
-    - text: "When I returned the Sheikah Slate to the\nterminal at the Shrine of Resurrection,\nthe room shook and descended.\n\nThe shrine itself must have been designed to\nplay a part in the trial... Once I reached the\nunderground, an enormous space was revealed.\n\nI must conquer the labyrinth."
-  QL_BalladOfHeroes_Step02_Dungeon02:
-    - text: "The One-Hit Obliterator, as the name suggests,\ncan defeat enemies in one hit. However,\nthe wielder will also be defeated in one hit.\nI have to defeat the monsters at the locations\nmarked on the map. If I wish to quit this trial,\nI can simply leave the Great Plateau. The weapon\nwill leave my hands and return to the\nShrine of Resurrection.\n\nThere are "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: two
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " monster bases remaining.\nI must conquer each Shrine that appears."
-  QL_BalladOfHeroes_Step06:
-    - text: "I reached the deepest area of the\ntrial's labyrinth!\n\nBefore I could report my completion of the\ntrial to Monk Maz Koshia, he rose before me\nand the final trial started.\n\nI'll display my power by fighting Monk Maz Koshia\nand proving I'm worthy of mastering a\nDivine Beast."
   QL_BalladOfHeroes_Desc:
-    - text: "Zelda's voice spoke to me...\n\nShe said that because I have tamed all\nfour Divine Beasts, I can now unlock\nthe powerful force hidden within.\n\nNow to head to the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Shrine of Resurrection
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " and\nreturn the Sheikah Slate to its terminal."
+    contents:
+      - text: "Zelda's voice spoke to me...\n\nShe said that because I have tamed all\nfour Divine Beasts, I can now unlock\nthe powerful force hidden within.\n\nNow to head to the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Shrine of Resurrection
+      - control:
+          kind: reset_colour
+      - text: " and\nreturn the Sheikah Slate to its terminal."
+  QL_BalladOfHeroes_Finish:
+    contents:
+      - text: "The power within prevailed! I proved my\nworthiness to Monk Maz Koshia by completing\nall of the Divine Beast Tamer's Trials. My gift,\nthe "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Master Cycle Zero
+      - control:
+          kind: reset_colour
+      - text: ", can be found with my\nRunes. After the trial, I met with Kass,\nwho sang the completed "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Champions' Ballad"
+      - control:
+          kind: reset_colour
+      - text: "\nfor me. The song helped me recall the distant\nday I was appointed as a Champion..."
+  QL_BalladOfHeroes_Name:
+    contents:
+      - text: "EX The Champions' Ballad"
   QL_BalladOfHeroes_Retire:
-    - text: "After returning the Sheikah Slate to the terminal\nin the Shrine of Resurrection, a mysterious\nweapon appeared out of nowhere.\n\nI must use it to defeat all monsters at\nfour locations within the Great Plateau.\n\nThe trial will begin again once I take hold\nof the weapon that has returned to the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Shrine of Resurrection
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+    contents:
+      - text: "After returning the Sheikah Slate to the terminal\nin the Shrine of Resurrection, a mysterious\nweapon appeared out of nowhere.\n\nI must use it to defeat all monsters at\nfour locations within the Great Plateau.\n\nThe trial will begin again once I take hold\nof the weapon that has returned to the\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Shrine of Resurrection
+      - control:
+          kind: reset_colour
+      - text: "."
+  QL_BalladOfHeroes_Retire_Dungeon04:
+    contents:
+      - text: "After returning the Sheikah Slate to the terminal\nin the Shrine of Resurrection, a mysterious\nweapon appeared out of nowhere.\n\nUsing it, I was able to defeat all monsters at\nfour locations within the Great Plateau. Now I\nmust also conquer the Shrines that appeared.\n\nThe trial will begin again once I take hold\nof the weapon that has returned to the\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Shrine of Resurrection
+      - control:
+          kind: reset_colour
+      - text: "."
+  QL_BalladOfHeroes_Step01:
+    contents:
+      - text: "After returning the Sheikah Slate to the terminal\nin the Shrine of Resurrection, a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "mysterious\nweapon"
+      - control:
+          kind: reset_colour
+      - text: " appeared out of nowhere.\n\nI must use it to defeat all monsters at\nfour locations within the Great Plateau.\n\nThe trial will begin once I take hold\nof the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: weapon
+      - control:
+          kind: reset_colour
+      - text: "."
+  QL_BalladOfHeroes_Step02:
+    contents:
+      - text: "The One-Hit Obliterator, as the name suggests,\ncan defeat enemies in one-hit. However,\nthe wielder will also be defeated in one hit.\nI have to defeat the monsters at the locations\nmarked on the map within the Great Plateau.\n\nIf I wish to quit this trial, I can simply leave\nthe Great Plateau. The weapon will leave my\nhands and return to the Shrine of Resurrection.\n\nThere are "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: four
+      - control:
+          kind: reset_colour
+      - text: " monster bases remaining."
+  QL_BalladOfHeroes_Step02_Dungeon01:
+    contents:
+      - text: "The One-Hit Obliterator, as the name suggests,\ncan defeat enemies in one hit. However,\nthe wielder will also be defeated in one hit.\nI have to defeat the monsters at the locations\nmarked on the map. If I wish to quit this trial,\nI can simply leave the Great Plateau.\nThe weapon will leave my hands and return to the\nShrine of Resurrection.\n\nThere are "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: three
+      - control:
+          kind: reset_colour
+      - text: " monster bases remaining.\nI must conquer each Shrine that appears."
+  QL_BalladOfHeroes_Step02_Dungeon02:
+    contents:
+      - text: "The One-Hit Obliterator, as the name suggests,\ncan defeat enemies in one hit. However,\nthe wielder will also be defeated in one hit.\nI have to defeat the monsters at the locations\nmarked on the map. If I wish to quit this trial,\nI can simply leave the Great Plateau. The weapon\nwill leave my hands and return to the\nShrine of Resurrection.\n\nThere are "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: two
+      - control:
+          kind: reset_colour
+      - text: " monster bases remaining.\nI must conquer each Shrine that appears."
   QL_BalladOfHeroes_Step02_Dungeon03:
-    - text: "The One-Hit Obliterator, as the name suggests,\ncan defeat enemies in one hit. However,\nthe wielder will also be defeated in one hit.\nI have to defeat the monsters at the locations\nmarked on the map. If I wish to quit this trial,\nI can simply leave the Great Plateau.\nThe weapon will leave my hands and return\nto the Shrine of Resurrection.\n\nThere is "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: one
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " monster base remaining.\nI must conquer each Shrine that appears."
+    contents:
+      - text: "The One-Hit Obliterator, as the name suggests,\ncan defeat enemies in one hit. However,\nthe wielder will also be defeated in one hit.\nI have to defeat the monsters at the locations\nmarked on the map. If I wish to quit this trial,\nI can simply leave the Great Plateau.\nThe weapon will leave my hands and return\nto the Shrine of Resurrection.\n\nThere is "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: one
+      - control:
+          kind: reset_colour
+      - text: " monster base remaining.\nI must conquer each Shrine that appears."
+  QL_BalladOfHeroes_Step03:
+    contents:
+      - text: "I completed the trials of the Great Plateau!\nAfter conquering the last shrine, the One-Hit\nObliterator split into four glowing orbs and\nscattered to different parts of Hyrule.\n\nThere seems to be more to this trial...\nWhat challenges await?\n\nI'll head to the areas marked on the map.\nLocations remaining: "
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: BalladOfHero_ChallengClearCount
+      - control:
+          kind: reset_colour
+  QL_BalladOfHeroes_Step04:
+    contents:
+      - text: "In a realm of memory, I defeated the powerful\nPhantom Ganons of the four Divine Beasts.\nI've also completed the four trials inscribed\non the stone monument.\n\nBut this trial is far from over.\n\nThe door to the final trial in the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Shrine of \nResurrection"
+      - control:
+          kind: reset_colour
+      - text: " has opened. I'll return there\nonce more."
+  QL_BalladOfHeroes_Step05:
+    contents:
+      - text: "When I returned the Sheikah Slate to the\nterminal at the Shrine of Resurrection,\nthe room shook and descended.\n\nThe shrine itself must have been designed to\nplay a part in the trial... Once I reached the\nunderground, an enormous space was revealed.\n\nI must conquer the labyrinth."
+  QL_BalladOfHeroes_Step06:
+    contents:
+      - text: "I reached the deepest area of the\ntrial's labyrinth!\n\nBefore I could report my completion of the\ntrial to Monk Maz Koshia, he rose before me\nand the final trial started.\n\nI'll display my power by fighting Monk Maz Koshia\nand proving I'm worthy of mastering a\nDivine Beast."
   QL_BalladOfHeroes_Step2_Dungeon4:
-    - text: "The One-Hit Obliterator, as the name suggests,\ncan defeat enemies in one hit. However,\nthe wielder will also be defeated in one hit.\n\nIf I wish to quit this trial, I can simply leave the\nGreat Plateau. The weapon will leave my\nhands and return to the Shrine of Resurrection.\n\nI have defeated all of the monster bases.\nNow to conquer each Shrine that appears."
+    contents:
+      - text: "The One-Hit Obliterator, as the name suggests,\ncan defeat enemies in one hit. However,\nthe wielder will also be defeated in one hit.\n\nIf I wish to quit this trial, I can simply leave the\nGreat Plateau. The weapon will leave my\nhands and return to the Shrine of Resurrection.\n\nI have defeated all of the monster bases.\nNow to conquer each Shrine that appears."

@@ -1,11 +1,18 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
-  QL_ShieldofKolog_Name:
-    - text: The Test of Wood
   QL_ShieldofKolog_Desc:
-    - text: "I've decided to undergo the trial Damia\ngave me in Korok Forest.\n\nI'll talk to Damia when I'm ready to begin."
-  QL_ShieldofKolog_Step010:
-    - text: "Now with the forest dweller's sword,\nforest dweller's bow, and\nforest dweller's shield equipped,\n I can head for the destination."
-  QL_ShieldofKolog_Retire: []
+    contents:
+      - text: "I've decided to undergo the trial Damia\ngave me in Korok Forest.\n\nI'll talk to Damia when I'm ready to begin."
   QL_ShieldofKolog_Finish:
-    - text: "I arrived at my destination with\nthe forest dweller's sword,\nforest dweller's bow, and\nforest dweller's shield equipped.\nThere, I found an ancient shrine."
+    contents:
+      - text: "I arrived at my destination with\nthe forest dweller's sword,\nforest dweller's bow, and\nforest dweller's shield equipped.\nThere, I found an ancient shrine."
+  QL_ShieldofKolog_Name:
+    contents:
+      - text: The Test of Wood
+  QL_ShieldofKolog_Retire:
+    contents: []
+  QL_ShieldofKolog_Step010:
+    contents:
+      - text: "Now with the forest dweller's sword,\nforest dweller's bow, and\nforest dweller's shield equipped,\n I can head for the destination."

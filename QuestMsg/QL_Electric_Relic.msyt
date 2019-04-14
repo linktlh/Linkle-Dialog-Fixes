@@ -1,46 +1,48 @@
 ---
+group_count: 7
+atr1_unknown: 0
 entries:
-  QL_Electric_Relic_Strategy:
-    - text: "The fight with the Divine Beast Vah Naboris\nhas begun. I'm to attack the feet of the Divine Beast\nusing bomb arrows to stop its movement.\n\nIt seems that staying close to Riju will nullify the\neffects of the Divine Beast's powerful lightning\nattacks."
-  QL_Electric_Relic_Search:
-    - text: "After speaking with Captain Teake, I learned\nthat the thieves are hiding out in "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Karusa Valley
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ",\nbut the hideout itself has not been scouted by\nany of the soldiers.\n\nI should gather any information I can from the\nsoldiers, and then head for the thieves' hideout."
-  QL_Electric_Relic_Invasion:
-    - text: "I succeeded in taking out all four of the\nDivine Beast Vah Naboris's feet, stopping\nits movement!\n\nNow to enter Naboris and continue my quest."
-  QL_Electric_Relic_GetBack:
-    - text: "I retrieved the chief's heirloom from the\nthieves' leader!\n\nIt's time to head back to Gerudo Town\nand return the heirloom to Riju!"
   QL_Electric_Relic_Arrival:
-    - text: "I've arrived in the thieves' hideout! I can\nsense many people waiting within—I would\nbe at a disadvantage if a fight were to\nbreak out.\n\nNow to sneak into the hideout, and recover\nthe Gerudo chief's heirloom."
-  QL_Electric_Relic_Deliver:
-    - text: "At last I'm ready to take on the\nDivine Beast Vah Naboris. Riju is\nwaiting for me at the lookout post\nwhen I'm ready.\n\nRiju has told me that a fight with the Divine\nBeast will go much more smoothly for one\nwho knows how to sand-seal surf."
-  QL_Electric_Relic_Name:
-    - text: Divine Beast Vah Naboris
-  QL_Electric_Relic_Desc:
-    - text: "The leader of the Gerudo, Lady Riju, asked for\nmy help in conquering\nDivine Beast Vah Naboris.\n\nBefore I can confront the Divine Beast, the\nGerudo need help recovering the chief's\nheirloom, which has been stolen. Captain "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Teake
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nin the soldiers' barracks has the latest\ninformation on the thieves."
-  QL_Electric_Relic_Finish:
-    - text: "I've reported to Riju that I've conquered\nDivine Beast Vah Naboris!\n\nI've learned how to use Urbosa's Fury,\none of the Champions' blessings."
+    contents:
+      - text: "I've arrived in the thieves' hideout! I can\nsense many people waiting within—I would\nbe at a disadvantage if a fight were to\nbreak out.\n\nNow to sneak into the hideout, and recover\nthe Gerudo chief's heirloom."
   QL_Electric_Relic_Defeat:
-    - text: "I defeated the Thunderblight Ganon\nlurking deep within the\nDivine Beast Vah Naboris!\n\nUrbosa's Divine Beast Vah Naboris has\ntaken up a position in the eastern region of\nthe Gerudo Desert.\n\nI need to make my way back to Gerudo Town,\nand report to the chief of the Gerudo, Riju!"
+    contents:
+      - text: "I defeated the Thunderblight Ganon\nlurking deep within the\nDivine Beast Vah Naboris!\n\nUrbosa's Divine Beast Vah Naboris has\ntaken up a position in the eastern region of\nthe Gerudo Desert.\n\nI need to make my way back to Gerudo Town,\nand report to the chief of the Gerudo, Riju!"
+  QL_Electric_Relic_Deliver:
+    contents:
+      - text: "At last I'm ready to take on the\nDivine Beast Vah Naboris. Riju is\nwaiting for me at the lookout post\nwhen I'm ready.\n\nRiju has told me that a fight with the Divine\nBeast will go much more smoothly for one\nwho knows how to sand-seal surf."
+  QL_Electric_Relic_Desc:
+    contents:
+      - text: "The leader of the Gerudo, Lady Riju, asked for\nmy help in conquering\nDivine Beast Vah Naboris.\n\nBefore I can confront the Divine Beast, the\nGerudo need help recovering the chief's\nheirloom, which has been stolen. Captain "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Teake
+      - control:
+          kind: reset_colour
+      - text: "\nin the soldiers' barracks has the latest\ninformation on the thieves."
+  QL_Electric_Relic_Finish:
+    contents:
+      - text: "I've reported to Riju that I've conquered\nDivine Beast Vah Naboris!\n\nI've learned how to use Urbosa's Fury,\none of the Champions' blessings."
+  QL_Electric_Relic_GetBack:
+    contents:
+      - text: "I retrieved the chief's heirloom from the\nthieves' leader!\n\nIt's time to head back to Gerudo Town\nand return the heirloom to Riju!"
+  QL_Electric_Relic_Invasion:
+    contents:
+      - text: "I succeeded in taking out all four of the\nDivine Beast Vah Naboris's feet, stopping\nits movement!\n\nNow to enter Naboris and continue my quest."
+  QL_Electric_Relic_Name:
+    contents:
+      - text: Divine Beast Vah Naboris
+  QL_Electric_Relic_Search:
+    contents:
+      - text: "After speaking with Captain Teake, I learned\nthat the thieves are hiding out in "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Karusa Valley
+      - control:
+          kind: reset_colour
+      - text: ",\nbut the hideout itself has not been scouted by\nany of the soldiers.\n\nI should gather any information I can from the\nsoldiers, and then head for the thieves' hideout."
+  QL_Electric_Relic_Strategy:
+    contents:
+      - text: "The fight with the Divine Beast Vah Naboris\nhas begun. I'm to attack the feet of the Divine Beast\nusing bomb arrows to stop its movement.\n\nIt seems that staying close to Riju will nullify the\neffects of the Divine Beast's powerful lightning\nattacks."

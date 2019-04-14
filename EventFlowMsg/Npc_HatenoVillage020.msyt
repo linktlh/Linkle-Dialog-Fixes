@@ -1,198 +1,198 @@
 ---
+group_count: 17
+atr1_unknown: 4
 entries:
-  talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "...Whozat? "
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: Zzzzzrrmblle...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 7
-    - text: "Some of us have things to do, y'know?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nWould you mind leaving me alone?"
   near00:
-    - text: "Wow, really?!"
-  talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 13
-    - text: "...What?"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Go hassle someone else."
+    attributes: Npc_HatenoVillage020
+    contents:
+      - text: "Wow, really?!"
   near01:
-    - text: "...No clothes? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Really?
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 6
-    - text: "I'm waiting for someone. "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nAnd it's not you. Can you go away?"
-  talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 17
-    - text: I have stuff I need to do now.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " \nCould you stop following me?"
-  talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 7
-    - text: Um...
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " Would you mind not following me?"
+    attributes: Npc_HatenoVillage020
+    contents:
+      - text: "...No clothes? "
+      - control:
+          kind: pause
+          length: short
+      - text: Really?
   near03:
-    - text: Zzzzz...
-  talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 14
-    - text: Hey! Captain Snoop!
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " You want to get out\nof my personal space or what?"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\n\nEver heard of the concept of a PRIVATE\nconversation?"
-  talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 0
-    - text: "I'm trying to have a decent gossip here!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nAnd I don't need you! Now go away!"
-  talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 6
-    - text: Hm?
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " I could've sworn someone just\ncalled out to me..."
+    attributes: Npc_HatenoVillage020
+    contents:
+      - text: Zzzzz...
   talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage020
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 5
-    - text: What do you have there?
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nUm, that's really dangerous.\nYou shouldn't run around with that."
-  talk13:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: Urk...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+      - text: What do you have there?
+      - control:
+          kind: pause
+          length: short
+      - text: "\nUm, that's really dangerous.\nYou shouldn't run around with that."
   talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage020
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 2
             - 7
-    - text: "That thing you're holding..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nIt's dangerous! So put it away!"
+      - text: "That thing you're holding..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nIt's dangerous! So put it away!"
+  talk02:
+    attributes: Npc_HatenoVillage020
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "...Whozat? "
+      - control:
+          kind: text_size
+          percent: 80
+      - text: Zzzzzrrmblle...
+      - control:
+          kind: text_size
+          percent: 100
+  talk04:
+    attributes: Npc_HatenoVillage020
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "I'm waiting for someone. "
+      - control:
+          kind: pause
+          length: short
+      - text: "\nAnd it's not you. Can you go away?"
+  talk05:
+    attributes: Npc_HatenoVillage020
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 7
+      - text: Um...
+      - control:
+          kind: pause
+          length: short
+      - text: " Would you mind not following me?"
+  talk06:
+    attributes: Npc_HatenoVillage020
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 14
+      - text: Hey! Captain Snoop!
+      - control:
+          kind: pause
+          length: short
+      - text: " You want to get out\nof my personal space or what?"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n\nEver heard of the concept of a PRIVATE\nconversation?"
+  talk07:
+    attributes: Npc_HatenoVillage006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 0
+      - text: "I'm trying to have a decent gossip here!"
+      - control:
+          kind: pause
+          length: long
+      - text: "\nAnd I don't need you! Now go away!"
+  talk12:
+    attributes: Npc_HatenoVillage020
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 6
+      - text: Hm?
+      - control:
+          kind: pause
+          length: longer
+      - text: " I could've sworn someone just\ncalled out to me..."
+  talk13:
+    attributes: Npc_HatenoVillage020
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: Urk...
+      - control:
+          kind: text_size
+          percent: 100
   talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_HatenoVillage020
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 15
-    - text: "Excuse me, but I'm going to bed."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nCan you please get out of my way?"
+      - text: "Excuse me, but I'm going to bed."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nCan you please get out of my way?"
+  talk15:
+    attributes: Npc_HatenoVillage020
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 7
+      - text: "Some of us have things to do, y'know?"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nWould you mind leaving me alone?"
+  talk16:
+    attributes: Npc_HatenoVillage020
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 13
+      - text: "...What?"
+      - control:
+          kind: pause
+          length: longer
+      - text: " Go hassle someone else."
+  talk17:
+    attributes: Npc_HatenoVillage020
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 17
+      - text: I have stuff I need to do now.
+      - control:
+          kind: pause
+          length: longer
+      - text: " \nCould you stop following me?"

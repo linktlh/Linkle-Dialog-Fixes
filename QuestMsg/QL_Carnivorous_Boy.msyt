@@ -1,20 +1,20 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
-  QL_Carnivorous_Boy_Finish:
-    - text: "Trott, a stable hand at the Outskirt Stable,\nfound color returning to his cheeks for the first\ntime in a while after a meaty dinner.\n\nFrom now on, he'll pay me "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "100 rupees "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "out of\nhis own pocket each time I bring him some\nraw gourmet meat."
-  QL_Carnivorous_Boy_Name:
-    - text: A Rare Find
   QL_Carnivorous_Boy_Desc:
-    - text: "Trott, a stable hand on the edge of the plain,\nis in the doldrums. The only thing that could\nlift his spirits is some raw gourmet meat."
+    contents:
+      - text: "Trott, a stable hand on the edge of the plain,\nis in the doldrums. The only thing that could\nlift his spirits is some raw gourmet meat."
+  QL_Carnivorous_Boy_Finish:
+    contents:
+      - text: "Trott, a stable hand at the Outskirt Stable,\nfound color returning to his cheeks for the first\ntime in a while after a meaty dinner.\n\nFrom now on, he'll pay me "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "100 rupees "
+      - control:
+          kind: reset_colour
+      - text: "out of\nhis own pocket each time I bring him some\nraw gourmet meat."
+  QL_Carnivorous_Boy_Name:
+    contents:
+      - text: A Rare Find

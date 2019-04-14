@@ -1,75 +1,52 @@
 ---
+group_count: 5
+atr1_unknown: 0
 entries:
   sinjyu_clear_04:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 101
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "\n\n\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 109
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: Linkle...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "\n\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 49
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "Linkle.\n\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 292
-    - text: "Thanks to you, all of the Divine Beasts\nhave returned to us and the spirits\nof the Champions are free.\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 165
-    - text: "We will all be awaiting your clash with\nGanon at Hyrule Castle."
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: auto_advance
+          frames: 101
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "..."
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "\n\n\n"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: auto_advance
+          frames: 109
+      - control:
+          kind: text_size
+          percent: 80
+      - text: Linkle...
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 49
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "Linkle.\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 292
+      - text: "Thanks to you, all of the Divine Beasts\nhave returned to us and the spirits\nof the Champions are free.\n"
+      - control:
+          kind: auto_advance
+          frames: 165
+      - text: "We will all be awaiting your clash with\nGanon at Hyrule Castle."

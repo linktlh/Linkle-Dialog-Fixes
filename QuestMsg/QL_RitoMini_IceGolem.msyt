@@ -1,46 +1,37 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
-  QL_RitoMini_IceGolem_Desc:
-    - text: "Gesane, a Rito Village guardsman, said he \nsaw a frost Talus over at "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Coldsnap Hollow
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\nIf I encounter a "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Frost Talus
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " in my\ntravels there, I'll be sure to destroy it."
-  QL_RitoMini_IceGolem_Finish:
-    - text: "I told the guardsman Gesane at Rito Village\nthat I destroyed the Frost Talus in\nColdsnap Hollow.\n\nGesane offered me rupees as thanks,\nwhich I gracefully accepted."
-  QL_RitoMini_IceGolem_Name:
-    - text: "Face the Frost Talus "
   QL_RitoMini_IceGolem_Beated:
-    - text: "I defeated the Frost Talus at\nColdsnap Hollow! "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Gesane
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " at Rito Village\nwill surely be pleased once I report\nback to him."
+    contents:
+      - text: "I defeated the Frost Talus at\nColdsnap Hollow! "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Gesane
+      - control:
+          kind: reset_colour
+      - text: " at Rito Village\nwill surely be pleased once I report\nback to him."
+  QL_RitoMini_IceGolem_Desc:
+    contents:
+      - text: "Gesane, a Rito Village guardsman, said he \nsaw a frost Talus over at "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Coldsnap Hollow
+      - control:
+          kind: reset_colour
+      - text: ".\n\nIf I encounter a "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Frost Talus
+      - control:
+          kind: reset_colour
+      - text: " in my\ntravels there, I'll be sure to destroy it."
+  QL_RitoMini_IceGolem_Finish:
+    contents:
+      - text: "I told the guardsman Gesane at Rito Village\nthat I destroyed the Frost Talus in\nColdsnap Hollow.\n\nGesane offered me rupees as thanks,\nwhich I gracefully accepted."
+  QL_RitoMini_IceGolem_Name:
+    contents:
+      - text: "Face the Frost Talus "

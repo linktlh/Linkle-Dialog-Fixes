@@ -1,52 +1,79 @@
 ---
+group_count: 17
+atr1_unknown: 0
 entries:
-  talk011:
-    - text: Stay on it!
-  talk072:
-    - text: "Good one, Linkle!"
-  talk012:
-    - text: Just like that!
-  talk060:
-    - text: That flaming ball is dangerous.
   talk000:
-    - text: Watch out for that sword!
-  talk130:
-    - text: "Daruk's Protection is now ready to roll!"
-  talk050:
-    - text: Need some health?
-  talk051:
-    - text: Stay in there...
-  talk052:
-    - text: Grab some health!
-  talk040:
-    - text: "Now's your chance!"
-  talk041:
-    - text: Go for it!
-  talk110:
-    - text: " "
-  talk042:
-    - text: "Lay it on, little lady!"
-  talk030:
-    - text: You OK there?
-  talk031:
-    - text: "Looks like you're hurtin'."
-  talk032:
-    - text: "Stay strong, now..."
-  talk080:
-    - text: "Your regular attacks won't work here!"
-  talk020:
-    - text: Get it together!
-  talk081:
-    - text: Watch him before he tries to blast you.
-  talk021:
-    - text: "You're OK!"
-  talk082:
-    - text: "Maybe he'd like a bomb snack..."
-  talk022:
-    - text: Little lady!
-  talk070:
-    - text: Nice!
+    contents:
+      - text: Watch out for that sword!
   talk010:
-    - text: "Nice one, little lady!"
+    contents:
+      - text: "Nice one, little lady!"
+  talk011:
+    contents:
+      - text: Stay on it!
+  talk012:
+    contents:
+      - text: Just like that!
+  talk020:
+    contents:
+      - text: Get it together!
+  talk021:
+    contents:
+      - text: "You're OK!"
+  talk022:
+    contents:
+      - text: Little lady!
+  talk030:
+    contents:
+      - text: You OK there?
+  talk031:
+    contents:
+      - text: "Looks like you're hurtin'."
+  talk032:
+    contents:
+      - text: "Stay strong, now..."
+  talk040:
+    contents:
+      - text: "Now's your chance!"
+  talk041:
+    contents:
+      - text: Go for it!
+  talk042:
+    contents:
+      - text: "Lay it on, little lady!"
+  talk050:
+    contents:
+      - text: Need some health?
+  talk051:
+    contents:
+      - text: Stay in there...
+  talk052:
+    contents:
+      - text: Grab some health!
+  talk060:
+    contents:
+      - text: That flaming ball is dangerous.
+  talk070:
+    contents:
+      - text: Nice!
   talk071:
-    - text: I knew you had it in you!
+    contents:
+      - text: I knew you had it in you!
+  talk072:
+    contents:
+      - text: "Good one, Linkle!"
+  talk080:
+    contents:
+      - text: "Your regular attacks won't work here!"
+  talk081:
+    contents:
+      - text: Watch him before he tries to blast you.
+  talk082:
+    contents:
+      - text: "Maybe he'd like a bomb snack..."
+  talk110:
+    contents:
+      - text: " "
+  talk130:
+    contents:
+      - text: "Daruk's Protection is now ready to roll!"

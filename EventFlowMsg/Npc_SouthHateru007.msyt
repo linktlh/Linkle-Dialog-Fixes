@@ -1,832 +1,766 @@
 ---
+group_count: 29
+atr1_unknown: 4
 entries:
-  Moon01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Tonight's moon will be a little smaller\nthan yesterday's full moon. It's nice in\nits own way, really..."
-  Near04:
-    - text: Rain!
-  Moon02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: Tonight is the third-quarter moon.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nLike a bow aiming for the heavens above."
-  Near05:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 32
-              - 205
-    - text: "I'm sleeping..."
-  Moon03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: Tonight is the 26th-day moon...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nIts sloping line is really wonderful."
-  Near06:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 8
-              - 205
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: BLOOD!
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
+  "0000":
+    attributes: ""
+    contents:
+      - text: Blood moon?
+  "0001":
+    attributes: ""
+    contents:
+      - text: "I've seen it."
+  "0002":
+    attributes: ""
+    contents:
+      - text: Good-bye.
+  "1000":
+    attributes: ""
+    contents:
+      - text: Blood moon?
+  "1001":
+    attributes: ""
+    contents:
+      - text: "Tonight's moon?"
+  "1002":
+    attributes: ""
+    contents:
+      - text: Good-bye.
   BloodyMoon00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 11
-    - text: "Whenever the clock strikes midnight on\nunlucky nights, the sky turns blood red.\nThat's the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: blood moon
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\nWhen that happens, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: monsters
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " come back\nto life, no matter how many times you've\ndefeated them.\nIt's happened for so long now that no\none really pays it any mind, but I have no\nplans to give up on my research."
-  Moon04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: Tonight is a new moon...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nEven though we can't see it, isn't it\ngreat just knowing it's there?"
+      - text: "Whenever the clock strikes midnight on\nunlucky nights, the sky turns blood red.\nThat's the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: blood moon
+      - control:
+          kind: reset_colour
+      - text: ".\nWhen that happens, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: monsters
+      - control:
+          kind: reset_colour
+      - text: " come back\nto life, no matter how many times you've\ndefeated them.\nIt's happened for so long now that no\none really pays it any mind, but I have no\nplans to give up on my research."
   BloodyTalk00:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: text_size
+          percent: 125
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 10
-    - text: "It's...so...RED!\nSo gloriously RED!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-  Near07:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 8
-              - 205
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Here...it...COMES!
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-  Moon05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: Tonight is a crescent moon...
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nThat shape makes me hungry for some\nreason..."
-  GoodBye00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 16
-    - text: "Hmm...\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 4
-            - 1
-    - text: "Oh, I'm sorry...\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: "I spend so much time thinking about the\nmoon that it's all I can talk about."
+      - text: "It's...so...RED!\nSo gloriously RED!"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: reset_colour
   BloodyTalk01:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: text_size
+          percent: 125
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 36
-    - text: "My blood...it's boiling!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-  Talk03_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 10
-            - 21
-    - text: Oh...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " You were researching the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: blood moon
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", as well?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 1000
-            field_3: 1001
-            field_4: 1002
-            field_5:
-              - 0
-              - 2
-  Moon06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Tonight is a seven-day moon...\nLike a bow aiming for the land below,\nit really is quite beautiful."
-  GoodBye01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 11
-            - 16
-    - text: Hmm...
+      - text: "My blood...it's boiling!"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: reset_colour
   BloodyTalk02:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: text_size
+          percent: 125
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 10
-    - text: "Arise, monsters!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-  Moon07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: Tonight is the 13th-day moon...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nNow it will slowly expand. So beautiful..."
+      - text: "Arise, monsters!"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: reset_colour
   BloodyTalk03:
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: text_size
+          percent: 125
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 36
-    - text: Gr...gr...gr...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
+      - text: Gr...gr...gr...
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: reset_colour
   FirstTalk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 16
-    - text: Hmm...
+      - text: Hmm...
   FirstTalk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 19
-    - text: "Oh, sorry...\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Oh, sorry...\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "I didn't notice you... I was a bit lost in\nthought there."
+      - text: "I didn't notice you... I was a bit lost in\nthought there."
+  FirstTalk01_1:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "What's up?"
   FirstTalk02:
-    - text: "I've been doing rigorous research day\nand night to figure out the mystery of \nthat "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: blood moon
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 0
-            field_3: 1
-            field_4: 2
-            field_5:
-              - 0
-              - 2
-  "1000":
-    - text: Blood moon?
+    attributes: Npc_SouthHateru007
+    contents:
+      - text: "I've been doing rigorous research day\nand night to figure out the mystery of \nthat "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: blood moon
+      - control:
+          kind: reset_colour
+      - text: "."
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
   FirstTalk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 20
-    - text: "You don't know it?\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "You don't know it?\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "That's inexcusable. Listen up and I'll tell\nyou about it."
-  "1001":
-    - text: "Tonight's moon?"
-  "0000":
-    - text: Blood moon?
+      - text: "That's inexcusable. Listen up and I'll tell\nyou about it."
   FirstTalk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 6
-    - text: Hmmm...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Are you just pretending to\nknow what I was talking about?\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Hmmm...
+      - control:
+          kind: pause
+          length: long
+      - text: " Are you just pretending to\nknow what I was talking about?\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "That's fine, so long as you'll listen to me\nnow while I tell you about it."
-  Talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Oh, you again...\nAre you interested in my research?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 1000
-            field_3: 1001
-            field_4: 1002
-            field_5:
-              - 0
-              - 2
-  "1002":
-    - text: Good-bye.
-  "0001":
-    - text: "I've seen it."
+      - text: "That's fine, so long as you'll listen to me\nnow while I tell you about it."
   FirstTalk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 12
-    - text: Hmm...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nAll the same, take a minute and listen\nwhile I tell you about it."
-  Talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Well, ask me anything."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 1000
-            field_3: 1001
-            field_4: 1002
-            field_5:
-              - 0
-              - 2
-  Rain00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 12
-    - text: Hmm...
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Can't see the moon like this."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 1000
-            field_3: 1001
-            field_4: 1002
-            field_5:
-              - 0
-              - 2
-  "0002":
-    - text: Good-bye.
+      - text: Hmm...
+      - control:
+          kind: pause
+          length: long
+      - text: "\nAll the same, take a minute and listen\nwhile I tell you about it."
   FirstTalk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "For 100 years now, every so often when\nthe clock strikes midnight, the sky turns\nred and a full moon rises...\nAt that moment, "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: monsters
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " that had been\npreviously defeated will come back\nto life."
-  Talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 0
-    - text: "Oh, you again."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThe moon is about to come out..."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 1000
-            field_3: 1001
-            field_4: 1002
-            field_5:
-              - 0
-              - 2
-  Rain01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 12
-    - text: "I'm taking cover from the rain!\nWe'll talk later!"
+      - text: "For 100 years now, every so often when\nthe clock strikes midnight, the sky turns\nred and a full moon rises...\nAt that moment, "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: monsters
+      - control:
+          kind: reset_colour
+      - text: " that had been\npreviously defeated will come back\nto life."
   FirstTalk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 11
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "And that's what is known as the\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: blood moon
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  Talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 1
-            - 11
-    - text: "Oh, you again."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nA beautiful moon tonight, isn't it?"
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 1000
-            field_3: 1001
-            field_4: 1002
-            field_5:
-              - 0
-              - 2
-  Rain02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 2
-            - 14
-    - text: "Can't see anything in this rain!"
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "And that's what is known as the\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: blood moon
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: text_size
+          percent: 100
   FirstTalk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "Why do the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: monsters
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " return to life? "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nWhy does it only happen when the sky\nturns red?\nNo one really has the answers to those\nquestions. It's a mysterious\nphenomenon...\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Why do the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: monsters
+      - control:
+          kind: reset_colour
+      - text: " return to life? "
+      - control:
+          kind: pause
+          length: long
+      - text: "\nWhy does it only happen when the sky\nturns red?\nNo one really has the answers to those\nquestions. It's a mysterious\nphenomenon...\n"
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 11
-    - text: "If you learn anything about the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "blood\nmoon"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " as you travel, be sure to come\nback and tell me."
-  Talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 12
-    - text: "Oh...\nIt looks like the moon has already\ndisappeared today..."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 1000
-            field_3: 1001
-            field_4: 1002
-            field_5:
-              - 0
-              - 2
-  Talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 1
-    - text: Anything else you want to ask?
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 1000
-            field_3: 1001
-            field_4: 1002
-            field_5:
-              - 0
-              - 2
-  Talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 12
-    - text: "What is it? I was just about to get some\nsleep so I can be rested for researching\nthe moon tonight..."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 1000
-            field_3: 1001
-            field_4: 1002
-            field_5:
-              - 0
-              - 2
-  Talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 3
-            - 12
-    - text: "What is it? I was just sleeping so I'd be\nwell rested for researching the moon\ntonight..."
-    - control:
-        one:
-          type5:
-            field_1: 8
-            field_2: 1000
-            field_3: 1001
-            field_4: 1002
-            field_5:
-              - 0
-              - 2
-  Near00:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 14
-              - 205
-    - text: Hmm...
-  FirstTalk01_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "What's up?"
-  Moon00_Full:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "Tonight is a full moon...\n\n\nLooks like it could come falling down any\nminute. I can't take my eyes off of it."
-  Near01:
-    - text: ZZZzzz...
-  Moon00_Befor:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "If you learn anything about the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "blood\nmoon"
+      - control:
+          kind: reset_colour
+      - text: " as you travel, be sure to come\nback and tell me."
+  GoodBye00:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 16
-    - text: "I'm getting that feeling again..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nSomething is going to happen tonight."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI can taste it!"
-  Near02:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 14
-              - 205
-    - text: Tonight...
+      - text: "Hmm...\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 1
+      - text: "Oh, I'm sorry...\n\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "I spend so much time thinking about the\nmoon that it's all I can talk about."
+  GoodBye01:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 16
+      - text: Hmm...
   Moon00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 11
-    - text: "Tonight is the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: blood moon
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ", at last..."
+      - text: "Tonight is the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: blood moon
+      - control:
+          kind: reset_colour
+      - text: ", at last..."
   Moon00_After:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 0
-    - text: "The "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "blood moon "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "has come and gone.\nTime to start waiting for the next one..."
+      - text: "The "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "blood moon "
+      - control:
+          kind: reset_colour
+      - text: "has come and gone.\nTime to start waiting for the next one..."
+  Moon00_Befor:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 16
+      - text: "I'm getting that feeling again..."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nSomething is going to happen tonight."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI can taste it!"
+  Moon00_Full:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Tonight is a full moon...\n\n\nLooks like it could come falling down any\nminute. I can't take my eyes off of it."
+  Moon01:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Tonight's moon will be a little smaller\nthan yesterday's full moon. It's nice in\nits own way, really..."
+  Moon02:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: Tonight is the third-quarter moon.
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nLike a bow aiming for the heavens above."
+  Moon03:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: Tonight is the 26th-day moon...
+      - control:
+          kind: pause
+          length: long
+      - text: "\nIts sloping line is really wonderful."
+  Moon04:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: Tonight is a new moon...
+      - control:
+          kind: pause
+          length: long
+      - text: "\nEven though we can't see it, isn't it\ngreat just knowing it's there?"
+  Moon05:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: Tonight is a crescent moon...
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nThat shape makes me hungry for some\nreason..."
+  Moon06:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "Tonight is a seven-day moon...\nLike a bow aiming for the land below,\nit really is quite beautiful."
+  Moon07:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: Tonight is the 13th-day moon...
+      - control:
+          kind: pause
+          length: long
+      - text: "\nNow it will slowly expand. So beautiful..."
+  Near00:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 14
+            - 205
+      - text: Hmm...
+  Near01:
+    attributes: Npc_SouthHateru007
+    contents:
+      - text: ZZZzzz...
+  Near02:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 14
+            - 205
+      - text: Tonight...
   Near03:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 10
-              - 205
-    - text: Rain...
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 10
+            - 205
+      - text: Rain...
+  Near04:
+    attributes: Npc_SouthHateru007
+    contents:
+      - text: Rain!
+  Near05:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 32
+            - 205
+      - text: "I'm sleeping..."
+  Near06:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 8
+            - 205
+      - control:
+          kind: set_colour
+          colour: red
+      - text: BLOOD!
+      - control:
+          kind: reset_colour
+  Near07:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 8
+            - 205
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Here...it...COMES!
+      - control:
+          kind: reset_colour
+  Rain00:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 12
+      - text: Hmm...
+      - control:
+          kind: pause
+          length: long
+      - text: " Can't see the moon like this."
+      - control:
+          kind: choice
+          choice_labels:
+            - 1000
+            - 1001
+            - 1002
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Rain01:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 12
+      - text: "I'm taking cover from the rain!\nWe'll talk later!"
+  Rain02:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 2
+            - 14
+      - text: "Can't see anything in this rain!"
+  Talk00:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Oh, you again...\nAre you interested in my research?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 1000
+            - 1001
+            - 1002
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk01:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Well, ask me anything."
+      - control:
+          kind: choice
+          choice_labels:
+            - 1000
+            - 1001
+            - 1002
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk02:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "Oh, you again."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThe moon is about to come out..."
+      - control:
+          kind: choice
+          choice_labels:
+            - 1000
+            - 1001
+            - 1002
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk03:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 11
+      - text: "Oh, you again."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nA beautiful moon tonight, isn't it?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 1000
+            - 1001
+            - 1002
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk03_1:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 10
+            - 21
+      - text: Oh...
+      - control:
+          kind: pause
+          length: long
+      - text: " You were researching the\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: blood moon
+      - control:
+          kind: reset_colour
+      - text: ", as well?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 1000
+            - 1001
+            - 1002
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk04:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 12
+      - text: "Oh...\nIt looks like the moon has already\ndisappeared today..."
+      - control:
+          kind: choice
+          choice_labels:
+            - 1000
+            - 1001
+            - 1002
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk05:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: Anything else you want to ask?
+      - control:
+          kind: choice
+          choice_labels:
+            - 1000
+            - 1001
+            - 1002
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk06:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 12
+      - text: "What is it? I was just about to get some\nsleep so I can be rested for researching\nthe moon tonight..."
+      - control:
+          kind: choice
+          choice_labels:
+            - 1000
+            - 1001
+            - 1002
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk07:
+    attributes: Npc_SouthHateru007
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 12
+      - text: "What is it? I was just sleeping so I'd be\nwell rested for researching the moon\ntonight..."
+      - control:
+          kind: choice
+          choice_labels:
+            - 1000
+            - 1001
+            - 1002
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8

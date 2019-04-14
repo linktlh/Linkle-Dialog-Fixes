@@ -1,20 +1,20 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
-  QL_Threebros_giant_Finish:
-    - text: "The three Hinox brothers living on Mount Taran\neach had an orb hanging from their neck.\n\nOffering these orbs to the matching pedestals\ncaused an ancient shrine to appear."
-  QL_Threebros_giant_Name:
-    - text: The Three Giant Brothers
   QL_Threebros_giant_Desc:
-    - text: "The ancient spheres guarded by the\nMount Taran sentinels shall lead me to\nthe hero's trial.\n\nCould the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "giants "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "who inhabit the area hold\nthe key to unlocking the trial?"
+    contents:
+      - text: "The ancient spheres guarded by the\nMount Taran sentinels shall lead me to\nthe hero's trial.\n\nCould the "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "giants "
+      - control:
+          kind: reset_colour
+      - text: "who inhabit the area hold\nthe key to unlocking the trial?"
+  QL_Threebros_giant_Finish:
+    contents:
+      - text: "The three Hinox brothers living on Mount Taran\neach had an orb hanging from their neck.\n\nOffering these orbs to the matching pedestals\ncaused an ancient shrine to appear."
+  QL_Threebros_giant_Name:
+    contents:
+      - text: The Three Giant Brothers

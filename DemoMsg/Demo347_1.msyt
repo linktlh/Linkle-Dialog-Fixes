@@ -1,164 +1,138 @@
 ---
+group_count: 11
+atr1_unknown: 0
 entries:
-  C02-0:
-    - text: "*ahem* I almost lost my temper there..."
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-  C04-1:
-    - control:
-        four:
-          type2:
-            field_1: 20
-            string: Custom001
-    - text: Meheheheh...
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-  C08-3:
-    - text: Only the leader of the Yiga Clan...
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-    - text: "can use\nthis secret technique..."
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-    - text: "\nIt is...the ultimate..."
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 15
-  C02-1:
-    - text: "Argh, what a pain... I can't go out this\nway. What to do, what to do..."
-  C04-2:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 8
-              - 205
-    - text: Ahahahaha!
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-  C04-3:
-    - control:
-        four:
-          type2:
-            field_1: 20
-            string: Custom006
-    - text: I need to bust out my serious moves...
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-    - text: "\nA secret technique taught by my father's\nmother's father! It will...destroy you!"
-  C04-4:
-    - control:
-        four:
-          type2:
-            field_1: 20
-            string: Custom007
-    - text: This is the end!
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 60
   C01-0:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 42
-              - 205
-    - text: "Who would've thought...I'd be done in\nlike this..."
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-    - text: "\nAnd by this girl, of all people!"
-  C10-0:
-    - control:
-        four:
-          type2:
-            field_1: 20
-            string: Custom010
-    - text: Coward! I shall be remembered!
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 42
+            - 205
+      - text: "Who would've thought...I'd be done in\nlike this..."
+      - control:
+          kind: pause
+          frames: 30
+      - text: "\nAnd by this girl, of all people!"
   C01-1:
-    - text: "You think I'm just going to let this\nstand?!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " Do you?!"
-  C10-1:
-    - text: "The Yiga Clan will track you to the\nends of Hyruuuule!"
-  C08-0:
-    - control:
-        four:
-          type2:
-            field_1: 24
-            string: CustomLaugh
-    - text: "Ahahaha—uh... Huh. Maybe it's just a tad\ntoo big. Are you still over there?"
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-  C08-1:
-    - text: "Well, no matter."
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 15
+    contents:
+      - text: "You think I'm just going to let this\nstand?!"
+      - control:
+          kind: pause
+          length: long
+      - text: " Do you?!"
+  C02-0:
+    contents:
+      - text: "*ahem* I almost lost my temper there..."
+      - control:
+          kind: pause
+          frames: 30
+  C02-1:
+    contents:
+      - text: "Argh, what a pain... I can't go out this\nway. What to do, what to do..."
   C04-0:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 19
-              - 205
-    - control:
-        one:
-          type2:
-            field_1: 0
-    - text: Ha! I got it!
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 19
+            - 205
+      - control:
+          kind: raw
+          one:
+            two:
+              field_1: 0
+      - text: Ha! I got it!
+      - control:
+          kind: pause
+          frames: 30
+  C04-1:
+    contents:
+      - control:
+          kind: animation
+          name: Custom001
+      - text: Meheheheh...
+      - control:
+          kind: pause
+          frames: 30
+  C04-2:
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 8
+            - 205
+      - text: Ahahahaha!
+      - control:
+          kind: pause
+          frames: 30
+  C04-3:
+    contents:
+      - control:
+          kind: animation
+          name: Custom006
+      - text: I need to bust out my serious moves...
+      - control:
+          kind: pause
+          frames: 30
+      - text: "\nA secret technique taught by my father's\nmother's father! It will...destroy you!"
+  C04-4:
+    contents:
+      - control:
+          kind: animation
+          name: Custom007
+      - text: This is the end!
+      - control:
+          kind: auto_advance
+          frames: 60
+  C08-0:
+    contents:
+      - control:
+          kind: animation
+          name: CustomLaugh
+      - text: "Ahahaha—uh... Huh. Maybe it's just a tad\ntoo big. Are you still over there?"
+      - control:
+          kind: pause
+          frames: 30
+  C08-1:
+    contents:
+      - text: "Well, no matter."
+      - control:
+          kind: pause
+          frames: 15
   C08-2:
-    - control:
-        four:
-          type2:
-            field_1: 20
-            string: Custom006
-    - text: "Pretty soon you'll be gone!"
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-    - text: "\nAnd not just from my line of sight!"
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
+    contents:
+      - control:
+          kind: animation
+          name: Custom006
+      - text: "Pretty soon you'll be gone!"
+      - control:
+          kind: pause
+          frames: 30
+      - text: "\nAnd not just from my line of sight!"
+      - control:
+          kind: pause
+          frames: 30
+  C08-3:
+    contents:
+      - text: Only the leader of the Yiga Clan...
+      - control:
+          kind: pause
+          frames: 30
+      - text: "can use\nthis secret technique..."
+      - control:
+          kind: pause
+          frames: 30
+      - text: "\nIt is...the ultimate..."
+      - control:
+          kind: auto_advance
+          frames: 15
+  C10-0:
+    contents:
+      - control:
+          kind: animation
+          name: Custom010
+      - text: Coward! I shall be remembered!
+  C10-1:
+    contents:
+      - text: "The Yiga Clan will track you to the\nends of Hyruuuule!"

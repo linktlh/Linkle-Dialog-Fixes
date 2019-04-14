@@ -1,27 +1,24 @@
 ---
+group_count: 2
+atr1_unknown: 4
 entries:
   Npc_Kokiri010_Talk000:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Kokiri010
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 0
-    - text: "Congratulations! You completed my\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Korok Trial
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: " I hope you found something\nnice inside of the shrine!"
+      - text: "Congratulations! You completed my\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Korok Trial
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: pause
+          length: long
+      - text: " I hope you found something\nnice inside of the shrine!"

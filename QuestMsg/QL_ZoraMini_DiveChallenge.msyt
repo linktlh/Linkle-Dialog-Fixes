@@ -1,48 +1,40 @@
 ---
+group_count: 3
+atr1_unknown: 0
 entries:
   QL_ZoraMini_DiveChallenge_Desc:
-    - text: "Gruve wants to see a beautiful dive and asked\nme to perform one.\n\nEveryone knows a feetfirst dive isn't all that\nbeautiful, so I'll "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: dive in headfirst
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  QL_ZoraMini_DiveChallenge_Step1:
-    - text: "I performed a beautiful dive, and Gruve was\nmost pleased, but now he wants to see me\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: climb the waterfall
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
+    contents:
+      - text: "Gruve wants to see a beautiful dive and asked\nme to perform one.\n\nEveryone knows a feetfirst dive isn't all that\nbeautiful, so I'll "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: dive in headfirst
+      - control:
+          kind: reset_colour
+      - text: "."
   QL_ZoraMini_DiveChallenge_Finish:
-    - text: "My diving and waterfall climbing was so\nbeautiful I made Gruve's very soul flutter\nwith a mighty vigor."
+    contents:
+      - text: "My diving and waterfall climbing was so\nbeautiful I made Gruve's very soul flutter\nwith a mighty vigor."
   QL_ZoraMini_DiveChallenge_Name:
-    - text: Diving is Beauty!
+    contents:
+      - text: Diving is Beauty!
+  QL_ZoraMini_DiveChallenge_Step1:
+    contents:
+      - text: "I performed a beautiful dive, and Gruve was\nmost pleased, but now he wants to see me\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: climb the waterfall
+      - control:
+          kind: reset_colour
+      - text: "."
   QL_ZoraMini_DiveChallenge_Step2:
-    - text: "I climbed the waterfall as requested, and\nGruve was simply blown away.\n\nNow to pay "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Gruve
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " a visit to hear his\nfinal assessment."
+    contents:
+      - text: "I climbed the waterfall as requested, and\nGruve was simply blown away.\n\nNow to pay "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Gruve
+      - control:
+          kind: reset_colour
+      - text: " a visit to hear his\nfinal assessment."

@@ -1,548 +1,500 @@
 ---
+group_count: 19
+atr1_unknown: 4
 entries:
+  "0002":
+    attributes: ""
+    contents:
+      - text: Go on...
+  "0003":
+    attributes: ""
+    contents:
+      - text: "What's wrong?"
+  "0004":
+    attributes: ""
+    contents:
+      - text: "I'll find her!"
+  "0005":
+    attributes: ""
+    contents:
+      - text: "I'll leave."
+  "0006":
+    attributes: ""
+    contents:
+      - text: Mei?
+  "0007":
+    attributes: ""
+    contents:
+      - text: Where could she be?
+  "0008":
+    attributes: ""
+    contents:
+      - text: Good-bye.
+  near00:
+    attributes: Npc_Zora006
+    contents:
+      - text: "..."
+  talk01:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 16
+      - text: "If you'll excuse me..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI'm going to bed."
+  talk02:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 16
+      - text: Excuse me...
+  talk03:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 12
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Divine Beast Vah Ruta
+      - control:
+          kind: reset_colour
+      - text: "... This is all that\nmonster's fault!"
+      - control:
+          kind: pause
+          length: longer
+      - text: " Or, no... I suppose it is\nmy own fault."
+  talk04:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 12
+      - text: "Is it "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Divine Beast Vah Ruta
+      - control:
+          kind: reset_colour
+      - text: "'s fault?\n"
+      - control:
+          kind: pause
+          length: short
+      - text: Or is it my own fault...
+  talk05:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 18
+      - text: "...\n\n\nMy apologies. I was lost in thought..."
+  talk06:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 18
+      - text: Pardon me.
+      - control:
+          kind: pause
+          length: longer
+      - text: " Could you please get out\nof the way?"
+  talk08:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 16
+      - text: "They say "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Ruta
+      - control:
+          kind: reset_colour
+      - text: " has calmed down,\nand yet..."
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 2
+              field_3:
+                - 1
+                - 205
   talk09:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 1
-    - text: "Ah! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "It is you, Linkle!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " I am sorry... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI was talking to myself."
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 3
-            field_3:
-              - 1
-              - 205
+      - text: "Ah! "
+      - control:
+          kind: pause
+          length: short
+      - text: "It is you, Linkle!"
+      - control:
+          kind: pause
+          length: longer
+      - text: " I am sorry... "
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI was talking to myself."
+      - control:
+          kind: raw
+          one:
+            ten:
+              field_1: 4
+              field_2: 3
+              field_3:
+                - 1
+                - 205
   talk10:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 12
-    - text: "The truth is... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "My wife Mei left and hasn't\ncome back yet.\n\nAfter the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Divine Beast Vah Ruta "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "started\nrampaging, "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "she went out to go fishing\nlike everything was normal.\nAnd now "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Ruta
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " has settled down,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " but she\nstill hasn't returned...\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "The truth is... "
+      - control:
+          kind: pause
+          length: short
+      - text: "My wife Mei left and hasn't\ncome back yet.\n\nAfter the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Divine Beast Vah Ruta "
+      - control:
+          kind: reset_colour
+      - text: "started\nrampaging, "
+      - control:
+          kind: pause
+          length: short
+      - text: "she went out to go fishing\nlike everything was normal.\nAnd now "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Ruta
+      - control:
+          kind: reset_colour
+      - text: " has settled down,"
+      - control:
+          kind: pause
+          length: short
+      - text: " but she\nstill hasn't returned...\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 12
-    - text: "I'm afraid the worst has happened..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nIf only I had stopped her from leaving!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nOh, what do I do?!"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 5
-            field_4:
-              - 0
-              - 1
+      - text: "I'm afraid the worst has happened..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nIf only I had stopped her from leaving!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nOh, what do I do?!"
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk11:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 9
             - 12
-    - text: "Oh, Mei... "
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "What are the children and I\nsupposed to do without you?"
-    - control:
-        one:
-          type4:
-            field_1: 6
-            field_2: 4
-            field_3: 5
-            field_4:
-              - 0
-              - 1
+      - text: "Oh, Mei... "
+      - control:
+          kind: pause
+          length: longer
+      - text: "What are the children and I\nsupposed to do without you?"
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 5
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
   talk12:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 4
-    - text: Yes...
-  "0002":
-    - text: Go on...
+      - text: Yes...
   talk13:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 4
             - 20
-    - text: "Linkle... "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "You saved Zora's Domain,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nand now you're going to help me\nfind my Mei, as well?\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Linkle... "
+      - control:
+          kind: pause
+          length: short
+      - text: "You saved Zora's Domain,"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nand now you're going to help me\nfind my Mei, as well?\n"
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 11
-    - text: You are a true Champion!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " I am sorry to\nput this burden on you, but please...\nPlease bring her home!"
-  "0003":
-    - text: "What's wrong?"
+      - text: You are a true Champion!
+      - control:
+          kind: pause
+          length: longer
+      - text: " I am sorry to\nput this burden on you, but please...\nPlease bring her home!"
   talk14:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 11
-    - text: "If you are going to look for Mei,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI will help you however I can.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "If you are going to look for Mei,"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nI will help you however I can.\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - text: "Please, ask me anything!"
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
+      - text: "Please, ask me anything!"
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
+                - 6
+                - 0
+                - 7
+                - 0
+                - 8
+              field_2:
                 - 0
                 - 0
-            field_1:
-              - 6
-              - 0
-              - 7
-              - 0
-              - 8
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  "0004":
-    - text: "I'll find her!"
+                - 0
+                - 3
   talk15:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 4
-    - text: Linkle...
-  "0005":
-    - text: "I'll leave."
+      - text: Linkle...
   talk16:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: Mei is my wife.
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " She is also Tumbo and\nKeye's mother.\n\nShe spends her days catching fish and\nselling them at the general store.\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: Mei is my wife.
+      - control:
+          kind: pause
+          length: short
+      - text: " She is also Tumbo and\nKeye's mother.\n\nShe spends her days catching fish and\nselling them at the general store.\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 16
-    - text: "Unlike me, she is very lively and\ncheerful..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " I suppose Tumbo gets\nthat from her."
-  "0006":
-    - text: Mei?
+      - text: "Unlike me, she is very lively and\ncheerful..."
+      - control:
+          kind: pause
+          length: short
+      - text: " I suppose Tumbo gets\nthat from her."
   talk17:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 5
             - 16
-    - text: "The day "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Ruta
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " started raging,"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: " she said\nshe was going fishing "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "in "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Zora River
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: ".\n\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Ruta
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "'s rage caused the river to swell."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nShe may have been swept downstream!\n\nHowever, if Ledo's group didn't see\nanything, maybe she passed through\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Zora River
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " and is beyond there...\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "The day "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Ruta
+      - control:
+          kind: reset_colour
+      - text: " started raging,"
+      - control:
+          kind: pause
+          length: short
+      - text: " she said\nshe was going fishing "
+      - control:
+          kind: pause
+          length: short
+      - text: "in "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Zora River
+      - control:
+          kind: reset_colour
+      - text: ".\n\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Ruta
+      - control:
+          kind: reset_colour
+      - text: "'s rage caused the river to swell."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nShe may have been swept downstream!\n\nHowever, if Ledo's group didn't see\nanything, maybe she passed through\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Zora River
+      - control:
+          kind: reset_colour
+      - text: " and is beyond there...\n"
+      - control:
+          kind: sound
+          unknown:
             - 3
             - 12
-    - text: "Worst case scenario...she could have\nbeen carried all the way to "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Lake Hylia
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "."
-  "0007":
-    - text: Where could she be?
+      - text: "Worst case scenario...she could have\nbeen carried all the way to "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Lake Hylia
+      - control:
+          kind: reset_colour
+      - text: "."
   talk18:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 6
-    - text: Do you have any more questions?
-    - control:
-        one:
-          type8:
-            unknown_1:
-              - - 255
-                - 255
+      - text: Do you have any more questions?
+      - control:
+          kind: raw
+          one:
+            eight:
+              unknown_1:
+                - - 255
+                  - 255
+                  - 0
+                  - 0
+              field_1:
+                - 6
+                - 0
+                - 7
+                - 0
+                - 8
+              field_2:
                 - 0
                 - 0
-            field_1:
-              - 6
-              - 0
-              - 7
-              - 0
-              - 8
-            field_2:
-              - 0
-              - 0
-              - 0
-              - 3
-  near00:
-    - text: "..."
-  "0008":
-    - text: Good-bye.
-  talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 16
-    - text: "If you'll excuse me..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nI'm going to bed."
+                - 0
+                - 3
   talk19:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 11
-    - text: "Linkle! "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: LINKLE!!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " My wife, Mei..."
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nShe came back to me!\n\nI cannot possibly thank you enough!\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Linkle! "
+      - control:
+          kind: pause
+          length: short
+      - text: LINKLE!!
+      - control:
+          kind: pause
+          length: longer
+      - text: " My wife, Mei..."
+      - control:
+          kind: pause
+          length: short
+      - text: "\nShe came back to me!\n\nI cannot possibly thank you enough!\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 9
-    - text: "But I shall try! Thank you! Thank you!\nTHANK YOU, TRULY!!"
-  talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 16
-    - text: Excuse me...
-  talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 12
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Divine Beast Vah Ruta
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "... This is all that\nmonster's fault!"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Or, no... I suppose it is\nmy own fault."
+      - text: "But I shall try! Thank you! Thank you!\nTHANK YOU, TRULY!!"
   talk20:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Zora006
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 11
-    - text: Linkle!
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " You are a true Champion...\n\n\nNow you have even saved my wife,\nmy children, and myself..."
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nThank you, truly."
-  talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 12
-    - text: "Is it "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Divine Beast Vah Ruta
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "'s fault?\n"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: Or is it my own fault...
-  talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 18
-    - text: "...\n\n\nMy apologies. I was lost in thought..."
-  talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 18
-    - text: Pardon me.
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: " Could you please get out\nof the way?"
-  talk08:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 5
-            - 16
-    - text: "They say "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Ruta
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " has calmed down,\nand yet..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        one:
-          type10:
-            field_1: 4
-            field_2: 2
-            field_3:
-              - 1
-              - 205
+      - text: Linkle!
+      - control:
+          kind: pause
+          length: longer
+      - text: " You are a true Champion...\n\n\nNow you have even saved my wife,\nmy children, and myself..."
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nThank you, truly."

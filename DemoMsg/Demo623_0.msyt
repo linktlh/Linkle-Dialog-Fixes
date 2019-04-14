@@ -1,8 +1,13 @@
 ---
+group_count: 5
+atr1_unknown: 0
 entries:
   Demo623_0_Text000:
-    - text: "I am Maz Koshia. I must commend you\nfor conquering the trial thus far."
+    contents:
+      - text: "I am Maz Koshia. I must commend you\nfor conquering the trial thus far."
   Demo623_0_Text005:
-    - text: "The door to the final trial is now open\nat the Shrine of Resurrection."
+    contents:
+      - text: "The door to the final trial is now open\nat the Shrine of Resurrection."
   Demo623_0_Text006:
-    - text: "Go, and face your destiny."
+    contents:
+      - text: "Go, and face your destiny."

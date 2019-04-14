@@ -1,232 +1,202 @@
 ---
+group_count: 11
+atr1_unknown: 4
 entries:
-  Fail_5:
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 48
-    - control:
-        four:
-          type1:
-            field_1:
-              - 36
-              - 205
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: "the flowers' rage!!!"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-  Fail_Run_St11:
-    - text: So many times...
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-  Near01:
-    - text: So pretty in bloom!
-  Fail_Run_St12:
-    - text: "I've lost count of how many times I've\ntold you... It's just so many now..."
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-  Fail_Run_St13:
-    - text: "How do you not understand?\nWhy don't you get it?"
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 30
-  Ready_Intro2:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 8
-    - text: "I planted flowers around the shrine.\nPlease be careful where you step. You\ndon't want to hurt them, do you?"
-  Fail_Run_St2:
-    - control:
-        four:
-          type1:
-            field_1:
-              - 29
-              - 205
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 125
-    - text: ARGGG!! NOOOOOOO!!
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
   Fail_1:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Challenge093Lady
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 11
             - 17
-    - text: "No! "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: You must not hurt the flowers
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "\nThey are screaming out in pain!"
+      - text: "No! "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: You must not hurt the flowers
+      - control:
+          kind: reset_colour
+      - text: "!"
+      - control:
+          kind: pause
+          length: short
+      - text: "\nThey are screaming out in pain!"
   Fail_2:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Challenge093Lady
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 8
             - 14
-    - text: "How many times do I have to say it?!\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Please treat the flowers with care
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\nThey're living things, you know!"
+      - text: "How many times do I have to say it?!\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Please treat the flowers with care
+      - control:
+          kind: reset_colour
+      - text: "!\nThey're living things, you know!"
+  Fail_3:
+    attributes: Npc_Challenge093Lady
+    contents:
+      - control:
+          kind: raw
+          one:
+            one:
+              field_1: 4
+              field_2: 1056964608
+      - text: I will make you understand...
+      - control:
+          kind: pause
+          frames: 12
+  Fail_4:
+    attributes: Npc_Challenge093Lady
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 14
+      - text: "Hey! What do you think you're doing?!\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: You must not harm the flowers
+      - control:
+          kind: reset_colour
+      - text: "!"
+  Fail_5:
+    attributes: Npc_Challenge093Lady
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 48
+      - control:
+          kind: sound2
+          unknown:
+            - 36
+            - 205
+      - control:
+          kind: text_size
+          percent: 125
+      - text: "the flowers' rage!!!"
+      - control:
+          kind: text_size
+          percent: 100
+  Fail_Run:
+    attributes: ""
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 150
+      - text: I worked day...
+      - control:
+          kind: pause
+          frames: 10
+      - text: after day...
+      - control:
+          kind: pause
+          frames: 10
+      - text: after day...
+      - control:
+          kind: pause
+          frames: 10
+      - text: "to\nplant those flowers..."
+      - control:
+          kind: pause
+          frames: 12
+      - text: " Then you come\nand hurt them..."
+      - control:
+          kind: pause
+          frames: 10
+      - text: over...
+      - control:
+          kind: pause
+          frames: 10
+      - text: and over...
+      - control:
+          kind: pause
+          frames: 16
+  Fail_Run_St11:
+    attributes: Npc_Challenge093Lady
+    contents:
+      - text: So many times...
+      - control:
+          kind: pause
+          frames: 30
+  Fail_Run_St12:
+    attributes: Npc_Challenge093Lady
+    contents:
+      - text: "I've lost count of how many times I've\ntold you... It's just so many now..."
+      - control:
+          kind: pause
+          frames: 30
+  Fail_Run_St13:
+    attributes: Npc_Challenge093Lady
+    contents:
+      - text: "How do you not understand?\nWhy don't you get it?"
+      - control:
+          kind: pause
+          frames: 30
+  Fail_Run_St2:
+    attributes: Npc_Challenge093Lady
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 29
+            - 205
+      - control:
+          kind: text_size
+          percent: 125
+      - text: ARGGG!! NOOOOOOO!!
+      - control:
+          kind: text_size
+          percent: 100
+  Game_Intro:
+    attributes: Npc_Challenge093Lady
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 8
+      - text: "Please take some time to really admire\nthe flowers. I worked so hard to plant\nthem..."
+  Near01:
+    attributes: Npc_Challenge093Lady
+    contents:
+      - text: So pretty in bloom!
   Ready_Intro:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_Challenge093Lady
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 1
             - 19
-    - text: "Look! Aren't they lovely? "
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "I wanted to see\nhow the shrine would look with flowers\naround it, and it's wonderful!\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Look! Aren't they lovely? "
+      - control:
+          kind: pause
+          length: short
+      - text: "I wanted to see\nhow the shrine would look with flowers\naround it, and it's wonderful!\n"
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 1
-    - text: "Please, feel free to take a closer look."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "\nJust don't step on them!"
-  Game_Intro:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "Please, feel free to take a closer look."
+      - control:
+          kind: pause
+          length: long
+      - text: "\nJust don't step on them!"
+  Ready_Intro2:
+    attributes: Npc_Challenge093Lady
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 8
-    - text: "Please take some time to really admire\nthe flowers. I worked so hard to plant\nthem..."
-  Fail_3:
-    - control:
-        one:
-          type1:
-            field_1: 4
-            field_2: 1056964608
-    - text: I will make you understand...
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 12
-  Fail_Run:
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 150
-    - text: I worked day...
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 10
-    - text: after day...
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 10
-    - text: after day...
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 10
-    - text: "to\nplant those flowers..."
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 12
-    - text: " Then you come\nand hurt them..."
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 10
-    - text: over...
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 10
-    - text: and over...
-    - control:
-        one:
-          type0:
-            field_1: 4
-            field_2: 16
-  Fail_4:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 8
-            - 14
-    - text: "Hey! What do you think you're doing?!\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: You must not harm the flowers
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!"
+      - text: "I planted flowers around the shrine.\nPlease be careful where you step. You\ndon't want to hurt them, do you?"

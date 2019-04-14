@@ -1,32 +1,27 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
-  QL_ZoraMini_HarvestingStone_Finish:
-    - text: "I gave Ledo 10 luminous stones to aid in\nthe repairs to Zora's Domain."
-  QL_ZoraMini_HarvestingStone_Name:
-    - text: Luminous Stone Gathering
   QL_ZoraMini_HarvestingStone_Desc:
-    - text: "Ledo asked me to bring him "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: "ten luminous\nstones"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: " to help rebuild Zora's Domain.\n\nApparently there's a place in "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 0
-    - text: Upland Zorana
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nwhere they're pretty common."
+    contents:
+      - text: "Ledo asked me to bring him "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "ten luminous\nstones"
+      - control:
+          kind: reset_colour
+      - text: " to help rebuild Zora's Domain.\n\nApparently there's a place in "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Upland Zorana
+      - control:
+          kind: reset_colour
+      - text: "\nwhere they're pretty common."
+  QL_ZoraMini_HarvestingStone_Finish:
+    contents:
+      - text: "I gave Ledo 10 luminous stones to aid in\nthe repairs to Zora's Domain."
+  QL_ZoraMini_HarvestingStone_Name:
+    contents:
+      - text: Luminous Stone Gathering

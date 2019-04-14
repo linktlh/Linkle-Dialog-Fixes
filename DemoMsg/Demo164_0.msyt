@@ -1,35 +1,43 @@
 ---
+group_count: 7
+atr1_unknown: 0
 entries:
-  Demo164_0_Text010:
-    - text: Whoop...
-  Demo164_0_Text008:
-    - text: "Before it's too late..."
   Demo164_0_Text002:
-    - text: "You have been asleep\nfor the past 100 years."
-  Demo164_0_Text009:
-    - text: "...urgh!"
+    contents:
+      - text: "You have been asleep\nfor the past 100 years."
   Demo164_0_Text003:
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "Remember... "
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
+    contents:
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "Remember... "
+      - control:
+          kind: text_size
+          percent: 100
   Demo164_0_Text004:
-    - text: Try... Try to remember...
+    contents:
+      - text: Try... Try to remember...
   Demo164_0_Text005:
-    - text: The beast...
-    - control:
-        zero:
-          type4:
-            field_1: 0
-    - text: "When the beast regains its true power,\nthis world will face its end."
+    contents:
+      - text: The beast...
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "When the beast regains its true power,\nthis world will face its end."
   Demo164_0_Text006:
-    - text: Now then...
+    contents:
+      - text: Now then...
   Demo164_0_Text007:
-    - text: "You must hurry, Linkle."
+    contents:
+      - text: "You must hurry, Linkle."
+  Demo164_0_Text008:
+    contents:
+      - text: "Before it's too late..."
+  Demo164_0_Text009:
+    contents:
+      - text: "...urgh!"
+  Demo164_0_Text010:
+    contents:
+      - text: Whoop...

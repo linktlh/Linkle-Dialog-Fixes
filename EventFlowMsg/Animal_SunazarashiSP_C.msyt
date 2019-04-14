@@ -1,208 +1,177 @@
 ---
+group_count: 7
+atr1_unknown: 4
 entries:
-  talk03:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+  talk00:
+    attributes: Npc_oasis047
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "\"Seal the deal on your fortune by using\nmore valuable fruit!\""
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nYeah, there was no avoiding that pun."
+      - text: "\""
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Sand boots "
+      - control:
+          kind: reset_colour
+      - text: "for desert sands and\n"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "snow boots "
+      - control:
+          kind: reset_colour
+      - text: "for...serious snowfall.\"\nI've spared you the painful seal pun."
+  talk01:
+    attributes: Npc_oasis047
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "\"Sand seals can be knocked out by the\nsound of an explosion. I'm se—"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n...Serious.\"\nThat was a close one. She tried to slip a\nseal pun in there."
+  talk02:
+    attributes: Npc_oasis047
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "\"The southern desert is..."
+      - control:
+          kind: pause
+          length: long
+      - text: "searing hot\nduring the day! Bring "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: gear made for it
+      - control:
+          kind: reset_colour
+      - text: "!\"\nI've spared you the painful seal pun."
+  talk03:
+    attributes: Npc_oasis047
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "\"Seal the deal on your fortune by using\nmore valuable fruit!\""
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nYeah, there was no avoiding that pun."
   talk04:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis047
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 0
-    - text: "...\n\n\n"
-    - control:
-        three:
-          field_1: 1
-          field_2:
+      - text: "...\n\n\n"
+      - control:
+          kind: sound
+          unknown:
             - 7
             - 18
-    - text: "Thank you for your wisdom, kind\nPatricia! We're very grateful!"
+      - text: "Thank you for your wisdom, kind\nPatricia! We're very grateful!"
   talk05:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis047
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "\"Look to the top of the "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: Gerudo Highlands
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "\nto sea"
-    - control:
-        five:
-          field_1: 0
-          field_2: 0
-    - text: "..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: SEE
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "...the path to a dragon.\"\n"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "*sigh* "
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "I've spared you the seal pun."
+      - text: "\"Look to the top of the "
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: Gerudo Highlands
+      - control:
+          kind: reset_colour
+      - text: "\nto sea"
+      - control:
+          kind: pause
+          length: short
+      - text: "..."
+      - control:
+          kind: pause
+          length: long
+      - text: SEE
+      - control:
+          kind: pause
+          length: long
+      - text: "...the path to a dragon.\"\n"
+      - control:
+          kind: pause
+          length: longer
+      - text: "*sigh* "
+      - control:
+          kind: pause
+          length: long
+      - text: "I've spared you the seal pun."
   talk06:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis047
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "\""
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Risoka Snowfield "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "rests upon the\nshoulders of the eighth heroine...\""
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nA rare, pun-free prophecy..."
-  talk00:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "\""
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Sand boots "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "for desert sands and\n"
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "snow boots "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "for...serious snowfall.\"\nI've spared you the painful seal pun."
+      - text: "\""
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Risoka Snowfield "
+      - control:
+          kind: reset_colour
+      - text: "rests upon the\nshoulders of the eighth heroine...\""
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nA rare, pun-free prophecy..."
   talk07:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis047
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "\"The location a dragon drifts to is also\nthe goal of those...seeking a great fairy.\""
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nI've spared you the painful seal pun."
-  talk01:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "\"Sand seals can be knocked out by the\nsound of an explosion. I'm se—"
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\n...Serious.\"\nThat was a close one. She tried to slip a\nseal pun in there."
+      - text: "\"The location a dragon drifts to is also\nthe goal of those...seeking a great fairy.\""
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nI've spared you the painful seal pun."
   talk08:
-    - control:
-        three:
-          field_1: 1
-          field_2:
+    attributes: Npc_oasis047
+    contents:
+      - control:
+          kind: sound
+          unknown:
             - 0
             - 4
-    - text: "\""
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: "Molduga "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "eat anything—even bombs.\nThat's a rather...serious diet!\""
-    - control:
-        five:
-          field_1: 2
-          field_2: 0
-    - text: "\nI've spared you the painful seal pun."
-  talk02:
-    - control:
-        three:
-          field_1: 1
-          field_2:
-            - 0
-            - 4
-    - text: "\"The southern desert is..."
-    - control:
-        five:
-          field_1: 1
-          field_2: 0
-    - text: "searing hot\nduring the day! Bring "
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 2
-    - text: gear made for it
-    - control:
-        zero:
-          type3:
-            field_1: 2
-            field_2: 65535
-    - text: "!\"\nI've spared you the painful seal pun."
+      - text: "\""
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "Molduga "
+      - control:
+          kind: reset_colour
+      - text: "eat anything—even bombs.\nThat's a rather...serious diet!\""
+      - control:
+          kind: pause
+          length: longer
+      - text: "\nI've spared you the painful seal pun."

@@ -1,69 +1,48 @@
 ---
+group_count: 2
+atr1_unknown: 0
 entries:
   FirstTower_00:
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 55
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "..."
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "\n\n\n"
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 62
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: Linkle...
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 80
-    - text: "\n\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 67
-    - control:
-        zero:
-          type2:
-            field_1: 2
-            field_2: 100
-    - text: "Linkle.\n\n\n"
-    - control:
-        one:
-          type3:
-            field_1: 4
-            field_2: 154
-    - text: "Head for the point marked on the\nmap in your Sheikah Slate."
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 55
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "..."
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "\n\n\n"
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: auto_advance
+          frames: 62
+      - control:
+          kind: text_size
+          percent: 80
+      - text: Linkle...
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 67
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "Linkle.\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 154
+      - text: "Head for the point marked on the\nmap in your Sheikah Slate."
